@@ -1,0 +1,10 @@
+{
+  "0": {
+    name: "com.xiaomi.miclick.core.action.GroupAction",
+    subActions: [
+      {
+        name: "com.xiaomi.miclick.core.action.ScreenShotAction"
+      },
+    ]
+  }
+}

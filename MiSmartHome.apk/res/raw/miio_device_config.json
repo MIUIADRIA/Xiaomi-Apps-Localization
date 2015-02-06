@@ -1,0 +1,151 @@
+[{
+	"model": "xiaomi.ir.v1",
+	"sdlist": [{
+		"sdmodel": "common-device",
+		"name": "通用设备",
+		"keys": ["power", "num_1", "num_2", "num_3", "num_4", "num_5", "num_6", "num_7", "num_8", "up", "down", "left", "right", "ok"],
+		"pageCls": "com.xiaomi.smarthome.miio.page.ir.CommonDevicePage",
+		"company": {
+			"name": "xiaomi.miio",
+			"icon": "device_list_tv.png"
+		}
+	}, {
+		"sdmodel": "common-tv",
+		"name": "通用电视",
+		"keys": ["power", "add", "minus", "av", "up", "down", "left", "right", "ok"],
+		"pageCls": "com.xiaomi.smarthome.miio.page.ir.CommonTVPage",
+		"company": {
+			"name": "xiaomi.miio",
+			"icon": "device_list_tv.png"
+		}
+	}, {
+		"sdmodel": "common-smart-tv",
+		"name": "通用智能电视",
+		"keys": ["power", "home", "menu", "add", "minus", "up", "down", "left", "right", "ok", "return"],
+		"pageCls": "com.xiaomi.smarthome.miio.page.ir.CommonSmartTVPage",
+		"company": {
+			"name": "xiaomi.miio",
+			"icon": "device_list_tv.png"
+		}
+	}, {
+		"sdmodel": "fan",
+		"name": "电风扇",
+		"keys": ["power", "shake", "add", "minus"],
+		"pageCls": "com.xiaomi.smarthome.miio.page.ir.FanPage",
+		"company": {
+			"name": "xiaomi.miio",
+			"icon": "device_list_intelligent_fan.png"
+		}
+	}, {
+		"sdmodel": "curtain",
+		"name": "电动窗帘",
+		"keys": ["open", "pause", "close"],
+		"pageCls": "com.xiaomi.smarthome.miio.page.ir.CurtainPage",
+		"company": {
+			"name": "xiaomi.miio",
+			"icon": "device_list_intelligent_curtain.png"
+		}
+	}, {
+		"sdmodel": "mibox-1",
+		"name": "小米盒子1",
+		"keys": ["power", "home", "menu", "up", "down", "left", "right", "ok", "return"],
+		"pageCls": "com.xiaomi.smarthome.miio.page.ir.MiBox1Page",
+		"company": {
+			"name": "xiaomi.miio",
+			"icon": "device_mibox.png"
+		}
+	}, {
+		"sdmodel": "mibox-1s",
+		"name": "小米盒子1S",
+		"keys": ["power", "home", "menu", "add", "minus", "up", "down", "left", "right", "ok", "return"],
+		"pageCls": "com.xiaomi.smarthome.miio.page.ir.MiBox1SPage",
+		"company": {
+			"name": "xiaomi.miio",
+			"icon": "device_mibox.png"
+		}
+	}, {
+		"sdmodel": "apple-tv",
+		"name": "AppleTV",
+		"keys": ["menu", "pause", "up", "down", "left", "right", "ok"],
+		"pageCls": "com.xiaomi.smarthome.miio.page.ir.AppleTVPage",
+		"company": {
+			"name": "xiaomi.miio",
+			"icon": "device_list_apple.png"
+		}
+	}]
+}, {
+	"model": "xiaomi-ir-v1",
+	"sdlist": [{
+		"sdmodel": "common-device",
+		"name": "通用设备",
+		"keys": ["power", "num_1", "num_2", "num_3", "num_4", "num_5", "num_6", "num_7", "num_8", "up", "down", "left", "right", "ok"],
+		"pageCls": "com.xiaomi.smarthome.miio.page.ir.CommonDevicePage",
+		"company": {
+			"name": "xiaomi.miio",
+			"icon": "device_list_tv.png"
+		}
+	}, {
+		"sdmodel": "common-tv",
+		"name": "通用电视",
+		"keys": ["power", "add", "minus", "av", "up", "down", "left", "right", "ok"],
+		"pageCls": "com.xiaomi.smarthome.miio.page.ir.CommonTVPage",
+		"company": {
+			"name": "xiaomi.miio",
+			"icon": "device_list_tv.png"
+		}
+	}, {
+		"sdmodel": "common-smart-tv",
+		"name": "通用智能电视",
+		"keys": ["power", "home", "menu", "add", "minus", "up", "down", "left", "right", "ok", "return"],
+		"pageCls": "com.xiaomi.smarthome.miio.page.ir.CommonSmartTVPage",
+		"company": {
+			"name": "xiaomi.miio",
+			"icon": "device_list_tv.png"
+		}
+	}, {
+		"sdmodel": "fan",
+		"name": "电风扇",
+		"keys": ["power", "shake", "add", "minus"],
+		"pageCls": "com.xiaomi.smarthome.miio.page.ir.FanPage",
+		"company": {
+			"name": "xiaomi.miio",
+			"icon": "device_list_intelligent_fan.png"
+		}
+	}, {
+		"sdmodel": "curtain",
+		"name": "电动窗帘",
+		"keys": ["open", "pause", "close"],
+		"pageCls": "com.xiaomi.smarthome.miio.page.ir.CurtainPage",
+		"company": {
+			"name": "xiaomi.miio",
+			"icon": "device_list_intelligent_curtain.png"
+		}
+	}, {
+		"sdmodel": "mibox-1",
+		"name": "小米盒子1",
+		"keys": ["power", "home", "menu", "up", "down", "left", "right", "ok", "return"],
+		"pageCls": "com.xiaomi.smarthome.miio.page.ir.MiBox1Page",
+		"company": {
+			"name": "xiaomi.miio",
+			"icon": "device_mibox.png"
+		}
+	}, {
+		"sdmodel": "mibox-1s",
+		"name": "小米盒子1S",
+		"keys": ["power", "home", "menu", "add", "minus", "up", "down", "left", "right", "ok", "return"],
+		"pageCls": "com.xiaomi.smarthome.miio.page.ir.MiBox1SPage",
+		"company": {
+			"name": "xiaomi.miio",
+			"icon": "device_mibox.png"
+		}
+	}, {
+		"sdmodel": "apple-tv",
+		"name": "AppleTV",
+		"keys": ["menu", "pause", "up", "down", "left", "right", "ok"],
+		"pageCls": "com.xiaomi.smarthome.miio.page.ir.AppleTVPage",
+		"company": {
+			"name": "xiaomi.miio",
+			"icon": "device_list_apple.png"
+		}
+	}]
+}]

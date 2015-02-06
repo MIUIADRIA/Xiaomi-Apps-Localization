@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weekday">
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+        <item>星期日</item>
+    </string-array>
+    <string-array name="weekday_short">
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+        <item>周日</item>
+    </string-array>
+    <string-array name="family_memeber_names">
+        <item>亲爱的</item>
+        <item>爸爸</item>
+        <item>妈妈</item>
+        <item>儿子</item>
+        <item>女儿</item>
+        <item>同居密友</item>
+        <item>其他家人</item>
+    </string-array>
+    <string-array name="device_shop_detail_webview_title">
+        <item>功能介绍</item>
+        <item>技术规格</item>
+        <item>包装清单</item>
+    </string-array>
+</resources>

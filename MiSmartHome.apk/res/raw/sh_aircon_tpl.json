@@ -1,0 +1,32 @@
+[
+    {
+        "index":100,
+        "name":"关机",
+        "code_list":[
+            ]
+    },
+    {
+        "index":1,
+        "name":"模式",
+        "code_list":[
+            ]
+    },
+    {
+        "index":2,
+        "name":"温度加",
+        "code_list":[
+            ]
+    },
+    {
+        "index":3,
+        "name":"温度减",
+        "code_list":[
+            ]
+    },
+    {
+        "index":4,
+        "name":"风速",
+        "code_list":[
+            ]
+    }
+]

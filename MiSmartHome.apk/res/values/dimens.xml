@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="um_title_size">50.0dip</dimen>
+    <dimen name="um_dial_marginleft">38.0dip</dimen>
+    <dimen name="um_dial_marginright">38.0dip</dimen>
+    <dimen name="um_dial_margintop">40.0dip</dimen>
+    <dimen name="um_dial_marginbottom">54.0dip</dimen>
+    <dimen name="um_dial_layout_height">238.0dip</dimen>
+    <dimen name="um_dial_big_circle_radius">105.19998dip</dimen>
+    <dimen name="um_dial_little_circle_radius">10.5dip</dimen>
+    <dimen name="um_rotext_margintop">69.0dip</dimen>
+    <dimen name="um_rotext_width">120.0dip</dimen>
+    <dimen name="um_rotext_textsize">73.29999dip</dimen>
+    <dimen name="um_rotext_textsize_l">46.599976dip</dimen>
+    <dimen name="um_texttds_margintop">2.0dip</dimen>
+    <dimen name="um_uinttds_margintop">5.0dip</dimen>
+    <dimen name="um_viewpager_height">172.0dip</dimen>
+    <dimen name="um_viewpager_item_margintop">32.0dip</dimen>
+    <dimen name="um_chart_line_width">20.0dip</dimen>
+</resources>

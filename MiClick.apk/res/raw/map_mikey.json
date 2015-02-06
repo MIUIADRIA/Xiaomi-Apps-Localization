@@ -1,0 +1,40 @@
+{
+  "1": {
+    name: "com.xiaomi.miclick.core.action.GroupAction",
+    subActions: [
+      {
+        name: "com.xiaomi.miclick.core.action.ToolboxAction",
+        subActions: [
+          {
+            name: "com.xiaomi.miclick.core.action.TorchAction"
+          },
+          {
+            name: "com.xiaomi.miclick.core.action.AudioRecorderAction"
+          },
+          {
+            name: "com.xiaomi.miclick.core.action.CapturePhotoInstantAction"
+          },
+          {
+            name: "com.xiaomi.miclick.core.action.EmptyAction"
+          }
+        ]
+      }
+    ]
+  },
+  "2": {
+    name: "com.xiaomi.miclick.core.action.GroupAction",
+    subActions: [
+      {
+        name: "com.xiaomi.miclick.core.action.TorchAction"
+      }
+    ]
+  },
+  "0": {
+    name: "com.xiaomi.miclick.core.action.GroupAction",
+    subActions: [
+      {
+        name: "com.xiaomi.miclick.core.action.ScreenShotAction"
+      },
+    ]
+  }
+}

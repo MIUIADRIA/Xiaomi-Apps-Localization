@@ -1,0 +1,20 @@
+[
+    {
+        "index":1,
+        "name":"打开",
+        "code_list":[
+            ]
+    },
+    {
+        "index":2,
+        "name":"暂停",
+        "code_list":[
+            ]
+    },
+    {
+        "index":3,
+        "name":"关闭",
+        "code_list":[
+            ]
+    }
+]

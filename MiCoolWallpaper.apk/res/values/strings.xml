@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoolWallpaper</string>
+    <string name="online_no_network">无网络连接</string>
+    <string name="loading">加载中...</string>
+    <string name="pre_loading">正在载入壁纸...</string>
+    <string name="delete">删除</string>
+    <string name="processing">处理中...</string>
+    <string name="close">关闭</string>
+    <string name="app_title_head">"百
+万
+壁
+纸"</string>
+    <string name="app_title_rec">"每
+日
+为
+您
+呈
+现
+中
+国
+最
+美
+壁
+纸"</string>
+    <string name="wallpaper_love">喜欢</string>
+    <string name="wallpaper_apply">应用</string>
+    <string name="wallpaper_share">分享</string>
+    <string name="wallpaper_author">"作
+者
+
+"</string>
+    <string name="share_title">分享壁纸</string>
+    <string name="share_text">这张小米#百万壁纸#参赛作品不错喔，我已经用上了。你也来试一试百万壁纸应用，每天都能看到好作品，还可以直接下载应用：）http://apkupdate.miui.com/mihome/coolwallpaper/CoolWallpaper_100_1_android.apk</string>
+    <string name="choose_share_way">请选择分享方式</string>
+    <string name="share_fail">请在壁纸拉取成功后再分享</string>
+    <string name="apply_wallpaper_wait">图片拉取中，请稍后应用</string>
+    <string name="apply_wallpaper_fail">应用失败，网络不太给力哦</string>
+    <string name="love_success">喜欢成功</string>
+    <string name="love_fail">喜欢失败，请检查网络</string>
+    <string name="today_best">"每
+日
+最
+佳
+"</string>
+    <string name="rec_paper_tile">精选</string>
+    <string name="all_paper_tile">全部</string>
+    <string name="like_paper_tile">喜欢</string>
+    <string name="day">日</string>
+    <string name="no_love_pics">没有喜欢的图片</string>
+    <string name="try_again_tips">再试一次</string>
+    <string name="net_error_tips">咦，网络不给力哦！</string>
+    <string name="loading_error_tips">"咦，网络不给力哦
+下拉刷新可以再试一下!"</string>
+    <string name="no_more_data">咦，到底了哦!</string>
+    <string name="btn_back">返回</string>
+    <string name="confirm_update">升级</string>
+    <string name="cancel_update">不再提醒</string>
+    <string name="update_log">更新日志</string>
+    <string name="bwbz_slogan">每日为您呈现中国最美壁纸</string>
+    <string name="latest_version_tips">您正在使用最新版本</string>
+    <string name="no_new_version">未检查到新版本</string>
+    <string name="version_check_failure">检查升级失败</string>
+    <string name="try_again">出错啦，点击再试一次</string>
+    <string name="has_new_version">检查到新版本，是否下载？</string>
+    <string name="checking_update_tips">正在检查更新</string>
+    <string name="update_notification">百万壁纸有新版本啦，请点击更新</string>
+    <string name="update_title">更新</string>
+    <string name="update_public_version_title">版本号：</string>
+    <string name="update_content_title">更新内容：</string>
+    <string name="label_faq">常见问题说明</string>
+    <string name="download_failed">下载失败</string>
+    <string name="update_download_message">正在升级 %1$s</string>
+    <string name="downloading">升级中...</string>
+    <string name="line">/</string>
+    <string name="wallpaper_lockscreen_pre">锁屏</string>
+    <string name="apply_wallpaper_success_message">桌面壁纸设置成功！</string>
+    <string name="apply_wallpaper_failed_message">桌面壁纸设置失败！</string>
+    <string name="apply_lock_success_message">锁屏壁纸设置成功！</string>
+    <string name="apply_lock_failed_message">锁屏壁纸设置失败！</string>
+    <string name="download_lock_message">正在下载高清锁屏壁纸...</string>
+    <string name="download_desk_message">正在下载高清桌面壁纸...</string>
+    <string name="download_lock_fail_message">高清锁屏壁纸下载失败，请再试一次！</string>
+    <string name="download_desk_fail_message">高清桌面壁纸下载失败，请再试一次！</string>
+    <string name="like_empty_text">"您还没有喜欢的壁纸哦
+快去看看吧！"</string>
+    <string name="no_new_data">亲，暂时没有新壁纸，请稍后再试！</string>
+    <string name="wandoujia">"豌
+豆
+荚
+首
+发"</string>
+    <string name="exit_confirm">再按一次退出百万壁纸</string>
+    <string name="menu_update_version">检查新版本</string>
+    <string name="apply_to_desk">应用为桌面</string>
+    <string name="apply_to_lock">应用为锁屏</string>
+    <string name="apply_to_both">全部应用</string>
+    <string name="apply_cancel">取消</string>
+    <string name="abs__action_bar_home_description">Navigate home</string>
+    <string name="abs__action_bar_up_description">Navigate up</string>
+    <string name="abs__action_menu_overflow_description">More options</string>
+    <string name="abs__action_mode_done">Done</string>
+    <string name="abs__activity_chooser_view_see_all">See all...</string>
+    <string name="abs__activity_chooser_view_dialog_title_default">Select activity</string>
+    <string name="abs__share_action_provider_share_with">Share with...</string>
+    <string name="abs__activitychooserview_choose_application">Choose an application</string>
+    <string name="abs__shareactionprovider_share_with">Share with</string>
+    <string name="abs__shareactionprovider_share_with_application">Share with %s</string>
+    <string name="pull_to_refresh_pull_down_label">下拉可以刷新</string>
+    <string name="pull_to_refresh_pull_up_label">上拉可以刷新</string>
+    <string name="pull_to_refresh_release_label">松开可以刷新</string>
+    <string name="pull_to_refresh_refreshing_label">加载中…</string>
+</resources>

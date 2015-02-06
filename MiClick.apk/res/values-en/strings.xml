@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiClick</string>
+    <string name="chooser_dust_cap">MiClick(Dust Cap)</string>
+    <string name="earphone">Earphone</string>
+    <string name="select_device">Choose insert device?</string>
+</resources>

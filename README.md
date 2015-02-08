@@ -82,6 +82,8 @@ Localization Project For Xiaomi Gadgets Android Applications
 - Brazilian-Portuguese (MIUIBrasil, miuirom.com.br)
 - Portuguese (Efex)
 - Macedonian (thenewmaker, MIUI Adria)
+- Thai (hpro)
+- German (hpro)
 - .......... More To Come ..........
 
 

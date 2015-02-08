@@ -60,7 +60,30 @@ Localization Project For Xiaomi Gadgets Android Applications
 
 
 
-# Per App List Of Contributors / Translators
+# List Of Contributors / Translators Per Language
+
+- English (miui.com, xiaomi.eu, hong.weichyi, kin-cheng, FD-ghost)
+- Chinese (Xiaomi, miui.com)
+- Polish (Acid, miuipolska.pl)
+- Slovak (ingbrzy, miuios.cz)
+- Czech (kynio, miuios.cz)
+- Bulgarian (MIUI.BG)
+- Hungarian (vagyula, miui.hu)
+- French (cpasmoi, guiluge, burnarz)
+- Russian (miui.su)
+- Croatian (Masva, MIUI Adria)
+- Vietnamese (Belmont-Gabriel)
+- Italian (miui.it)
+- Greek (Xiaomi-Miui Hellas TEAM)
+- Norwegian (datagutt, miuios.no)
+- Dutch (jacketti, cueie, redmaner)
+- Spanish (rpperezr and spanish users)
+- Turkish (Celaleddin, ekilciler)
+- Brazilian-Portuguese (MIUIBrasil, miuirom.com.br)
+- Portuguese (Efex)
+- Macedonian (thenewmaker, MIUI Adria)
+- .......... More To Come ..........
+
 
 
 

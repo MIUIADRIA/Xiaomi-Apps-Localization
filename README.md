@@ -20,22 +20,22 @@ Localization Project For Xiaomi Gadgets Android Applications
 
 # List Of Xiaomi Apps, Their SW Version & English Base Strings / Images Translation Status
 
-- AntiFake_10201 - Chinese Only
-- CoolWallpaper_2.3.1 - Chinese Only
-- MiAuthenticator_2.27 - English
-- MiClick_3.0.1 - English
-- MiFit_1.2.922 - English + Chinese Images
-- MiHealth_1.3.2 - Chinese Only
-- MiRemote_4.1 - English Partially
-- MiRouter_1.0.60 - Chinese Only
-- MiSmartHome_2.2.2 - Chinese Only
-- MiSoundBar_1.1.1 - Chinese Only
-- MiTag_2.0.4 - English
-- MiTalk_1.0.1117 - English + Chinese Images
-- MiTransfer_1.0.131029 - English
-- MiWifiPortable_1.1.755 - Chinese Only
-- SmallAnts_1.2.12 - Chinese Only
-- SuperMarket_R.1.4.2 - Partially English
+- AntiFake_10201 - https://jd.mi.com/ - Chinese Only -
+- CoolWallpaper_2.3.1 - http://app.mi.com/detail/41245 - Chinese Only
+- MiAuthenticator_2.27 - http://app.mi.com/detail/62091 - English
+- MiClick_3.0.1 - http://app.mi.com/detail/59090 - English
+- MiFit_1.2.922 - http://app.mi.com/detail/68548 - English + Chinese Images
+- MiHealth_1.3.2 - http://app.mi.com/detail/73250 - Chinese Only
+- MiRemote_4.1 - http://app.mi.com/detail/31067 - Partially English
+- MiRouter_1.0.60 - http://app.mi.com/detail/53711 - Partially English
+- MiSmartHome_2.2.2 - http://app.mi.com/detail/75542 - Chinese Only
+- MiSoundBar_1.1.1 - http://app.mi.com/detail/64097 - Chinese Only
+- MiTag_2.0.4 - http://app.mi.com/detail/56946 - English
+- MiTalk_1.0.1117 - http://app.mi.com/detail/323 - English + Chinese Images
+- MiTransfer_1.0.131029 - http://app.mi.com/detail/64390 - English
+- MiWifiPortable_1.1.755 - http://app.mi.com/detail/65299 - Chinese Only
+- SmallAnts_1.2.12 - http://app.mi.com/detail/75646 - Chinese Only
+- SuperMarket_R.1.4.2 - http://app.mi.com/detail/34346 - Partially English
 
 
 

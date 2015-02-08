@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Преди 1 час</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Преди 1 час</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Преди половин час</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">За един час</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">За половин час</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Веднага</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">за %d минути</item>
+        <item quantity="one">за 1 мин.</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Току що</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">преди %d мин.</item>
+        <item quantity="one">преди 1 мин.</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Преди половин час</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">За 1 час</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">За половин час</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Веднага</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">за %d минути</item>
+        <item quantity="one">за 1 минута</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Току що</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">преди %d минути</item>
+        <item quantity="one">преди 1 минута</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d елемента</item>
+        <item quantity="one">%1$d елемент</item>
+    </plurals>
+</resources>

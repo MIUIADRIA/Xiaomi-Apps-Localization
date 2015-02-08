@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="picker_number_of_items_selected">
+        <item quantity="other">Zaznaczono: %1$d</item>
+        <item quantity="zero">Zaznaczono: %1$d</item>
+        <item quantity="one">Zaznaczono: %1$d</item>
+    </plurals>
+    <plurals name="numberOfPullUpdateReport">
+        <item quantity="other">Aktualizowano %d wpisów</item>
+        <item quantity="one">Aktualizowano %d wpis</item>
+    </plurals>
+</resources>

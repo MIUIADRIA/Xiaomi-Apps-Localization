@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeks">
+        <item>Maa.</item>
+        <item>Dins.</item>
+        <item>Woen.</item>
+        <item>Don.</item>
+        <item>Vrij.</item>
+        <item>Zat.</item>
+        <item>Zon.</item>
+    </string-array>
+    <string-array name="weeks_short">
+        <item>Maa.</item>
+        <item>Dins.</item>
+        <item>Woen.</item>
+        <item>Don.</item>
+        <item>Vrij.</item>
+        <item>Zat.</item>
+        <item>Zon.</item>        
+    </string-array>
+    <string-array name="months">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Maart</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Augustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="select_days_simple">
+        <item>Eenmaal</item>
+        <item>Dagelijks</item>
+        <item>Van Ma. to Vrij.</item>
+        <item>Aanpassen</item>
+    </string-array>
+    <string-array name="fortune">
+        <item>Er is geen vervanging voor consistentie.</item>
+        <item>Streven naar vooruitgang, niet perfectie.</item>
+        <item>Herhaling is de sleutel van het succes.</item>
+        <item>Energie en doorzettingsvermogen veroveren alles.</item>
+        <item>De wereld werd niet gemaakt in een dag. Stel kleine doelen en bouw daar op.</item>
+        <item>Elke reis begint met een enkele stap.</item>
+        <item>"Bereik één doel per dag."</item>
+        <item>Het maakt niet uit hoe langzaam je gaat, je bent nog steeds iedereen voor die op de bank zit.</item>
+        <item>Loop wanneer je kunt. Loop als je moet. Kruip als je moet. Gewoon nooit opgeven.</item>
+        <item>Vergeet niet, het gevoel dat je krijgt van een goede workout is veel beter dan het gevoel dat je krijgt denken dat moet een workout doen.</item>
+    </string-array>
+    <string-array name="weather_aqi_descriptions">
+        <item>Prima</item>
+        <item>Goed</item>
+        <item>Modaal</item>
+        <item>Gemiddeld</item>
+        <item>Ongezond</item>
+        <item>Zeer ongezond</item>
+    </string-array>
+    <string-array name="weather_cloudy">
+        <item>Overwegend bewolkt</item>
+    </string-array>
+    <string-array name="weather_fine">
+        <item>Helder</item>
+    </string-array>
+    <string-array name="weather_fog">
+        <item>Mist</item>
+    </string-array>
+    <string-array name="weather_haze">
+        <item>Nevel</item>
+    </string-array>
+    <string-array name="weather_overcast">
+        <item>Yin</item>
+    </string-array>
+    <string-array name="weather_rain_snows">
+        <item>Ijzel</item>
+    </string-array>
+    <string-array name="weather_rains">
+        <item>Bewolkt</item>
+        <item>Kans op Buien</item>
+        <item>Plaatselijke Buien</item>
+        <item>Buien</item>
+        <item>Lichte Buien</item>
+        <item>Hevige Buien</item>
+        <item>Zware Buien</item>
+        <item>Sneeuwbuien</item>
+        <item>Onweersbuien gepaard met hagel</item>
+    </string-array>
+    <string-array name="weather_sands">
+        <item>Stof</item>
+        <item>Jansa</item>
+        <item>Zandstorm</item>
+        <item>Hevige Zandstorm</item>
+    </string-array>
+    <string-array name="weather_snows">
+        <item>Kans op Sneeuwbuien</item>
+        <item>Sneeuwbuien</item>
+        <item>Lichte Sneeuwbuien</item>
+        <item>Hevige sneeuwbuien</item>
+        <item>Sneeuwstorm</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s λήψεις</item>
+        <item quantity="one">%1$s λήψη</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s χρήστες</item>
+        <item quantity="one">%1$s χρήστης</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d μάρκες διαθέσιμες</item>
+        <item quantity="one">1 μάρκα διαθέσιμη</item>
+    </plurals>
+</resources>

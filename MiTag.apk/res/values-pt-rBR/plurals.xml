@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="tags_description">
+    <item quantity="one">app</item>
+    <item quantity="other">apps</item>
+  </plurals>
+  <plurals name="play_description">
+    <item quantity="one">tarefa</item>
+    <item quantity="other">tarefas</item>
+  </plurals>
+  <plurals name="history_description">
+    <item quantity="one">gravação</item>
+    <item quantity="other">gravações</item>
+  </plurals>
+  <plurals name="select_n_item">
+    <item quantity="one">%d selecionado</item>
+    <item quantity="other">%d selecionados</item>
+  </plurals>
+  </resources>

@@ -1,0 +1,127 @@
+{
+    "0": {
+        name: "Standardowy",
+        desc: "Pakiet do stosowania na codzień.",
+        speed: 500,
+        actions: {
+            "1": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.ToolboxAction",
+                        subActions: [
+                            {
+                                name: "com.xiaomi.miclick.core.action.TorchAction"
+                            },
+                            {
+                                name: "com.xiaomi.miclick.core.action.AudioRecorderAction"
+                            },
+                            {
+                                name: "com.xiaomi.miclick.core.action.CapturePhotoInstantAction"
+                            },
+                            {
+                                name: "com.xiaomi.miclick.core.action.EmptyAction"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "2": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.WallpaperAction"
+                    }
+                ]
+            },
+            "0": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.ScreenShotAction"
+                    },
+                    {
+                        name: "com.xiaomi.miclick.core.action.WeChatTimeLineShareAction"
+                    }
+                ]
+            }
+        }
+    },
+    "1": {
+        name: "Przycisk zasilania",
+        desc: "Symulacja przycisku fizycznego - domyślnie jest to przycisk zasilania.",
+        speed: 0,
+        actions: {
+            "1": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.key.PowerShortAction"
+                    }
+                ]
+            },
+            "0": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.key.PowerLongAction"
+                    }
+                ]
+            }
+        }
+    },
+    "2": {
+            name: "007",
+            desc: "Do robienia zdjęć lub nagrywania w różnych okolicznościach.",
+            speed: 0,
+            actions: {
+                "1": {
+                    name: "com.xiaomi.miclick.core.action.GroupAction",
+                    subActions: [
+                        {
+                            name: "com.xiaomi.miclick.core.action.CapturePhotoInstantAction"
+                        }
+                    ]
+                },
+                "0": {
+                    name: "com.xiaomi.miclick.core.action.GroupAction",
+                    subActions: [
+                        {
+                            name: "com.xiaomi.miclick.core.action.AudioRecorderAction"
+                        }
+                    ]
+                }
+            }
+    },
+    "3": {
+        name: "Szalone combo",
+        desc: "Spróbuj ;)",
+        speed: 1000,
+        actions: {
+            "8": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.TorchAction"
+                    }
+                ]
+            },
+            "9": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.SearchAction"
+                    }
+                ]
+            },
+            "10": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.ClearMemoryAction"
+                    }
+                ]
+            }
+        }
+    }
+}

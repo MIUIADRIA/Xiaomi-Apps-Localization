@@ -1,0 +1,111 @@
+{
+    "0": {
+        name: "标准套餐",
+        desc: "此套餐能够满足基本的日常使用，如果你没有特别明确的想法，标准套餐是个不错的选择。",
+        speed: 500,
+        actions: {
+            "1": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.ToolboxAction",
+                        subActions: [
+                            {
+                                name: "com.xiaomi.miclick.core.action.TorchAction"
+                            },
+                            {
+                                name: "com.xiaomi.miclick.core.action.AudioRecorderAction"
+                            },
+                            {
+                                name: "com.xiaomi.miclick.core.action.CapturePhotoInstantAction"
+                            },
+                            {
+                                name: "com.xiaomi.miclick.core.action.EmptyAction"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "2": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.WallpaperAction"
+                    }
+                ]
+            },
+            "3": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.ScreenShotAction"
+                    },
+                    {
+                        name: "com.xiaomi.miclick.core.action.WeChatTimeLineShareAction"
+                    }
+                ]
+            }
+        }
+    },
+    "1": {
+        name: "电源键套餐",
+        desc: "此套餐适合将米键完全模拟为其他实体按键，反应迅速！默认为电源键，也可替换为其他按键的模拟。",
+        speed: 0,
+        actions: {
+            "1": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.key.PowerShortAction"
+                    }
+                ]
+            }
+        }
+    },
+    "2": {
+        name: "007套餐",
+        desc: "此套餐能够在不为人知的情况下拍照或者录音，注意！如果闪拍不成功说明是拍摄物体色差不明显导致对焦失败所致。",
+        speed: 0,
+        actions: {
+            "1": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.CapturePhotoInstantAction"
+                    }
+                ]
+            }
+        }
+    },
+    "3": {
+        name: "挑战疯狂连击",
+        desc: "话说既然能够二连击为啥不能十连击，所以，试试喽～",
+        speed: 1000,
+        actions: {
+            "8": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.TorchAction"
+                    }
+                ]
+            },
+            "9": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.SearchAction"
+                    }
+                ]
+            },
+            "10": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.ClearMemoryAction"
+                    }
+                ]
+            }
+        }
+    }
+}

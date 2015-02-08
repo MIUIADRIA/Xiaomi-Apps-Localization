@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <string-array name="type">
+        <item>Въз основа на време</item>
+        <item>Въз основа на брояч</item>
+    </string-array>
+</resources>

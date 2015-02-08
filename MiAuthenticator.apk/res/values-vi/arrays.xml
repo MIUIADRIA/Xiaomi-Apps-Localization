@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type">
+        <item>Dựa trên thời gian</item>
+        <item>Dựa trên truy cập</item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="tags_description">
+        <item quantity="other">app</item>
+        <item quantity="one">app</item>
+    </plurals>
+    <plurals name="play_description">
+        <item quantity="other">operazioni</item>
+        <item quantity="one">operazione</item>
+    </plurals>
+    <plurals name="history_description">
+        <item quantity="other">elementi</item>
+        <item quantity="one">elemento</item>
+    </plurals>
+    <plurals name="select_n_item">
+        <item quantity="other">%d selezionati</item>
+        <item quantity="zero">Scegli elemento</item>
+        <item quantity="one">%d selezionato</item>
+    </plurals>
+</resources>

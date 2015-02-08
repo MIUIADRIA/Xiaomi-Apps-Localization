@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type">
+        <item>"Basée sur l'heure"</item>
+        <item>Basée sur un compteur</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screen_timeout_items">
+        <item>15 δευτερόλεπτα</item>
+        <item>30 δευτερόλεπτα</item>
+        <item>1 λεπτό</item>
+        <item>2 λεπτά</item>
+        <item>5 λεπτά</item>
+        <item>10 λεπτά</item>
+        <item>Ποτέ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="tags_description">
+        <item quantity="other">εφαρμογές</item>
+        <item quantity="one">εφαρμογή</item>
+    </plurals>
+    <plurals name="play_description">
+        <item quantity="other">ενέργειες</item>
+        <item quantity="one">ενέργεια</item>
+    </plurals>
+    <plurals name="history_description">
+        <item quantity="other">εγγραφές</item>
+        <item quantity="one">εγγραφή d</item>
+    </plurals>
+    <plurals name="select_n_item">
+        <item quantity="other">%d επιλεγμένα</item>
+        <item quantity="zero">Επιλογή ειδών</item>
+        <item quantity="one">%d επιλεγμένα</item>
+    </plurals>
+</resources>

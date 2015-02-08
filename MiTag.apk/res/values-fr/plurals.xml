@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+    more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
+<resources>
+    <plurals name="tags_description">
+        <item quantity="other">applis</item>
+        <item quantity="one">appli</item>
+    </plurals>
+    <plurals name="play_description">
+        <item quantity="other">tâches</item>
+        <item quantity="one">tâche</item>
+    </plurals>
+    <plurals name="history_description">
+        <item quantity="other">entrées</item>
+        <item quantity="one">entrée</item>
+    </plurals>
+    <plurals name="select_n_item">
+        <item quantity="other">%d sélectionnés</item>
+        <item quantity="zero">Sélect. des éléments</item>
+        <item quantity="one">%d sélectionné</item>
+    </plurals>
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+     <string-array name="alphabet_table">
+        <item>\#</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ъ</item>
+        <item>Ю</item>
+        <item>Я</item>
+     </string-array>
+     <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>\#</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ъ</item>
+        <item>Ю</item>
+        <item>Я</item>
+     </string-array>
+     <string-array name="contact_entries">
+        <item>Име</item>
+        <item>Псевдоним</item>
+        <item>Телефон</item>
+        <item>Имейл</item>
+        <item>Фирма</item>
+        <item>IM</item>
+        <item>Интернет номер</item>
+        <item>Рожден ден</item>
+        <item>Уеб сайт</item>
+        <item>Адрес</item>
+        <item>Бележка</item>
+     </string-array>
+     <string-array name="alarm_in_future">
+        <item>Аларма след по-малко от минута</item>
+        <item>Аларма след %1$s</item>
+        <item>Аларма след %2$s</item>
+        <item>Аларма след %1$s %2$s</item>
+        <item>Аларма след %3$s</item>
+        <item>Аларма след %1$s %3$s</item>
+        <item>Аларма след %2$s %3$s</item>
+        <item>Аларма след %1$s %2$s %3$s</item>
+     </string-array>
+</resources>

@@ -1,0 +1,156 @@
+[ { "groupId" : 1,
+    "groupName" : "Приложение",
+    "name" : "com.xiaomi.miclick.core.action.ToolboxAction",
+    "sortId" : 1
+  },
+  { "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction"],
+    "groupId" : 1,
+    "groupName" : "Приложение",
+    "name" : "com.xiaomi.miclick.core.action.CapturePhotoAction",
+    "sortId" : 2
+  },
+  { "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction"],
+    "groupId" : 1,
+    "groupName" : "Приложение",
+    "name" : "com.xiaomi.miclick.core.action.CapturePhotoInstantAction",
+    "sortId" : 3
+  },
+  { "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction"],
+    "groupId" : 1,
+    "groupName" : "Приложение",
+    "name" : "com.xiaomi.miclick.core.action.VideoRecorderAction",
+    "sortId" : 4
+  },
+  { "mutex" : [ "com.xiaomi.miclick.core.action.Camera360CaptureAction",
+            "com.xiaomi.miclick.core.action.CapturePhotoInstantAction",
+            "com.xiaomi.miclick.core.action.CapturePhotoAction",
+            "com.xiaomi.miclick.core.action.VideoRecorderAction",
+            "com.xiaomi.miclick.core.action.QrcodeAction"
+          ],
+    "groupId" : 1,
+    "groupName" : "Приложение",
+    "name" : "com.xiaomi.miclick.core.action.TorchAction",
+    "sortId" : 5
+  },
+  { "groupId" : 1,
+    "groupName" : "Приложение",
+    "name" : "com.xiaomi.miclick.core.action.AudioRecorderAction",
+    "sortId" : 6
+  },
+  { "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction"],
+    "groupId" : 1,
+    "groupName" : "Приложение",
+    "name" : "com.xiaomi.miclick.core.action.Camera360CaptureAction",
+    "sortId" : 7
+  },
+  { "dependence" : [ "com.xiaomi.miclick.core.action.Camera360CaptureAction",
+        "com.xiaomi.miclick.core.action.CapturePhotoInstantAction",
+        "com.xiaomi.miclick.core.action.CapturePhotoAction"
+      ],
+    "groupId" : 1,
+    "groupName" : "Приложение",
+    "name" : "com.xiaomi.miclick.core.action.Camera360EditAction",
+    "sortId" : 8
+  },
+  { "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction"],
+    "groupId" : 1,
+    "groupName" : "Приложение",
+    "name" : "com.xiaomi.miclick.core.action.QrcodeAction",
+    "sortId" : 9
+  },
+  { "groupId" : 1,
+    "groupName" : "Приложение",
+    "name" : "com.xiaomi.miclick.core.action.MiliaoComposeShareAction",
+    "sortId" : 10
+  },
+  { "groupId" : 1,
+    "groupName" : "Приложение",
+    "name" : "com.xiaomi.miclick.core.action.WeChatFriendShareAction",
+    "sortId" : 11
+  },
+  { "groupId" : 1,
+    "groupName" : "Приложение",
+    "name" : "com.xiaomi.miclick.core.action.WeChatTimeLineShareAction",
+    "sortId" : 12
+  },
+  { "groupId" : 1,
+    "groupName" : "Приложение",
+    "name" : "com.xiaomi.miclick.core.action.WeiboShareAction",
+    "sortId" : 13
+  },
+  { "groupId" : 1,
+    "groupName" : "Приложение",
+    "name" : "com.xiaomi.miclick.core.action.CallAction",
+    "sortId" : 14
+  },
+  { "groupId" : 1,
+    "groupName" : "Приложение",
+    "name" : "com.xiaomi.miclick.core.action.SMSAction",
+    "sortId" : 15
+  },
+  { "groupId" : 1,
+    "groupName" : "Приложение",
+    "name" : "com.xiaomi.miclick.core.action.OpenAppAction",
+    "sortId" : 15
+  },
+  { "groupId" : 2,
+    "groupName" : "Система",
+    "name" : "com.xiaomi.miclick.core.action.ScreenShotAction",
+    "sortId" : 1
+  },
+  { "groupId" : 2,
+    "groupName" : "Система",
+    "name" : "com.xiaomi.miclick.core.action.ScreenRotateAction",
+    "sortId" : 2
+  },
+  { "groupId" : 2,
+    "groupName" : "Система",
+    "name" : "com.xiaomi.miclick.core.action.ClearMemoryAction",
+    "sortId" : 3
+  },
+  { "groupId" : 2,
+    "groupName" : "Система",
+    "name" : "com.xiaomi.miclick.core.action.LockScreenAction",
+    "sortId" : 4
+  },
+  { "groupId" : 2,
+    "groupName" : "Система",
+    "name" : "com.xiaomi.miclick.core.action.HomeAction",
+    "sortId" : 5
+  },
+  { "groupId" : 2,
+    "groupName" : "Система",
+    "name" : "com.xiaomi.miclick.core.action.MuteAction",
+    "sortId" : 6
+  },
+  { "groupId" : 2,
+    "groupName" : "Система",
+    "name" : "com.xiaomi.miclick.core.action.toggle.WiFi",
+    "sortId" : 7
+  },
+  { "groupId" : 2,
+    "groupName" : "Система",
+    "name" : "com.xiaomi.miclick.core.action.toggle.GPS",
+    "sortId" : 8
+  },
+  { "groupId" : 2,
+    "groupName" : "Система",
+    "name" : "com.xiaomi.miclick.core.action.toggle.GPRS",
+    "sortId" : 9
+  },
+  { "groupId" : 2,
+    "groupName" : "Система",
+    "name" : "com.xiaomi.miclick.core.action.toggle.Bluetooth",
+    "sortId" : 10
+  },
+  { "groupId" : 2,
+    "groupName" : "Система",
+    "name" : "com.xiaomi.miclick.core.action.toggle.Flight",
+    "sortId" : 11
+  },
+  { "groupId" : 2,
+    "groupName" : "Система",
+    "name" : "com.xiaomi.miclick.core.action.toggle.NFC",
+    "sortId" : 12
+  }
+]

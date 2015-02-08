@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="tags_description">
+        <item quantity="other">alkalmazás</item>
+        <item quantity="one">alkalmazás</item>
+    </plurals>
+    <plurals name="play_description">
+        <item quantity="other">feladat</item>
+        <item quantity="one">feladat</item>
+    </plurals>
+    <plurals name="history_description">
+        <item quantity="other">előzmény</item>
+        <item quantity="one">előzmény</item>
+    </plurals>
+    <plurals name="select_n_item">
+        <item quantity="other">%d kiválasztva</item>
+        <item quantity="zero">Válasszon elemet</item>
+        <item quantity="one">%d kiválasztva</item>
+    </plurals>
+</resources>

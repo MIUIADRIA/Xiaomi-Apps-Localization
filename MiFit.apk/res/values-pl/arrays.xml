@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeks">
+        <item>Pon.</item>
+        <item>Wto.</item>
+        <item>Śro.</item>
+        <item>Czw.</item>
+        <item>Pią.</item>
+        <item>Sob.</item>
+        <item>Nie.</item>
+    </string-array>
+    <string-array name="weeks_short">
+        <item>Pon.</item>
+        <item>Wto.</item>
+        <item>Śro.</item>
+        <item>Czw.</item>
+        <item>Pią.</item>
+        <item>Sob.</item>
+        <item>Nie.</item>
+    </string-array>
+    <string-array name="months">
+        <item>Styczeń</item>
+        <item>Luty</item>
+        <item>Marzec</item>
+        <item>Kwiecień</item>
+        <item>Maj</item>
+        <item>Czerwiec</item>
+        <item>Lipiec</item>
+        <item>Sierpień</item>
+        <item>Wrzesień</item>
+        <item>Październik</item>
+        <item>Listopad</item>
+        <item>Grudzień</item>
+    </string-array>
+    <string-array name="select_days_simple">
+        <item>Tylko raz</item>
+        <item>Codziennie</item>
+        <item>Od poniedziałku do piątku</item>
+        <item>Własne</item>
+    </string-array>
+    <string-array name="fortune">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="weight_test_unit">
+        <item>kg</item>
+        <item>jin</item>
+        <item>funt</item>
+     </string-array>
+    <string-array name="weight_body_figures">
+        <item>Niedowaga</item>
+        <item>Normalna</item>
+        <item>Nadwaga</item>
+        <item>Otyły</item>
+        <item>GRUBAS</item>
+    </string-array>
+</resources>

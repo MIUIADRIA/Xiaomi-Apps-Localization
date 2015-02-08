@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="tags_description">
+        <item quantity="other">ứng dụng</item>
+        <item quantity="one">ứng dụng</item>
+    </plurals>
+    <plurals name="play_description">
+        <item quantity="other">tác vụ</item>
+        <item quantity="one">tác vụ</item>
+    </plurals>
+    <plurals name="history_description">
+        <item quantity="other">bản ghi</item>
+        <item quantity="one">bản ghi</item>
+    </plurals>
+    <plurals name="select_n_item">
+        <item quantity="other">%d mục đã chọn</item>
+        <item quantity="zero">Chọn mục</item>
+        <item quantity="one">%d mục đã chọn</item>
+    </plurals>
+</resources>

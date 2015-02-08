@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Zopas</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Zopas</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Meteen</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Meteen</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Een uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Een half uur geleden</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Een uur geleden</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Een halfuur geleden</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Binnen een uur</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Binnen een half uur</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Binnen één uur</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Binnen een half uur</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d min geleden</item>
+        <item quantity="one">1 min geleden</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">binnen %d min</item>
+        <item quantity="one">binnen 1 min</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">binnen %d minuten</item>
+        <item quantity="one">binnen 1 minuut</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d Items gecontroleerd</item>
+        <item quantity="one">%1$d Item gecontroleerd</item>
+    </plurals>
+</resources>

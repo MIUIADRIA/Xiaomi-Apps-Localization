@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Cooling</item>
+        <item>Heating</item>
+        <item>Dehumidifier</item>
+        <item>Fan</item>
+    </string-array>
+</resources>

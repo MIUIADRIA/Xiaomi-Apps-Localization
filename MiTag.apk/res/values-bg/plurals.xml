@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <plurals name="tags_description">
+        <item quantity="other">приложения</item>
+        <item quantity="one">приложение</item>
+    </plurals>
+    <plurals name="play_description">
+        <item quantity="other">задачи</item>
+        <item quantity="one">задача</item>
+    </plurals>
+    <plurals name="history_description">
+        <item quantity="other">записи</item>
+        <item quantity="one">запис</item>
+    </plurals>
+    <plurals name="select_n_item">
+        <item quantity="other">Избрани: %d</item>
+        <item quantity="zero">Изберете елементи</item>
+        <item quantity="one">Избрани: %d</item>
+    </plurals>
+</resources>

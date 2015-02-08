@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="fortune">
+        <item>"Είναι εύκολο να πετύχετε ένα στόχο για μία ημέρα, αλλά δύσκολο για κάθε μέρα.."</item>
+        <item>"Δεν είναι εύκολο πράγμα να επιτευχθεί ένας στόχος κάθε μέρα."</item>
+        <item>Θα κάνετε νέο ρεκόρ καθημερινά!</item>
+        <item>Απολαύστε την οικοδόμηση ενός καλύτερου εαυτού σας!</item>
+        <item>Δε θα είστε ποτέ χαμένος μέχρι να σταματήσετε την προσπάθεια.</item>
+        <item>Είμαστε αυτό που κάνουμε επανειλημμένα. Η Αριστεία δεν είναι μια πράξη, αλλά μια συνήθεια.</item>
+        <item>Επίτευξη ενός στόχου την ημέρα.</item>
+        <item>Προκαλέστε τον εαυτό σας για ένα καλύτερο σήμερα.</item>
+        <item>Απλά κάντε το.</item>
+        <item>Κάντε εξάσκηση, κερδίζοντας στόχους θα αισθανθείτε καλύτερα.</item>
+     </string-array>
+     <string-array name="months">
+        <item>Ιανουάριος</item>
+        <item>Φεβρουάριος</item>
+        <item>Μάρτιος</item>
+        <item>Απρίλιος</item>
+        <item>Μάϊος</item>
+        <item>Ιούνιος</item>
+        <item>Ιούλιος</item>
+        <item>Αύγουστος</item>
+        <item>Σεπτέμβριος</item>
+        <item>Οκτώβριος</item>
+        <item>Νοέμβριος</item>
+        <item>Δεκέμβριος</item>
+     </string-array>
+     <string-array name="select_days_simple">
+        <item>Μόνο μία</item>
+        <item>Καθημερινά</item>
+        <item>Δευτέρα ως Παρασκευή</item>
+        <item>Προσαρμογή</item>
+     </string-array>
+     <string-array name="weather_aqi_descriptions">
+        <item>Άριστος</item>
+        <item>Καλός</item>
+        <item>Μέτριος</item>
+        <item>Μέτρια ρύπανση</item>
+        <item>Ρύπανση</item>
+        <item>Σοβαρή ρύπανση</item>
+     </string-array>
+     <string-array name="weeks">
+        <item>Δευτέρα</item>
+        <item>Τρίτη</item>
+        <item>Τετάρτη</item>
+        <item>Πέμπτη</item>
+        <item>Παρασκευή</item>
+        <item>Σάββατο</item>
+        <item>Κυριακή</item>
+     </string-array>
+     <string-array name="weeks_short">
+        <item>Δευ</item>
+        <item>Τρι</item>
+        <item>Τετ</item>
+        <item>Πεμ</item>
+        <item>Παρ</item>
+        <item>Σαβ</item>
+        <item>Κυρ</item>
+     </string-array>
+     <string-array name="weight_body_figures">
+        <item>Ελαφρύς</item>
+        <item>Κανονικός</item>
+        <item>Υπέρβαρος</item>
+        <item>Παχύς</item>
+        <item>Πολύ παχύς</item>
+     </string-array>
+     <string-array name="weight_test_unit">
+        <item>Kg</item>
+        <item>jin</item>
+        <item>Pound</item>
+     </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="app_install_count">
+    <item quantity="one">Preuzimanja: %1$s</item>
+    <item quantity="other">Preuzimanja: %1$s</item>
+  </plurals>
+  <plurals name="app_user_used">
+    <item quantity="one">Korisnika: %1$s</item>
+    <item quantity="other">Korisnika: %1$s</item>
+  </plurals>
+  <plurals name="match_brand_selection_des">
+    <item quantity="one">Dostupna marka: 1</item>
+    <item quantity="other">Dostupne marke: %d</item>
+  </plurals>
+</resources>

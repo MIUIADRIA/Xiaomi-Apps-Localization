@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="picker_number_of_items_selected">
+        <item quantity="other">Odabrano: %1$d</item>
+        <item quantity="zero">Odabrano: %1$d</item>
+        <item quantity="one">Odabrano: %1$d</item>
+    </plurals>
+    <plurals name="numberOfPullUpdateReport">
+        <item quantity="other">Ažurinano stavki: %d.</item>
+        <item quantity="one">Ažurinana %d stavka.</item>
+    </plurals>
+</resources>

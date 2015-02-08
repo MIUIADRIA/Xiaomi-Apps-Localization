@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <string-array name="screen_timeout_items">
+        <item>15 секунди</item>
+        <item>30 секунди</item>
+        <item>1 минута</item>
+        <item>2 минути</item>
+        <item>5 минути</item>
+        <item>10 минути</item>
+        <item>Никога</item>
+    </string-array>
+</resources>

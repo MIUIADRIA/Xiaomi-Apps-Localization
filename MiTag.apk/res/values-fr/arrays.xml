@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+    more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
+<resources>
+    <string-array name="screen_timeout_items">
+        <item>15 secondes</item>
+        <item>30 secondes</item>
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>Jamais</item>
+    </string-array>
+</resources>

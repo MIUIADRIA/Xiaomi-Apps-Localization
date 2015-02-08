@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_in_future">
+        <item>Alarm binnen de minuut</item>
+        <item>Alarm binnen %1$s</item>
+        <item>Alarm binnen %2$s</item>
+        <item>Alarm binnen %1$s %2$s</item>
+        <item>Alarm binnen %3$s</item>
+        <item>Alarm binnen %1$s %3$s</item>
+        <item>Alarm binnen %2$s %3$s</item>
+        <item>Alarm binnen %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Naam</item>
+        <item>Roepnaam</item>
+        <item>Telefoon</item>
+        <item>E-mail</item>
+        <item>Organisatie</item>
+        <item>IM</item>
+        <item>SIP Telefoon</item>
+        <item>Verjaardag</item>
+        <item>Website</item>
+        <item>Adres</item>
+        <item>Notitie</item>
+    </string-array>
+ </resources>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="about_preference_screen_title">Σχετικά</string>
+  <string name="about_preference_title">Σχετικά</string>
+  <string name="acknowledge_btn">Το γνωρίζω</string>
+  <string name="action_settings">Ρυθμίσεις</string>
+  <string name="activation_page">Το διακριτικό είναι ανενεργό</string>
+  <string name="activation_page_btn_txt">Ενεργοποιήστε τώρα</string>
+  <string name="activation_page_info">Παρακαλούμε συνδεθείτε με το account.xiaomi.com και ανοίξτε την προστασία του μητρώου, καθώς και το διακριτικό ενεργοποίησης</string>
+  <string name="add_account_menu_item">Προσθήκη λογαριασμού</string>
+  <string name="app_name">Xiaomi Authenticator</string>
+  <string name="app_name_lockpattern">LockPattern</string>
+  <string name="app_name_short">Authenticator</string>
+  <string name="authenticator_invalid_tip">"Μπορείτε να κλείσετε την σελίδα σύνδεσης για προστασία, ή να ενεργοποιήσετε νέα σύνδεση
+
+Αν έχετε απορίες, παρακαλώ επισκεφθείτε την επίσημη ιστοσελίδα της Mi, για να λάβετε βοήθεια από την υποστήριξη πελατών"</string>
+  <string name="authenticator_invalid_title">Αποτυχία ταυτοποίησης με το λογαριασμό:%1$s .</string>
+  <string name="authenticator_page_reactivation">Επανενεργοποίηση</string>
+  <string name="button_add_account">Προσθήκη λογαριασμού</string>
+  <string name="button_add_account_manual_entry">Χειροκίνητη προσθήκη λογαριασμού</string>
+  <string name="button_add_account_scan_barcode">Σάρωση barcode</string>
+  <string name="button_back">Επιστροφή</string>
+  <string name="button_exit_howitworks_flow">Έξοδος</string>
+  <string name="button_how_it_works">Δείτε πώς λειτουργεί</string>
+  <string name="button_next">Επόμενο</string>
+  <string name="button_uninstall_old_app">Κατάργηση</string>
+  <string name="cancel">Ακύρωση</string>
+  <string name="change_security_lock">Περισσότερα κλειδώματα της οθόνης</string>
+  <string name="check_code">TΓια να βεβαιωθείτε ότι έχετε τη σωστή τιμή κλειδιού για το %1$s επιβεβαιώστε ότι η τιμή εδώ ταιριάζει με την τιμή ελέγχου ακεραιότητας που παρέχονται από τον διακομιστή:&lt;br/></string>
+  <string name="check_code_menu_item">Ελέγξτε την τιμή του κλειδιού</string>
+  <string name="check_code_title">Τιμή ελέγχου ακεραιότητας</string>
+  <string name="continue_btn">Continue</string>
+  <string name="copy_to_clipboard">Αντιγραφή στο πρόχειρο</string>
+  <string name="correct_enter_password">Πληκτρολογήστε το σωστό κωδικό πρόσβασης</string>
+  <string name="correct_enter_update_password">Ο αρχικός κωδικός πρόσβασης έχει εισαχθεί σωστά</string>
+  <string name="counter_pin">Λήψη κωδικού</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Τα δεδομένα σας έχουν εισαχθεί με επιτυχία από το Xiaomi Authenticator. Είναι πλέον ασφαλές να απεγκαταστήσετε την προηγούμενη έκδοση της εφαρμογής κάνοντας κλικ παρακάτω.</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_title">Εισαγωγή πέτυχε</string>
+  <string name="decoding_exception">Εξαίρεση αποκωδικοποίησης</string>
+  <string name="details_patternforgotten">"Επανενεργοποίηση:
+σύνδεση με account.xiaomi.com, για προστασία και διαχείριση των σελίδων προορισμού, κάντε κλικ στο "Επανενεργοποίηση"</string>
+  <string name="empty_pin">_ _ _ _ _ _</string>
+  <string name="enter_account_label">Εισάγετε το όνομα λογαριασμού</string>
+  <string name="enter_key_hint">Δώστε το κλειδί</string>
+  <string name="enter_key_illegal_char">Το κλειδί έχει άγνωστο χαρακτήρα</string>
+  <string name="enter_key_page_add_button">Προσθήκη</string>
+  <string name="enter_key_title">Manual account entry</string>
+  <string name="enter_key_too_short">Το κλειδί είναι πολύ μικρό</string>
+  <string name="enter_pin">Εισάγετε αυτόν τον κωδικό επαλήθευσης , εφόσον ζητηθεί κατά τη διάρκεια εισόδου σε λογαριασμό:</string>
+  <string name="error_empty_secret">Αδύνατη η αποθήκευση άδειου μυστικού</string>
+  <string name="error_exists">Συγγνώμη , αυτό το όνομα είναι ήδη σε χρήση.</string>
+  <string name="error_qr">Δεν μπορεί να ερμηνευτεί το QR code.</string>
+  <string name="error_title">Σφάλμα</string>
+  <string name="error_uri">Το κλειδί δεν αναγνωρίζεται.</string>
+  <string name="forget_password"><u>Ξεχάσατε τον κωδικό</u></string>
+  <string name="general_security_exception">Γενική εξαίρεση ασφαλείας</string>
+  <string name="gif_not_support_camera_msg">Η συσκευή σας δεν υποστηρίζει την εγγραφή βίντεο.</string>
+  <string name="how_it_works_menu_item">Πώς λειτουργεί</string>
+  <string name="howitworks_page_enter_code_details">Αυτή η εφαρμογή θα δημιουργήσει τον κώδικα που απαιτείται για να προχωρήσει είσοδο.</string>
+  <string name="howitworks_page_enter_code_title">"Αν είστε σε ένα νέο υπολογιστή, εισαγάγετε έναν κωδικό από το τηλέφωνό σας."</string>
+  <string name="howitworks_page_enter_password_details">"Ωστόσο, εάν είστε σε ένα νέο υπολογιστή ή συσκευή, η Xiaomi θα σας ρωτήσει για έναν ειδικό κωδικό για να βεβαιωθεί ότι είστε πραγματικά εσείς."</string>
+  <string name="howitworks_page_enter_password_title">"Για να εισέλθετε, θα εισάγετε τον κωδικό σας."</string>
+  <string name="howitworks_page_verify_device_details">"Μπορείτε επίσης να επιλέξετε να θυμόμαστε τον υπολογιστή και η Xiaomi δεν θα σας ζητήσει πάλι έναν κωδικό."</string>
+  <string name="howitworks_page_verify_device_title">"Τότε είστε συνδεδεμένοι."</string>
+  <string name="install_button">Εγκατάσταση</string>
+  <string name="install_dialog_message">Για σάρωση barcodes που περιέχουν τα κλειδιά , θα πρέπει να εγκαταστήσετε το σαρωτή barcode ZXing.</string>
+  <string name="install_dialog_title"> Εγκαταστήστε του barcode scanner;</string>
+  <string name="jump_createpattern_tip">Μετάβαση στον ορισμό κωδικού πρόσβασης, ώστε ο λογαριασμός να έχει προστασία από ορισμένους κίνδυνους ασφάλειας, σας συνιστούμε να μην το παραλείψετε</string>
+  <string name="jump_lockpattern_title">Σημείωση</string>
+  <string name="jump_updatepattern_tip">Με την ακύρωση κωδικού μοτίβου, ο λογαριασμός δεν θα έχει ασφάλεια, σας συνιστούμε να μην επιλέξετε ακύρωση</string>
+  <string name="lockpassword_choose_your_pattern_header">Επιλέξτε το μοτίβο σας</string>
+  <string name="lockpassword_confirm_your_pattern_header">Επιβεβαιώστε το μοτίβο σας</string>
+  <string name="lockpassword_input_your_pattern_header">Επιβεβαιώστε το μοτίβο σας</string>
+  <string name="lockpattern_confirm_button_text">Επιβεβαίωση</string>
+  <string name="lockpattern_continue_button_text">Συνέχεια</string>
+  <string name="lockpattern_need_to_confirm">Σχεδιάστε και πάλι μοτίβο για επιβεβαίωση:</string>
+  <string name="lockpattern_need_to_confirm_wrong">Ασυνεπής με την προηγούμενη καταχώρηση, πληκτρολογήστε ξανά :</string>
+  <string name="lockpattern_need_to_unlock_footer" />
+  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Λάθος κωδικός, μπορείτε να εισάγετε %d φορές ακόμη&lt;/font></string>
+  <string name="lockpattern_need_to_unlock_wrong_footer" />
+  <string name="lockpattern_pattern_confirmed_header">Το νέο μοτίβο ξεκλειδώματος σας:</string>
+  <string name="lockpattern_pattern_entered_header">Το μοτίβο καταγράφηκε.</string>
+  <string name="lockpattern_recording_incorrect_too_short">Συνδέστε τουλάχιστον %d τελείες. Δοκιμάστε ξανά:</string>
+  <string name="lockpattern_recording_inprogress">Αφήστε το δάχτυλό όταν γίνει.</string>
+  <string name="lockpattern_recording_intro_header">Σχεδιάστε ένα μοτίβο ξεκλειδώματος:</string>
+  <string name="lockpattern_redraw_button_text">Διόρθωση</string>
+  <string name="lockpattern_retry_text"><u>Επαναφορά κωδικού πρόσβασης μοτίβου</u></string>
+  <string name="lockpattern_settings_help_how_to_record">Πώς να σχεδιάσετε ένα μοτίβο ξεκλειδώματος</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Προσπαθήστε ξανά σε %d δευτερόλεπτα.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Πάρα πολλές αποτυχημένες προσπάθειες!&lt;/font></string>
+  <string name="lockpattern_tutorial_cancel_label">Ακύρωση</string>
+  <string name="lockpattern_tutorial_close_label">Κλείσιμο</string>
+  <string name="lockpattern_tutorial_continue_label">Επόμενο</string>
+  <string name="lockpattern_tutorial_jump_label">Άλμα</string>
+  <string name="lockscreen_forgot_pattern_button_text"><u>Ξεχάσατε τον κωδικό μοτίβου</u></string>
+  <string name="login">Σύνδεση</string>
+  <string name="main_preference_screen_title">Ρυθμίσεις</string>
+  <string name="mycard_scan_barcode">MiID Code Scanner</string>
+  <string name="new_pattern_tip">Εισάγετε&lt;font color=#fb3500>Νέος&lt;/font> κωδικός μοτίβου, με τουλάχιστον τέσσερα σημεία σύνδεσης</string>
+  <string name="ok">OK</string>
+  <string name="ok_button">OK</string>
+  <string name="open_camera_exception_dialog_content">Προβλήματα με τη φωτογραφική μηχανή του συστήματος, ίσως χρειαστεί να επανεκκινήσετε τη συσκευή.</string>
+  <string name="open_camera_exception_dialog_title">Δυσλειτουργία της κάμερας</string>
+  <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
+  <string name="opensource_preference_title">Open-source project</string>
+  <string name="original_pattern_tip">Εισάγετε&lt;font color=#fb3500> πρωτότυπο&lt;/font> Μοτίβο ως κωδικό</string>
+  <string name="password_error">Παρακαλώ ελέγξτε τον κωδικό πρόσβασής σας</string>
+  <string name="password_forget">Τον ξεχάσατε ;</string>
+  <string name="password_hint">Παρακαλούμε, εισάγετε τον κωδικό σύνδεσης του λογαριασμού σας</string>
+  <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
+  <string name="privacy_preference_title">Πολιτική Προσωπικών Δεδομένων</string>
+  <string name="progress_loading">Υπό επεξεργασία…</string>
+  <string name="remove_Xiaomi_account_dialog_message">Η αφαίρεση αυτού του λογαριασμού θα &lt;b>αφαιρέσει την ικανότητά σας&lt;/b> tγια να δημιουργήσετε κωδικούς , ωστόσο &lt;b>δεν&lt;/b> θα απενεργοποιήσετε τον έλεγχο ταυτότητας. Αυτό μπορεί να σας αποτρέψει από την είσοδο στο λογαριασμό σας. &lt;p> Πριν από την αφαίρεση: &lt;ul> &lt;li>Απενεργοποιήστε την επαλήθευση για αυτόν τον λογαριασμό , ή&lt;/li> &lt;li> Βεβαιωθείτε ότι έχετε ένα εναλλακτικό μηχανισμό για την παραγωγή κωδικών.&lt;/li> &lt;/ul></string>
+  <string name="remove_account">Κατάργηση λογαριασμού</string>
+  <string name="remove_account_dialog_message">Η αφαίρεση αυτού του λογαριασμού θα &lt;b>αφαιρέσει την ικανότητά σας&lt;/b> tγια να δημιουργήσετε κωδικούς , ωστόσο &lt;b>δεν&lt;/b> θα απενεργοποιήσετε τον έλεγχο ταυτότητας. Αυτό μπορεί να σας αποτρέψει από την είσοδο στο λογαριασμό σας. &lt;p> Πριν από την αφαίρεση: &lt;ul> &lt;li>Απενεργοποιήστε τον έλεγχο ταυτότητας για αυτόν τον λογαριασμό , ή&lt;/li> &lt;li> Βεβαιωθείτε ότι έχετε ένα εναλλακτικό μηχανισμό για την παραγωγή κωδικών.&lt;/li> &lt;/ul></string>
+  <string name="remove_account_dialog_title">Κατάργηση λογαριασμού;</string>
+  <string name="rename">Μετονομασία</string>
+  <string name="rename_message">Μετονομασία %1$s</string>
+  <string name="resetbtn_patternforgotten">Επαναφορά τώρα</string>
+  <string name="save_key_message">Αποθηκεύστε το κλειδί για</string>
+  <string name="scan_barcode">Σάρωση MiID</string>
+  <string name="scan_barcode_info">Στοχεύστε και σαρώσετε ένα MiID barcode στο εσωτερικό αυτού του σκοπεύτρου.</string>
+  <string name="secret_saved">Σώθηκε</string>
+  <string name="security_setting">Ρυθμίσεις Ασφαλείας</string>
+  <string name="settings_menu_item">Ρυθμίσεις</string>
+  <string name="submit">Αποθήκευση</string>
+  <string name="success_copy_to_clipboard">Έχει αντιγραφεί στο πρόχειρο</string>
+  <string name="success_reset_password">Επαναφορά κωδικού επιτυχής</string>
+  <string name="success_set_password">Επιτυχής ορισμός Κωδικού πρόσβασης</string>
+  <string name="summary_lockpattern">Απαιτείται ένα μοναδικό μοτίβο κλειδώματος για το MiCredit</string>
+  <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
+  <string name="terms_preference_title">Όροι της υπηρεσίας</string>
+  <string name="timesync_about_feature_preference_title">Σχετικά με αυτό το χαρακτηριστικό</string>
+  <string name="timesync_about_feature_screen_details">"Εάν πατήσετε &amp;quot;Συγχρονισμός τώρα&amp;quot;, ελέγχου ταυτότητας θα προσπαθήσει να συγχρονίσει το εσωτερικό του ρολόι με τους διακομιστές της Google αμέσως. Η ημερομηνία &amp; ώρα της συσκευής δεν θα αλλάξει. &lt;p> Η υπηρεσία ελέγχου ταυτότητας δεν μεταδίδει προσωπικά δεδομένα ή τα στοιχεία του λογαριασμού κατά το συγχρονισμό. &lt;p> &lt;b>Γιατί αυτό είναι χρήσιμο&lt;/b> &lt;p> Ο έλεγχος ταυτότητας δημιουργεί κωδικούς επαλήθευσης 2 βημάτων με βάση 1) την τρέχουσα ώρα, και 2) ένα μυστικό που είναι γνωστό ότι στην εφαρμογή και στο διακομιστή. &lt;p> Αν η εφαρμογή ελέγχου ταυτότητας και ο διακομιστής διαφωνούν σχετικά με το τι ώρα είναι, οι κωδικοί που δημιουργεί η εφαρμογή δεν μπορεί να γίνουν αποδεκτοί, όταν προσπαθείτε να συνδεθείτε. &lt;p> Αυτός ο έλεγχος ταυτότητας χρησιμοποιεί τις ρυθμίσεις της συσκευής για την ημερομηνία και ώρα, και στις περισσότερες περιπτώσεις, θα είστε σε θέση να δημιουργήσει έγκυρους κωδικούς προϋποθέτοντας ότι η ώρα, η ημερομηνία και οι ρυθμίσεις ζώνης ώρας έχει ρυθμιστεί σωστά. Ωστόσο, όταν συμβούν χρονικές αναντιστοιχίες, μπορεί να είναι δύσκολη η αντιμετώπιση προβλημάτων (ειδικά αν τα στοιχεία παρέχονται από το δίκτυο)."</string>
+  <string name="timesync_about_feature_screen_title">Σχετικά με αυτό το χαρακτηριστικό</string>
+  <string name="timesync_preference_screen_summary">"Συγχρονισμός ρολογιού για ελέγχο ταυτότητας με διακομιστές"</string>
+  <string name="timesync_preference_screen_title">Ώρα διόρθωσης για τους κωδικούς</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_details">"Υπήρξε ένα πρόβλημα κατά την επικοινωνία ' s διακομιστή. Παρακαλώ ελέγξτε τις ρυθμίσεις του δικτύου σας και δοκιμάστε ξανά."</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_title">Συγχρονισμός τώρα</string>
+  <string name="timesync_sync_now_preference_title">Συγχρονισμός τώρα</string>
+  <string name="timesync_sync_now_progress_dialog_details">Σύνδεση με διακομιστή…</string>
+  <string name="timesync_sync_now_progress_dialog_title">Συγχρονισμός τώρα</string>
+  <string name="timesync_sync_now_screen_title">Συγχρονισμός τώρα</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_details">"εσωτερικό ρολόι ελέγχου ταυτότητας δεν είχε προσαρμοστεί επειδή φαίνεται να είναι ήδη σε συγχρονισμό με τους διακομιστές."</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_title">Ώρα σωστή ήδη</string>
+  <string name="timesync_sync_now_time_corrected_dialog_details">"Το εσωτερικό ρολόι ελέγχου ταυτότητας έχει προσαρμοστεί για να ταιριάζει με το χρόνο που παρέχονται από τους διακομιστές. 
+
+Η Ημερομηνία &amp; οι ρυθμίσεις ώρας σε αυτή τη συσκευή δεν έχουν αλλάξει."</string>
+  <string name="timesync_sync_now_time_corrected_dialog_title">Ώρα διόρθωσης</string>
+  <string name="tip1_patternforgotten">Καταργήστε την εγκατάσταση κωδικού ασφαλείας, και κάντε εκ νέου εγκατάσταση και ενεργοποίηση</string>
+  <string name="tip2_patternforgotten">Κάντε κλικ στο κουμπί "άμεση επαναφορά", ώστε να σβήσουν τα αρχικά δεδομένα του λογαριασμού, και να επανενεργοποιηθεί</string>
+  <string name="tip_lockpattern">Για την προστασία του κωδικού ασφαλείας, παρακαλούμε ενεργοποιήστε τον όταν δημιουργήσετε έναν κωδικό πρόσβασης μοτίβου με τουλάχιστον τέσσερις τελείες</string>
+  <string name="title_change_lockpattern">Διαμορφώστε το μοτίβο κλειδώματος</string>
+  <string name="title_createpattern">Δημιουργία κωδικού μοτίβου</string>
+  <string name="title_forgetpattern">Ξεχάσατε τον κωδικό μοτίβου</string>
+  <string name="title_gesture">Κλείδωμα με μοτίβο</string>
+  <string name="title_lockpattern">Απαιτείται μοτίβο κλειδώματος</string>
+  <string name="title_myaccount">Ο λογαριασμός μου: %s</string>
+  <string name="title_nopassword">"Δεν χρειάζονται για τις μικρές πληρωμές"</string>
+  <string name="title_nopassword_dialog">Ημερήσιο όριο</string>
+  <string name="title_password">Κωδικό</string>
+  <string name="title_password_threshold">Ημερήσιο όριο = ￥%1$s</string>
+  <string name="title_patternforgotten">"Ξεχάσατε τον κωδικό σας;
+Μπορείτε να:"</string>
+  <string name="title_updatepattern">Τροποποίηση μοτίβου κωδικού</string>
+  <string name="title_visible_pattern">Ορατό μοτίβο</string>
+  <string name="type_prompt">Τύπος κλειδιού</string>
+  <string name="update_pattern_jump"><u>Ακύρωση κωδικού μοτίβου</u></string>
+  <string name="version_preference_title">Έκδοση</string>
+  <string name="welcome_page_alert">&lt;font color=#fb3500>Σημείωση：&lt;/font>Προσέξτε να μην διαγράψετε το διακριτικό, διαφορετικά δεν θα συνδεθείτε.</string>
+  <string name="welcome_page_details">"— Προστασία από κακόβουλη κλοπή των στοιχείων του λογαριασμού από άλλους.
+— σε περίπτωση που το τηλέφωνο χαθεί ή δε έχετε ασφαλίσει τον λογαριασμό των e-mail σας."</string>
+  <string name="welcome_page_title">Προστασία σύνδεσης λογαριασμού</string>
+</resources>

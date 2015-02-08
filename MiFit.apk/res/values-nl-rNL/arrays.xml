@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string-array name="weight_test_unit">
+        <item>Pond</item>
+    </string-array>
+    <string-array name="weight_body_figures">
+        <item>Licht</item>
+        <item>Normaal</item>
+        <item>Overgewicht</item>
+        <item>Dik</item>
+        <item>Zeer dik</item>
+    </string-array>
+</resources>

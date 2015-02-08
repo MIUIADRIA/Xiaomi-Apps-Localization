@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s изтеглени</item>
+        <item quantity="one">%1$s изтеглено</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s потребителя</item>
+        <item quantity="one">%1$s потребител</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d налични марки</item>
+        <item quantity="one">1 налична марка</item>
+    </plurals>
+</resources>

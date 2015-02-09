@@ -84,6 +84,7 @@ Localization Project For Xiaomi Gadgets Android Applications
 - Macedonian (thenewmaker, MIUI Adria)
 - Thai (hpro)
 - German (hpro)
+- Romanian (gtiu)
 - .......... More To Come ..........
 
 

@@ -17,15 +17,16 @@ localization_English_table = {
     day='day',
     step="steps",
     km='km',
+    mile='英里',
     minute_format='%d min',
     hour_minute_format='%dh %dm',
     hour_format='%d hrs',
 
     welcome_use="Welcome",
     last_week_walked_format='You walked %d steps last week.',
-    last_week_walked_info_format='Walked %dkm, burned %d cal.',
+    last_week_walked_info_format='Walked %s, burned %d cal.',
     last_month_walked_format='You walked %d steps last month.',
-    last_month_walked_info_format='Walked %dkm, burned %d cal.',
+    last_month_walked_info_format='Walked %s, burned %d cal.',
 
     get_over_format=", about %d grams of fat",
     click_to_get_help="Learn more about Mi Band",
@@ -33,6 +34,8 @@ localization_English_table = {
     take_a_walk_info="Your band keeps track of every step you take throughout the day.",
     unlock_hint="Open sesame!",
     unlock_hint_info="Use your band to unlock your device automatically.",
+    unlock_password_hint="设置锁屏密码避免手机隐私泄露",
+    unlock_password_hint_info="小米手环提供最便捷的解锁体验",
     no_data_hint_0="The US National Sleep Foundation recommends between 7-9 hours of sleep per night.",
     no_data_hint_1="Repetition is the father of success.",
     no_data_hint_2="Strive for progress, not perfection.",
@@ -70,6 +73,7 @@ localization_English_table = {
     activie_run_consumed="Burned %d cal. %s",
 
     get_distance_format="about %dm.",
+    get_distance_format_british="%d英尺",
     activity_walk_format="%s Walked %d steps, %s",
     activity_walk_consumed_format="Burned %d cal %s.",
     activity_rope_skipping_format="%s jumped rope %d times",
@@ -132,10 +136,10 @@ localization_English_table = {
     weather_tips_info = "Sit-ups or jumping rope are great indoor exercises!",
 
     ---------------Weight scale -------------------
-    welcome_use_weight_scale = "Welcome use weight scale",
-    welcome_use_weight_scale_not_bind = "Click to bind weight scale",
-    welcome_use_mi_health="Welcome use Mi Fit",
+    welcome_use_weight_scale = "Hi there!",
+    welcome_use_weight_scale_not_bind = "Tap to bind scale",
+    welcome_use_mi_health="Hi there!",
 
-    select_devices="Select devices to bind now",
-    daily_steps_not_comlete = "Still need %s steps to go!"
+    select_devices="Choose devices to pair",
+    daily_steps_not_comlete = "%s steps remaining"
 }

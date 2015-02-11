@@ -168,10 +168,10 @@ Adres: %2$s"</string>
   <string name="dynamic_tip_sync_progress">Synchronizowanie %d%%</string>
   <string name="dynamic_tip_sync_time">Zsynchronizowano: %s</string>
   <string name="dynamic_tip_unweared">Nie aktywowano</string>
+  <string name="dynamic_title_bracelet_unbind">MiOpaska odłączona</string>
   <string name="dynamic_title_sleep">Ostatnia noc</string>
   <string name="dynamic_title_step">Dzisiaj</string>
   <string name="dynamic_title_weight">Waga</string>
-  <string name="dynamic_title_bracelet_unbind">MiOpaska odłączona</string>
   <string name="enable_debug_log">Otwarto tryb debugowania!</string>
   <string name="enable_hidden_feature">Hidden activity enabled</string>
   <string name="error_code">Błąd</string>
@@ -397,10 +397,10 @@ Czy chcesz kontynuować?"</string>
   <string name="new_friend_accept">Akceptuj</string>
   <string name="new_friend_cancel">Odrzuć</string>
   <string name="new_record_born">Swietna robota! Pobiłeś nowy rekord!.</string>
-  <string name="new_user">Nowy użytkownik</string>
   <string name="new_record_format_str">"%1$s spalone %2$s kcal.
 Każdy pobity rekord to krok w stronę lepszego siebie!
 Nie zatrzymuj się, idź naprzód!"</string>
+  <string name="new_user">Nowy użytkownik</string>
   <string name="new_version_available">Znaleziono aktualizację</string>
   <string name="next_step">Dalej</string>
   <string name="no_bracelet_tips">(tylko przy połączonej MiOpasce)</string>
@@ -724,7 +724,7 @@ Chcę wstać wypoczęty!"</string>
   <string name="unlock_screen">Odblokuj ekran</string>
   <string name="unlock_screen_help_info0">Dla bezpieczeństwa miej opaskę blisko telefonu.</string>
   <string name="unlock_screen_help_info1">Jeśli Twój telefon wciąż jest zablokowany spróbuj zrestartować Bluetooth żeby zobaczyć czy rozwiąże to problem.</string>
-  <string name="unlock_screen_help_info2">Jeśli nie możesz zrestartować Bluetooth przejdź do Ustawienia > Blokada >Odblokuj przez Bluetooth i wyłącz. Wróć do MiOpaska i ustaw ponownie wzór odblokowania.</string>
+  <string name="unlock_screen_help_info2">Jeśli nie możesz zrestartować Bluetooth przejdź do Ustawienia &gt; Blokada &gt;Odblokuj przez Bluetooth i wyłącz. Wróć do MiOpaska i ustaw ponownie wzór odblokowania.</string>
   <string name="unlock_screen_help_info3">Po ponownym uruchomieniu urządzenia, uruchom MiBand aby odblokować.</string>
   <string name="unlock_screen_help_tips">Dwa kroki do wykonania pozwolą MiOpasce odblokować telefon.</string>
   <string name="unlock_screen_help_title0">Czy opaska była blisko telefonu?</string>
@@ -735,7 +735,7 @@ Chcę wstać wypoczęty!"</string>
   <string name="unlock_screen_invalid_helper">Nie możesz odblokować telefonu przy pomocy opaski?</string>
   <string name="unlock_screen_miui_version_low">Zaktualizuj wersję MIUI</string>
   <string name="unlock_screen_modify_unlock">"Możesz wyłączyć funkcję w:
-Ustawienia > Blokada > Blokada ekranu."</string>
+Ustawienia &gt; Blokada &gt; Blokada ekranu."</string>
   <string name="unlock_screen_not_connect">Sparuj opaskę przed włączeniem blokady ekranu.</string>
   <string name="unlock_screen_set_password">Ustaw wzór</string>
   <string name="unlock_screen_set_password_tips_has_set">Wzór odblokowania ustawiony.</string>

@@ -1,5 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add">Добавяне</string>
   <string name="add_configure">Добавяне на настройка</string>
@@ -47,6 +46,8 @@
   <string name="create">Създаване</string>
   <string name="create_configs_prompt">За добавяне на задача, докоснете „Добавяне“</string>
   <string name="create_tag">Нов</string>
+  <string name="data">Данни</string>
+  <string name="data_net">Мобилна мрежа</string>
   <string name="delete">Изтриване</string>
   <string name="deleting">Изтрива се…</string>
   <string name="detect_empty_tag">Открит е празен маркер</string>
@@ -62,17 +63,27 @@
   <string name="email_to">До</string>
   <string name="empty_tag">Този маркер е празен</string>
   <string name="enable_wifi">Wi-Fi</string>
+  <string name="erase_pon_pon_tile">Изтриване на маркер</string>
   <string name="erase_success">Изтрито</string>
   <string name="erasing">Изтрива се…</string>
   <string name="err_fail_to_erase">Неуспешно изтриване на маркера</string>
   <string name="err_fail_to_read">Неуспешно прочитане на маркера</string>
   <string name="err_fail_to_write">Неуспешно записване на маркера</string>
-  <string name="err_nfc_off">Активирайте NFC от Настройки > Безжични и други мрежи > Още > NFC</string>
+  <string name="err_nfc_off">Активирайте NFC от Настройки &gt; Безжични и други мрежи &gt; Още &gt; NFC</string>
   <string name="err_no_enough_space">Няма достатъчно място на маркера</string>
   <string name="err_no_nfc">Устройството ви не поддържа NFC. Приложението вероятно няма да работи.</string>
+  <string name="err_parse_external_data">Този тип файлове не се поддържа</string>
   <string name="err_tag_not_supported">Вашият телефон не поддържа маркиране</string>
+  <string name="err_tag_protected">Маркерът е защитен с парола. Моля, въведете правилната парола.</string>
+  <string name="err_tag_read_only">Не можете да записвате върху този маркер</string>
   <string name="error_password">Неправилна парола</string>
+  <string name="fail_get_contact_info">"Данните на контакта не могат да се получат. Уверете се, че PonPonTag има разрешение за преглед на данните на вашите контакти."</string>
   <string name="failed_install">Неуспешно инсталиране</string>
+  <string name="failed_to_erase">Неуспешно изтриване на маркера</string>
+  <string name="failed_to_write">Неуспешно записване на маркера</string>
+  <string name="fif_seconds">15 секунди</string>
+  <string name="five_minutes">5 минути</string>
+  <string name="gps">GPS</string>
   <string name="help_title">Помощ</string>
   <string name="hint_input_address">Адрес</string>
   <string name="hint_input_alarm_label">Въведете име на будилника</string>
@@ -81,6 +92,7 @@
   <string name="hint_input_sms">Въведете съобщение</string>
   <string name="hint_input_subject">Тема</string>
   <string name="hint_input_web_label">Име на уеб страницата</string>
+  <string name="hint_input_web_url">URL</string>
   <string name="hint_wifi_password">Въведете парола за Wi-Fi</string>
   <string name="inconsistent_password">Неправилна парола, опитайте отново</string>
   <string name="input_new_password">Въведете новата четирицифрена парола</string>
@@ -95,6 +107,7 @@
   <string name="mode">режим</string>
   <string name="music">Пускане на музика</string>
   <string name="my_tags">Моите маркери</string>
+  <string name="never">Никога</string>
   <string name="new_config">Нова задача</string>
   <string name="new_configures">Нова настройка</string>
   <string name="no_available_networks">Няма достъпна мрежа</string>
@@ -105,19 +118,21 @@
   <string name="null_task">Няма задачи</string>
   <string name="off">Изкл.</string>
   <string name="on">Вкл.</string>
+  <string name="one_minute">1 минута</string>
   <string name="open_web">Отваряне на връзката</string>
   <string name="open_xiaomi_web">Отваряне на Xiaomi.com</string>
   <string name="password_preference">Парола на маркера</string>
+  <string name="percent">%s%%</string>
   <string name="personal">Лични</string>
-  <string name="gps">GPS</string>
-  <string name="data">Данни</string>
-  <string name="data_net">Мобилна мрежа</string>
   <string name="phone">Телефон</string>
   <string name="phone_call">Обаждане</string>
   <string name="phone_to_tag">За да редактирате маркера,</string>
   <string name="pick_contact">Изберете контакт</string>
   <string name="pick_contacts">Изберете контакти</string>
+  <string name="play_music_desc">Възпроизвеждане или пауза на музика</string>
+  <string name="play_song">Пускане на песен</string>
   <string name="preference">Настройки</string>
+  <string name="pwd_alert">Задаване на парола сега</string>
   <string name="pwd_pref">Забрана за презаписване</string>
   <string name="pwd_pref_desc">Когато функцията е активирана, преди презаписване на маркера ще трябва да се въведе парола</string>
   <string name="read_a_tag">Прочитане на маркера</string>
@@ -161,6 +176,8 @@
   <string name="tag_history">История</string>
   <string name="tag_history_date_format">d/M</string>
   <string name="task">Стартиране на задачите</string>
+  <string name="ten_minutes">10 минути</string>
+  <string name="thir_seconds">30 секунди</string>
   <string name="toast_import_failed">Неуспешно импортиране на контакт</string>
   <string name="toggle">Превключване</string>
   <string name="torch">Фенерче</string>
@@ -170,6 +187,7 @@
 докоснете другия маркер със задната част на телефона си."</string>
   <string name="touch_and_write_more">"За записване на друго копие,
 докоснете другия маркер със задната част на телефона си."</string>
+  <string name="two_minutes">2 минути</string>
   <string name="unavailable_net">"Неуспешно инсталиране: Няма връзка с мрежата"</string>
   <string name="unavailable_storage">"Неуспешно инсталиране: SD картата ви е недостъпна"</string>
   <string name="unrecognized_tag">Неразпознаваемо съдържание на маркера</string>
@@ -181,12 +199,14 @@
   <string name="voice_call_value">Сила на звука при разговор %s%%</string>
   <string name="volume">Сила на звука</string>
   <string name="web_label">Име (по желание)</string>
+  <string name="web_url">URL</string>
   <string name="wifi">Wi-Fi</string>
   <string name="wireless_network">Безжични и други мрежи</string>
   <string name="write_a_tag">Записване на маркер</string>
   <string name="write_pon_pon_tile">Записване</string>
   <string name="write_success">Успешно записано</string>
   <string name="write_tag">Записване</string>
+  <string name="writing">Записва се…</string>
   <string name="xiaomi_bytes_unit">%1$s Б</string>
   <string name="xiaomi_external_storage_unavailable">Хранилището е недостъпно, моля проверете SD картата.</string>
   <string name="xiaomi_kilobytes_unit">%1$s КБ</string>
@@ -196,25 +216,4 @@
   <string name="xiaomi_update_dialog_message_diff">"Нова версия %1$s
 Размер: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Актуализация на %1$s!</string>
-  <string name="err_tag_protected">Маркерът е защитен с парола. Моля, въведете правилната парола.</string>
-  <string name="err_tag_read_only">Не можете да записвате върху този маркер</string>
-  <string name="failed_to_erase">Неуспешно изтриване на маркера</string>
-  <string name="failed_to_write">Неуспешно записване на маркера</string>
-  <string name="hint_input_web_url">URL</string>
-  <string name="percent">%s%%</string>
-  <string name="play_music_desc">Възпроизвеждане или пауза на музика</string>
-  <string name="play_song">Пускане на песен</string>
-  <string name="pwd_alert">Задаване на парола сега</string>
-  <string name="web_url">URL</string>
-  <string name="writing">Записва се…</string>
-  <string name="err_parse_external_data">Този тип файлове не се поддържа</string>
-  <string name="erase_pon_pon_tile">Изтриване на маркер</string>
-  <string name="fail_get_contact_info">"Данните на контакта не могат да се получат. Уверете се, че PonPonTag има разрешение за преглед на данните на вашите контакти."</string>
-  <string name="fif_seconds">15 секунди</string>
-  <string name="five_minutes">5 минути</string>
-  <string name="never">Никога</string>
-  <string name="one_minute">1 минута</string>
-  <string name="ten_minutes">10 минути</string>
-  <string name="thir_seconds">30 секунди</string>
-  <string name="two_minutes">2 минути</string>
 </resources>

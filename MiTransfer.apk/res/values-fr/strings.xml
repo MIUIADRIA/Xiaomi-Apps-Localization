@@ -1,8 +1,5 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
-<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="device_edit_title">Renommer le téléphone</string>
   <string name="about_to_receive">Réception</string>
   <string name="about_to_send">Envoyer un fichier</string>
   <string name="app_name">Transfert</string>
@@ -19,13 +16,13 @@
   <string name="continue_to_send">Poursuivre l\'envoi</string>
   <string name="delete">Supprimer</string>
   <string name="device_default_name">Mi Phone</string>
+  <string name="device_edit_title">Renommer le téléphone</string>
   <string name="device_name">Nom de l\'appareil</string>
   <string name="device_name_tip">Appuyez sur À propos de l\'appareil, puis éditez le nom de l\'appareil.</string>
   <string name="editmode_menu_delete">Supprimer</string>
   <string name="editmode_menu_share">Partager</string>
   <string name="error_bad_file">Fichier corrompu</string>
   <string name="error_connect_service">Impossible de se connecter au service de transfert</string>
-  <string name="file_not_exist">Fichier inexistant</string>
   <string name="error_download">Le téléchargement a échoué</string>
   <string name="error_general">Une erreur globale est survenue</string>
   <string name="error_network">Une erreur de réseau est survenue</string>
@@ -37,6 +34,7 @@
   <string name="error_upload">L\'envoi a échoué</string>
   <string name="fail">Échec</string>
   <string name="failed">Échec</string>
+  <string name="file_not_exist">Fichier inexistant</string>
   <string name="finish">Terminé</string>
   <string name="first_in_tip">Utilisation de Transfert pour la première fois</string>
   <string name="goback">Retour</string>

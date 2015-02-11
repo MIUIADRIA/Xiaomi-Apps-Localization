@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about">Σχετικά</string>
   <string name="accept">Αποδοχή</string>
@@ -42,7 +42,7 @@
   <string name="bind_bracelet_ok">Επιτυχής σύνδεση με το MiBand</string>
   <string name="bind_devices">Σύνδεση συσκευών</string>
   <string name="bind_mi_band">Σύνδεση Mi Band</string>
-  <string name="bind_mi_band_about"><Data>&lt;a href=http://www.mi.com>View Mi Bind Website&lt;/a></Data></string>
+  <string name="bind_mi_band_about">&lt;Data&gt;&amp;lt;a href=http://www.mi.com&amp;gt;View Mi Bind Website&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
   <string name="bind_new_mili">Σύνδεση νέου MiBand</string>
   <string name="bind_qq">Προσθήκη QQ</string>
   <string name="bind_qq_health">Συγχρ.με το QQ Health</string>
@@ -233,7 +233,7 @@
   <string name="host_change_success">Επιτυχής αλλαγή host</string>
   <string name="hot_des">Ζέστη</string>
   <string name="hour_1">Έναρξη στις </string>
-  <string name="in" />
+  <string name="in"/>
   <string name="incoming_call_notify">Ειδοποίηση εισερχόμενης κλήσης</string>
   <string name="incoming_call_notify_closed">Ειδοποίηση εισερχόμενης κλήσης ανενεργή</string>
   <string name="incoming_call_notify_tips">"Δόνηση αν δεν απαντήσει μετά από %s δευτ."</string>
@@ -272,7 +272,7 @@
   <string name="lab_factory_share_photo_menu_title">Επιλογή φωτογραφίας από</string>
   <string name="lab_factory_sport_accumulate">%d φορές σύνολο</string>
   <string name="lab_factory_sport_analyser_activity_not_found">"Αδυναμία φόρτωσης του UI"</string>
-  <string name="lab_factory_sport_average_rate_per_minute">Ταχύτητα &lt;b>%d&lt;/b> φορά(εs)/λεπτό</string>
+  <string name="lab_factory_sport_average_rate_per_minute">Ταχύτητα &lt;b&gt;%d&lt;/b&gt; φορά(εs)/λεπτό</string>
   <string name="lab_factory_sport_best_record">"Προσωπικά καλύτερο: "</string>
   <string name="lab_factory_sport_button_restart">Επανεκκίνηση</string>
   <string name="lab_factory_sport_button_stop">Στοπ</string>
@@ -297,7 +297,7 @@
   <string name="lab_factory_sport_monitor_timeout_notice">Δεν ανιχνεύτηκε δραστηριότητα.</string>
   <string name="lab_factory_sport_more_sport_favorite_notice">"Δεν μπορείτε να επιλέξετε πάνω από ένα"</string>
   <string name="lab_factory_sport_more_sport_favorite_vote">Ψηφίστε για περισσότερα σπορ</string>
-  <string name="lab_factory_sport_pb_count">Προσωπικά καλύτερο &lt;b>%d&lt;/b></string>
+  <string name="lab_factory_sport_pb_count">Προσωπικά καλύτερο &lt;b&gt;%d&lt;/b&gt;</string>
   <string name="lab_factory_sport_pb_desc">Προσωπικά καλύτερο: %s</string>
   <string name="lab_factory_sport_pb_ropeskipping">Σχοινάκι</string>
   <string name="lab_factory_sport_pb_situp">Επικύψεις</string>
@@ -363,7 +363,7 @@
   <string name="mili_unbind_question">Μετά την αποσύνδεση το τηλέφωνο δεν θα μπορεί να αντλήσει πληροφορίες από το MiBand</string>
   <string name="mili_unbind_question_content">Μετά την αποσύνδεση μπορείτε να χρησιμοποιήσετε ένα άλλο τηλέφωνο για να συνδεθείτε στο MiBand ή να το αντικαταστήσετε με άλλο.</string>
   <string name="mili_unbind_question_content_1">Εάν έχετε ήδη ρυθμίσει το MiBand να ξεκλειδώσετε το τηλέφωνο, η αποσύνδεση θα αποτρέψει αυτή τη λειτουργία</string>
-  <string name="minute" />
+  <string name="minute"/>
   <string name="modify_gender">Φύλο</string>
   <string name="modify_height">Ύψος</string>
   <string name="modify_nickname">Ενημέρωση ψευδώνυμου</string>
@@ -509,7 +509,7 @@
   <string name="share_step_goal_failed_title_today">Ημερήσιο σύνολο βημάτων</string>
   <string name="share_step_goal_succ_title">Επιτυχία στόχου</string>
   <string name="share_step_goal_succ_title_today">Σύνολο ολοκληρωμένων στόχων</string>
-  <string name="share_step_ranking">Νικήσατε &lt;b>%s&lt;/b> χρήστες Mi band.</string>
+  <string name="share_step_ranking">Νικήσατε &lt;b&gt;%s&lt;/b&gt; χρήστες Mi band.</string>
   <string name="share_step_walk">Περπάτησα συνολικά</string>
   <string name="share_to_content">Μοιρασμός δράσης του MiBand</string>
   <string name="share_to_content_sleep">Πληροφ.ύπνου</string>
@@ -531,7 +531,7 @@
   <string name="sport_coming_soon">Check for news!</string>
   <string name="sport_new_record_ropeskipping">Νέο ρεκόρ</string>
   <string name="sport_ranking_desc_great">ΜΠΡΑΒΟ. Είστε ανίκητος τώρα!</string>
-  <string name="sport_ranking_desc_normal" formatted="false">Νικήσατε &lt;b>%s%&lt;/b> από  %s χρήστες MiBand.</string>
+  <string name="sport_ranking_desc_normal" formatted="false">Νικήσατε &lt;b&gt;%s%&lt;/b&gt; από  %s χρήστες MiBand.</string>
   <string name="sport_ranking_desc_poor">Κάθε %s χρήστης μπορεί να σας νικήσει!</string>
   <string name="sport_running_altitude">Υψόμετρο</string>
   <string name="sport_running_auto_pause">Ανίχνευση αυτόματης παύσης</string>
@@ -579,7 +579,7 @@
   <string name="sport_running_set_speed">Υπενθύμιση ταχύτητας</string>
   <string name="sport_running_settings">Ρυθμίσεις</string>
   <string name="sport_running_share">Κοινή χρήση</string>
-  <string name="sport_running_slider_prompt">>>>Σύρετε δεξιά ξεκλείδωμα</string>
+  <string name="sport_running_slider_prompt">&gt;&gt;&gt;Σύρετε δεξιά ξεκλείδωμα</string>
   <string name="sport_running_speed">Ταχύτητα</string>
   <string name="sport_running_speed_detail">%.2fΧμ/ω</string>
   <string name="sport_running_speed_with_unit">Ταχύτητα(Χμ/ω)</string>
@@ -678,13 +678,13 @@
   <string name="unlock_for_smartlock_pair_start_tip">Σύνδεση με βραχιόλι…</string>
   <string name="unlock_for_smartlock_pair_success_tip">Ρύθμιση Έξυπνου Κλειδώματος επιτυχής</string>
   <string name="unlock_for_smartlock_tip">Για να χρησιμοποιήσετε το ξεκλείδωμα, η εφαρμογή σας θα πρέπει να τρέχει στο παρασκήνιο</string>
-  <string name="unlock_for_smartlock_tip_step1">1st step: Go to <b>Settings</b> - <b>Security</b></string>
-  <string name="unlock_for_smartlock_tip_step2">2nd step: click on <b>Screen unlock</b> and set your password</string>
-  <string name="unlock_for_smartlock_tip_step3">3rd step: click on <b>Smart Lock</b> and choose needed device</string>
+  <string name="unlock_for_smartlock_tip_step1">1st step: Go to &lt;b&gt;Settings&lt;/b&gt; - &lt;b&gt;Security&lt;/b&gt;</string>
+  <string name="unlock_for_smartlock_tip_step2">2nd step: click on &lt;b&gt;Screen unlock&lt;/b&gt; and set your password</string>
+  <string name="unlock_for_smartlock_tip_step3">3rd step: click on &lt;b&gt;Smart Lock&lt;/b&gt; and choose needed device</string>
   <string name="unlock_screen">Ξεκλείδωμα οθόνης</string>
   <string name="unlock_screen_help_info0">Για να εξασφαλιστεί η ασφάλεια των κινητών τηλεφώνων με ξεκλείδωμα, το MiBand πρέπει να βρίσκεται κοντά στο τηλέφωνο. Εάν το MiBand δεν είναι σε κοντινή απόσταση, δε θα είστε σε θέση να ξεκλειδώσετε το τηλέφωνο.</string>
   <string name="unlock_screen_help_info1">Εάν το τηλέφωνό σας είναι ακόμη σε θέση να ξεκλειδώσει, παρακαλώ δοκιμάστε να απενεργοποιήσετε το Bluetooth και στη συνέχεια ενεργοποιήστε το ξανά. Περιμένετε για λίγα λεπτά για να γίνει σύνδεση, και η λειτουργία ξεκλειδώματος να αποκατασταθεί.</string>
-  <string name="unlock_screen_help_info2">Εάν η επανεκκίνηση του Bluetooth δεν λειτουργεί πηγαίνετε στο Ρυθμίσεις -> Όλες οι ρυθμίσεις -> Ασφάλεια &amp; προστασία της ιδιωτικής ζωής -> Ασφάλεια οθόνης και αφαιρέστε την τρέχουσα σύνδεση με το MiBand και προσπαθήστε να το προσθέσετε ξανά.</string>
+  <string name="unlock_screen_help_info2">Εάν η επανεκκίνηση του Bluetooth δεν λειτουργεί πηγαίνετε στο Ρυθμίσεις -&gt; Όλες οι ρυθμίσεις -&gt; Ασφάλεια &amp; προστασία της ιδιωτικής ζωής -&gt; Ασφάλεια οθόνης και αφαιρέστε την τρέχουσα σύνδεση με το MiBand και προσπαθήστε να το προσθέσετε ξανά.</string>
   <string name="unlock_screen_help_tips">Μόλις με 2 βήματα, ο πιο γρήγορος τρόπος να ξεκλειδώσετε την συσκευή σας.</string>
   <string name="unlock_screen_help_title0">Βεβαιωθείτε πως το MiBand είναι κοντά στο τηλέφωνο</string>
   <string name="unlock_screen_help_title1">Κάντε επανεκκίνηση του Bluetooth</string>
@@ -692,7 +692,7 @@
   <string name="unlock_screen_invalid">Δεν μπορείτε να ξεκλειδώσετε αυτή τη συσκευή με το MiBand;</string>
   <string name="unlock_screen_invalid_helper">Βοήθεια για την αποτυχία ξεκλειδώματος</string>
   <string name="unlock_screen_miui_version_low">Παλιά έκδοση του MIUI,παρακαλώ αναβαθμίστε για να συνεχίσω</string>
-  <string name="unlock_screen_modify_unlock">"Αν χρειαστούν τροποποιήσεις, ανοίξτε τις Ρυθμίσεις -> Όλες οι ρυθμίσεις -> Ασφάλεια &amp; προστασία της ιδιωτικής ζωής -> ασφάλεια οθόνης"</string>
+  <string name="unlock_screen_modify_unlock">"Αν χρειαστούν τροποποιήσεις, ανοίξτε τις Ρυθμίσεις -&gt; Όλες οι ρυθμίσεις -&gt; Ασφάλεια &amp; προστασία της ιδιωτικής ζωής -&gt; ασφάλεια οθόνης"</string>
   <string name="unlock_screen_not_connect">Παρακαλώ συνδέστε το MiBand, και μετά επεξεργαστείτε τις ρυθμίσεις ξεκλειδώματος</string>
   <string name="unlock_screen_set_password">Βήμα πρώτο, ορίστε κωδικό οθόνης</string>
   <string name="unlock_screen_set_password_tips_has_set">Επιτυχής ορισμός κωδικού οθόνης</string>

@@ -96,6 +96,22 @@
   <string name="cn_7">7</string>
   <string name="cn_8">8</string>
   <string name="cn_9">9</string>
+  <string name="combo_customize_desc">"Packages can define their own
+Set in its own good meters below the key page click into combo
+OK it"</string>
+  <string name="combo_edit">Edit</string>
+  <string name="combo_edit_title">Edit Combo</string>
+  <string name="combo_saveas_already_saved_desc">The current settings have been saved in the combo</string>
+  <string name="combo_saveas_desc">Description of the combo</string>
+  <string name="combo_saveas_name">Name</string>
+  <string name="combo_saveas_name_empty">Unnamed</string>
+  <string name="combo_saveas_title">Fill in the information package</string>
+  <string name="combo_speed_fast">Fast</string>
+  <string name="combo_speed_medium">Medium</string>
+  <string name="combo_speed_prefix">Speed:</string>
+  <string name="combo_speed_slow">Slow</string>
+  <string name="combo_standard_text">This combo can meet basic daily use, especially if you do not have a clear idea of the standard combo is a good choice.</string>
+  <string name="combo_standard_title">Standard Combo</string>
   <string name="company">Company:</string>
   <string name="confirm">OK</string>
   <string name="copy">Copy</string>
@@ -107,10 +123,14 @@
   <string name="delete_confirm">Are you sure you would like to delete this action?</string>
   <string name="delete_gesture">Delete button guestures for MiKey?</string>
   <string name="device_not_recognized">Connected device is not recognized, please try again.</string>
+  <string name="dialog_content_mad_click">Continuous Clicks:</string>
   <string name="dialog_title_disable_mikey_sprite">Disable MiKey wizard?</string>
+  <string name="dialog_title_mad_click">Prompt</string>
+  <string name="disable_mad_click">Disable mad mode</string>
   <string name="disable_mikey_sprite">Disable MiKey wizard</string>
   <string name="earphone">Headphones</string>
   <string name="email">E-mail:</string>
+  <string name="enable_mad_click">Enable mad mode</string>
   <string name="enable_mikey_sprite">Enable MiKey wizard</string>
   <string name="fail_generate_barcode">Failed to generate QR code</string>
   <string name="faq_comp_text">For MIUI and Xiaomi phones. The current version of MiKey is available at &lt;a href="http://xiaomi.eu/community/threads/mikey-app-1-4-1.24220/"&gt;xiaomi.eu&lt;/a&gt;</string>
@@ -150,6 +170,7 @@
   <string name="know_it">OK</string>
   <string name="long_click">Long press</string>
   <string name="message_photo_end">Picture saved</string>
+  <string name="mikey_sprite_toggle_title">MiKey wizard open</string>
   <string name="name">Name:</string>
   <string name="nickname">Nickname:</string>
   <string name="no_usage">...</string>
@@ -165,6 +186,10 @@
   <string name="phone">Phone:</string>
   <string name="picker_lable">Gallery</string>
   <string name="place_barcode_into_rectangle">Focus on the QR code</string>
+  <string name="privacy_mode_end">Privacy mode disabled</string>
+  <string name="privacy_mode_first_hint">For the first time visitor mode, set by the system is turned on guest mode</string>
+  <string name="privacy_mode_started">Privacy mode enabled</string>
+  <string name="privacy_mode_title">Privacy mode</string>
   <string name="rank_prefix">"Rankings: "</string>
   <string name="rank_suffix">" points"</string>
   <string name="recognize">Identify</string>
@@ -172,6 +197,9 @@
   <string name="running_notification">Xiaomi MiKey</string>
   <string name="scan_fail">Failed to scan!</string>
   <string name="scan_result">Scan results</string>
+  <string name="screenkey_disabled">Screen button disabled</string>
+  <string name="screenkey_enabled">Screen button enabled</string>
+  <string name="screenkey_title">Shield button</string>
   <string name="screenshot_crop">Crop</string>
   <string name="screenshot_full">Fullscreen</string>
   <string name="scrennshot_select_title">Select capture size</string>
@@ -241,6 +269,7 @@ From the top of the screen slide downwards to use it."</string>
 点击米键就是点击小白点儿下的屏幕"</string>
   <string name="splash_tip">Connect MiKey</string>
   <string name="super_difficult_click">Click difficulty</string>
+  <string name="tab_combo">Combo</string>
   <string name="tab_mikey">MiKey</string>
   <string name="tab_mikey_sprite">MiKey Wizard</string>
   <string name="task_title_prefix">Action %1$s: %2$s</string>
@@ -276,36 +305,7 @@ From the top of the screen slide downwards to use it."</string>
   <string name="wallpaper_changing">Changing wallpaper...</string>
   <string name="wallpaper_no_more">Dont replace wallpaper</string>
   <string name="web">Website:</string>
-  <string name="write_pic_fail">Failed to save picture!</string>
   <string name="webpage_input_title">Enter URL</string>
   <string name="webpage_title">Open webpage</string>
-  <string name="screenkey_title">Shield button</string>
-  <string name="mikey_sprite_toggle_title">MiKey wizard open</string>
-  <string name="privacy_mode_end">Privacy mode disabled</string>
-  <string name="privacy_mode_started">Privacy mode enabled</string>
-  <string name="privacy_mode_title">Privacy mode</string>
-  <string name="screenkey_disabled">Screen button disabled</string>
-  <string name="screenkey_enabled">Screen button enabled</string>
-  <string name="tab_combo">Combo</string>
-  <string name="privacy_mode_first_hint">For the first time visitor mode, set by the system is turned on guest mode</string>
-  <string name="enable_mad_click">Enable mad mode</string>
-  <string name="dialog_title_mad_click">Prompt</string>
-  <string name="disable_mad_click">Disable mad mode</string>
-  <string name="dialog_content_mad_click">Continuous Clicks:</string>
-  <string name="combo_customize_desc">"Packages can define their own
-Set in its own good meters below the key page click into combo
-OK it"</string>
-  <string name="combo_edit">Edit</string>
-  <string name="combo_edit_title">Edit Combo</string>
-  <string name="combo_saveas_already_saved_desc">The current settings have been saved in the combo</string>
-  <string name="combo_saveas_desc">Description of the combo</string>
-  <string name="combo_saveas_name">Name</string>
-  <string name="combo_saveas_name_empty">Unnamed</string>
-  <string name="combo_saveas_title">Fill in the information package</string>
-  <string name="combo_speed_fast">Fast</string>
-  <string name="combo_speed_medium">Medium</string>
-  <string name="combo_speed_prefix">Speed:</string>
-  <string name="combo_speed_slow">Slow</string>
-  <string name="combo_standard_text">This combo can meet basic daily use, especially if you do not have a clear idea of the standard combo is a good choice.</string>
-  <string name="combo_standard_title">Standard Combo</string>
+  <string name="write_pic_fail">Failed to save picture!</string>
 </resources>

@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
   <string name="about_preference_screen_title">Информация</string>
   <string name="about_preference_title">Информация</string>
@@ -12,6 +11,8 @@
   <string name="app_name">Xiaomi Удостоверител</string>
   <string name="app_name_lockpattern">Фигура за закл.</string>
   <string name="app_name_short">Удостоверител</string>
+  <string name="authenticator_invalid_tip">Можете да затворите приложението или да генерирате друг код за удостоверяване</string>
+  <string name="authenticator_invalid_title">Профил: %1$s неправилен код</string>
   <string name="authenticator_page_reactivation">Активирай отново</string>
   <string name="button_add_account">Добавяне на профил</string>
   <string name="button_add_account_manual_entry">Ръчно добавяне на профил</string>
@@ -27,6 +28,7 @@
   <string name="check_code_menu_item">Проверка на ключа</string>
   <string name="check_code_title">Стойност за целостта</string>
   <string name="context_menu_remove_account">Премахване</string>
+  <string name="continue_btn">Продължи</string>
   <string name="copy_to_clipboard">Копиране в буфера</string>
   <string name="correct_enter_password">Правилна парола</string>
   <string name="correct_enter_update_password">Паролата е правилна</string>
@@ -49,7 +51,7 @@
   <string name="error_qr">Този QR код не може да се разчете.</string>
   <string name="error_title">Грешка</string>
   <string name="error_uri">Ключът не е разпознат.</string>
-  <string name="forget_password"><u>Забравена парола</u></string>
+  <string name="forget_password">&lt;u&gt;&amp;#1047;&amp;#1072;&amp;#1073;&amp;#1088;&amp;#1072;&amp;#1074;&amp;#1077;&amp;#1085;&amp;#1072; &amp;#1087;&amp;#1072;&amp;#1088;&amp;#1086;&amp;#1083;&amp;#1072;&lt;/u&gt;</string>
   <string name="general_security_exception">Изключение от общата защита</string>
   <string name="gif_not_support_camera_msg">Вашето устройство не поддържа видеозапис.</string>
   <string name="how_it_works_menu_item">Начин на работа</string>
@@ -81,7 +83,7 @@
   <string name="lockpattern_recording_inprogress">Вдигнете пръст, когато завършите.</string>
   <string name="lockpattern_recording_intro_header">Начертайте фигура за отключване:</string>
   <string name="lockpattern_redraw_button_text">Отново</string>
-  <string name="lockpattern_retry_text"><u>Нулирай фигурата за отключване</u></string>
+  <string name="lockpattern_retry_text">&lt;u&gt;&amp;#1053;&amp;#1091;&amp;#1083;&amp;#1080;&amp;#1088;&amp;#1072;&amp;#1081; &amp;#1092;&amp;#1080;&amp;#1075;&amp;#1091;&amp;#1088;&amp;#1072;&amp;#1090;&amp;#1072; &amp;#1079;&amp;#1072; &amp;#1086;&amp;#1090;&amp;#1082;&amp;#1083;&amp;#1102;&amp;#1095;&amp;#1074;&amp;#1072;&amp;#1085;&amp;#1077;&lt;/u&gt;</string>
   <string name="lockpattern_settings_help_how_to_record">Как да начертаем фигура за отключване</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Опитайте отново след %d секунди.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Твърде много грешни опити!&lt;/font&gt;</string>
@@ -89,7 +91,7 @@
   <string name="lockpattern_tutorial_close_label">Затваряне</string>
   <string name="lockpattern_tutorial_continue_label">Напред</string>
   <string name="lockpattern_tutorial_jump_label">Пропускане</string>
-  <string name="lockscreen_forgot_pattern_button_text"><u>Забравих фигурата</u></string>
+  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;&amp;#1047;&amp;#1072;&amp;#1073;&amp;#1088;&amp;#1072;&amp;#1074;&amp;#1080;&amp;#1093; &amp;#1092;&amp;#1080;&amp;#1075;&amp;#1091;&amp;#1088;&amp;#1072;&amp;#1090;&amp;#1072;&lt;/u&gt;</string>
   <string name="login">Вход</string>
   <string name="main_preference_screen_title">Настройки</string>
   <string name="mycard_scan_barcode">MiID скенер</string>
@@ -108,8 +110,9 @@
   <string name="privacy_preference_title">Декларация за поверителност</string>
   <string name="progress_loading">Обработва се...</string>
   <string name="remove_Xiaomi_account_dialog_message">Премахването на профила ще &lt;b&gt;премахне възможността ви&lt;/b&gt; да генерирате кодове, но това &lt;b&gt;няма&lt;/b&gt; да изключи удостоверяването в 2 стъпки. Това може да ви попречи да влезете в профила си. &lt;p&gt; Преди премахване: &lt;ul&gt; &lt;li&gt;изключете двуфакторното удостоверяване на самоличността за този профил или&lt;/li&gt; &lt;li&gt;се уверете, че имате алтернативен механизъм за генериране на кодове.&lt;/li&gt; &lt;/ul&gt;</string>
+  <string name="remove_account">Премахни профила</string>
   <string name="remove_account_dialog_button_remove">Премахване</string>
-  <string name="remove_account_dialog_message">"Премахването на профила ще &lt;b>премахне възможността ви&lt;/b> да генерирате кодове, но &lt;b>няма&lt;/b> да изключи двуфакторното  удостоверяване на самоличността. Това може да ви попречи да влизате в профила. &lt;p> Преди премахването: &lt;ul> &lt;li>изключете двуфакторното удостоверяване на самоличността за този профил; или&lt;/li> &lt;li>се уверете, че разполагате с алтернативен механизъм за генериране на кодове.&lt;/li> &lt;/ul>"</string>
+  <string name="remove_account_dialog_message">"Премахването на профила ще &lt;b&gt;премахне възможността ви&lt;/b&gt; да генерирате кодове, но &lt;b&gt;няма&lt;/b&gt; да изключи двуфакторното  удостоверяване на самоличността. Това може да ви попречи да влизате в профила. &lt;p&gt; Преди премахването: &lt;ul&gt; &lt;li&gt;изключете двуфакторното удостоверяване на самоличността за този профил; или&lt;/li&gt; &lt;li&gt;се уверете, че разполагате с алтернативен механизъм за генериране на кодове.&lt;/li&gt; &lt;/ul&gt;"</string>
   <string name="remove_account_dialog_title">Да се премахне ли профила?</string>
   <string name="rename">Преименуване</string>
   <string name="rename_message">Преименуване на %1$s</string>
@@ -121,13 +124,14 @@
   <string name="security_setting">Сигурност</string>
   <string name="settings_menu_item">Настройки</string>
   <string name="submit">Запазване</string>
+  <string name="success_copy_to_clipboard">Копирано в клипборда</string>
   <string name="success_reset_password">Паролата е нулирана</string>
   <string name="success_set_password">Паролата е настроена</string>
   <string name="summary_lockpattern">Изисква фигура за отключване за MiКредит</string>
   <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">Общи условия</string>
   <string name="timesync_about_feature_preference_title">Всичко за тази функция</string>
-  <string name="timesync_about_feature_screen_details">Ако натиснете „Синхронизиране сега“, Удостоверител ще направи един опит да синхронизира вътрешния си часовник със сървърите на Google. Настройките за датата и часа на устройството няма да бъдат променени. &lt;p> Удостоверител не предава лични данни или информация за профила при синхронизирането на часовника си със сървърите на Google. &lt;p> &lt;b>Защо това е полезно&lt;/b> &lt;p> Удостоверител генерира кодове за потвърждение в две стъпки въз основа на 1) текущия час и 2) тайно число, известно на приложението и сървъра. &lt;p> Ако Удостоверител и сървърът не са съгласни колко е часът, е възможно генерираните от приложението кодове да не бъдат приети, когато се опитате да влезете в профила си. &lt;p> По подразбиране Удостоверител използва настройките за датата и часа на устройството и в повечето случаи ще можете да генерирате валидни кодове, като се уверите, че настройките ви за датата, часа и часовата зона са правилни. При несъответствия в часа обаче отстраняването на неизправностите може да е трудно (особено ако използвате предоставени от мрежата час или часова зона).</string>
+  <string name="timesync_about_feature_screen_details">Ако натиснете „Синхронизиране сега“, Удостоверител ще направи един опит да синхронизира вътрешния си часовник със сървърите на Google. Настройките за датата и часа на устройството няма да бъдат променени. &lt;p&gt; Удостоверител не предава лични данни или информация за профила при синхронизирането на часовника си със сървърите на Google. &lt;p&gt; &lt;b&gt;Защо това е полезно&lt;/b&gt; &lt;p&gt; Удостоверител генерира кодове за потвърждение в две стъпки въз основа на 1) текущия час и 2) тайно число, известно на приложението и сървъра. &lt;p&gt; Ако Удостоверител и сървърът не са съгласни колко е часът, е възможно генерираните от приложението кодове да не бъдат приети, когато се опитате да влезете в профила си. &lt;p&gt; По подразбиране Удостоверител използва настройките за датата и часа на устройството и в повечето случаи ще можете да генерирате валидни кодове, като се уверите, че настройките ви за датата, часа и часовата зона са правилни. При несъответствия в часа обаче отстраняването на неизправностите може да е трудно (особено ако използвате предоставени от мрежата час или часова зона).</string>
   <string name="timesync_about_feature_screen_title">Всичко за тази функция</string>
   <string name="timesync_preference_screen_summary">Синхронизиране на вътрешния часовник на Удостоверител със сървърите на Google</string>
   <string name="timesync_preference_screen_title">Корекция на часа за кодове</string>
@@ -139,7 +143,7 @@
   <string name="timesync_sync_now_screen_title">Синхронизиране сега</string>
   <string name="timesync_sync_now_time_already_correct_dialog_details">Вътрешният часовник на Удостоверител не бе коригиран, защото изглежда, че вече е синхронизиран със сървърите на Google.</string>
   <string name="timesync_sync_now_time_already_correct_dialog_title">Часът вече е правилен</string>
-    <string name="timesync_sync_now_time_corrected_dialog_details">"Вътрешният часовник на Удостоверител бе коригиран да съответства на часа, посочен от сървърите на Google. 
+  <string name="timesync_sync_now_time_corrected_dialog_details">"Вътрешният часовник на Удостоверител бе коригиран да съответства на часа, посочен от сървърите на Google. 
 
 Настройките за датата и часа на устройството не бяха променени."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Часът бе поправен</string>
@@ -163,12 +167,7 @@
   <string name="type_prompt">Тип ключ</string>
   <string name="update_pattern_jump">Затваряне</string>
   <string name="version_preference_title">Версия</string>
-  <string name="welcome_page_alert">&lt;font color=#fb3500>Забележка:&lt;/font>Не изтривайте ключа, в противен случай няма как да влезете</string>
+  <string name="welcome_page_alert">&lt;font color=#fb3500&gt;Забележка:&lt;/font&gt;Не изтривайте ключа, в противен случай няма как да влезете</string>
   <string name="welcome_page_details">Потвърждаването в две стъпки защитава профила ви в Xiaomi дори ако паролата ви бъде открадната.</string>
   <string name="welcome_page_title">Всеки ден защитата на хиляди профили бива пробита.</string>
-  <string name="continue_btn">Продължи</string>
-  <string name="authenticator_invalid_tip">Можете да затворите приложението или да генерирате друг код за удостоверяване</string>
-  <string name="authenticator_invalid_title">Профил: %1$s неправилен код</string>
-  <string name="remove_account">Премахни профила</string>
-  <string name="success_copy_to_clipboard">Копирано в клипборда</string>
 </resources>

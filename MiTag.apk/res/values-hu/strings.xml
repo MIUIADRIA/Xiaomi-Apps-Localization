@@ -24,6 +24,12 @@
   <string name="btn_install">Telepítés</string>
   <string name="btn_start">Indítás</string>
   <string name="btn_write">Írás</string>
+  <string name="bump_erase">"Az NFC-matrica törléséhez
+érintse össze a telefon hátuljával"</string>
+  <string name="bump_start">"A kezdéshez érintse
+a telefon hátlapját a matricához"</string>
+  <string name="bump_write">"A NFC-matrica írásához
+érintse össze a telefon hátlapjával"</string>
   <string name="bump_write_alert">A beállítás alkalmazásához érintse a telefon hátlapját a matricához</string>
   <string name="call_sb">%s hívása</string>
   <string name="call_to">Hívás…;</string>
@@ -69,9 +75,9 @@
   <string name="err_nfc_off">Kapcsolja be az NFC-t a Beállításokban &gt; Vezeték nélküli &amp; egyéb hálózatok &gt; Továbbiak &gt; NFC</string>
   <string name="err_no_enough_space">Nincs elég hely a matricán</string>
   <string name="err_no_nfc">"A készülék nem támogatja az NFC-t. ez az alkalmazás lehetséges, hogy nem fog működni."</string>
-  <string name="err_tag_read_only">"Nem írhat erre a matricára"</string>
-  <string name="err_tag_protected">Ez a matrica jelszóvédett. Adja meg a helyes jelszót.</string>
   <string name="err_tag_not_supported">"A telefon nem támogatja az NFC-t"</string>
+  <string name="err_tag_protected">Ez a matrica jelszóvédett. Adja meg a helyes jelszót.</string>
+  <string name="err_tag_read_only">"Nem írhat erre a matricára"</string>
   <string name="error_password">Hibás jelszó</string>
   <string name="failed_install">A telepítés nem sikerült</string>
   <string name="failed_to_erase">Nem sikerült a matrica törlése</string>
@@ -162,6 +168,7 @@
   <string name="sound_notification">Értesítések</string>
   <string name="sound_ringer">Csengetés</string>
   <string name="sound_voice">Hívás hangereje</string>
+  <string name="start_configuration">NFC-matrica beállítása</string>
   <string name="sure_to_delete_user_config">Törli ezt a beállítást?</string>
   <string name="tag_history">Előzmény</string>
   <string name="tag_history_date_format">M.d</string>
@@ -171,6 +178,10 @@
   <string name="torch">Lámpa</string>
   <string name="total_read_tag">Beolvasott:</string>
   <string name="total_write_tag">Írt:</string>
+  <string name="touch_and_erase_more">"Másolat törléséhez
+érintse össze a telefon hátlapját egy másik matricával.."</string>
+  <string name="touch_and_write_more">"Egy újabb másolat írásához
+érintse össze a telefon hátlapját egy másik matricával."</string>
   <string name="unavailable_net">"A telepítés nem sikerült: nincs hálózati kapcsolat"</string>
   <string name="unavailable_storage">"A telepítés nem sikerült: Nem használható az SD kártya"</string>
   <string name="unrecognized_tag">Ismeretlen NFC-matrica tartalom</string>
@@ -194,20 +205,9 @@
   <string name="xiaomi_external_storage_unavailable">A tárhely nem elérhető, ellenőrizze az SD kártyát.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
-  <string name="xiaomi_update_dialog_title">%1$s frissítés!</string>
-  <string name="start_configuration">NFC-matrica beállítása</string>
-  <string name="bump_erase">"Az NFC-matrica törléséhez
-érintse össze a telefon hátuljával"</string>
-  <string name="bump_start">"A kezdéshez érintse
-a telefon hátlapját a matricához"</string>
-  <string name="bump_write">"A NFC-matrica írásához
-érintse össze a telefon hátlapjával"</string> 
-  <string name="touch_and_erase_more">"Másolat törléséhez
-érintse össze a telefon hátlapját egy másik matricával.."</string>
-  <string name="touch_and_write_more">"Egy újabb másolat írásához
-érintse össze a telefon hátlapját egy másik matricával."</string> 
   <string name="xiaomi_update_dialog_message">"Jelenlegi verzió %1$s
 Méret: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Jelenlegi verzió %1$s
 Frissítés mérete: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">%1$s frissítés!</string>
 </resources>

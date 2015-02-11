@@ -35,7 +35,6 @@
   <string name="decoding_exception">Decodifica eccezione in corso</string>
   <string name="details_patternforgotten">"Resetta la password:
 Esegui il login su https://account.xiaomi.com e seleziona l'opzione di recupero 'Password dimenticata'"</string>
- 
   <string name="enter_account_label">"Inserisci il nome dell'account"</string>
   <string name="enter_key_hint">Inserisci la tua chiave</string>
   <string name="enter_key_illegal_char">La chiave inserita contiene caratteri non ammessi</string>
@@ -48,7 +47,7 @@ Esegui il login su https://account.xiaomi.com e seleziona l'opzione di recupero 
   <string name="error_qr">Impossibile interpretare il codice QR.</string>
   <string name="error_title">Errore</string>
   <string name="error_uri">Chiave non riconosciuta.</string>
-  <string name="forget_password"><u>Password dimenticata</u></string>
+  <string name="forget_password">&lt;u&gt;Password dimenticata&lt;/u&gt;</string>
   <string name="general_security_exception">Eccezione generale di sicurezza</string>
   <string name="gif_not_support_camera_msg">Il tuo dispositivo non supporta la registrazione video.</string>
   <string name="how_it_works_menu_item">Come funziona</string>

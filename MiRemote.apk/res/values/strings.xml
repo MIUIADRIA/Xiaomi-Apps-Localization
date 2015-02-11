@@ -428,6 +428,7 @@ To activate your account, follow the
     <string name="match_is_respond">是否有相应？</string>
     <string name="match_dataset_frame">第%1$d/%2$d套方案</string>
     <string name="connect_to_retry">未连接网络，请联网后重试</string>
+    <string name="submit_fail_retry">提交失败了，请您重新提交，谢谢</string>
     <string name="click_to_retry">点击重试</string>
     <string name="scanning_milink">正在等待无线设备</string>
     <string name="milink_nowifi">未连接Wifi网络，无法连接设备</string>

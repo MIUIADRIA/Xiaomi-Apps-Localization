@@ -83,7 +83,7 @@ Localization Project For Xiaomi Gadgets Android Applications
 - Portuguese (Efex)
 - Macedonian (thenewmaker, MIUI Adria)
 - Thai (hpro)
-- German (hpro)
+- German (hpro, AndroidFuchs)
 - Romanian (gtiu)
 - .......... More To Come ..........
 

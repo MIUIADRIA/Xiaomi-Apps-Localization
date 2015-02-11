@@ -26,7 +26,7 @@ Localization Project For Xiaomi Gadgets Android Applications
 - MiClick_3.0.1 - http://app.mi.com/detail/59090 - English
 - MiFit_1.3.114 - http://app.mi.com/detail/68548 - English + Chinese Images
 - MiHealth_1.3.2 - http://app.mi.com/detail/73250 - Chinese Only
-- MiRemote_4.1 - http://app.mi.com/detail/31067 - Partially English
+- MiRemote_4.2 - http://app.mi.com/detail/31067 - Partially English
 - MiRouter_1.0.60 - http://app.mi.com/detail/53711 - Partially English
 - MiSmartHome_2.2.2 - http://app.mi.com/detail/75542 - Chinese Only
 - MiSoundBar_1.1.1 - http://app.mi.com/detail/64097 - Chinese Only

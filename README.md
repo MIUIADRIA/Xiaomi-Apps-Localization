@@ -85,6 +85,7 @@ Localization Project For Xiaomi Gadgets Android Applications
 - Thai (hpro)
 - German (hpro, AndroidFuchs)
 - Romanian (gtiu)
+- Indonesian (kennyanthony)
 - .......... More To Come ..........
 
 

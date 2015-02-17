@@ -1,0 +1,127 @@
+{
+    "0": {
+        name: "Pachetul standard",
+        desc: "Pachet basic pentru utilizarea de zi cu zi",
+        speed: 500,
+        actions: {
+            "1": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.ToolboxAction",
+                        subActions: [
+                            {
+                                name: "com.xiaomi.miclick.core.action.TorchAction"
+                            },
+                            {
+                                name: "com.xiaomi.miclick.core.action.AudioRecorderAction"
+                            },
+                            {
+                                name: "com.xiaomi.miclick.core.action.CapturePhotoInstantAction"
+                            },
+                            {
+                                name: "com.xiaomi.miclick.core.action.EmptyAction"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "2": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.WallpaperAction"
+                    }
+                ]
+            },
+            "0": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.ScreenShotAction"
+                    },
+                    {
+                        name: "com.xiaomi.miclick.core.action.WeChatTimeLineShareAction"
+                    }
+                ]
+            }
+        }
+    },
+    "1": {
+        name: "Buton de Power",
+        desc: "Acest pachet este potrivit pentru pentru a simula pe deplin alte butoane fizice, răspuns rapid! Implicit este butonul de Power dar poate fi, de asemenea, înlocuit cu alțe functii.",
+        speed: 0,
+        actions: {
+            "1": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.key.PowerShortAction"
+                    }
+                ]
+            },
+            "0": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.key.PowerLongAction"
+                    }
+                ]
+            }
+        }
+    },
+    "2": {
+            name: "Pachet spion",
+            desc: "Cu aceasta functie puteti face poze rapid si nedetectat sau porni o inregistrare. Atentie daca va face captura cu Auto Focus!",
+            speed: 0,
+            actions: {
+                "1": {
+                    name: "com.xiaomi.miclick.core.action.GroupAction",
+                    subActions: [
+                        {
+                            name: "com.xiaomi.miclick.core.action.CapturePhotoInstantAction"
+                        }
+                    ]
+                },
+                "0": {
+                    name: "com.xiaomi.miclick.core.action.GroupAction",
+                    subActions: [
+                        {
+                            name: "com.xiaomi.miclick.core.action.AudioRecorderAction"
+                        }
+                    ]
+                }
+            }
+    },
+    "3": {
+        name: "Combina functii",
+        desc: "Acest pachet imbina mai multe functii... incercati-le",
+        speed: 1000,
+        actions: {
+            "8": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.TorchAction"
+                    }
+                ]
+            },
+            "9": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.SearchAction"
+                    }
+                ]
+            },
+            "10": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.ClearMemoryAction"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -161,7 +161,7 @@
   <string name="checknet_error_internet_response_result_ok">成功</string>
   <string name="checknet_error_internet_response_result_unknown">未知错误</string>
   <string name="checknet_error_main_stream_blocking">播放高清视频可能会出现卡顿。</string>
-  <string name="checknet_error_msg_format" formatted="false">&lt;Data&gt;"&amp;lt;font color='#373737'&amp;gt;%s&amp;lt;/font&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#262626'&amp;gt;%s&amp;lt;/font&amp;gt;"&lt;/Data&gt;</string>
+  <string name="checknet_error_msg_format" formatted="false">&lt;Data&gt;"&amp;lt;font color=\'#373737\'&amp;gt;%s&amp;lt;/font&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color=\'#262626\'&amp;gt;%s&amp;lt;/font&amp;gt;"&lt;/Data&gt;</string>
   <string name="checknet_error_unknown_wifi_info">获取WiFi信息失败，请尝试使用其他WiFi连接</string>
   <string name="checknet_gateway">网关:</string>
   <string name="checknet_internet_category">网络类型:</string>

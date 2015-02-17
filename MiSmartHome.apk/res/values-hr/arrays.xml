@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weekday">
+        <item>Ponedjeljak</item>
+        <item>Utorak</item>
+        <item>Srijeda</item>
+        <item>Četvrtak</item>
+        <item>Petak</item>
+        <item>Subota</item>
+        <item>Nedjelja</item>
+    </string-array>
+    <string-array name="weekday_short">
+        <item>Pon</item>
+        <item>Uto</item>
+        <item>Sri</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sub</item>
+        <item>Ned</item>
+    </string-array>
+    <string-array name="family_memeber_names">
+        <item>Supružnik</item>
+        <item>Tata</item>
+        <item>Mama</item>
+        <item>Sin</item>
+        <item>Kći</item>
+        <item>Rođak</item>
+        <item>Ostali članovi</item>
+    </string-array>
+    <string-array name="device_shop_detail_webview_title">
+        <item>Značajke</item>
+        <item>Specifikacije</item>
+        <item>Sadržaj</item>
+    </string-array>
+</resources>

@@ -39,6 +39,7 @@
   <string name="account_not_exists">账号不存在</string>
   <string name="account_null">账户不可为空</string>
   <string name="account_settting">账号设置</string>
+  <string name="accountorpassword_authentication_failed">账户或密码验证失败</string>
   <string name="action_settings">Settings</string>
   <string name="add_alarm_setting">新增报警时间段</string>
   <string name="add_device">添加摄像机</string>
@@ -176,11 +177,13 @@
   <string name="checknet_ok">恭喜你，网络连接正常！</string>
   <string name="checknet_progress_prompt">正在检测，请吃包辣条耐心等待...</string>
   <string name="choose">选择</string>
+  <string name="choose_language">请选择语言:</string>
   <string name="clip">剪辑</string>
   <string name="close">关闭</string>
   <string name="company_copyright">云蚁科技版权所有</string>
   <string name="company_copyright_english">Copyright 2014, ants Technology Co., LTD All Rights Reserved.</string>
   <string name="company_market">商城：http://ants.tmall.com</string>
+  <string name="company_name">小蚁科技有限公司</string>
   <string name="company_telephone">电话：400-920-6788</string>
   <string name="company_website">官网：http://www.360ants.com</string>
   <string name="configing_camera">正在配置摄像机...</string>
@@ -194,6 +197,7 @@
   <string name="current_version_no">当前版本号</string>
   <string name="data_load_failed">获取失败</string>
   <string name="data_loading">获取中...</string>
+  <string name="data_not_receiver">数据无法接收</string>
   <string name="db_databasecontext_sd_card_manager">SD卡管理：</string>
   <string name="db_databasecontext_sd_card_not_exists">SD卡不存在，请加载SD卡</string>
   <string name="db_sdcarddbhelper_out_line_faild">创建离线所需数据库表失败</string>
@@ -207,6 +211,8 @@
   <string name="device_address">描述</string>
   <string name="device_alarm">报警</string>
   <string name="device_alarm_setting">报警设置</string>
+  <string name="device_contect_failed">连接失败</string>
+  <string name="device_contect_timeout">设备连接超时</string>
   <string name="device_is_offline">设备不在线,不能预览!</string>
   <string name="device_name">名称</string>
   <string name="device_no">编号</string>
@@ -227,6 +233,7 @@
   <string name="event_list">历史视频列表</string>
   <string name="event_search">历史视频搜索</string>
   <string name="evernote">印象笔记</string>
+  <string name="exceed_max_size">超出缓存</string>
   <string name="exit_app_warn">再按一次退出应用</string>
   <string name="facebook">Facebook</string>
   <string name="fail_to_connect_camera">连接摄像机失败！</string>
@@ -252,6 +259,8 @@
   <string name="file_uploading">文件上传中，还有分片上传任务未分配</string>
   <string name="finish">完成</string>
   <string name="firmware_upgrade">摄像机升级</string>
+  <string name="firmware_version">固件版本号</string>
+  <string name="firmware_version_number">软件版本号：</string>
   <string name="first_config_message">请确认摄像机处于橙灯常亮状态！</string>
   <string name="first_config_title">首次配置</string>
   <string name="first_config_title2">摄像机WiFi配置</string>
@@ -274,6 +283,7 @@
   <string name="hint_upload_to_youku_title">视频标题</string>
   <string name="hint_video_unpublish">该视频未发布,无法分享!</string>
   <string name="history_video">历史</string>
+  <string name="hk_language">香港繁体</string>
   <string name="hour">小时</string>
   <string name="ignore">忽略</string>
   <string name="in_back_recording">正在后台录像中,请等待录像完成!</string>
@@ -346,6 +356,7 @@
   <string name="none_meida_info">对不起，您暂时没有富媒体消息</string>
   <string name="none_update">没有更新</string>
   <string name="none_video">该设备没有视频!</string>
+  <string name="not_found_device">找不到设备</string>
   <string name="not_in_wifi">当前使用的不是Wifi网络,确定播放?</string>
   <string name="number">编号：yunyi.EFFFFFDDDD</string>
   <string name="ok">确定</string>
@@ -356,6 +367,7 @@
   <string name="op_success">操作成功!</string>
   <string name="open_camera">开启摄像机</string>
   <string name="open_guide_light">开启指示灯</string>
+  <string name="operation_timeout">操作超时</string>
   <string name="pass_null">密码不可为空</string>
   <string name="passthrough_message">透传消息</string>
   <string name="password">密码</string>
@@ -399,6 +411,7 @@
   <string name="repass_null">确认密码不可为空</string>
   <string name="repasserr">确认密码与密码不符</string>
   <string name="repassword">重复密码</string>
+  <string name="replay_failed">转播失败</string>
   <string name="research">重新查询</string>
   <string name="reset_wait_relax">"请使用重置针插入重置孔中
 等待指示灯变成橙灯长亮后松开"</string>
@@ -420,6 +433,7 @@
   <string name="sdcard_total_size">存储空间大小</string>
   <string name="security_options">安全选项:</string>
   <string name="select_one_plat_at_least">请选择一个目标平台</string>
+  <string name="session_failed">会话中断</string>
   <string name="set_wifi_fail">摄像机连接失败,请重启摄像机重试!</string>
   <string name="set_wifi_success">摄像机WiFi配置成功</string>
   <string name="setting_alarm_history">历史报警列表</string>
@@ -548,10 +562,11 @@
   <string name="tips_snapshot_failed">拍照失败</string>
   <string name="tips_snapshot_ok">截图成功</string>
   <string name="tips_warning">警告</string>
+  <string name="tips_wifi_connect_fail">WiFi连接失败，请重试</string>
   <string name="tips_wifi_connected">已连接</string>
   <string name="tips_wifi_connecting">连接中…</string>
   <string name="tips_wifi_disconnect">未连接</string>
-  <string name="tips_wifi_name">请输入WiFi名称</string>
+  <string name="tips_wifi_name">请选择WiFi</string>
   <string name="tips_wifi_password">请输入密码</string>
   <string name="title">标题</string>
   <string name="title_add_device">增加摄像机</string>
@@ -567,11 +582,13 @@
   <string name="title_modify_device">修改摄像机</string>
   <string name="title_operation">操作</string>
   <string name="title_user_info">账户信息</string>
+  <string name="title_wifi_available">可连接网络</string>
   <string name="to">到</string>
   <string name="toast_cannot_use_hight_quilty_cause_mode_error">只有在直线快速模式下才能看高清视频哦~</string>
   <string name="toast_do_not_support_sdk">暂不支持此手机版本</string>
   <string name="toast_out_of_memory">内存不够啦~~</string>
   <string name="tumblr">Tumblr</string>
+  <string name="tw_language">台湾繁体</string>
   <string name="twenty_second">20秒</string>
   <string name="twitter">Twitter</string>
   <string name="txtFrameRatio">掉包率:</string>
@@ -584,6 +601,7 @@
   <string name="txtUID">编号</string>
   <string name="type_weekends">周末</string>
   <string name="type_workday">工作日</string>
+  <string name="udp_ready_receive">准备接收</string>
   <string name="uid_length_too_short">摄像机编号不能小于5位！</string>
   <string name="umeng_common_action_cancel">取消</string>
   <string name="umeng_common_action_continue">继续</string>
@@ -616,6 +634,7 @@
   <string name="umeng_xp_tip_download_pre">开始下载</string>
   <string name="umeng_xp_title_info">精彩推荐</string>
   <string name="unbind_success">取消绑定成功!</string>
+  <string name="unlogin">未登录</string>
   <string name="unsupport_phone">暂不支持手机</string>
   <string name="update_token">更新Token</string>
   <string name="upload">上传</string>
@@ -628,6 +647,8 @@
   <string name="user_feedback">意见反馈</string>
   <string name="user_input_uid">&lt;a href="#"&gt;&amp;#25195;&amp;#25551;&amp;#22833;&amp;#36133;&amp;#24590;&amp;#20040;&amp;#21150;&amp;#65311;&lt;/a&gt;</string>
   <string name="user_login_in_other_device">当前账号已在其它地方登陆</string>
+  <string name="user_tips">点击这里添加摄像机</string>
+  <string name="user_tips2">体验碉堡的智能摄像机吧</string>
   <string name="userinfo_account_qq">QQ空间</string>
   <string name="userinfo_account_tencent_weibo">腾讯微博</string>
   <string name="userinfo_account_weibo">新浪微博</string>
@@ -722,6 +743,7 @@
   <string name="winexperience_tfcardstate_info_total_8g">8G的TF卡够大吗？</string>
   <string name="winexperience_tfcardstate_title">内存卡(TF)卡状态</string>
   <string name="winexperience_waiting_check">跑分君为了结果更准确，还在努力检测中哦...</string>
+  <string name="work_day">工作日</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_external_storage_unavailable">存储分区不可用，请检查SD卡</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>

@@ -123,7 +123,6 @@
   <string name="ir_device_dvd">DVD</string>
   <string name="ir_device_fan">Ventilator</string>
   <string name="ir_device_lamp">Svjetiljka</string>
-  <string name="ir_device_lamp">Osvjetljenje</string>
   <string name="ir_device_mibox">MiBox</string>
   <string name="ir_device_milink">Wireless oprema</string>
   <string name="ir_device_mitv">MiTV</string>

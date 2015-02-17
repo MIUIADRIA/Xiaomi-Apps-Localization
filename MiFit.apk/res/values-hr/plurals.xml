@@ -6,7 +6,7 @@
         <item quantity="one">Odabrano: %1$d</item>
     </plurals>
     <plurals name="numberOfPullUpdateReport">
-        <item quantity="other">Ažurinano stavki: %d.</item>
-        <item quantity="one">Ažurinana %d stavka.</item>
+        <item quantity="other">Ažurirano stavki: %d.</item>
+        <item quantity="one">Ažurirana %d stavka.</item>
     </plurals>
 </resources>

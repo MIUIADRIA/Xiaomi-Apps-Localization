@@ -266,8 +266,7 @@ OK "</string>
     <string name="faq_misreq_title">Allgemeine Probleme lösen</string>
     <string name="faq_misreq_text">"Wenn die Steuerung von Musik auf dem gesperrten Bildschirm nicht reagiert, beenden Sie die Music App und nehmen Sie sie aus dem Speicher. Verbinden Sie MiKey und versuchen Sie es erneut."</string>
     <string name="faq_comp_title">Unterstützte Geräte</string>
-    <string name="faq_comp_text">Für MIUI XIAOMI und Telefone. Die aktuelle Version von MiKey ist & lt verfügbar; a 
-	<a href http://xiaomi.eu/community/threads/mikey-app-1-4-1.24220/> xiaomi.eu & lt; / a></string>
+    <string name="faq_comp_text">Für MIUI XIAOMI und Telefone. Die aktuelle Version von MiKey ist verfügbar&lt;a href=http://xiaomi.eu/community/threads/mikey-app-1-4-1.24220/&gt;xiaomi.eu&lt;/a&gt;</string>
     <string name="faq_voice_title">Kein Ton während eines Anrufs?</string>
     <string name="faq_voice_text">Bitte ziehen Sie MiKey raus und setzen Sie den MiKey neu ein und versuchen Sie es erneut.</string>
     <string name="faq_slow_title">Langsame Reaktion?</string>

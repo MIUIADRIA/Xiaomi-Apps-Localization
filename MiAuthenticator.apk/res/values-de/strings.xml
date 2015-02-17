@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Xiaomi Authenticator</string>
+    <string name="app_name_short">Authenticator</string>
+    <string name="enter_key_title">Manueller Konto Eintrag</string>
+    <string name="enter_key_page_add_button">Hinzufügen</string>
+    <string name="button_add_account">Konto hinzufügen</string>
+    <string name="button_how_it_works">So funktioniert es</string>
+    <string name="add_account_menu_item">Konto hinzufügen</string>
+    <string name="how_it_works_menu_item">So funktioniert es</string>
+    <string name="main_preference_screen_title">Einstellungen</string>
+    <string name="about_preference_title">Info über]</string>
+    <string name="settings_menu_item">Einstellungen</string>
+    <string name="button_add_account_manual_entry">Konto manuell hinzufügen</string>
+    <string name="button_add_account_scan_barcode">Barcode Einscannen</string>
+    <string name="button_next">Weiter</string>
+    <string name="button_back">Zurück</string>
+    <string name="enter_account_label">Geben Sie einen Kontonamen einen</string>
+    <string name="enter_key_hint">Geben Sie Ihren Schlüssel ein</string>
+    <string name="enter_key_too_short">Der Schlüssel Wert ist zu kurz</string>
+    <string name="enter_key_illegal_char">Der Schlüsselwert hat unzulässiges Zeichen</string>
+    <string name="error_title">Fehler</string>
+    <string name="error_uri">Schlüssel nicht erkannt.</string>
+    <string name="error_qr">QR-Code konnte nicht interpretiert werden.</string>
+    <string name="secret_saved">Geheimfrage gespeichert</string>
+    <string name="save_key_message">Sicherheitsfrage speichern</string>
+    <string name="error_empty_secret">Leere Sicherheitsfrage kann nicht gespeichert werden</string>
+    <string name="enter_pin">Geben Sie diesen Bestätigungscode ein, bei der Kontoanmeldung:</string>
+    <string name="check_code_title">Integritätsprüfwert</string>
+    <string name="check_code_menu_item">Schlüsselwert überprüfen</string>
+    <string name="install_dialog_title">Wollen Sie den Barcode-Scanner installieren?</string>
+    <string name="install_dialog_message">UM Barcodes zu scannen, müssen Sie den ZXing Barcode-Scanner installieren.</string>
+    <string name="install_button">Installieren</string>
+    <string name="about_preference_screen_title">Info über</string>
+    <string name="version_preference_title">Version</string>
+    <string name="opensource_preference_title">Open-Source-Projekt</string>
+    <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
+    <string name="terms_preference_title">Nutzungsbedingungen</string>
+    <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
+    <string name="privacy_preference_title">Datenschutz-Bestimmungen</string>
+    <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
+    <string name="check_code">Um zu überprüfen, dass Sie den korrekten Schlüsselwert für% 1 $ haben, prüfen Sie ob der Wert dem Integritätsprüfwert vom Server entspricht :&lt;br/></string>
+    <string name="general_security_exception">Allgemeine Sicherheitsausnahme</string>
+    <string name="decoding_exception">Dekodierung der Ausnahme</string>
+    <string name="submit">Speichern</string>
+    <string name="cancel">aufheben</string>
+    <string name="remove_account">Konto entfernen</string>
+    <string name="remove_account_dialog_title">Konto entfernen?</string>
+    <string name="remove_account_dialog_message">"Das entfernen dieses Konto wird Ihre Fähigkeit Codes zu erzeugen, entfernen. Danach können Sie sich nicht mehr bei Ihrem Konto anmelden.
+
+Vor dem Entfernen:
+—Schalten Sie 2-Faktor-Authentifizierung für dieses Konto aus, oder
+-Stellen Sie sicher, mit einem alternativen Mechanismus Codes generieren zu können."</string>
+    <string name="remove_Xiaomi_account_dialog_message">Das Entfernen Sie dieses Konto wird &lt;b>Ihre Fähigkeit Codes zu erzeugen, entfernen&lt;/b> die 2 Stufen Verifikation wird ausgeschaltet  &lt;b>not&lt;/b> . Sie können sich nicht mehr beim Konto anmelden. &lt;p> 
+Vor dem Entfernen: &lt;ul> &lt;li>Schalten Sie 2-Faktor-Authentifizierung für dieses Konto aus, oder&lt;/li> &lt;li>Stellen Sie sicher, mit einem alternativen Mechanismus Codes generieren zu können.&lt;/li> &lt;/ul></string>
+    <string name="rename">Umbenennen</string>
+    <string name="rename_message">Umbenennen %1$s</string>
+    <string name="error_exists">Dieser Name bereits in Gebrauch.</string>
+    <string name="copy_to_clipboard">In Zwischenablage kopieren</string>
+    <string name="success_copy_to_clipboard">Wurde in die Zwischenablage kopiert</string>
+    <string name="counter_pin">Code</string>
+    <string name="empty_pin">_ _ _ _ _ _</string>
+    <string name="ok">OK</string>
+    <string name="type_prompt">Schlüsselart</string>
+    <string name="dataimport_import_succeeded_uninstall_dialog_title">Import erfolgreich</string>
+    <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Ihre Daten wurden erfolgreich aus der veraltet Xiaomi Authenticator App importiert. Jetzt ist es sicher, die alte Version der App mit einem Klick unten zu Deinstallieren.</string>
+    <string name="button_uninstall_old_app">Deinstallieren</string>
+    <string name="howitworks_page_enter_password_title">"Um sich anzumelden, müssen Sie Ihr Kennwort eingeben."</string>
+    <string name="howitworks_page_enter_password_details">"Allerdings, wenn Sie an einem neuen Computer oder Gerät sind, Xiaomi wird Sie nach einem speziellen Code fragen, um sicherzustellen, dass es wirklich Sie sind."</string>
+    <string name="howitworks_page_enter_code_title">"Wenn Sie auf einem neuen Computer sind, geben Sie einen Code von Ihrem Handy."</string>
+    <string name="howitworks_page_enter_code_details">Diese App wird die erforderlichen Code Zeichen generieren.</string>
+    <string name="howitworks_page_verify_device_title">"Dann sind Sie angemeldet."</string>
+    <string name="howitworks_page_verify_device_details">"Sie können auch wählen, um den Computer zu erinnern und Xiaomi wird Sie nicht noch einmal nach dem Code fragen ."</string>
+    <string name="button_exit_howitworks_flow">Beenden</string>
+    <string name="welcome_page_title">Verwenden Sie sicheres Login</string>
+    <string name="welcome_page_details">"— Halten Sie Ihr Konto sicher.
+— Prevent Nicht, dass sich Fremde mit der Verwendung Ihres Geräts, bei Ihrem Konto anzumelden."</string>
+    <string name="welcome_page_alert">"&lt;font color=#fb3500>* &lt;/font>Wenn Sie Ihr Mi Security Token zu löschen, werden Sie nicht in der Lage sein, sich bei Ihrem Konto anzumelden."</string>
+    <string name="continue_btn">Weiter</string>
+    <string name="mycard_scan_barcode">MiID Code Scanner</string>
+    <string name="scan_barcode_info">Scannen Sie den Barcode MiID innerhalb dieses Sucher.</string>
+    <string name="scan_barcode">Scannen MiID</string>
+    <string name="gif_not_support_camera_msg">Ihr Gerät unterstützt keine Videoaufnahme.</string>
+    <string name="open_camera_exception_dialog_title">Fehlfunktion der Kamera</string>
+    <string name="open_camera_exception_dialog_content">Problem mit der Systemkamera, müssen Sie das Gerät neu starten.</string>
+    <string name="ok_button">OK</string>
+    <string name="security_setting">Sicherheits einstellungen</string>
+    <string name="lockscreen_forgot_pattern_button_text"><u>Passwort Muster vergessen </u></string>
+    <string name="lockpattern_recording_intro_header">Zeichnen Sie ein Entsperrmuster:</string>
+    <string name="lockpattern_settings_help_how_to_record">Wie Sie ein Entsperrmuster zeichnen</string>
+    <string name="lockpattern_recording_incorrect_too_short">Schließen Sie mindestens %d Punkte. Versuchen Sie es erneut:</string>
+    <string name="lockpattern_pattern_entered_header">Muster aufgezeichnet.</string>
+    <string name="lockpattern_need_to_confirm">Zeichnen Sie zur Bestätigung Ihr Muster erneut. </string>
+    <string name="lockpattern_need_to_confirm_wrong">Nicht im Einklang mit den vorherigen Eintrag, bitte nochmals eingeben:</string>
+    <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Falsches Passwort ,Sie können das Passwort noch %d mal eingeben &lt;/font></string>
+    <string name="lockpattern_pattern_confirmed_header">Ihr neues Entsperrmuster:</string>
+    <string name="lockpattern_recording_inprogress">Nehmen Sie den Finger weg, wenn Sie fertig sind.</string>
+    <string name="lockpattern_retry_text"><u>Zurückstellen pattern password</u></string>
+    <string name="forget_password"><u>Passwort vergessen</u></string>
+    <string name="change_security_lock">Weitere Bildschirmsperren</string>
+    <string name="lockpassword_confirm_your_pattern_header">Bestätigen Sie Ihre Muster</string>
+    <string name="lockpassword_input_your_pattern_header">Bestätigen Sie Ihre Muster</string>
+    <string name="lockpassword_choose_your_pattern_header">Wählen Sie Ihre Muster</string>
+    <string name="lockpattern_continue_button_text">Fortsetzen</string>
+    <string name="lockpattern_redraw_button_text">Neu entwerfen</string>
+    <string name="lockpattern_confirm_button_text">Bestätigen</string>
+    <string name="lockpattern_tutorial_cancel_label">Aufheben</string>
+    <string name="lockpattern_tutorial_jump_label">Überspringen</string>
+    <string name="lockpattern_tutorial_close_label">Schliessen</string>
+    <string name="lockpattern_tutorial_continue_label">Nächstes</string>
+    <string name="lockpattern_need_to_unlock_wrong_footer" />
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Zu viele Fehlversuche!&lt;/font></string>
+    <string name="lockpattern_need_to_unlock_footer" />
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Versuchen Sie es in %d Sekunden wieder.</string>
+    <string name="title_myaccount">Mein Konto: %s</string>
+    <string name="title_gesture">Muster Sperre</string>
+    <string name="title_lockpattern">Muster Sperre erforderlich</string>
+    <string name="title_visible_pattern">Muster Sichtbar schalten</string>
+    <string name="summary_lockpattern">Muster Sperre erforderlich für MiCredit</string>
+    <string name="title_change_lockpattern">Muster Sperre Konfigurieren </string>
+    <string name="title_password">Passwort</string>
+    <string name="title_nopassword">"Für Kleinzahlungen nicht verlangen"</string>
+    <string name="title_password_threshold">Tageslimite = ￥%1$s</string>
+    <string name="title_nopassword_dialog">Tageslimite</string>
+    <string name="progress_loading">Laden…</string>
+    <string name="login">Anmelden</string>
+    <string name="password_hint">Geben Sie Ihr Mi Konto Passwort ein</string>
+    <string name="password_error">Das eingegebene Passwort is ungültig</string>
+    <string name="password_forget">Passwort Vergessen?</string>
+    <string name="app_name_lockpattern">Mustersperre</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="tip_lockpattern">Das Passwort muss mehr als 4 Buchstaben beinhalten</string>
+    <string name="jump_createpattern_tip">Erstellen Sie ein Passwort um das Konto zu schützen.</string>
+    <string name="jump_updatepattern_tip">Erstellen Sie ein Passwort um das Konto zu schützen.</string>
+    <string name="jump_lockpattern_title">Achtung!</string>
+    <string name="update_pattern_jump"><u>Passwort entfernen</u></string>
+    <string name="original_pattern_tip">Bitte geben Sie die Mustersperre ein</string>
+    <string name="new_pattern_tip">Das Passwort muss mehr als 4 Buchstaben beinhalten</string>
+    <string name="title_createpattern">Passwort erstellen</string>
+    <string name="title_updatepattern">Passwort erstellen</string>
+    <string name="title_forgetpattern">Passwort Vergessen</string>
+    <string name="resetbtn_patternforgotten">Zurückstellen</string>
+    <string name="authenticator_page_reactivation">Neu Aktivieren</string>
+    <string name="success_set_password">Passwort Erstellt</string>
+    <string name="success_reset_password">Passwort erfolgreich zurückgestellt</string>
+    <string name="correct_enter_password">Das Passwort ist Korrekt</string>
+    <string name="correct_enter_update_password">Das Passwort ist korrekt</string>
+    <string name="title_patternforgotten">"Passwort Vergessen？
+Sie können："</string>
+    <string name="tip1_patternforgotten">Neu installieren und aktivieren</string>
+    <string name="tip2_patternforgotten">Tippen Sie auf Reset, um Kontodaten zu löschen und zu reaktivieren.</string>
+    <string name="details_patternforgotten">"Reaktivieren: 
+Melden Sie sich bei account.xiaomi.com an und klicken Sie auf Reaktivieren."</string>
+    <string name="activation_page">Nicht aktiviert</string>
+    <string name="activation_page_info">Melden Sie sich bei Ihrem Konto Mi Konto um Secure Sign-in zu aktivieren</string>
+    <string name="activation_page_btn_txt">Aktivieren</string>
+    <string name="authenticator_invalid_title">Konot：%1$s Sicherheits-Zertifikat ist abgelaufen.</string>
+    <string name="authenticator_invalid_tip">Sie haben diese Funktion deaktiviert oder haben mit Ihrem Desktop-Browser oder eine anderen aktivierten Mi Sicherheits Zertifiktat.</string>
+    <string name="acknowledge_btn">I Akzeptiere</string>
+    <string name="timesync_preference_screen_title">Zeitkorrektur für Codes</string>
+    <string name="timesync_preference_screen_summary">"Synchronisieren Sie die Interne Uhr mit Sync Authenticator mit den Servern"</string>
+    <string name="timesync_sync_now_preference_title">Synchronisieren Sie jetzt</string>
+    <string name="timesync_about_feature_preference_title">Über dieses Feature </string>
+    <string name="timesync_about_feature_screen_title">Über dieses Feature</string>
+    <string name="timesync_about_feature_screen_details">"Wenn Sie die Taste &amp;quot;Synchronisiern drücken&amp;quot;, wird Authenticator wird versuchen, die interne Uhr mit Google-Servern einmal synchronisieren. Das Gerät ist Date &amp; Zeiteinstellungen werden nicht verändert. &lt;p> Authenticator keine persönlichen Daten übertragen oder Kontoinformationen bei der Synchronisierung die interne Uhr mit Google-Servern &lt;p> &lt;b>Warum dies ist&lt;/b> &lt;p> 
+	Authenticator generiert 2-Stufen-Bestätigungscodes basierend auf 1) die aktuelle Uhrzeit, und 2) eine Geheimnummer von der App die dem Server bekannt ist.&lt;p> Wenn Authenticator und der Server nicht sich noicht einig sind, wie spät es ist, die Codes, die das App generiert wird nicht akzeptiert werden, wenn Sie versuchen, sich anzumelden. &lt;p> Standardmäßig nutzt Authenticator Datum & amp des Geräts; Zeiteinstellungen, und ist in den meisten Fällen in der Lage, einen gültigen Code yu erstellen, indem sichergestellt wird, dass Ihre Zeit, das Datum und die Zeitzone-Einstellungen auf Korrekt sind. Allerdings, wenn die Zeit Diskrepanzen auftreten, werden es hart sein kann, diezu beheben (besonders wenn Sie vom Netzwerk bereitgestellte Zeit oder Zeitzonen Server verwenden)."</string>
+    <string name="timesync_sync_now_screen_title">Synchronisieren Sie jetzt</string>
+    <string name="timesync_sync_now_progress_dialog_title">Synchronisieren Sie jetzt</string>
+    <string name="timesync_sync_now_progress_dialog_details">Verbinden mit Server…</string>
+    <string name="timesync_sync_now_time_corrected_dialog_title">Zeit korrigiert</string>
+    <string name="timesync_sync_now_time_corrected_dialog_details">"Interne Uhr des Authenticator wurde angepasst, um die Zeit, die von Servern entsprechend angepasst. 
+
+Das Datum &amp; die Zeiteinstellungen wurden angepasst."</string>
+    <string name="timesync_sync_now_time_already_correct_dialog_title">Zeit wurde korrekt eingestellt</string>
+    <string name="timesync_sync_now_time_already_correct_dialog_details">"Authenticator's interne Uhr wurde nicht eingestellt da bereits mit Server angepasst."</string>
+    <string name="timesync_sync_now_connectivity_error_dialog_title">Synchronisieren Sie jetzt</string>
+    <string name="timesync_sync_now_connectivity_error_dialog_details">"Fehler, der Server konnte nicht kontaktiert werden, bitte kontrollieren Sie die Netzwerkeinstellungen."</string>
+</resources>

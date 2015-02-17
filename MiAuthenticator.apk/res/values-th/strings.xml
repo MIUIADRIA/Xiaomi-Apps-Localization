@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="about_preference_screen_title">เกี่ยวกับ</string>
+  <string name="about_preference_title">เกี่ยวกับ</string>
+  <string name="acknowledge_btn">ผมรับทราบ</string>
+  <string name="action_settings">การตั้งค่า</string>
+  <string name="activation_page">เปิดใช้งานไม่ได้</string>
+  <string name="activation_page_btn_txt">กระตุ้น</string>
+  <string name="activation_page_info">ลงชื่อเข้าใช้บัญชีของคุณ Mi เพื่อเปิดใช้งานการรักษาความปลอดภัยในการเข้าสู่ระบบ</string>
+  <string name="add_account_menu_item">เพิ่มบัญชี</string>
+  <string name="app_name">Xiaomi Authenticator</string>
+  <string name="app_name_lockpattern">แบบล็อค</string>
+  <string name="app_name_short">Authenticator</string>
+  <string name="authenticator_invalid_tip">คุณอาจจะได้หันคุณลักษณะนี้โดยปิดเดสก์ทอปของคุณเบราว์เซอร์หรือเปิดใช้งานอีก Mi ใบรับรองการรักษาความปลอดภัย.</string>
+  <string name="authenticator_invalid_title">Account：%1$sรักษาความปลอดภัย token.</string>
+  <string name="authenticator_page_reactivation">ฟื้นฟู</string>
+  <string name="button_add_account">เพิ่มบัญชี</string>
+  <string name="button_add_account_manual_entry">เพิ่มบัญชีด้วยตนเอง</string>
+  <string name="button_add_account_scan_barcode">สแกนบาร์โค้ด</string>
+  <string name="button_back">กลับ</string>
+  <string name="button_exit_howitworks_flow">ออกจาก</string>
+  <string name="button_how_it_works">ดูวิธีการทำงาน</string>
+  <string name="button_next">ถัดไป</string>
+  <string name="button_uninstall_old_app">ถอนการติดตั้ง</string>
+  <string name="cancel">ยกเลิก</string>
+  <string name="change_security_lock">ล็อคหน้าจออื่น ๆ</string>
+  <string name="check_code">ในการตรวจสอบว่าคุณมีค่าคีย์ที่ถูกต้องสำหรับ%1$s ตรวจสอบว่าค่าที่นี่ตรงกับค่าตรวจสอบความสมบูรณ์ให้โดยเซิร์ฟเวอร์:&lt;br</string>
+  <string name="check_code_menu_item">ตรวจสอบค่าที่สำคัญ</string>
+  <string name="check_code_title">มูลค่าการตรวจสอบ</string>
+  <string name="continue_btn">ต่อ</string>
+  <string name="copy_to_clipboard">คัดลอกไปที่คลิปบอร์ด</string>
+  <string name="correct_enter_password">รหัสผ่านที่คุณป้อนไม่ถูกต้อง</string>
+  <string name="correct_enter_update_password">รหัสผ่านที่คุณป้อนไม่ถูกต้อง</string>
+  <string name="counter_pin">ได้รับรหัส</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">ข้อมูลของคุณได้รับการประสบความสำเร็จที่นำเข้าจากเลิกการตรวจสอบ Xiaomi Authenticator ตอนนี้มันเป็นความปลอดภัยในการถอนการติดตั้งรุ่นก่อนของ app โดยการคลิกที่ด้านล่าง.</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_title">นำเข้าที่ประสบความสำเร็จ</string>
+  <string name="decoding_exception">ยกเว้นการถอดรหัส</string>
+  <string name="details_patternforgotten">"ฟื้นฟู: 
+account.xiaomi.com."</string>
+  <string name="empty_pin">_ _ _ _ _ _</string>
+  <string name="enter_account_label">ใส่ชื่อบัญชี</string>
+  <string name="enter_key_hint">ป้อนคำถามที่สำคัญส่วนบุคคลของคุณ</string>
+  <string name="enter_key_illegal_char">ค่าคีย์มีลักษณะที่ผิดกฎหมาย</string>
+  <string name="enter_key_page_add_button">เพิ่ม</string>
+  <string name="enter_key_title">รายการบัญชีคู่มือการใช้งาน</string>
+  <string name="enter_key_too_short">ค่าคีย์สั้นเกินไป</string>
+  <string name="enter_pin">ใส่รหัสตรวจสอบนี้หากได้รับแจ้งในช่วงaccount sign-in:</string>
+  <string name="error_empty_secret">ไม่สามารถบันทึกคำถามลับที่ว่างเปล่า</string>
+  <string name="error_exists">ขออภัยชื่อที่มีอยู่แล้วในการใช้งาน.</string>
+  <string name="error_qr">ไม่สามารถแปลรหัส QR.</string>
+  <string name="error_title">ความผิดพลาด</string>
+  <string name="error_uri">ที่สำคัญไม่ได้รับการยอมรับ.</string>
+  <string name="forget_password">&lt;u&gt;&amp;#3621;&amp;#3639;&amp;#3617;&amp;#3619;&amp;#3627;&amp;#3633;&amp;#3626;&amp;#3612;&amp;#3656;&amp;#3634;&amp;#3609;&lt;/u&gt;</string>
+  <string name="general_security_exception">ยกเว้นการรักษาความปลอดภัยทั่วไป</string>
+  <string name="gif_not_support_camera_msg">Scan MiID.</string>
+  <string name="how_it_works_menu_item">วิธีการทำงาน</string>
+  <string name="howitworks_page_enter_code_details">APP นี้จะสร้างรหัสที่จำเป็นในการดำเนินการกับการเข้าสู่ระบบ.</string>
+  <string name="howitworks_page_enter_code_title">"ถ้าคุณอยู่ในคอมพิวเตอร์เครื่องใหม่ใส่รหัสจากโทรศัพท์ของคุณ."</string>
+  <string name="howitworks_page_enter_password_details">"แต่ถ้าคุณอยู่ที่คอมพิวเตอร์เครื่องใหม่หรืออุปกรณ์ Xiaomi จะขอรหัสพิเศษเพื่อให้แน่ใจว่าเป็นคุณจริงๆ."</string>
+  <string name="howitworks_page_enter_password_title">"เพื่อเข้าสู่ระบบคุณจะต้องป้อนรหัสผ่านของคุณ."</string>
+  <string name="howitworks_page_verify_device_details">"นอกจากนี้คุณยังสามารถเลือกที่จะจำได้ว่าเครื่องคอมพิวเตอร์และ Xiaomi จะไม่ขอให้คุณสำหรับรหัสที่นั่นอีกครั้ง"</string>
+  <string name="howitworks_page_verify_device_title">"จากนั้นคุณลงชื่อเข้าใช้."</string>
+  <string name="install_button">ติดตั้ง</string>
+  <string name="install_dialog_message">การสแกนบาร์โค้ดที่มีปุ่มคุณต้องติดตั้งเครื่องสแกนบาร์โค้ด ZXing.</string>
+  <string name="install_dialog_title">ติดตั้งเครื่องสแกนบาร์โค้ด?</string>
+  <string name="jump_createpattern_tip">สร้างรหัสผ่านเพื่อป้องกันบัญชีของคุณ</string>
+  <string name="jump_lockpattern_title">ความสนใจ</string>
+  <string name="jump_updatepattern_tip">สร้างรหัสผ่านเพื่อป้องกันบัญชีของคุณ</string>
+  <string name="lockpassword_choose_your_pattern_header">เลือกรูปแบบของคุณ</string>
+  <string name="lockpassword_confirm_your_pattern_header">ยืนยันรูปแบบของคุณ</string>
+  <string name="lockpassword_input_your_pattern_header">ยืนยันรูปแบบของคุณ</string>
+  <string name="lockpattern_confirm_button_text">เขียนใหม่</string>
+  <string name="lockpattern_continue_button_text">ต่อ</string>
+  <string name="lockpattern_need_to_confirm">วาดรูปอีกครั้งเพื่อยืนยัน</string>
+  <string name="lockpattern_need_to_confirm_wrong">ไม่สอดคล้องกับรายการก่อนหน้านี้โปรดป้อน:</string>
+  <string name="lockpattern_need_to_unlock_footer"/>
+  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;รหัสผ่านที่ไม่ถูกต้องคุณสามารถป้อน %d ครั้ง&lt;/font&gt;</string>
+  <string name="lockpattern_need_to_unlock_wrong_footer"/>
+  <string name="lockpattern_pattern_confirmed_header">รูปแบบการปลดล็อคใหม่ของคุณ:</string>
+  <string name="lockpattern_pattern_entered_header">แบบบันทึก.</string>
+  <string name="lockpattern_recording_incorrect_too_short">เชื่อมต่ออย่างน้อย %d จุด ลองใหม่อีกครั้ง:</string>
+  <string name="lockpattern_recording_inprogress">ปล่อยนิ้วเมื่อดำเนินการเสร็จ.</string>
+  <string name="lockpattern_recording_intro_header">วาดรูปแบบการปลดล็อค:</string>
+  <string name="lockpattern_redraw_button_text">เขียนใหม่</string>
+  <string name="lockpattern_retry_text">&lt;u&gt;&amp;#3619;&amp;#3627;&amp;#3633;&amp;#3626;&amp;#3612;&amp;#3656;&amp;#3634;&amp;#3609;&amp;#3619;&amp;#3641;&amp;#3611;&amp;#3649;&amp;#3610;&amp;#3610;&amp;#3585;&amp;#3634;&amp;#3619;&amp;#3605;&amp;#3633;&amp;#3657;&amp;#3591;&amp;#3588;&amp;#3656;&amp;#3634;&amp;#3651;&amp;#3627;&amp;#3617;&amp;#3656;&lt;/u&gt;</string>
+  <string name="lockpattern_settings_help_how_to_record">วิธีการวาดรูปแบบการปลดล็อค</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">ลองอีกครั้งใน %d วินาที.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;มากเกินไปพยายามที่ไม่ถูกต้อง!&lt;/font&gt;</string>
+  <string name="lockpattern_tutorial_cancel_label">ยกเลิก</string>
+  <string name="lockpattern_tutorial_close_label">ปิด</string>
+  <string name="lockpattern_tutorial_continue_label">ถัดไป</string>
+  <string name="lockpattern_tutorial_jump_label">ข้ามไป</string>
+  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;&amp;#3621;&amp;#3639;&amp;#3617;&amp;#3619;&amp;#3627;&amp;#3633;&amp;#3626;&amp;#3612;&amp;#3656;&amp;#3634;&amp;#3609;&amp;#3619;&amp;#3641;&amp;#3611;&amp;#3649;&amp;#3610;&amp;#3610;&lt;/u&gt;</string>
+  <string name="login">ลงชื่อเข้าใช้</string>
+  <string name="main_preference_screen_title">การตั้งค่า</string>
+  <string name="mycard_scan_barcode">เครื่องสแกนเนอร์รหัส MiID</string>
+  <string name="new_pattern_tip">รหัสผ่านของคุณต้องนานกว่า 4 ตัวอักษร</string>
+  <string name="ok">ตกลง</string>
+  <string name="ok_button">ตกลง</string>
+  <string name="open_camera_exception_dialog_content">ปัญหาเกี่ยวกับกล้องระบบคุณอาจจำเป็นต้องรีสตาร์ทเครื่อง.</string>
+  <string name="open_camera_exception_dialog_title">ความผิดปกติของกล้อง</string>
+  <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
+  <string name="opensource_preference_title">โครงการโอเพนซอร์ส</string>
+  <string name="original_pattern_tip">ใส่รูปแบบการปลดล็อค</string>
+  <string name="password_error">รหัสผ่านที่คุณป้อนไม่ถูกต้อง</string>
+  <string name="password_forget">ลืมรหัสผ่าน?</string>
+  <string name="password_hint">ใส่รหัสผ่านบัญชี Mi ของคุณ</string>
+  <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
+  <string name="privacy_preference_title">นโยบายความเป็นส่วนตัว</string>
+  <string name="progress_loading">โหลด…</string>
+  <string name="remove_Xiaomi_account_dialog_message">การลบบัญชีนี้จะ &lt;b&gt;เอาความสามารถของคุณ&lt;/b&gt; เพื่อสร้างรหัส แต่มันจะ&lt;b&gt;not&lt;/b&gt; ปิดการตรวจสอบขั้นตอนที่ 2 นี้อาจป้องกันไม่ให้คุณจากการลงนามในบัญชีของคุณ. &lt;p&gt; ก่อนที่จะถอด: &lt;ul&gt; &lt;li&gt;ปิดการยืนยันแบบ 2 ขั้นตอนสำหรับบัญชีนี้หรือ&lt;/li&gt; &lt;li&gt;ให้แน่ใจว่าคุณมีกลไกอื่นในการสร้างรหัส.&lt;/li&gt; &lt;/ul&gt;</string>
+  <string name="remove_account">ลบบัญชี</string>
+  <string name="remove_account_dialog_message">"การลบบัญชีนี้จะเอาความสามารถในการสร้างรหัส นี้อาจป้องกันไม่ให้คุณจากการลงนามในบัญชีของคุณ.
+
+ก่อนที่จะถอด:
+—ให้ปิดการตรวจสอบที่ 2 ปัจจัยสำหรับบัญชีนี้,หรือ
+—ให้แน่ใจว่าคุณมีกลไกอื่นในการสร้างรหัส."</string>
+  <string name="remove_account_dialog_title">ลบบัญชี?</string>
+  <string name="rename">ตั้งชื่อใหม่</string>
+  <string name="rename_message">ตั้งชื่อใหม่ %1$s</string>
+  <string name="resetbtn_patternforgotten">ตั้งค่าใหม่</string>
+  <string name="save_key_message">ประหยัดที่สำคัญสำหรับ</string>
+  <string name="scan_barcode">Scan MiID</string>
+  <string name="scan_barcode_info">สถานที่และการสแกนบาร์โค้ด MiID ภายในของช่องมองภาพนี้.</string>
+  <string name="secret_saved">คำถามลับบันทึกไว้</string>
+  <string name="security_setting">ตกลง</string>
+  <string name="settings_menu_item">เกี่ยวกับ</string>
+  <string name="submit">บันทึก</string>
+  <string name="success_copy_to_clipboard">ได้ถูกคัดลอกไปยังคลิปบอร์ด</string>
+  <string name="success_reset_password">ตั้งรหัสผ่านใหม่ที่ประสบความสำเร็จ</string>
+  <string name="success_set_password">รหัสผ่านที่สร้าง</string>
+  <string name="summary_lockpattern">จำเป็นต้องมีรูปแบบการล็อคไม่ซ้ำกันสำหรับ  MiCredit</string>
+  <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
+  <string name="terms_preference_title">เงื่อนไขการให้บริการ</string>
+  <string name="timesync_about_feature_preference_title">เกี่ยวกับคุณลักษณะนี้</string>
+  <string name="timesync_about_feature_screen_details">"หากคุณกด &amp;quot;ซิงค์ ตอนนี้&amp;quot;, Authenticator จะพยายามซิงค์นาฬิกาภายในของตนกับเซิร์ฟเวอร์ของ Google ครั้งเดียว วันที่ของอุปกรณ์ &amp; ไม่สามารถเปลี่ยนแปลงได้ &lt;p&gt; Authenticator จะไม่ส่งข้อมูลส่วนบุคคลใด ๆ หรือข้อมูลบัญชีในขณะที่ตรงกันนาฬิกาภายในของตนกับเซิร์ฟเวอร์ของ Google &lt;p&gt; &lt;b&gt;ทำไมนี้จะเป็นประโยชน์&lt;/b&gt; &lt;p&gt; Authenticator สร้างขั้นตอนที่ 2 รหัสการตรวจสอบขึ้นอยู่กับ 1) เวลาปัจจุบันและ 2) หมายเลขความลับที่รู้กันว่าการตรวจสอบและเซิร์ฟเวอร์ lt; p&gt; หาก Authenticator และเซิร์ฟเวอร์ที่ไม่เห็นด้วยกับสิ่งที่เวลามันคือรหัสที่ app สร้างอาจจะไม่ได้รับการยอมรับเมื่อคุณพยายามที่จะเข้าสู่ระบบ &lt;p&gt; โดยค่าเริ่มต้น Authenticator ใช้วันของอุปกรณ์ &amp; การตั้งค่าเวลาและในกรณีส่วนใหญ่คุณจะสามารถสร้างรหัสที่ถูกต้องโดยให้แน่ใจว่าเวลาของคุณ, วันที่และเวลาการตั้งค่าโซนมีการกำหนดค่าได้อย่างถูกต้อง แต่เมื่อเวลาที่ไม่ตรงกันเกิดขึ้นพวกเขาสามารถจะยากที่จะแก้ไขปัญหา (โดยเฉพาะอย่างยิ่งถ้าคุณใช้เครือข่ายให้เวลาหรือโซนเวลา)."</string>
+  <string name="timesync_about_feature_screen_title">เกี่ยวกับคุณลักษณะนี้</string>
+  <string name="timesync_preference_screen_summary">"ซิงค์ Authenticator ของนาฬิกาภายในกับเซิร์ฟเวอร์"</string>
+  <string name="timesync_preference_screen_title">แก้ไขเวลาสำหรับรหัส</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_details">"มีปัญหาในการติดต่อของเซิร์ฟเวอร์เป็น กรุณาตรวจสอบการตั้งค่าเครือข่ายของคุณและลองอีกครั้ง."</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_title">ซิงค์ในขณะนี้</string>
+  <string name="timesync_sync_now_preference_title">Sync now</string>
+  <string name="timesync_sync_now_progress_dialog_details">เชื่อมต่อกับเซิร์ฟเวอร์…</string>
+  <string name="timesync_sync_now_progress_dialog_title">ซิงค์ในขณะนี้</string>
+  <string name="timesync_sync_now_screen_title">ซิงค์ในขณะนี้</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_details">"นาฬิกาภายใน Authenticator ก็ไม่ได้ปรับเพราะมันดูเหมือนจะเป็นอยู่แล้วในซิงค์กับเซิร์ฟเวอร์."</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_title">เวลาที่ถูกต้องแล้ว</string>
+  <string name="timesync_sync_now_time_corrected_dialog_details">"นาฬิกาภายใน Authenticator ได้รับการปรับเปลี่ยนให้ตรงกับเวลาที่มีให้โดยเซิร์ฟเวอร์. 
+
+วันที่สมัคร &amp; การตั้งค่าเวลาในอุปกรณ์นี้ยังไม่ได้รับการเปลี่ยนแปลง."</string>
+  <string name="timesync_sync_now_time_corrected_dialog_title">เวลาแก้ไข</string>
+  <string name="tip1_patternforgotten">ติดตั้งและเปิด</string>
+  <string name="tip2_patternforgotten">สัมผัสการตั้งค่าเพื่อล้างข้อมูลบัญชีและเปิด.</string>
+  <string name="tip_lockpattern">รหัสผ่านของคุณต้องนานกว่า 4 ตัวอักษร</string>
+  <string name="title_change_lockpattern">กำหนดค่ารูปแบบการล็อค</string>
+  <string name="title_createpattern">สร้างรหัสผ่าน</string>
+  <string name="title_forgetpattern">ลืมรหัสผ่าน</string>
+  <string name="title_gesture">รูปแบบการล็อค</string>
+  <string name="title_lockpattern">จำเป็นต้องมีรูปแบบการล็อค</string>
+  <string name="title_myaccount">บัญชีของฉัน: %s</string>
+  <string name="title_nopassword">"ไม่จำเป็นต้องใช้สำหรับการชำระเงินที่มีขนาดเล็ก"</string>
+  <string name="title_nopassword_dialog">ขีด จำกัด ประจำวัน</string>
+  <string name="title_password">รหัสผ่าน</string>
+  <string name="title_password_threshold">ขีด จำกัด ประจำวัน = บาท%1$s</string>
+  <string name="title_patternforgotten">"ลืมรหัสผ่าน? 
+คุณสามารถ："</string>
+  <string name="title_updatepattern">เปลี่ยนรหัสผ่าน</string>
+  <string name="title_visible_pattern">ทำให้รูปแบบการมองเห็น</string>
+  <string name="type_prompt">ประเภทของคีย์</string>
+  <string name="update_pattern_jump">&lt;u&gt;&amp;#3621;&amp;#3610;&amp;#3619;&amp;#3627;&amp;#3633;&amp;#3626;&amp;#3612;&amp;#3656;&amp;#3634;&amp;#3609;&lt;/u&gt;</string>
+  <string name="version_preference_title">Version</string>
+  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;ถ้าคุณลบรหัส Mi การรักษาความปลอดภัยของคุณคุณจะไม่สามารถที่จะเข้าสู่ระบบในบัญชีของคุณ."</string>
+  <string name="welcome_page_details">"— รักษาบัญชีของคุณปลอดภัย.
+— ป้องกันไม่ให้คนแปลกหน้าจากการใช้อุปกรณ์ของคุณเข้าสู่ระบบในบัญชีของคุณ."</string>
+  <string name="welcome_page_title">ใช้สำหรับเข้าสู่ระบบการรักษาความปลอดภัย</string>
+</resources>

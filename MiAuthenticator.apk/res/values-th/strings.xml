@@ -50,7 +50,7 @@ account.xiaomi.com."</string>
   <string name="error_qr">ไม่สามารถแปลรหัส QR.</string>
   <string name="error_title">ความผิดพลาด</string>
   <string name="error_uri">ที่สำคัญไม่ได้รับการยอมรับ.</string>
-  <string name="forget_password">&lt;u&gt;&amp;#3621;&amp;#3639;&amp;#3617;&amp;#3619;&amp;#3627;&amp;#3633;&amp;#3626;&amp;#3612;&amp;#3656;&amp;#3634;&amp;#3609;&lt;/u&gt;</string>
+  <string name="forget_password">&lt;u&gt;ลืมรหัสผ่าน&lt;/u&gt;</string>
   <string name="general_security_exception">ยกเว้นการรักษาความปลอดภัยทั่วไป</string>
   <string name="gif_not_support_camera_msg">Scan MiID.</string>
   <string name="how_it_works_menu_item">วิธีการทำงาน</string>

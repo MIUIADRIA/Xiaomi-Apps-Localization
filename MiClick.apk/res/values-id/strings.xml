@@ -1,25 +1,20 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-
 <resources>
-  
-<string name="action_baidusearch">Penelusuran Baidu</string>
-  
-<string name="action_capture_video">Video</string>
+  <string name="action_baidusearch">Penelusuran Baidu</string>
+  <string name="action_capture_video">Video</string>
   <string name="action_clear_call_list">Hapus log panggilan</string>
-  
-<string name="action_clear_memory">Hapus memori</string>
-  
-<string name="action_clear_sms_inbox">Hapus pesan SMS
-<string name="action_close">Keluar</string>
-  
-<string name="action_home">Kembali ke Home
-<string name="action_key_back">Kembali</string>
-  
-<string name="action_key_back_long">Kembali (Tekan lama)
-<string name="action_key_call">Panggil<string name="action_key_direction">Arah</string>
+  <string name="action_clear_memory">Hapus memori</string>
+  <string name="action_clear_sms_inbox">Hapus pesan SMS</string>
+  <string name="action_close">Keluar</string>
+  <string name="action_home">Kembali ke Home</string>
+  <string name="action_key_back">Kembali</string>
+  <string name="action_key_back_long">Kembali (Tekan lama)</string>
+  <string name="action_key_call">Panggil</string>
+  <string name="action_key_direction">Arah</string>
   <string name="action_key_end_call">Akhiri panggilan</string>
   <string name="action_key_enter">Masuk</string>
-  <string name="action_key_home">Home<string name="action_key_home_long">Home (Tekan lama)</string>
+  <string name="action_key_home">Home</string>
+  <string name="action_key_home_long">Home (Tekan lama)</string>
   <string name="action_key_menu">Menu</string>
   <string name="action_key_menu_long">Menu (Tekan lama)</string>
   <string name="action_key_play_next">Berikutnya</string>
@@ -33,7 +28,8 @@
   <string name="action_kuaidi">Pindah cepat</string>
   <string name="action_lock_screen">Layar kunci</string>
   <string name="action_open_camera">Kamera</string>
-  <string name="action_open_camera2">Potret foto<string name="action_open_camera360_capture">Efek kamera Camera360</string>
+  <string name="action_open_camera2">Potret foto</string>
+  <string name="action_open_camera360_capture">Efek kamera Camera360</string>
   <string name="Potret fotoret fotoret fotret foret fret retreron_open_camera360_edit">Pengubahan foto Camera360</string>
   <string name="action_open_flashlight">Lampu flash</string>
   <string name="action_open_mi_route">Daftar perangkat</string>
@@ -44,7 +40,8 @@
   <string name="action_phone">Panggil</string>
   <string name="action_qrcode">Kode QR</string>
   <string name="action_screen_shot">Tangkap layar</string>
-  <string name="action_search">Cari<string name="Cariion_send_text_message">SMS</string>
+  <string name="action_search">Cari</string>
+  <string name="Cariion_send_text_message">SMS</string>
   <string name="action_share_to_miliao">MiTalk</string>
   <string name="action_share_to_miliao_wall">MiTalk</string>
   <string name="action_share_to_moment">Bagikan dengan WeChat</string>
@@ -70,7 +67,8 @@
   <string name="clean_memory">Memori dibersihkan</string>
   <string name="click_count_union">Kali</string>
   <string name="click_to_open">Buka</string>
-  <string name="click_type_0">Nol<string name="click_type_1"">Satu</string>
+  <string name="click_type_0">Nol</string>
+  <string name="click_type_1">Satu</string>
   <string name="click_type_10">Sepuluh</string>
   <string name="click_type_2">Dua</string>
   <string name="click_type_3">Tiga</string>
@@ -132,7 +130,8 @@ OK" </string>
   <string name="disable_mikey_sprite">Matikan wizard MiKey</string>
   <string name="earphone">Headphone</string>
   <string name="enable_mad_click">Aktifkan mode mad</string>
-  <string name="enable_mikey_sprite">A<string name="fail_generate_barcode"> Gagal membuat kode QR </string>
+  <string name="enable_mikey_sprite">A</string>
+  <string name="fail_generate_barcode"> Gagal membuat kode QR </string>
   <string name="faq_comp_text">Untuk MIUI dan ponsel Xiaomi. Versi aplikasi MiKey sekarang terdapat di &lt;a href="http://xiaomi.eu/community/threads/mikey-app-1-4-1.24220/"&gt;xiaomi.eu&lt;/a&gt;</string>
   <string name="faq_comp_title">Perangkat didukung</string>
   <string name="faq_focus_text">Lampu kilat membutuhkan waktu pemotretan yang lebih lama, tapi hasil fotonya lebih tajam. Walaupun Anda dapat mematikannya, fotonya mungkin akan buram.</string>
@@ -140,9 +139,9 @@ OK" </string>
   <string name="faq_misreq_text">"Apabila kontrol musik di layar kunci tak merespon, keluar dari apl dan hapus dari RAM. Hubungkan ulang MiKey dan coba lagi."</string>
   <string name="faq_misreq_title">Menyelesaikan masalah umum</string>
   <string name="faq_plug_text">Metode memasukkan MiKey ini dapat mencegah masalah potensial. Jangan menekan tombolnya saat memasukkan MiKey.</string>
-  
   <string name="faq_quni_text">Tombol akan bertahan 30.000 kali klik</string>
-  <string name="faq_quni_title">Bagaimana masa pakainya?<string name="faq_slow_text">Setel frekuensi klik ke "0"</string>
+  <string name="faq_quni_title">Bagaimana masa pakainya?</string>
+  <string name="faq_slow_text">Setel frekuensi klik ke "0"</string>
   <string name="faq_slow_title">Reaksi lambat?</string>
   <string name="faq_speed_text">Perbedaan antara perangkat menyebabkan perbedaan waktu klik tombol. Setel waktu antara setiap klik MiKey sesuai kebutuhanmu.<string name="faq_plug_title">Bagaimana cara menghubungkan MiKey?</string></string>
   <string name="faq_speed_title">Aksi tak dikenal?</string>
@@ -166,15 +165,17 @@ Fitur kunci MiKey lainnya"</string>
   <string name="input_phone">masukkan nomor ponsel</string>
   <string name="key_direction_down">Bawah</string>
   <string name="key_direction_left">Kiri</string>
-  <string name="key_direction_right">Kanan<string name="key_direction_up">Atas</string>
+  <string name="key_direction_right">Kanan</string>
+  <string name="key_direction_up">Atas</string>
   <string name="know_it">OK</string>
   <string name="long_click">Tekan lama</string>
   <string name="message_photo_end">Gambar tersimpan</string>
-  <string name="mikey_sprite_toggle_title">Buka wizard MiKey<string name="name">Nama:</string>
+  <string name="mikey_sprite_toggle_title">Buka wizard MiKey</string>
+  <string name="name">Nama:</string>
   <string name="nickname">Nama Panggilan:</string>
   <string name="no_usage">...</string>
   <string name="note">Catatan:</string>
-  <string name="notification_control_play"</string>
+  <string name="notification_control_play">Mainkan</string>
   <string name="notification_control_stop">Berhenti</string>
   <string name="notification_recorder_file_location">Tersimpan ke:</string>
   <string name="notification_recorder_start">Merekam...</string>
@@ -192,8 +193,10 @@ Fitur kunci MiKey lainnya"</string>
   <string name="rank_prefix">"Ranking: "</string>
   <string name="rank_suffix">" poin"</string>
   <string name="recognize">Identifikasi</string>
-  <string name="recommend">Terkirim<string name="running_notification">Xiaomi MiKey</string>
-  <string name="scan_fail">Gagal memindai<string name="scan_result">Hasil pindaian</string>
+  <string name="recommend">Terkirim</string>
+  <string name="running_notification">Xiaomi MiKey</string>
+  <string name="scan_fail">Gagal memindai</string>
+  <string name="scan_result">Hasil pindaian</string>
   <string name="screenkey_disabled">Tombol layar dinonaktifkan</string>
   <string name="screenkey_enabled">Tombol layar diaktifkan</string>
   <string name="screenkey_title">Tombol perisai</string>
@@ -219,9 +222,6 @@ Fitur kunci MiKey lainnya"</string>
   <string name="setting_instant_photo_text">Fokuskan sebelum memotret</string>
   <string name="setting_keeplive_desc">Pilihan ini memungkinkan aplikasi berjalan di belakang layar dan merespon perintah Anda dengan cepat. Tetapi, hal ini dapat meningkatkan konsumsi baterai</string>
   <string name="setting_keeplive_text">Jalankan di belakang layar</string>
-  <string name="setting_key_mode_dust_cap">key_dust_cap</string>
-  <string name="setting_key_mode_silent_open">key_silent_default</string>
-  <string name="setting_key_silent">key_silent</string>
   <string name="setting_proximity_desc">Gunakan sensor proximity untuk menghindari kesalahan penggunaan MiKey dalam saku</string>
   <string name="setting_proximity_text">Gunakan sensor proximity</string>
   <string name="setting_silent_mode">Mode hening</string>
@@ -235,7 +235,8 @@ Fitur kunci MiKey lainnya"</string>
   <string name="setting_speed_quick">Lebih cepat</string>
   <string name="setting_speed_slow">Lebih lambat</string>
   <string name="setting_speed_text">Cepat</string>
-  <string name="setting_toolbar">Toolbar<string Toolbarlbarlbalbl="setting_toolbar_desc">"Fitur toolbar dapat diakses melalui bar notifikasi untuk kemudahan Anda."</string>
+  <string name="setting_toolbar">Toolbar</string>
+  <string name="setting_toolbar_desc">"Fitur toolbar dapat diakses melalui bar notifikasi untuk kemudahan Anda."</string>
   <string name="setting_toolbar_tip">"Tekan simbol + untuk menambah fitur baru.
 Tahan untuk menghapus.
 Buat toolbar Anda sendiri sekarang!
@@ -300,7 +301,8 @@ Klik MiKey untuk menekan bagian yang ditutupi tombol putih kecil tanpa menggunak
   <string name="wallpaper_change_ok">Wallpaper terganti</string>
   <string name="wallpaper_changing">Mengganti wallpaper...</string>
   <string name="wallpaper_no_more">Jangan ganti wallpaper</string>
-  <string name="web">Situs web:<string "webpage_input_title">Masukkan URL</string>
+  <string name="web">Situs web:</string>
+  <string "webpage_input_title">Masukkan URL</string>
   <string name="webpage_title">Buka halaman web</string>
   <string name="write_pic_fail">Gagal menyimpan gambar</string>
 </resources>

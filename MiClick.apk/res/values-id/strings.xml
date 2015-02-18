@@ -302,7 +302,7 @@ Klik MiKey untuk menekan bagian yang ditutupi tombol putih kecil tanpa menggunak
   <string name="wallpaper_changing">Mengganti wallpaper...</string>
   <string name="wallpaper_no_more">Jangan ganti wallpaper</string>
   <string name="web">Situs web:</string>
-  <string "webpage_input_title">Masukkan URL</string>
+  <string name="webpage_input_title">Masukkan URL</string>
   <string name="webpage_title">Buka halaman web</string>
   <string name="write_pic_fail">Gagal menyimpan gambar</string>
 </resources>

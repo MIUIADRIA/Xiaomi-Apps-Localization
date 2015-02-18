@@ -1,0 +1,306 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+
+<resources>
+  
+<string name="action_baidusearch">Penelusuran Baidu</string>
+  
+<string name="action_capture_video">Video</string>
+  <string name="action_clear_call_list">Hapus log panggilan</string>
+  
+<string name="action_clear_memory">Hapus memori</string>
+  
+<string name="action_clear_sms_inbox">Hapus pesan SMS
+<string name="action_close">Keluar</string>
+  
+<string name="action_home">Kembali ke Home
+<string name="action_key_back">Kembali</string>
+  
+<string name="action_key_back_long">Kembali (Tekan lama)
+<string name="action_key_call">Panggil<string name="action_key_direction">Arah</string>
+  <string name="action_key_end_call">Akhiri panggilan</string>
+  <string name="action_key_enter">Masuk</string>
+  <string name="action_key_home">Home<string name="action_key_home_long">Home (Tekan lama)</string>
+  <string name="action_key_menu">Menu</string>
+  <string name="action_key_menu_long">Menu (Tekan lama)</string>
+  <string name="action_key_play_next">Berikutnya</string>
+  <string name="action_key_play_pause">Jeda/Mulai</string>
+  <string name="action_key_play_prev">Sebelumnya</string>
+  <string name="action_key_power">Tombol daya</string>
+  <string name="action_key_power_long">Tombol daya (Tekan lama)</string>
+  <string name="action_key_vol">Tombol volume</string>
+  <string name="action_key_vol_down">Volume down</string>
+  <string name="action_key_vol_up">Volume up</string>
+  <string name="action_kuaidi">Pindah cepat</string>
+  <string name="action_lock_screen">Layar kunci</string>
+  <string name="action_open_camera">Kamera</string>
+  <string name="action_open_camera2">Potret foto<string name="action_open_camera360_capture">Efek kamera Camera360</string>
+  <string name="Potret fotoret fotoret fotret foret fret retreron_open_camera360_edit">Pengubahan foto Camera360</string>
+  <string name="action_open_flashlight">Lampu flash</string>
+  <string name="action_open_mi_route">Daftar perangkat</string>
+  <string name="action_open_or_close_motion">Rotasi layar</string>
+  <string name="action_open_other_app">Apl</string>
+  <string name="action_open_sound_recorder">Perekam</string>
+  <string name="action_open_wechat">WeChat</string>
+  <string name="action_phone">Panggil</string>
+  <string name="action_qrcode">Kode QR</string>
+  <string name="action_screen_shot">Tangkap layar</string>
+  <string name="action_search">Cari<string name="Cariion_send_text_message">SMS</string>
+  <string name="action_share_to_miliao">MiTalk</string>
+  <string name="action_share_to_miliao_wall">MiTalk</string>
+  <string name="action_share_to_moment">Bagikan dengan WeChat</string>
+  <string name="action_share_to_wechat">Bagikan dengan WeChat</string>
+  <string name="action_share_to_weibo">Bagikan dengan Weibo</string>
+  <string name="action_toolbox">Alat</string>
+  <string name="action_zero_volume">Bisukan</string>
+  <string name="add">Tambah</string>
+  <string name="add_to_contacts">Tambahkan ke kontak</string>
+  <string name="address">Alamat:</string>
+  <string name="app_name">MiKey</string>
+  <string name="app_not_installed">Aplikasi tak terinstal</string>
+  <string name="back_camera">Kamera belakang</string>
+  <string name="birthday">Ulang tahun:</string>
+  <string name="call_to">Panggil</string>
+  <string name="cancel">Batal</string>
+  <string name="category_0">Apl</string>
+  <string name="category_1">Setelan sistem</string>
+  <string name="category_2">Tombol</string>
+  <string name="category_app">Aplikasi</string>
+  <string name="category_system_settings">Setelan sistem</string>
+  <string name="chooser_dust_cap">MiKey (Mode penutup debu)</string>
+  <string name="clean_memory">Memori dibersihkan</string>
+  <string name="click_count_union">Kali</string>
+  <string name="click_to_open">Buka</string>
+  <string name="click_type_0">Nol<string name="click_type_1"">Satu</string>
+  <string name="click_type_10">Sepuluh</string>
+  <string name="click_type_2">Dua</string>
+  <string name="click_type_3">Tiga</string>
+  <string name="click_type_4">Empat</string>
+  <string name="click_type_5">Lima</string>
+  <string name="click_type_6">Enam</string>
+  <string name="click_type_7">Tujuh</string>
+  <string name="click_type_8">Delapan</string>
+  <string name="click_type_9">Sembilan</string>
+  <string name="close_all">Keluar</string>
+  <string name="close_flash_error">Gagal mematikan lampu kilat</string>
+  <string name="close_recorder">Keluar dari perekam</string>
+  <string name="cn_0">0</string>
+  <string name="cn_1">1</string>
+  <string name="cn_10">10</string>
+  <string name="cn_100">100</string>
+  <string name="cn_1000">1000</string>
+  <string name="cn_10000">10000</string>
+  <string name="cn_100000000">100000000</string>
+  <string name="cn_2">2</string>
+  <string name="cn_3">3</string>
+  <string name="cn_4">4</string>
+  <string name="cn_5">5</string>
+  <string name="cn_6">6</string>
+  <string name="cn_7">7</string>
+  <string name="cn_8">8</string>
+  <string name="cn_9">9</string>
+  <string name="combo_customize_desc">"Paket bisa disetel sendiri
+Setel dibawah untuk Combo
+OK" </string>
+  <string name="combo_edit">Ubah</string>
+  <string name="combo_edit_title">Ubah Combo</string>
+  <string name="combo_saveas_already_saved_desc">Setelan sekarang telah disimpan di Combo</string>
+  <string name="combo_saveas_desc">Deskripsi Combo</string>
+  <string name="combo_saveas_name">Nama</string>
+  <string name="combo_saveas_name_empty">Belum dinamai</string>
+  <string name="combo_saveas_title">Masukkan informasi paket</string>
+  <string name="combo_speed_fast">Cepat</string>
+  <string name="combo_speed_medium">Sedang</string>
+  <string name="combo_speed_prefix">Kecepatan:</string>
+  <string name="combo_speed_slow">Pelan</string>
+  <string name="combo_standard_text">Combo ini dapat memenuhi penggunaan harian, khususnya jika Anda tak memiliki ide Combo standar adalah pilihan tepat.</string>
+  <string name="combo_standard_title">Combo standar</string>
+  <string name="company">Perusahaan:</string>
+  <string name="confirm">OK</string>
+  <string name="copy">Salin</string>
+  <string name="copy_succeed">Tersalin</string>
+  <string name="default_action_title">Aksi default</string>
+  <string name="default_toolbar_items">.AksiPotretFoto,.AksiLampuKilat,.AksiPerekamSuara,0,0,0</string>
+  <string name="default_toolbox_items">.AksiLampuKilat,.AksiPerekamSuara,.AksiInstanPotretFoto,0</string>
+  <string name="delete">Hapus</string>
+  <string name="delete_confirm">Apakah anda yakin mau menghapus aksi ini?</string>
+  <string name="delete_gesture">Hapus gerakan tombol MiKey?</string>
+  <string name="device_not_recognized">Perangkat terhubung tak dikenal, mohon coba lagi</string>
+  <string name="dialog_content_mad_click">Klik terus-menerus:</string>
+  <string name="dialog_title_disable_mikey_sprite">Matikan wizard MiKey?</string>
+  <string name="dialog_title_mad_click">Tanya</string>
+  <string name="disable_mad_click">Matikan mode mad</string>
+  <string name="disable_mikey_sprite">Matikan wizard MiKey</string>
+  <string name="earphone">Headphone</string>
+  <string name="enable_mad_click">Aktifkan mode mad</string>
+  <string name="enable_mikey_sprite">A<string name="fail_generate_barcode"> Gagal membuat kode QR </string>
+  <string name="faq_comp_text">Untuk MIUI dan ponsel Xiaomi. Versi aplikasi MiKey sekarang terdapat di &lt;a href="http://xiaomi.eu/community/threads/mikey-app-1-4-1.24220/"&gt;xiaomi.eu&lt;/a&gt;</string>
+  <string name="faq_comp_title">Perangkat didukung</string>
+  <string name="faq_focus_text">Lampu kilat membutuhkan waktu pemotretan yang lebih lama, tapi hasil fotonya lebih tajam. Walaupun Anda dapat mematikannya, fotonya mungkin akan buram.</string>
+  <string name="faq_focus_title">Ambil foto pelan?</string>
+  <string name="faq_misreq_text">"Apabila kontrol musik di layar kunci tak merespon, keluar dari apl dan hapus dari RAM. Hubungkan ulang MiKey dan coba lagi."</string>
+  <string name="faq_misreq_title">Menyelesaikan masalah umum</string>
+  <string name="faq_plug_text">Metode memasukkan MiKey ini dapat mencegah masalah potensial. Jangan menekan tombolnya saat memasukkan MiKey.</string>
+  
+  <string name="faq_quni_text">Tombol akan bertahan 30.000 kali klik</string>
+  <string name="faq_quni_title">Bagaimana masa pakainya?<string name="faq_slow_text">Setel frekuensi klik ke "0"</string>
+  <string name="faq_slow_title">Reaksi lambat?</string>
+  <string name="faq_speed_text">Perbedaan antara perangkat menyebabkan perbedaan waktu klik tombol. Setel waktu antara setiap klik MiKey sesuai kebutuhanmu.<string name="faq_plug_title">Bagaimana cara menghubungkan MiKey?</string></string>
+  <string name="faq_speed_title">Aksi tak dikenal?</string>
+  <string name="faq_stat_text">Ranking dihapus setiap hari</string>
+  <string name="faq_stat_title">Saya memiliki "0" klik pada pagi hari?</string>
+  <string name="faq_title">FAQ MiKey</string>
+  <string name="faq_voice_text">Mohon masukkan ulang MiKey dan coba lagi</string>
+  <string name="faq_voice_title">Tak ada suara saat menelepon?</string>
+  <string name="faq_vsm_text">Pastikan bahwa Anda telah melepas MiKey sebelum melepas back cover!</string>
+  <string name="faq_vsm_title">Peringatan!</string>
+  <string name="file_delimiter">/</string>
+  <string name="flash_lable">Lampu kilat</string>
+  <string name="front_camera">Kamera depan</string>
+  <string name="goto_update">Perbarui</string>
+  <string name="hint_long_press_del">Tekan lama untuk hapus</string>
+  <string name="hint_mikey_sprite">"Klik MiKey daripada sentuh layar
+Kirim suara, potret foto, main game…
+Gunakan Wizardnya
+Tak dapat menggunakan MiKey
+Fitur kunci MiKey lainnya"</string>
+  <string name="input_phone">masukkan nomor ponsel</string>
+  <string name="key_direction_down">Bawah</string>
+  <string name="key_direction_left">Kiri</string>
+  <string name="key_direction_right">Kanan<string name="key_direction_up">Atas</string>
+  <string name="know_it">OK</string>
+  <string name="long_click">Tekan lama</string>
+  <string name="message_photo_end">Gambar tersimpan</string>
+  <string name="mikey_sprite_toggle_title">Buka wizard MiKey<string name="name">Nama:</string>
+  <string name="nickname">Nama Panggilan:</string>
+  <string name="no_usage">...</string>
+  <string name="note">Catatan:</string>
+  <string name="notification_control_play"</string>
+  <string name="notification_control_stop">Berhenti</string>
+  <string name="notification_recorder_file_location">Tersimpan ke:</string>
+  <string name="notification_recorder_start">Merekam...</string>
+  <string name="notify_content_sprite">Geser ke kanan untuk mematikan cross</string>
+  <string name="notify_ticker_sprite">Wizard MiKey sedang berjalan</string>
+  <string name="notify_title_sprite">Wizard MiKey</string>
+  <string name="open_flash_error">Gagal menyalakan lampu kilat</string>
+  <string name="phone">Telepon:</string>
+  <string name="picker_lable">Galeri</string>
+  <string name="place_barcode_into_rectangle">Fokuskan ke kode QR</string>
+  <string name="privacy_mode_end">Mode privasi dimatikan</string>
+  <string name="privacy_mode_first_hint">Untuk mode tamu pertama kali, sistem akan mengaktifkan mode tamu </string>
+  <string name="privacy_mode_started">Mode privasi diaktifkan</string>
+  <string name="privacy_mode_title">Mode privasi</string>
+  <string name="rank_prefix">"Ranking: "</string>
+  <string name="rank_suffix">" poin"</string>
+  <string name="recognize">Identifikasi</string>
+  <string name="recommend">Terkirim<string name="running_notification">Xiaomi MiKey</string>
+  <string name="scan_fail">Gagal memindai<string name="scan_result">Hasil pindaian</string>
+  <string name="screenkey_disabled">Tombol layar dinonaktifkan</string>
+  <string name="screenkey_enabled">Tombol layar diaktifkan</string>
+  <string name="screenkey_title">Tombol perisai</string>
+  <string name="screenshot_crop">Potong</string>
+  <string name="screenshot_full">Layar penuh</string>
+  <string name="scrennshot_select_title">Pilih ukuran tangkapan</string>
+  <string name="sdcard">Kartu SD</string>
+  <string name="search_baidu_text">Baidu</string>
+  <string name="search_cancel_text">Batal</string>
+  <string name="search_go_text">Teks</string>
+  <string name="search_iciba_text">Iciba</string>
+  <string name="search_select_title">Cari teks</string>
+  <string name="search_taobao_text">TaoBao</string>
+  <string name="select_baidusearch">Penelusuran Baidu</string>
+  <string name="select_baiduvoicesearch">Penelusuran suara Baidu</string>
+  <string name="select_camera">Pilih kamera</string>
+  <string name="select_device">Pilih perangkat</string>
+  <string name="select_direction">Arah</string>
+  <string name="select_vol">Mohon pilih tombol volume</string>
+  <string name="setting_buy">Beli MiKey</string>
+  <string name="setting_feedback">Umpan balik</string>
+  <string name="setting_instant_photo_desc">"Kamera fokus sebelum memotret"</string>
+  <string name="setting_instant_photo_text">Fokuskan sebelum memotret</string>
+  <string name="setting_keeplive_desc">Pilihan ini memungkinkan aplikasi berjalan di belakang layar dan merespon perintah Anda dengan cepat. Tetapi, hal ini dapat meningkatkan konsumsi baterai</string>
+  <string name="setting_keeplive_text">Jalankan di belakang layar</string>
+  <string name="setting_key_mode_dust_cap">key_dust_cap</string>
+  <string name="setting_key_mode_silent_open">key_silent_default</string>
+  <string name="setting_key_silent">key_silent</string>
+  <string name="setting_proximity_desc">Gunakan sensor proximity untuk menghindari kesalahan penggunaan MiKey dalam saku</string>
+  <string name="setting_proximity_text">Gunakan sensor proximity</string>
+  <string name="setting_silent_mode">Mode hening</string>
+  <string name="setting_silent_mode_default">Mode Headphone (pilih MiKey)</string>
+  <string name="setting_silent_mode_desc">"Jika Anda ingin memasang Headset. Setel aplikasi MiKey ke Mode Headset. Jika tidak, keluaran audio mungkin tak akan berfungsi normal."</string>
+  <string name="setting_silent_mode_dust_cap">Mode colokan</string>
+  <string name="setting_speed_desc">Kecepatan tekan tombol</string>
+  <string name="setting_speed_max_time">1000</string>
+  <string name="setting_speed_middle_time">500ms</string>
+  <string name="setting_speed_min_time">0</string>
+  <string name="setting_speed_quick">Lebih cepat</string>
+  <string name="setting_speed_slow">Lebih lambat</string>
+  <string name="setting_speed_text">Cepat</string>
+  <string name="setting_toolbar">Toolbar<string Toolbarlbarlbalbl="setting_toolbar_desc">"Fitur toolbar dapat diakses melalui bar notifikasi untuk kemudahan Anda."</string>
+  <string name="setting_toolbar_tip">"Tekan simbol + untuk menambah fitur baru.
+Tahan untuk menghapus.
+Buat toolbar Anda sendiri sekarang!
+
+Buka toolbar,
+Tarik kebawah dari atas layar untuk menggunakan fitur ini."</string>
+  <string name="setting_vibrate_desc">Ponsel ini akan bergetar ketika fungsi notifikasi berjalan</string>
+  <string name="setting_vibrate_text">Respon getaran</string>
+  <string name="settings">Setelan</string>
+  <string name="short_click_1">1x</string>
+  <string name="short_click_10">10x</string>
+  <string name="short_click_2">2x</string>
+  <string name="short_click_3">3x</string>
+  <string name="short_click_4">4x</string>
+  <string name="short_click_5">5x</string>
+  <string name="short_click_6">6x</string>
+  <string name="short_click_7">7x</string>
+  <string name="short_click_8">8x</string>
+  <string name="short_click_9">9x</string>
+  <string name="showSlip">Tampilkan di popup</string>
+  <string name="silent_mode_tip_main">Mode hening aktif</string>
+  <string name="silent_mode_tip_sub"/>
+  <string name="sms_sent_done">SMS terkirim</string>
+  <string name="sms_template">Teks pesan</string>
+  <string name="sms_to">SMS</string>
+  <string name="splash_mikey_sprite">"seret tombol putih kecil itu kemana saja di layar
+Klik MiKey untuk menekan bagian yang ditutupi tombol putih kecil tanpa menggunakan layar"</string>
+  <string name="splash_tip">Hubungkan MiKey</string>
+  <string name="super_difficult_click">Kesulitan klik</string>
+  <string name="tab_combo">Combo</string>
+  <string name="tab_mikey">MiKey</string>
+  <string name="tab_mikey_sprite">Wizard MiKey</string>
+  <string name="task_title_prefix">Action %1$s: %2$s</string>
+  <string name="test_user_entry">Test</string>
+  <string name="times">kali</string>
+  <string name="title">Judul:</string>
+  <string name="toast_audio_record_start">Mulai perekaman</string>
+  <string name="toast_audio_record_stop">Hentikan perekaman</string>
+  <string name="toast_close">Tertutup</string>
+  <string name="toast_open">Buka</string>
+  <string name="toggle_bluetooth">Bluetooth</string>
+  <string name="toggle_bright">Kecerahan</string>
+  <string name="toggle_data">Data</string>
+  <string name="toggle_flight">Mode pesawat</string>
+  <string name="toggle_gps">GPS</string>
+  <string name="toggle_nfc">NFC</string>
+  <string name="toggle_ring">Berbunyi</string>
+  <string name="toggle_shake">Getaran</string>
+  <string name="toggle_sleep">Tidur</string>
+  <string name="toggle_wifi">Wi-Fi</string>
+  <string name="toolbox_outer_desc">Tambah atau pilih fungsi yang sudah ada</string>
+  <string name="unsupport_content">Mohon perbarui ke ROM developer MIUI resmi terbaru untuk mendapatkan fitur ini</string>
+  <string name="unsupport_title">Fitur ini tak didukung</string>
+  <string name="update_message">Perbarui!</string>
+  <string name="vcard_prompt">Kontak tak dapat ditambahkan karena tak ada nama</string>
+  <string name="wallpaper_action">Ganti wallpaper</string>
+  <string name="wallpaper_change_both">Desktop + Layar kunci</string>
+  <string name="wallpaper_change_desktop">Wallpaper Desktop</string>
+  <string name="wallpaper_change_failed">Gagal mengganti</string>
+  <string name="wallpaper_change_home">Wallpaper layar kunci</string>
+  <string name="wallpaper_change_home_failed">Gagal mengganti</string>
+  <string name="wallpaper_change_ok">Wallpaper terganti</string>
+  <string name="wallpaper_changing">Mengganti wallpaper...</string>
+  <string name="wallpaper_no_more">Jangan ganti wallpaper</string>
+  <string name="web">Situs web:<string "webpage_input_title">Masukkan URL</string>
+  <string name="webpage_title">Buka halaman web</string>
+  <string name="write_pic_fail">Gagal menyimpan gambar</string>
+</resources>

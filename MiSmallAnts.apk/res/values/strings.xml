@@ -34,11 +34,12 @@
   <string name="abs__shareactionprovider_share_with">Share with</string>
   <string name="abs__shareactionprovider_share_with_application">Share with %s</string>
   <string name="account_format_err">Account format error</string>
-  <string name="account_length_err">Account length error（1-40 digit）</string>
+  <string name="account_length_err">Account length error（1-40 digits）</string>
   <string name="account_must_email">Account must email</string>
   <string name="account_not_exists">Account not exists</string>
   <string name="account_null">Account can't be null</string>
-  <string name="account_settting">Account settting</string>
+  <string name="account_settting">Account setting</string>
+  <string name="accountorpassword_authentication_failed">Authentication failed</string>
   <string name="action_settings">Settings</string>
   <string name="add_alarm_setting">Add alarm setting</string>
   <string name="add_device">Add camera</string>
@@ -176,11 +177,13 @@ Please re-plug power again！"</string>
   <string name="checknet_ok">Perfect, internet check ok</string>
   <string name="checknet_progress_prompt">Checking, please wait...</string>
   <string name="choose">Choose</string>
+  <string name="choose_language">Select language:</string>
   <string name="clip">Clip</string>
   <string name="close">Close</string>
   <string name="company_copyright">Ants Technology Co., LTD All rights reserved</string>
   <string name="company_copyright_english">Copyright 2014, ants Technology Co., LTD All Rights Reserved.</string>
   <string name="company_market">Market: http://ants.tmall.com</string>
+  <string name="company_name">Small ants Technology Co. Ltd.</string>
   <string name="company_telephone">Telephone: 400-920-6788</string>
   <string name="company_website">Official website: http://www.360ants.com</string>
   <string name="configing_camera">Configing camera...</string>
@@ -194,6 +197,7 @@ Please re-plug power again！"</string>
   <string name="current_version_no">The current version number</string>
   <string name="data_load_failed">Load failed</string>
   <string name="data_loading">Loading...</string>
+  <string name="data_not_receiver">Data can't be recieved</string>
   <string name="db_databasecontext_sd_card_manager">SDcard manager：</string>
   <string name="db_databasecontext_sd_card_not_exists">SDcard not exists，please remount Sdcard</string>
   <string name="db_sdcarddbhelper_out_line_faild">Failed to creat offline database</string>
@@ -207,6 +211,8 @@ Please re-plug power again！"</string>
   <string name="device_address">Description</string>
   <string name="device_alarm">Alarm</string>
   <string name="device_alarm_setting">Alarm setting</string>
+  <string name="device_contect_failed">Connection failed</string>
+  <string name="device_contect_timeout">Connection timeout</string>
   <string name="device_is_offline">Camera is offline, cannot preview</string>
   <string name="device_name">Name</string>
   <string name="device_no">UID</string>
@@ -227,6 +233,7 @@ Please re-plug power again！"</string>
   <string name="event_list">History video list</string>
   <string name="event_search">Search history video</string>
   <string name="evernote">Evernote</string>
+  <string name="exceed_max_size">Exceeded cache size</string>
   <string name="exit_app_warn">Push again to exit the application</string>
   <string name="facebook">Facebook</string>
   <string name="fail_to_connect_camera">Connect the camera failed</string>
@@ -252,6 +259,8 @@ Please check the network is working"</string>
   <string name="file_uploading">File uploading,...</string>
   <string name="finish">Finish</string>
   <string name="firmware_upgrade">The firmware upgrade</string>
+  <string name="firmware_version">Firmware version</string>
+  <string name="firmware_version_number">FW Version No.：</string>
   <string name="first_config_message">Please make sure the camera in the orange light normally</string>
   <string name="first_config_title">First configuration</string>
   <string name="first_config_title2">The camera WiFi configuration</string>
@@ -274,6 +283,7 @@ Please check the network is working"</string>
   <string name="hint_upload_to_youku_title">Video title</string>
   <string name="hint_video_unpublish">The video is not released, unable to share</string>
   <string name="history_video">History</string>
+  <string name="hk_language">Hong Kong lang.</string>
   <string name="hour">Hour</string>
   <string name="ignore">Ignore</string>
   <string name="in_back_recording">Recording in the background, please wait untill finished</string>
@@ -346,6 +356,7 @@ Please check the network is working"</string>
   <string name="none_meida_info">Sorry, none meida info</string>
   <string name="none_update">None update</string>
   <string name="none_video">None video in this camera</string>
+  <string name="not_found_device">No devices found</string>
   <string name="not_in_wifi">Currently is not in Wifi network, determine to play?</string>
   <string name="number">Number：yunyi.EFFFFFDDDD</string>
   <string name="ok">Ok</string>
@@ -356,6 +367,7 @@ Please check the network is working"</string>
   <string name="op_success">Operation success</string>
   <string name="open_camera">Open camera</string>
   <string name="open_guide_light">Light on</string>
+  <string name="operation_timeout">Operation timeout</string>
   <string name="pass_null">Password can't be null</string>
   <string name="passthrough_message">Passthrough message</string>
   <string name="password">Password</string>
@@ -383,7 +395,7 @@ Please check the network is working"</string>
   <string name="pull_to_refresh">Pull to refresh</string>
   <string name="qq">QQ</string>
   <string name="qq_client_inavailable">Your current QQ version is too low or not installed yet, need to install the QQ</string>
-  <string name="qq_login">QQ acount login</string>
+  <string name="qq_login">QQ account login</string>
   <string name="qzone">Qzone</string>
   <string name="ready_receiver">Ready receiver</string>
   <string name="reboot_message_send_fail">The camera restart command sent failed</string>
@@ -391,22 +403,23 @@ Please check the network is working"</string>
   <string name="rec">REC</string>
   <string name="recommend_to_user_message">Ant camera is a high-definition smart cloud product to use in Family care and business management , by Shanghai Ants Technology Co., LTD</string>
   <string name="recommend_to_user_title">Ant cloud</string>
-  <string name="record_time_too_short">Record time too short, cannot creat file</string>
+  <string name="record_time_too_short">Record time too short, cannot create file</string>
   <string name="record_video">Record video</string>
   <string name="refreshing">Refreshing...</string>
   <string name="release_to_refresh">Release to refresh</string>
   <string name="renren">Renren</string>
-  <string name="repass_null">Repassword can't be null</string>
-  <string name="repasserr">Repassword not match</string>
-  <string name="repassword">Repassword</string>
+  <string name="repass_null">Password can't be null</string>
+  <string name="repasserr">Password not match</string>
+  <string name="repassword">Password</string>
+  <string name="replay_failed">Broadcast failure</string>
   <string name="research">Re-search</string>
-  <string name="reset_wait_relax">"Please use the reset needdle inserted into the reset hole
+  <string name="reset_wait_relax">"Please use the reset needle inserted into the reset hole
 Release after waiting for the light into orange light"</string>
   <string name="resolution_auto">Auto</string>
   <string name="resolution_high">High-definition</string>
   <string name="resolution_low">Smooth</string>
   <string name="resolution_normal">Normal</string>
-  <string name="rightnow_connect">Connect rightnow</string>
+  <string name="rightnow_connect">Connect right now</string>
   <string name="room">Room</string>
   <string name="save">Save</string>
   <string name="scan_the_qr_code">"Please scan aim at the QR code behind the camera"</string>
@@ -419,6 +432,7 @@ Release after waiting for the light into orange light"</string>
   <string name="sdcard_total_size">SDcard total size</string>
   <string name="security_options">Security options:</string>
   <string name="select_one_plat_at_least">Please select a target</string>
+  <string name="session_failed">Interrupted session</string>
   <string name="set_wifi_fail">The camera connection failed, please restart the camera and try again</string>
   <string name="set_wifi_success">The camera WiFi configuration successfully</string>
   <string name="setting_alarm_history">Historical alarm list</string>
@@ -438,7 +452,7 @@ Release after waiting for the light into orange light"</string>
   <string name="share_completed">Share success</string>
   <string name="share_description">Description</string>
   <string name="share_description_cant_be_empty">Please enter a description</string>
-  <string name="share_faild">Share faild</string>
+  <string name="share_faild">Share failed</string>
   <string name="share_failed">Share failed</string>
   <string name="share_file_cant_be_empty">Please choose the video</string>
   <string name="share_image_one_key_text">I shared a small ant camera picture</string>
@@ -547,10 +561,11 @@ Waiting for the light into orange lights flashing"</string>
   <string name="tips_snapshot_failed">Snapshot failed</string>
   <string name="tips_snapshot_ok">Snapshot success</string>
   <string name="tips_warning">Warning</string>
+  <string name="tips_wifi_connect_fail">WiFi connection failed, please try again</string>
   <string name="tips_wifi_connected">Connected</string>
   <string name="tips_wifi_connecting">Connecting…</string>
   <string name="tips_wifi_disconnect">Disconnect</string>
-  <string name="tips_wifi_name">Please enter the name of the WiFi</string>
+  <string name="tips_wifi_name">Select WiFi</string>
   <string name="tips_wifi_password">Please enter the password</string>
   <string name="title">Title</string>
   <string name="title_add_device">Add camera</string>
@@ -566,11 +581,13 @@ Waiting for the light into orange lights flashing"</string>
   <string name="title_modify_device">Modify camera</string>
   <string name="title_operation">Operation</string>
   <string name="title_user_info">Account info</string>
+  <string name="title_wifi_available">WiFi available</string>
   <string name="to">To</string>
   <string name="toast_cannot_use_hight_quilty_cause_mode_error">Only in straight line fast mode can see high-definition video</string>
   <string name="toast_do_not_support_sdk">Do not support phone version</string>
   <string name="toast_out_of_memory">Out of memory~~</string>
   <string name="tumblr">Tumblr</string>
+  <string name="tw_language">Taiwan lang.</string>
   <string name="twenty_second">Twenty second</string>
   <string name="twitter">Twitter</string>
   <string name="txtFrameRatio">FrameRatio:</string>
@@ -583,6 +600,7 @@ Waiting for the light into orange lights flashing"</string>
   <string name="txtUID">UID</string>
   <string name="type_weekends">Weekends</string>
   <string name="type_workday">Workdays</string>
+  <string name="udp_ready_receive">Ready to receive</string>
   <string name="uid_length_too_short">UID length cannot lease than 5 digit</string>
   <string name="umeng_common_action_cancel">Cancel</string>
   <string name="umeng_common_action_continue">Continue</string>
@@ -615,7 +633,8 @@ Waiting for the light into orange lights flashing"</string>
   <string name="umeng_xp_tip_download_pre">Start download</string>
   <string name="umeng_xp_title_info">Best recommend</string>
   <string name="unbind_success">Unbind success</string>
-  <string name="unsupport_phone">Unsupport phone</string>
+  <string name="unlogin">Logged in</string>
+  <string name="unsupport_phone">Not supported phone</string>
   <string name="update_token">Update Token</string>
   <string name="upload">Upload</string>
   <string name="upload_failed">Upload failed</string>
@@ -627,6 +646,8 @@ Waiting for the light into orange lights flashing"</string>
   <string name="user_feedback">User feedback</string>
   <string name="user_input_uid">&lt;a href="#"&gt;Scan failed&amp;#65311;&lt;/a&gt;</string>
   <string name="user_login_in_other_device">User login in other device</string>
+  <string name="user_tips">Click here to add cameras</string>
+  <string name="user_tips2">Experience smart cameras bunker bar</string>
   <string name="userinfo_account_qq">Qzone</string>
   <string name="userinfo_account_tencent_weibo">Tencent microblog</string>
   <string name="userinfo_account_weibo">Sina microblog</string>
@@ -720,7 +741,8 @@ Waiting for the light into orange lights flashing"</string>
   <string name="winexperience_tfcardstate_info_total_4g">4G ?!!</string>
   <string name="winexperience_tfcardstate_info_total_8g">8G !!!</string>
   <string name="winexperience_tfcardstate_title">TFcard state</string>
-  <string name="winexperience_waiting_check">Waiting check...</string>
+  <string name="winexperience_waiting_check">Waiting ...</string>
+  <string name="work_day">Days</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_external_storage_unavailable">External storage unavailable，please check </string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>

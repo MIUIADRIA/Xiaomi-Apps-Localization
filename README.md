@@ -33,7 +33,7 @@ Localization Project For Xiaomi Gadgets Android Applications
 - MiTag_2.0.4 - http://app.mi.com/detail/56946 - English
 - MiTalk_1.0.1117 - http://app.mi.com/detail/323 - English + Chinese Images
 - MiTransfer_1.0.131029 - http://app.mi.com/detail/64390 - English
-- MiWifiPortable_1.1.755 - http://app.mi.com/detail/65299 - Chinese Only
+- MiWifiPortable_1.1.755 - http://app.mi.com/detail/65299 - English; Credits: @allakazoo; @Backlash2
 - SmallAnts_1.3.6 - http://app.mi.com/detail/75646 - Chinese Only
 - SuperMarket_R.1.4.2 - http://app.mi.com/detail/34346 - Partially English
 

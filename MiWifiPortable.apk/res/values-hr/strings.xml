@@ -74,9 +74,9 @@ Vrijeme:%3$s"</string>
   <string name="file_volume_local_internal">Interna memorija</string>
   <string name="file_volume_privacy_enable">Omogući</string>
   <string name="file_volume_router_external">USB memorija</string>
-  <string name="file_volume_unmount">Unmount</string>
-  <string name="file_volume_unmount_loading">Unmountanje, pričekajte ...</string>
-  <string name="file_volume_unmount_success">Uspješno Unmountano</string>
+  <string name="file_volume_unmount">Isključi</string>
+  <string name="file_volume_unmount_loading">Isključivanje, pričekajte ...</string>
+  <string name="file_volume_unmount_success">Uspješno isključeno</string>
   <string name="folder_empty">Nema datoteka</string>
   <string name="hour">Sati</string>
   <string name="install_dialog_title">Instalirajte novu verziju</string>
@@ -84,7 +84,7 @@ Vrijeme:%3$s"</string>
   <string name="less_one_minute">1 minuta</string>
   <string name="loading_prompt">Povezivanje na dijeljeni disk...</string>
   <string name="lock_screen_failed">Pogreška zaključavanja zasloan</string>
-  <string name="main_title">Portable WIFI dijeljeni disk</string>
+  <string name="main_title">MiWIFI dijeljeni disk</string>
   <string name="media_select_items">Odaberite stavku</string>
   <string name="media_select_x_items">Odabrano stavaka: %d</string>
   <string name="media_type_images">Albumi</string>
@@ -92,7 +92,7 @@ Vrijeme:%3$s"</string>
   <string name="media_type_videos">Video</string>
   <string name="media_upload_none_selected">Niste odabrali datoteku za učitavanje!</string>
   <string name="minute">Minuta</string>
-  <string name="mishare_upgrade">Mi portable WIFI Ažuriranja</string>
+  <string name="mishare_upgrade">MiWIFI Ažuriranja</string>
   <string name="network_unavailable">Nema povezivanje s mrežom</string>
   <string name="next_button">Dalje</string>
   <string name="no_upgrading">Već imate zadnju verziju^_^</string>
@@ -105,7 +105,7 @@ Vrijeme:%3$s"</string>
   <string name="pictures_group_name_x_num_x" formatted="false">%s | %d pretraži</string>
   <string name="play">Reproduciraj</string>
   <string name="play_ppt_prompt">Uvjerite se da je računalo uključilo slide datoteke</string>
-  <string name="please_connect_miwifi">Povežite Mi Portable WIFI</string>
+  <string name="please_connect_miwifi">Povežite MiWIFI</string>
   <string name="please_open_ppt">Otvorite dijaprojekciju</string>
   <string name="please_select">Odaberite datoteku</string>
   <string name="ppt_control">Daljinsko Slide upravljeanje</string>
@@ -116,7 +116,7 @@ Vrijeme:%3$s"</string>
   <string name="refresh">Osvježi</string>
   <string name="remote_shutdown">Daljinsko isključivanje računala</string>
   <string name="remove">Izbriši</string>
-  <string name="sdcard_is_full">Nedovoljno mjesta na  SD kartici , napravite mjesta</string>
+  <string name="sdcard_is_full">Nedovoljno mjesta na SD kartici, napravite mjesta</string>
   <string name="sdcard_must_be_mounted_when_upgrade">Datoteka ažuriranja treba biti spremljena na SD karticu, ponovno instalirajte SD karticu nakon ažuriranja.</string>
   <string name="select_all">Odaberi</string>
   <string name="select_none">Izbriši sve</string>

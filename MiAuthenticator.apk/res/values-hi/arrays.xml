@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type">
+        <item>समय आधारित</item>
+        <item>काउंटर आधारित</item>
+    </string-array>
+</resources>

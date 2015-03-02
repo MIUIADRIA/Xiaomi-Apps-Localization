@@ -63,7 +63,7 @@ Vrijeme:%3$s"</string>
   <string name="file_select_0">Odaberite stavku</string>
   <string name="file_select_all">Odaberi sve</string>
   <string name="file_select_all_not">Poništi odabir</string>
-  <string name="file_select_n">Odabrano stavki: %d</string>
+  <string name="file_select_n">Odabrano: %d</string>
   <string name="file_upload_failed">Učitavanje nije uspjelo</string>
   <string name="file_upload_files">Učitaj na PC</string>
   <string name="file_upload_files_disk">Učitano na U disk</string>
@@ -83,10 +83,10 @@ Vrijeme:%3$s"</string>
   <string name="is_upgrading">Ažuriranje</string>
   <string name="less_one_minute">1 minuta</string>
   <string name="loading_prompt">Povezivanje na dijeljeni disk...</string>
-  <string name="lock_screen_failed">Pogreška zaključavanja zasloan</string>
+  <string name="lock_screen_failed">Pogreška zaključavanja zaslona</string>
   <string name="main_title">MiWIFI dijeljeni disk</string>
   <string name="media_select_items">Odaberite stavku</string>
-  <string name="media_select_x_items">Odabrano stavaka: %d</string>
+  <string name="media_select_x_items">Odabrano: %d</string>
   <string name="media_type_images">Albumi</string>
   <string name="media_type_others">Ostalo</string>
   <string name="media_type_videos">Video</string>
@@ -108,7 +108,7 @@ Vrijeme:%3$s"</string>
   <string name="please_connect_miwifi">Povežite MiWIFI</string>
   <string name="please_open_ppt">Otvorite dijaprojekciju</string>
   <string name="please_select">Odaberite datoteku</string>
-  <string name="ppt_control">Daljinsko Slide upravljeanje</string>
+  <string name="ppt_control">Daljinsko Slide upravljanje</string>
   <string name="prev_button">Prethodno</string>
   <string name="previous_button">Natrag</string>
   <string name="ptr_last_updated">Ažurirano: %1$s</string>
@@ -120,8 +120,8 @@ Vrijeme:%3$s"</string>
   <string name="sdcard_must_be_mounted_when_upgrade">Datoteka ažuriranja treba biti spremljena na SD karticu, ponovno instalirajte SD karticu nakon ažuriranja.</string>
   <string name="select_all">Odaberi</string>
   <string name="select_none">Izbriši sve</string>
-  <string name="selected_prompt">Odabrano dokumenata: %s</string>
-  <string name="server_version_too_low">Verzija upravljačkog program PC-ja je prestata, molimo ažurirajte je.</string>
+  <string name="selected_prompt">Odabrano: %s</string>
+  <string name="server_version_too_low">Verzija upravljačkog program PC-ja je prestara, molimo ažurirajte je.</string>
   <string name="shared_root_folder">Dijeljeni disk</string>
   <string name="shutdown_failed">Pogreška isključivanja</string>
   <string name="shutdown_prompt_dialog_message">Potrebno je prvi puta postaviti dopuštenja na računalu</string>

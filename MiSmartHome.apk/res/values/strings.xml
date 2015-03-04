@@ -1900,7 +1900,7 @@
 后置活性炭滤芯"</string>
   <string name="umstringroonefun">"第一级过滤
 PP棉滤芯"</string>
-  <string name="umstringrotds">纯净水TDS</string>
+  <string name="umstringrotds">Pure Water TDS</string>
   <string name="umstringrothreefun">"第三级过滤
 RO反渗透滤芯"</string>
   <string name="umstringrotwofun">"第二级过滤
@@ -1912,28 +1912,28 @@ RO反渗透滤芯"</string>
   <string name="umstringtab2">滤芯检测</string>
   <string name="umstringtab3">用水量</string>
   <string name="umstringtds">TDS</string>
-  <string name="umstringtuCount">年度用水曲线图</string>
-  <string name="umtitle">净水器</string>
-  <string name="umtotal">本月纯水用量</string>
-  <string name="umtwater">自来水</string>
+  <string name="umstringtuCount">Annual water chart</string>
+  <string name="umtitle">Water Purifier</string>
+  <string name="umtotal">Total water used this month</string>
+  <string name="umtwater">Running water</string>
   <string name="unauthoried_tip">账户失效，请重新登录</string>
-  <string name="unknown_os">未知版本</string>
-  <string name="update_record_failure">更新记录失败</string>
-  <string name="upgrade_check_fail">暂时无法获取版本信息</string>
-  <string name="upgrade_has_update">有更新</string>
+  <string name="unknown_os">Unknown version</string>
+  <string name="update_record_failure">Failed to get update history</string>
+  <string name="upgrade_check_fail">Temporarily unable to obtain version information</string>
+  <string name="upgrade_has_update">Updates</string>
   <string name="upgrade_has_update_title">Update available</string>
-  <string name="upgrade_new_version">发现有可用固件升级</string>
+  <string name="upgrade_new_version">New Firmware update is available</string>
   <string name="upgrade_new_version_cancel">Later</string>
   <string name="upgrade_new_version_hint">Update available</string>
   <string name="upgrade_new_version_upgrade">Update now</string>
   <string name="upgrade_no_new_version_hint">"Version "</string>
-  <string name="upgrade_pkg_downloaded_title_smarthome">Updating…</string>
-  <string name="upgrade_pkg_downloading_title2_smarthome">Checking…</string>
-  <string name="upgrade_pkg_downloading_title_smarthome">Downloading update…</string>
-  <string name="upgrading_error">更新失败，请检查网络并重试</string>
-  <string name="upload_type">上传文件类型</string>
-  <string name="uploading_log_error">上传APP日志失败,请稍后重试</string>
-  <string name="useable_space">路由存储</string>
+  <string name="upgrade_pkg_downloaded_title_smarthome">Updating...</string>
+  <string name="upgrade_pkg_downloading_title2_smarthome">Checking...</string>
+  <string name="upgrade_pkg_downloading_title_smarthome">Downloading update...</string>
+  <string name="upgrading_error">Update failed, please check network connection and try again</string>
+  <string name="upload_type">Upload file type</string>
+  <string name="uploading_log_error">Uploading APP log failed, please try again</string>
+  <string name="useable_space">Router storage space</string>
   <string name="user_license">"【重要提示】
  请您在开始使用小米智能家庭系列产品（以下简称"本产品"）之前请务必仔细阅读并理解《用户许可使用协议》（以下简称"本协议"）中规定的所有权利和限制。
  
@@ -2145,23 +2145,23 @@ RO反渗透滤芯"</string>
  本隐私政策的修订
  本隐私政策容许调整，未经您明示同意，我们不会削弱您按照本隐私权政策所应享有的权利，除非通过您提供的电子邮件地址向您发送通知或发布网站公告。
 "</string>
-  <string name="user_license_btn_text">使用条款和隐私政策</string>
-  <string name="version_name_string">当前版本：%s</string>
-  <string name="videos_group_name_x_num_x" formatted="false">%s | %d个</string>
-  <string name="volumeDec">音量-</string>
-  <string name="volumeInc">音量+</string>
+  <string name="user_license_btn_text">Terms of Use and Privacy Policy</string>
+  <string name="version_name_string">Current version: %s</string>
+  <string name="videos_group_name_x_num_x" formatted="false">%s | %d Months</string>
+  <string name="volumeDec">Decrease-</string>
+  <string name="volumeInc">Increase+</string>
   <string name="water_purifier">Water purifier</string>
-  <string name="web_shell_loading">加载中...</string>
-  <string name="wednesday">星期三</string>
+  <string name="web_shell_loading">Loading...</string>
+  <string name="wednesday">Wednesday</string>
   <string name="week_day_0">日</string>
-  <string name="week_day_1">一</string>
-  <string name="week_day_2">二</string>
-  <string name="week_day_3">三</string>
-  <string name="week_day_4">四</string>
-  <string name="week_day_5">五</string>
-  <string name="week_day_6">六</string>
-  <string name="wifi_available_title">可连接的网络</string>
-  <string name="wifi_change_btn_text">点击设置</string>
+  <string name="week_day_1">One</string>
+  <string name="week_day_2">Two</string>
+  <string name="week_day_3">Three</string>
+  <string name="week_day_4">Four</string>
+  <string name="week_day_5">Five</string>
+  <string name="week_day_6">Six</string>
+  <string name="wifi_available_title">WiFi network available</string>
+  <string name="wifi_change_btn_text">Change WiFi settings</string>
   <string name="wifi_change_hint">您的WLAN发生变化</string>
   <string name="wifi_check_select">点击选择Wifi</string>
   <string name="wifi_connection_correct">1，请检查WLAN网络（2.4G）是否通畅</string>
@@ -2171,11 +2171,11 @@ RO反渗透滤芯"</string>
   <string name="wifi_input_content">请手动输入WLAN名称和密码</string>
   <string name="wifi_input_name_hint">请输入WLAN名称</string>
   <string name="wifi_input_passwd_hint">请输入WLAN密码</string>
-  <string name="wifi_input_wifi">WLAN连接修改</string>
-  <string name="wifi_log_day">天</string>
-  <string name="wifi_log_monday">周一</string>
-  <string name="wifi_log_month">月</string>
-  <string name="wifi_log_month_title">%d月</string>
+  <string name="wifi_input_wifi">Modify WiFi connection</string>
+  <string name="wifi_log_day">Day</string>
+  <string name="wifi_log_monday">Monday</string>
+  <string name="wifi_log_month">Month</string>
+  <string name="wifi_log_month_title">%d Month</string>
   <string name="wifi_log_reset_query">您确定要重置出行设置吗？</string>
   <string name="wifi_log_set_success">设置成功,您的出行时间将被记录</string>
   <string name="wifi_log_set_success_sub_title">手机出行日志时间仅供参考</string>
@@ -2183,14 +2183,14 @@ RO反渗透滤芯"</string>
   <string name="wifi_log_stat_at_office_title">上班时间</string>
   <string name="wifi_log_stat_out_home_title">出门时间</string>
   <string name="wifi_log_stat_out_office_title">下班时间</string>
-  <string name="wifi_log_title">出行日志</string>
-  <string name="wifi_log_week">周</string>
+  <string name="wifi_log_title">Travel log</string>
+  <string name="wifi_log_week">Week</string>
   <string name="wifi_log_week_tile">第%d周</string>
-  <string name="wifi_need_open">请打开wifi</string>
-  <string name="wifi_office_wifi">公司里的WIFI</string>
+  <string name="wifi_need_open">Please open WiFi</string>
+  <string name="wifi_office_wifi">Office WiFi</string>
   <string name="wifi_reconnect_title">System settings</string>
-  <string name="wifi_rescan_wifi">重新扫描</string>
-  <string name="wifi_save_passwd">下次记住密码</string>
+  <string name="wifi_rescan_wifi">Rescan</string>
+  <string name="wifi_save_passwd">Remember WiFi password</string>
   <string name="wifi_scan_new_device">发现%1$d台%2$s,点击快速连接新设备</string>
   <string name="wifi_scan_new_device_title">Scan for new devices</string>
   <string name="wifi_scan_new_plug">Found %1$d smart device, click quick connect to view devices</string>

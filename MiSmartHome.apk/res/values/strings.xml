@@ -1,50 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_check_update">检查升级</string>
-  <string name="about_faq">常见问题</string>
-  <string name="about_faq_content">"请检查WLAN网络是否畅通
- 1.连接智能设备的WLAN的密码是否正确
- 2.网速慢
- 3.不支持WEP和EAP加密方式
- 4.路由器没有接入外网
- 5.公共WLAN网络无法连接
- 6.5G网络无法连接
+  <string name="about_check_update">Check for update</string>
+  <string name="about_faq">FAQs</string>
+  <string name="about_faq_content">"Please check WiFi connection is stable
+ 1. Smart device password is correctly inputted
+ 2. Slow network speeds
+ 3. Does not support WEP or EAP encryption
+ 4. Router is not connected to external network
+ 5. Public WAN network is unable to connect
+ 6. 5G WiFi network is unable to connect
 "</string>
   <string name="about_faq_link">(查看方法)</string>
   <string name="about_hight_light">亮点介绍</string>
   <string name="about_normal">切换到正式环境</string>
-  <string name="about_smarthome_bbs">小米智能家庭论坛</string>
-  <string name="about_test">切换到测试环境</string>
+  <string name="about_smarthome_bbs">Xiaomi Smart home forum</string>
+  <string name="about_test">Test environment</string>
   <string name="account_login">Sign in</string>
   <string name="action_settings">Settings</string>
   <string name="add_back_device_error">"Can't add device"</string>
   <string name="add_btn_text">添加</string>
   <string name="add_device">Add device</string>
-  <string name="add_failed">添加失败,请稍后重试</string>
-  <string name="add_family_member">添加家人</string>
-  <string name="add_family_success">添加成功</string>
+  <string name="add_failed">Failed to add device, please try again</string>
+  <string name="add_family_member">Add family member</string>
+  <string name="add_family_success">Family member added successfully</string>
   <string name="add_or_kick_device_failed">Something went wrong</string>
-  <string name="add_other_family">添加其他家人</string>
-  <string name="add_scene">添加场景</string>
-  <string name="air_error_page_text">手机初次连接或连接不上净化器时，请同时 按下模式键与灯光键5秒，听到“滴滴滴”提示 音后，WLAN重置成功</string>
-  <string name="air_pufifier_outdoor_city">市</string>
-  <string name="air_pufifier_outdoor_district">区</string>
-  <string name="air_pufifier_v2_outdoor_city">市</string>
-  <string name="air_pufifier_v2_outdoor_district">区</string>
-  <string name="air_purifier">小米空气净化器</string>
+  <string name="add_other_family">Add more family members</string>
+  <string name="add_scene">Add scene</string>
+  <string name="air_error_page_text">手机初次连接或连接不上净化器时，请同时 按下模式键与灯光键5秒，听到"滴滴滴"提示 音后，WLAN重置成功</string>
+  <string name="air_pufifier_outdoor_city">City</string>
+  <string name="air_pufifier_outdoor_district">Area/District</string>
+  <string name="air_pufifier_v2_outdoor_city">City</string>
+  <string name="air_pufifier_v2_outdoor_district">Area/District</string>
+  <string name="air_purifier">Mi air purifier</string>
   <string name="air_purifier_act_det_desc">你可以在关机的状态下实时监测家中的空气质量，每天会增加约5分钱的电量消耗，可能还会听到极轻微的电机声, 是否打开?</string>
-  <string name="air_purifier_act_det_fail">打开失败</string>
+  <string name="air_purifier_act_det_fail">Failed to open Mi air purifier</string>
   <string name="air_purifier_act_det_no">以后再说</string>
-  <string name="air_purifier_act_det_processing">处理中...</string>
+  <string name="air_purifier_act_det_processing">Processing...</string>
   <string name="air_purifier_act_det_success">已打开，您可以在设置中关闭这个功能</string>
-  <string name="air_purifier_act_det_yes">打开</string>
-  <string name="air_purifier_air_gran">颗粒物总量</string>
-  <string name="air_purifier_air_quality">空气质量</string>
-  <string name="air_purifier_closed">设备关机</string>
-  <string name="air_purifier_common_indoor_detail_location">地点:</string>
-  <string name="air_purifier_common_indoor_detail_ok">知道了</string>
+  <string name="air_purifier_act_det_yes">Switch on</string>
+  <string name="air_purifier_air_gran">Air molecules</string>
+  <string name="air_purifier_air_quality">Air quality</string>
+  <string name="air_purifier_closed">Mi purifier is powered off</string>
+  <string name="air_purifier_common_indoor_detail_location">Location:</string>
+  <string name="air_purifier_common_indoor_detail_ok">OK</string>
   <string name="air_purifier_common_indoor_detail_pm25">细颗粒物(PM2.5):</string>
-  <string name="air_purifier_common_indoor_detail_source">数据来源:</string>
+  <string name="air_purifier_common_indoor_detail_source">Data sources:</string>
   <string name="air_purifier_common_indoor_detail_source_pub">采集</string>
   <string name="air_purifier_common_indoor_detail_title">室内</string>
   <string name="air_purifier_common_location_fail">定位失败</string>
@@ -66,11 +66,11 @@
   <string name="air_purifier_common_outdoor_detail_source">数据来源:</string>
   <string name="air_purifier_common_outdoor_detail_source_pub">发布</string>
   <string name="air_purifier_common_outdoor_detail_title">室外</string>
-  <string name="air_purifier_controll">设备控制</string>
-  <string name="air_purifier_device_location_empty">未获得设备地理位置</string>
-  <string name="air_purifier_device_location_unavailable">请开启定位</string>
-  <string name="air_purifier_filter">滤芯</string>
-  <string name="air_purifier_filter_buy">滤芯购买</string>
+  <string name="air_purifier_controll">Device control</string>
+  <string name="air_purifier_device_location_empty">Unable to get devices location</string>
+  <string name="air_purifier_device_location_unavailable">Turn on location services</string>
+  <string name="air_purifier_filter">Filter</string>
+  <string name="air_purifier_filter_buy">Buy Filter</string>
   <string name="air_purifier_filter_desc">"说明:
 
 检测到滤芯需更换时，每次开机滤芯更换指示灯呈红色呼吸状态30秒。
@@ -322,41 +322,41 @@
   <string name="app_latest_version_installed">Mi Home is up to date.</string>
   <string name="app_latest_version_installed_smarthome">Your system is up to date.</string>
   <string name="app_name">Mi Home</string>
-  <string name="app_name2">小米智能家庭</string>
-  <string name="app_upgrade_check_smarthome">Checking…</string>
+  <string name="app_name2">Mi Smart Home</string>
+  <string name="app_upgrade_check_smarthome">Checking...</string>
   <string name="app_upgrade_detail_smarthome">Update Mi Home now?</string>
   <string name="app_upgrade_failed_smarthome">"Can't download update"</string>
-  <string name="application_feedback">扩展应用</string>
+  <string name="application_feedback">Feedback</string>
   <string name="back_name_less_limit_30">备注名需要在30个字符之内</string>
   <string name="back_name_less_limit_not_null">备注名不能为空</string>
-  <string name="begin_connection">开始连接</string>
-  <string name="bind_bind">已连接</string>
-  <string name="bind_error">操作执行失败</string>
+  <string name="begin_connection">Start connecting</string>
+  <string name="bind_bind">Connected</string>
+  <string name="bind_error">Operation failed</string>
   <string name="bind_error_info">"1.请检查网络是否畅通
  2.请重新点击电源键完成连接"</string>
   <string name="bind_info">请尝试重置设备后，再连接</string>
-  <string name="bind_success">操作执行成功</string>
-  <string name="bind_title">设备连接详情</string>
-  <string name="bind_unbind">未连接</string>
-  <string name="binding_feedback">账号绑定</string>
+  <string name="bind_success">Operation completed successfully</string>
+  <string name="bind_title">Device connection details</string>
+  <string name="bind_unbind">Not connected</string>
+  <string name="binding_feedback">Account association</string>
   <string name="bing_tips">查看重置方法</string>
   <string name="bought_device_go">Learn more</string>
-  <string name="bought_device_remote">智能控制</string>
-  <string name="bought_device_switch">小米智能插座</string>
-  <string name="button_bind">确认连接</string>
+  <string name="bought_device_remote">Intelligent control</string>
+  <string name="bought_device_switch">Mi Smart Plug</string>
+  <string name="button_bind">Connect</string>
   <string name="button_bind_failed">连接失败,请检查网络是否通畅</string>
   <string name="button_bind_failed_info">连接失败, 请检查设备和手机是否在同一路由器下</string>
   <string name="button_bind_failed_old_version">绑定失败，请升级小米电视或盒子系统到最新版本</string>
   <string name="button_bind_success">连接成功</string>
   <string name="button_bind_tips">请在%d秒内点击开关键完成连接</string>
-  <string name="calorie">卡</string>
-  <string name="camera_alarm_set_error">摄像机报警设置失败</string>
-  <string name="camera_alarm_set_error_alert">保存摄像机设置失败,是否退出设置?</string>
-  <string name="camera_alarm_set_sucess">摄像机报警设置成功</string>
+  <string name="calorie">Cal</string>
+  <string name="camera_alarm_set_error">Failed to set camera alarm</string>
+  <string name="camera_alarm_set_error_alert">Failed to save camera settings, do you want to exit setup?</string>
+  <string name="camera_alarm_set_sucess">Successfully set camera alarm</string>
   <string name="camera_audio_record_not_author">未授权录制语音，是否前往授权？</string>
-  <string name="camera_connect_status_connected">已连接</string>
-  <string name="camera_connect_status_connecting">连接中</string>
-  <string name="camera_connect_status_disconnected">连接失败</string>
+  <string name="camera_connect_status_connected">Connected</string>
+  <string name="camera_connect_status_connecting">Connecting</string>
+  <string name="camera_connect_status_disconnected">Disconnected</string>
   <string name="camera_error_app">无法连接，请重新打开应用</string>
   <string name="camera_error_device">设备异常，请重启设备</string>
   <string name="camera_error_disconnect">连接被断开,请稍后重试</string>
@@ -364,61 +364,61 @@
   <string name="camera_error_network">无法连接,请检查网络是否连通</string>
   <string name="camera_get_device_error">获取摄像机设备信息失败</string>
   <string name="camera_get_device_info_error_retry">获取摄像机设备信息失败,请重新打开</string>
-  <string name="camera_local_scan">摄像机本地扫描</string>
-  <string name="camera_max_record_time">已到最大录制时间</string>
-  <string name="camera_name">小蚁智能摄像机</string>
+  <string name="camera_local_scan">Scan for local camera</string>
+  <string name="camera_max_record_time">Maximum recording time has been reached</string>
+  <string name="camera_name">Yi SmallAnts Camera</string>
   <string name="camera_need_update_rom">当前固件版本过低，影响摄像机使用，请升级最新版本使用</string>
   <string name="camera_need_update_rom_for_use">当前固件版本过低，不能使用该功能，请升级最新版本使用</string>
-  <string name="camera_new_version">新版本</string>
+  <string name="camera_new_version">New version</string>
   <string name="camera_not_show_top_snap">解除顶部显示图像</string>
   <string name="camera_not_support_new_p2p">暂不支持新版摄像机</string>
   <string name="camera_not_support_play_record">摄像机没有TF卡，无法回看</string>
   <string name="camera_open_no_wifi_tips">检测到手机处于非WLAN环境,继续查看会消耗大量流量,确定查看吗？</string>
-  <string name="camera_open_ok">确定</string>
-  <string name="camera_play_error">摄像机打开失败</string>
-  <string name="camera_play_initial">正在初始化%1$d%%...</string>
-  <string name="camera_play_initial_buffer">正在缓冲...</string>
-  <string name="camera_play_no_record">该时刻摄像机没有录制视频</string>
+  <string name="camera_open_ok">OK</string>
+  <string name="camera_play_error">Failed to open camera</string>
+  <string name="camera_play_initial">Initializing %1$d%%...</string>
+  <string name="camera_play_initial_buffer">Buffering...</string>
+  <string name="camera_play_no_record">Camera is not recording</string>
   <string name="camera_play_on_tv_title">确定投影摄像机画面到%1$s</string>
   <string name="camera_play_record_check_local_mirouter">正在检测手机和智能摄像机是否在同一小米路由器中</string>
   <string name="camera_play_record_check_local_mirouter_failed">手机和智能摄像机不在同一小米路由器中</string>
   <string name="camera_play_record_check_local_mirouter_play_failed_alert">无法播放,请确认手机是否和智能摄像机在同一小米路由器中</string>
-  <string name="camera_realtime">实时观看</string>
+  <string name="camera_realtime">View in real-time</string>
   <string name="camera_record_file_name_date_format">yyyy年MM月dd日</string>
-  <string name="camera_remote_scan">摄像机云端获取</string>
-  <string name="camera_save_setting">正在保存摄像机设置</string>
-  <string name="camera_save_setting_success">保存摄像机设置成功</string>
+  <string name="camera_remote_scan">Scan for cloud camera</string>
+  <string name="camera_save_setting">Save camera settings</string>
+  <string name="camera_save_setting_success">Successfully saved camera settings</string>
   <string name="camera_serach_no_device_blue">摄像机蓝灯常亮或闪烁，设备被占用，请重置</string>
   <string name="camera_serach_no_device_red">摄像机红灯常亮（系统正在启动）无法连接，红灯闪烁等待连接</string>
   <string name="camera_set_backupconfig_error">设置备份信息失败</string>
-  <string name="camera_set_error">处理失败</string>
+  <string name="camera_set_error">Settings failure</string>
   <string name="camera_set_error_not_open">摄像机已经断开连接，请重新连接</string>
-  <string name="camera_set_error_timeout">处理超时</string>
-  <string name="camera_set_video_quality">视频清晰度设置:</string>
-  <string name="camera_set_video_save_time">视频存储时间设置:</string>
-  <string name="camera_settings_alarm_all_day">全天报警</string>
-  <string name="camera_settings_alarm_user_define">自定义报警</string>
+  <string name="camera_set_error_timeout">Timeout communicating with camera</string>
+  <string name="camera_set_video_quality">Video resolution:</string>
+  <string name="camera_set_video_save_time">Video storage time:</string>
+  <string name="camera_settings_alarm_all_day">Daily alarm</string>
+  <string name="camera_settings_alarm_user_define">Custom alarm</string>
   <string name="camera_settings_camera_and_router_no_space_to_support_copyback">检测到你的摄像机没有TF卡，路由器里也没有硬盘，无法使用该功能</string>
-  <string name="camera_settings_camera_backup_close">关闭</string>
-  <string name="camera_settings_camera_backup_open">开启</string>
-  <string name="camera_settings_camera_cancel_update">取消更新</string>
-  <string name="camera_settings_camera_closed">摄像机已关闭</string>
+  <string name="camera_settings_camera_backup_close">Close</string>
+  <string name="camera_settings_camera_backup_open">Open</string>
+  <string name="camera_settings_camera_cancel_update">Cancel update</string>
+  <string name="camera_settings_camera_closed">Camera is switched off</string>
   <string name="camera_settings_camera_info">检查固件升级</string>
-  <string name="camera_settings_camera_light">指示灯</string>
+  <string name="camera_settings_camera_light">Camera LED</string>
   <string name="camera_settings_camera_not_support_copyback">检测到你的摄像机里没有TF卡，无法使用该功能，建议插入TF卡后使用</string>
-  <string name="camera_settings_camera_reboot">重启安装更新</string>
-  <string name="camera_settings_camera_snap_share">摄像机画面分享</string>
-  <string name="camera_settings_camera_snap_share_info">来自小蚁智能摄像机分享摄像机画面</string>
-  <string name="camera_settings_camera_speaking">正在对讲中,松开停止</string>
-  <string name="camera_settings_camera_update">立即更新</string>
-  <string name="camera_settings_check_update">检查固件升级</string>
-  <string name="camera_settings_check_update_new">检查固件升级(new)</string>
-  <string name="camera_settings_copybacking">立即备份</string>
-  <string name="camera_settings_copybacking_desc">正在备份中...</string>
-  <string name="camera_settings_last_copyback_time">上次备份时间:</string>
-  <string name="camera_settings_motion_alarm_switch">报警</string>
-  <string name="camera_settings_motion_alarm_switch_desc">检测到画面异常时发送通知进行提醒</string>
-  <string name="camera_settings_motion_alarm_switch_setting">报警设置</string>
+  <string name="camera_settings_camera_reboot">Restart camera to install update</string>
+  <string name="camera_settings_camera_snap_share">Camera screen sharing</string>
+  <string name="camera_settings_camera_snap_share_info">SmallAnts photo sharing</string>
+  <string name="camera_settings_camera_speaking">Talking, release to stop</string>
+  <string name="camera_settings_camera_update">Update now</string>
+  <string name="camera_settings_check_update">Check for updates</string>
+  <string name="camera_settings_check_update_new">Firmware upgrade (new)</string>
+  <string name="camera_settings_copybacking">Backup now</string>
+  <string name="camera_settings_copybacking_desc">Backing up...</string>
+  <string name="camera_settings_last_copyback_time">Last backup time:</string>
+  <string name="camera_settings_motion_alarm_switch">Intruder alarm</string>
+  <string name="camera_settings_motion_alarm_switch_desc">Detect abnormal movement and send notification alerts</string>
+  <string name="camera_settings_motion_alarm_switch_setting">Alarm settings</string>
   <string name="camera_settings_motion_detect_switch">移动侦测录制</string>
   <string name="camera_settings_motion_detect_switch_des">侦测到图像变化时开始录制视频,开启后能节省存储空间,但无法录制全部声音</string>
   <string name="camera_settings_open_error_no_config_info">正在获取路由器备份信息</string>
@@ -488,7 +488,7 @@
   <string name="channel">CommonChannelInfo</string>
   <string name="check_upgrading_error">"Couldn't check for updates"</string>
   <string name="check_upgrading_error_smarthome">"Can't check for updates"</string>
-  <string name="checking">Checking…</string>
+  <string name="checking">Checking...</string>
   <string name="choose_detail_wifi">"准备连接%s
 "</string>
   <string name="choose_device_title">选择您要连接的设备</string>
@@ -540,47 +540,47 @@
   <string name="comment_reply_hint">回复评价</string>
   <string name="comment_reply_suffix">：</string>
   <string name="comment_reply_total">用户评论（%d条）</string>
-  <string name="comment_save_pic">保存</string>
-  <string name="comment_save_pic_failed">保存图片失败，请检查SD卡是否可用</string>
-  <string name="comment_save_pic_success">图片已经保存到%s</string>
-  <string name="comment_save_pic_unavailiable">图片尚未下载，无法保存</string>
-  <string name="comment_submit_suc_toast">发表成功，等待管理员审核</string>
-  <string name="comment_update_failed">获取数据失败</string>
+  <string name="comment_save_pic">Save</string>
+  <string name="comment_save_pic_failed">Failed to save photo, please check storage is mounted and available</string>
+  <string name="comment_save_pic_success">Photos are saved to %s</string>
+  <string name="comment_save_pic_unavailiable">Photos not available and cannot be saved</string>
+  <string name="comment_submit_suc_toast">Comment successfully submitted, please wait for review</string>
+  <string name="comment_update_failed">Failed to post comment</string>
   <string name="comment_updown_already_toast">您已经对此评价顶/踩过一次</string>
   <string name="commit">Submit</string>
   <string name="common_finish">OK</string>
   <string name="common_hint">Attention</string>
   <string name="complete">Finished</string>
-  <string name="condition_come_home">回家模式</string>
-  <string name="condition_leave_home">离家模式</string>
+  <string name="condition_come_home">Come home</string>
+  <string name="condition_leave_home">Leave home</string>
   <string name="confirm_button">OK</string>
-  <string name="confirm_delete_family">确认删除家人?</string>
+  <string name="confirm_delete_family">Are you sure you want to delete this family member?</string>
   <string name="confirm_quit">Exit</string>
-  <string name="confirm_title">提示</string>
-  <string name="connectFailed">连接失败！</string>
+  <string name="confirm_title">Confirm</string>
+  <string name="connectFailed">Connection failed!</string>
   <string name="connectTimeout">5000</string>
   <string name="connect_first_step">接通电源，请确定是否黄灯闪烁。</string>
   <string name="connect_first_step_has_ready">发现新小米智能插座，点击下一步开始连接</string>
   <string name="connect_second_step">步骤二：选择设备将要接入的网络。</string>
   <string name="connect_time">Connection time</string>
   <string name="connect_type">Connection type</string>
-  <string name="connect_type_line">有线</string>
+  <string name="connect_type_line">LAN</string>
   <string name="connect_type_wifi_24">WiFi - 2.4G</string>
   <string name="connect_type_wifi_5">WiFi - 5G</string>
-  <string name="connected">连接成功！</string>
+  <string name="connected">Successfully connected!</string>
   <string name="content_description">问题描述（必填）</string>
-  <string name="continue_nextstep">继续</string>
-  <string name="control_panel">遥控面板</string>
-  <string name="creating">正在创建...</string>
-  <string name="current_all_step">当前总步数</string>
+  <string name="continue_nextstep">Next</string>
+  <string name="control_panel">Remote control panel</string>
+  <string name="creating">Creating...</string>
+  <string name="current_all_step">Total steps</string>
   <string name="current_speed">Current speed</string>
   <string name="day">days</string>
-  <string name="day_no_record_file">没有视频录制记录</string>
+  <string name="day_no_record_file">No video recording history</string>
   <string name="delete">Delete</string>
   <string name="developing_desc">施工中...</string>
-  <string name="deviceFound">发现设备</string>
-  <string name="deviceListName">请选择设备</string>
-  <string name="deviceLost">丢失设备</string>
+  <string name="deviceFound">Devices found</string>
+  <string name="deviceListName">Device list</string>
+  <string name="deviceLost">Device missing</string>
   <string name="device_closed">Offline</string>
   <string name="device_detail_detail">Details</string>
   <string name="device_detail_mac_address">MAC Address: %s</string>
@@ -590,7 +590,7 @@
   <string name="device_detail_pri_storage">Private storage</string>
   <string name="device_detail_save">Saving…</string>
   <string name="device_detail_storage">Public storage</string>
-  <string name="device_failed">设备操作失败</string>
+  <string name="device_failed">Device operation failed</string>
   <string name="device_more_activity_feedback">反馈</string>
   <string name="device_more_activity_firmware_update">检查固件升级</string>
   <string name="device_more_activity_new_firmware">新版本%s</string>
@@ -849,26 +849,26 @@
   <string name="intelligent_plug_five">五</string>
   <string name="intelligent_plug_four">四</string>
   <string name="intelligent_plug_frequency_setting">执行一次</string>
-  <string name="intelligent_plug_friday">星期五</string>
-  <string name="intelligent_plug_hasoff">关闭</string>
-  <string name="intelligent_plug_hason">开启</string>
-  <string name="intelligent_plug_monday">星期一</string>
-  <string name="intelligent_plug_off">已关闭</string>
+  <string name="intelligent_plug_friday">Friday</string>
+  <string name="intelligent_plug_hasoff">Off</string>
+  <string name="intelligent_plug_hason">On</string>
+  <string name="intelligent_plug_monday">Monday</string>
+  <string name="intelligent_plug_off">Plug Off</string>
   <string name="intelligent_plug_off_setting">自动关闭设置</string>
-  <string name="intelligent_plug_on">已开启</string>
-  <string name="intelligent_plug_one">一</string>
+  <string name="intelligent_plug_on">Plug On</string>
+  <string name="intelligent_plug_one">One</string>
   <string name="intelligent_plug_open_setting">自动开启设置</string>
   <string name="intelligent_plug_repeat_setting">重复</string>
-  <string name="intelligent_plug_saturday">星期六</string>
+  <string name="intelligent_plug_saturday">Saturfay</string>
   <string name="intelligent_plug_self">自定义</string>
-  <string name="intelligent_plug_seven">日</string>
-  <string name="intelligent_plug_six">六</string>
-  <string name="intelligent_plug_sunday">星期日</string>
-  <string name="intelligent_plug_three">三</string>
-  <string name="intelligent_plug_thursday">星期四</string>
-  <string name="intelligent_plug_time">时间</string>
-  <string name="intelligent_plug_timer_repeat">重复</string>
-  <string name="intelligent_plug_timer_setting">定时设置</string>
+  <string name="intelligent_plug_seven">7</string>
+  <string name="intelligent_plug_six">6</string>
+  <string name="intelligent_plug_sunday">Sunday</string>
+  <string name="intelligent_plug_three">3</string>
+  <string name="intelligent_plug_thursday">Thursday</string>
+  <string name="intelligent_plug_time">Time</string>
+  <string name="intelligent_plug_timer_repeat">Repeat</string>
+  <string name="intelligent_plug_timer_setting">Timer settings</string>
   <string name="intelligent_plug_tips">请设置＋2分钟后的时间，否则24小时后启动</string>
   <string name="intelligent_plug_tuesday">星期二</string>
   <string name="intelligent_plug_two">二</string>
@@ -1935,13 +1935,13 @@ RO反渗透滤芯"</string>
   <string name="uploading_log_error">上传APP日志失败,请稍后重试</string>
   <string name="useable_space">路由存储</string>
   <string name="user_license">"【重要提示】
- 请您在开始使用小米智能家庭系列产品（以下简称“本产品”）之前请务必仔细阅读并理解《用户许可使用协议》（以下简称“本协议”）中规定的所有权利和限制。
+ 请您在开始使用小米智能家庭系列产品（以下简称"本产品"）之前请务必仔细阅读并理解《用户许可使用协议》（以下简称"本协议"）中规定的所有权利和限制。
  
- 小米通讯技术有限公司（以下简称“小米”或“我们”）一向尊重并会严格保护用户在使用本产品时的合法权益（包括用户隐私、用户数据等）不受到任何侵犯。
+ 小米通讯技术有限公司（以下简称"小米"或"我们"）一向尊重并会严格保护用户在使用本产品时的合法权益（包括用户隐私、用户数据等）不受到任何侵犯。
  
  本产品包括但不限于小米智能家庭硬件与小米智能家庭软件及其相关的、均由小米开发的产品。本产品中相关的知识产权（包括本产品的一切版权、专利权、商标权等）均属于小米。
  
- 本协议（包括本文最后部分的隐私政策）是用户（包括通过各种合法途径获取到本产品的自然人、法人或其他组织机构，以下简称“用户”或“您“）与小米之间针对本产品相关事项最终的、完整的且排他的协议，并取代、合并之前的当事人之间关于上述事项的讨论和协议。
+ 本协议（包括本文最后部分的隐私政策）是用户（包括通过各种合法途径获取到本产品的自然人、法人或其他组织机构，以下简称"用户"或"您"）与小米之间针对本产品相关事项最终的、完整的且排他的协议，并取代、合并之前的当事人之间关于上述事项的讨论和协议。
  
  本协议将对用户使用本产品的行为产生法律约束力，您已承诺和保证有权利和能力订立本协议。用户开始使用本产品将视为已经接受本协议，请认真阅读并理解本协议中各条款，包括免除和限制小米责任的免责条款和对用户的权利限制（未成年人审阅时应由法定监护人陪同），如果您不能接受本协议中的全部条款，请勿开始使用本产品。（如您已购买了我们的硬件产品但无法接受本协议中的全部条款，硬件产品部分的相关退货政策请查阅http://www.mi.com ）
  
@@ -1970,7 +1970,7 @@ RO反渗透滤芯"</string>
  2.2.5 您不得删除或破坏包含在本产品中的任何版权声明或其他所有权标记。
  2.3 权利归属
  2.3.1 小米许可您使用、下载本产品；
- 2.3.2 小米（及其“授权人”，如有）拥有本产品的所有相关知识产权。
+ 2.3.2 小米（及其"授权人"，如有）拥有本产品的所有相关知识产权。
  
  2.4 费用
  您必须自行负担购买本产品的费用，个人上网或第三方（包括但不限于电信或移动通讯提供商）收取的通讯费、信息费等相关费用。如涉及电信增值服务，我们建议您与增值服务提供商确认相关费用问题。
@@ -1983,7 +1983,7 @@ RO反渗透滤芯"</string>
  3.1.3 您已同意您的用户内容受到第4条的限制。
  
  3.2 反馈
- 3.2.1 您对小米提出的建议（或称“反馈”），即视为您向小米转让“反馈”的全部权利并同意小米有权利以任何合理方式使用此反馈及其相关信息。我们将视此类反馈信息为非保密且非专有；
+ 3.2.1 您对小米提出的建议（或称"反馈"），即视为您向小米转让"反馈"的全部权利并同意小米有权利以任何合理方式使用此反馈及其相关信息。我们将视此类反馈信息为非保密且非专有；
  3.2.2 您已同意您不会向小米提供任何您视为保密和专有的信息。
  3.3 我们将保留基于我们的判断检查用户分享内容的权利（而非义务）
  无论通知与否，我们有权在任何时间以任何理由删除和移动您的用户分享内容。依据第5条规定，我们有权保留或终止您的账户。
@@ -2051,7 +2051,7 @@ RO反渗透滤芯"</string>
  8.1.6 本产品明文声明，不以明示或默示及以任何形式对本产品及其合作公司服务之及时性、安全性、准确性做出担保。
  
  9、隐私政策
- “小米智能家庭系列产品隐私政策”为本协议的一部分，您可以在本文的最后部分找到。请您认真阅读并理解隐私协议中的所有内容。
+ "小米智能家庭系列产品隐私政策"为本协议的一部分，您可以在本文的最后部分找到。请您认真阅读并理解隐私协议中的所有内容。
  
  10、通知
  10.1 用户必须在小米账号中提供您最近经常使用的有效的电子邮件地址。您所提供的电子邮件地址无法使用或者因任何原因我们无法将通知送达给您而产生的风险，本产品不承担责任。
@@ -2085,7 +2085,7 @@ RO反渗透滤芯"</string>
  我们如何收集和利用的信息
  
  个人信息的收集和使用
- 您与小米通讯技术有限公司（以下简称“小米”或“我们”）及其关联公司进行互动时，您可能会被要求提供您同意使用我们基本产品服务所必需的某些个人信息。该个人信息可能与其他信息合并在一起，被用于改进我们的产品或服务等。
+ 您与小米通讯技术有限公司（以下简称"小米"或"我们"）及其关联公司进行互动时，您可能会被要求提供您同意使用我们基本产品服务所必需的某些个人信息。该个人信息可能与其他信息合并在一起，被用于改进我们的产品或服务等。
  下文是小米可能收集的个人信息的类型以及我们如何使用该信息的一些示例。
  
  个人信息的收集
@@ -2111,11 +2111,11 @@ RO反渗透滤芯"</string>
  日志信息——当您访问小米智能家庭时，我们的服务器会自动记录某些日志信息。这类服务器日志信息可能包含如下信息：IP 地址、浏览器类型、浏览器语言、 refer来源页、操作系统、日期/时间标记和点击流数据。
  非个人信息的使用
  我们收集的诸如职业、语言、邮编、区号以及使用小米产品所在的时区等非个人信息，可以帮助我们更好地了解用户行为，改进我们的产品、服务和广告宣传。
- 我们可以通过分析小米“用户体验改进计划”获取的统计数据来持续不断地提升产品和服务的操作体验、运行性能、修复问题、改善功能设计等。
+ 我们可以通过分析小米"用户体验改进计划"获取的统计数据来持续不断地提升产品和服务的操作体验、运行性能、修复问题、改善功能设计等。
  我们通过使用 cookies 和其他技术（例如像素标签）收集到的信息，为您带来更好的用户体验，并提高我们的总体服务品质。例如，通过保存您的语言偏好设置，我们可以用您的首选语言显示我们的服务。我们可以通过使用像素标签向用户发送可阅读格式的电子邮件，并告知我们邮件是否被打开。我们可将此等信息用于减少向用户发送电子邮件或者不向用户发送电子邮件。
  用户如何选择性提供信息
  每个人对于隐私权的关注各有侧重，基于此，我们将明确指出我们收集信息的方式，以便您选择接受信息的提供方式。
- 您可以自由设定是否加入“用户体验改进计划”，即可以通过关闭“用户体验改进计划”项的开关从而退出该计划。
+ 您可以自由设定是否加入"用户体验改进计划"，即可以通过关闭"用户体验改进计划"项的开关从而退出该计划。
  您可以从设备设置上修改您设备的定位设置，例如：变更或禁用定位方法或定位服务器，或修改您位置信息的准确性，从而改变向小米提供的位置信息。
  您可以根据自己的需要来修改浏览器的设置以拒绝或接受 cookies，也可以随时从您存储设备中将其删除，或者在写入cookies时通知您。
  个人信息的访问和更新
@@ -2192,27 +2192,27 @@ RO反渗透滤芯"</string>
   <string name="wifi_rescan_wifi">重新扫描</string>
   <string name="wifi_save_passwd">下次记住密码</string>
   <string name="wifi_scan_new_device">发现%1$d台%2$s,点击快速连接新设备</string>
-  <string name="wifi_scan_new_device_title">发现新设备</string>
-  <string name="wifi_scan_new_plug">发现%1$d台智能设备,点击快速连接新设备</string>
-  <string name="wifi_select_desc">请选择家里/公司的WIFI，帮助您记录出行时间</string>
-  <string name="wifi_select_home_title">选择家里的Wifi</string>
-  <string name="wifi_select_office_title">选择公司的Wifi</string>
-  <string name="wifi_select_title">选择WIFI</string>
-  <string name="wifi_setting_choose">点击选择连接WLAN</string>
-  <string name="wifi_setting_connect">连接</string>
-  <string name="wifi_setting_connection_failed">WLAN连接失败</string>
-  <string name="wifi_setting_connectting">正在连接WLAN...</string>
-  <string name="wifi_setting_icon_text">请选择智能设备将要连接的WLAN</string>
-  <string name="wifi_setting_title">将会连接附近的智能设备，请确认智能设备在黄灯闪烁状态</string>
-  <string name="wifi_setting_wifi_opening">WLAN开启中...</string>
-  <string name="wifi_setting_wifi_scanning">WLAN扫描中...</string>
-  <string name="wifi_setting_wifi_title">通过WLAN连接设备</string>
+  <string name="wifi_scan_new_device_title">Scan for new devices</string>
+  <string name="wifi_scan_new_plug">Found %1$d smart device, click quick connect to view devices</string>
+  <string name="wifi_select_desc">Please select home / office WiFi to help keep record of your time</string>
+  <string name="wifi_select_home_title">Select Home WiFi</string>
+  <string name="wifi_select_office_title">Select Office WiFi</string>
+  <string name="wifi_select_title">Select WiFi network</string>
+  <string name="wifi_setting_choose">Select WiFi network</string>
+  <string name="wifi_setting_connect">Connect</string>
+  <string name="wifi_setting_connection_failed">WiFi connection failed</string>
+  <string name="wifi_setting_connectting">Connecting WiFi...</string>
+  <string name="wifi_setting_icon_text">Select smart devices to connect using WiFi</string>
+  <string name="wifi_setting_title">Will connect smart devices nearby, make sure the smart device LED is flashing yellow </string>
+  <string name="wifi_setting_wifi_opening">Opening WiFi...</string>
+  <string name="wifi_setting_wifi_scanning">Scanning for WiFi...</string>
+  <string name="wifi_setting_wifi_title">Connect device using WiFi</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="yeelight_beach">Beach</string>
   <string name="yeelight_passion">Passionate</string>
   <string name="yeelight_romantic">Romantic</string>
   <string name="yeelight_sun">Sunny</string>
-  <string name="yeelight_tips_forusage">使用电压范围是100—240v，请勿在调光功能的灯座上使用</string>
+  <string name="yeelight_tips_forusage">Voltage range is from 100v to 240v, please dont use it on the lamp holders with dimming function</string>
   <string name="yeelight_warf">Oceanside</string>
-  <string name="yunyi_camera">云蚁客户端</string>
+  <string name="yunyi_camera">Yi SmallAnts Camera</string>
 </resources>

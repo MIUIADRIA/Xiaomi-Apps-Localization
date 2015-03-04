@@ -62,7 +62,7 @@ Localization Project For Xiaomi Gadgets Android Applications
 
 # List Of Contributors / Translators Per Language
 
-- English (miui.com, xiaomi.eu, hong.weichyi, kin-cheng, FD-ghost)
+- English (miui.com, xiaomi.eu, MarkH-UK, FD-ghost, hpro, hong.weichyi, kin-cheng)
 - Chinese (Xiaomi, miui.com)
 - Polish (Acid, miuipolska.pl)
 - Slovak (ingbrzy, miuios.cz)

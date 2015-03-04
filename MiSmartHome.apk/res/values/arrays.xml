@@ -24,7 +24,7 @@
         <item>Mother</item>
         <item>Son</item>
         <item>Daughter</item>
-        <item>Close friends</item>
+        <item>Spouse</item>
         <item>Other family</item>
     </string-array>
     <string-array name="device_shop_detail_webview_title">

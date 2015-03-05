@@ -24,11 +24,12 @@ Localization Project For Xiaomi Gadgets Android Applications
 - CoolWallpaper_2.3.1 - http://app.mi.com/detail/41245 - Chinese Only
 - MiAuthenticator_2.27 - http://app.mi.com/detail/62091 - English
 - MiClick_3.0.1 - http://app.mi.com/detail/59090 - English
-- MiFit_1.3.114 - http://app.mi.com/detail/68548 - English + Chinese Images
+- MiFit_1.3.312 - http://app.mi.com/detail/68548 - English + Chinese Images
 - MiHealth_1.3.3 - http://app.mi.com/detail/73250 - Chinese Only
 - MiRemote_4.2 - http://app.mi.com/detail/31067 - Partially English
 - MiRouter_1.0.60 - http://app.mi.com/detail/53711 - Partially English
 - MiSmartHome_2.3.4 - http://app.mi.com/detail/75542 - Chinese Only
+- MiSportCamera_1.0.0 - http://xiaoyi.com/home/welcome.html
 - MiSoundBar_1.1.1 - http://app.mi.com/detail/64097 - Chinese Only
 - MiTag_2.0.4 - http://app.mi.com/detail/56946 - English
 - MiTalk_1.0.1117 - http://app.mi.com/detail/323 - English + Chinese Images
@@ -86,6 +87,7 @@ Localization Project For Xiaomi Gadgets Android Applications
 - German (hpro, AndroidFuchs)
 - Romanian (gtiu)
 - Indonesian (kennyanthony)
+- India / Hindi (fksgs2)
 - .......... More To Come ..........
 
 

@@ -1,39 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="SDcard_tip_when_upgrade">Mi Wi-Fi App update requires memory card storage. Please try again after installing a memory card.</string>
+  <string name="SDcard_tip_when_upgrade">Mi WiFi App update requires memory card storage. Please try again after installing a memory card.</string>
   <string name="account_login">Login</string>
-  <string name="add_back_device_error">Failed to remove, please try again.</string>
-  <string name="add_or_kick_device_failed">Failed to operate, please try again.</string>
-  <string name="admin_password_hint">admin password</string>
+  <string name="add_back_device_error">Failed to remove device, please try again.</string>
+  <string name="add_or_kick_device_failed">Operational failed, please try again.</string>
+  <string name="admin_password_hint">Admin password</string>
   <string name="app_latest_version_installed">You are using the latest version.</string>
-  <string name="app_must_update">Mi Wi-Fi App must be upgraded to be used.</string>
-  <string name="app_name">Mi Wi-Fi</string>
-  <string name="app_upgrade_check">Checking…</string>
-  <string name="app_upgrade_detail">"We've found a newer version, would you like to update?"</string>
+  <string name="app_must_update">Mi WiFi app must be upgraded</string>
+  <string name="app_name">Mi WiFi</string>
+  <string name="app_upgrade_check">Checking...</string>
+  <string name="app_upgrade_detail">A newer version has been found, would you like to update?</string>
   <string name="app_upgrade_failed">Failed to download, please try again.</string>
   <string name="app_upgrade_no">Later</string>
   <string name="app_upgrade_title">New update is available.</string>
-  <string name="app_upgrade_yes">Update Now</string>
-  <string name="application_feedback">Expand app</string>
+  <string name="app_upgrade_yes">Update now</string>
+  <string name="application_feedback">Feedback</string>
   <string name="back_name_less_limit_30">Device name needs to have fewer than 30 characters</string>
   <string name="back_name_less_limit_not_null">Device name needs to be entered</string>
   <string name="bind_xunlei_start_speed">Accelerate download (unopened)</string>
-  <string name="binding_feedback">Account linked</string>
-  <string name="bootstrap_license_agree">I have read and agree.</string>
-  <string name="bootstrap_license_agreement">User Statement</string>
-  <string name="bootstrap_license_title_bar">Mi Wi-Fi User Statement</string>
-  <string name="bootstrap_network_account_title">External Network Settings</string>
+  <string name="binding_feedback">Account paired</string>
+  <string name="bootstrap_license_agree">I agree</string>
+  <string name="bootstrap_license_agreement">User statement</string>
+  <string name="bootstrap_license_title_bar">Mi WiFi user statement</string>
+  <string name="bootstrap_network_account_title">External network settings</string>
   <string name="bootstrap_result_result_skip">Skip guideline</string>
-  <string name="bootstrap_result_status_setting_0">Setting up…</string>
-  <string name="bootstrap_result_status_setting_1">Will restart to connect Wi-Fi…</string>
+  <string name="bootstrap_result_status_setting_0">Setting up, please wait...</string>
+  <string name="bootstrap_result_status_setting_1">Will restart to connect WiFi...</string>
   <string name="bootstrap_result_status_setting_fail_0">Failed to set up.</string>
-  <string name="bootstrap_result_status_setting_fail_1">Mi Wi-Fi failed to connect to external networks.</string>
+  <string name="bootstrap_result_status_setting_fail_1">Mi WiFi failed to connect to external networks.</string>
   <string name="bootstrap_result_status_setting_success_0">Set-up has been successfully completed.</string>
   <string name="bootstrap_result_status_setting_success_1"/>
-  <string name="bootstrap_result_title">Setting up…</string>
+  <string name="bootstrap_result_title">Setting up...</string>
   <string name="bootstrap_start">Start</string>
-  <string name="bootstrap_thanks_use_title">Thank you for using Mi Wi-Fi.</string>
-  <string name="bought_device_go">Understand more</string>
+  <string name="bootstrap_thanks_use_title">Thank you for using Mi WiFi.</string>
+  <string name="bought_device_go">Learn more</string>
   <string name="bought_device_remote">Intelligent control</string>
   <string name="bought_device_switch">Smart Socket</string>
   <string name="cancel">Cancel</string>
@@ -43,10 +43,10 @@
   <string name="check_passport_info">Checking Mi account</string>
   <string name="check_passport_info_fail">Unable to check Mi account</string>
   <string name="check_router_version_title">Update</string>
-  <string name="check_upgrading">Checking for updates, please wait…</string>
+  <string name="check_upgrading">Checking for updates, please wait...</string>
   <string name="check_upgrading_error">Failed to check for updates.</string>
-  <string name="checking">Checking…</string>
-  <string name="choose_question">Select issue type</string>
+  <string name="checking">Checking...</string>
+  <string name="choose_question">Select question type</string>
   <string name="client_connect_fail">Device connection failed</string>
   <string name="client_connect_kuailian">Connecting smart devices…</string>
   <string name="client_connected">Currently connected devices</string>
@@ -66,13 +66,13 @@
   <string name="confirm_quit">Confirm Exit</string>
   <string name="connect_time">Connection time</string>
   <string name="connect_type">Connection type</string>
-  <string name="connect_type_line">Wired</string>
-  <string name="connect_type_wifi_24">Wi-Fi - 2.4G</string>
-  <string name="connect_type_wifi_5">Wi-Fi - 5G</string>
+  <string name="connect_type_line">LAN</string>
+  <string name="connect_type_wifi_24">WiFi - 2.4G</string>
+  <string name="connect_type_wifi_5">WiFi - 5G</string>
   <string name="connected_device_count">%d device(s)</string>
   <string name="content_description">Describe the problem (required).</string>
   <string name="control_panel">Remote control panel</string>
-  <string name="creating">Creating…</string>
+  <string name="creating">Creating...</string>
   <string name="current_speed">Current speed</string>
   <string name="day">Day</string>
   <string name="debind_xunlei">Log off current account</string>
@@ -83,18 +83,18 @@
   <string name="device_detail_network">Internet access</string>
   <string name="device_detail_option_rename">Rename</string>
   <string name="device_detail_pri_storage">Private space access</string>
-  <string name="device_detail_save">Saving updates…</string>
+  <string name="device_detail_save">Saving updates...</string>
   <string name="device_detail_storage">Shared space access</string>
   <string name="device_nickname">Device name</string>
   <string name="disk_format">Format hard drive</string>
-  <string name="do_task">Execute Task</string>
+  <string name="do_task">Execute task</string>
   <string name="download">Download</string>
   <string name="download_feedback">Remote download</string>
   <string name="download_info">Total download usage</string>
   <string name="download_speed">Current download speed</string>
   <string name="downloading">Downloading</string>
   <string name="downloading_upgrade_in_background">Downloading and upgrading in the background</string>
-  <string name="edit">Editor</string>
+  <string name="edit">Edit</string>
   <string name="error_account_have_bind_mobile_number">This account has already been registered and linked to a mobile phone number.</string>
   <string name="error_another_copy_task">Copy task in progress.</string>
   <string name="error_api_not_exist">Unknown error.</string>
@@ -109,9 +109,9 @@
   <string name="error_directory_delete_forbidden">Failed to delete this file.</string>
   <string name="error_directory_move_forbidden">Failed to move this file.</string>
   <string name="error_directory_not_exist">Folder does not exist.</string>
-  <string name="error_download_file_not_found">The operation failed. File does not exist.</string>
-  <string name="error_download_task_limit">The number of download tasks has reached its maximum limit.</string>
-  <string name="error_download_thunder_engine">Xunlei Download error.</string>
+  <string name="error_download_file_not_found">The operation failed, file does not exist.</string>
+  <string name="error_download_task_limit">The number of download tasks have reached the maximum limit.</string>
+  <string name="error_download_thunder_engine">Xunlei download error.</string>
   <string name="error_download_thunder_invalid_url">Invalid link.</string>
   <string name="error_empty_parameter">Content is missing.</string>
   <string name="error_exceed_recursion_limitation">The folder has reached the limit of successive folders</string>
@@ -124,16 +124,16 @@
   <string name="error_illegal_new_password">New password is invalid.</string>
   <string name="error_illegal_parameter">Content format error.</string>
   <string name="error_invalid_download_target_path">No storage devices found.</string>
-  <string name="error_invalid_mobile_number">Please enter the correct mobile phone number.</string>
+  <string name="error_invalid_mobile_number">Please input the correct mobile phone number.</string>
   <string name="error_invalid_verify_code">Incorrect verification code</string>
   <string name="error_kuaipan_connect_timeout">Connection timeout</string>
-  <string name="error_kuaipan_network_error">There is a network error occurred.</string>
+  <string name="error_kuaipan_network_error">Network error occurred.</string>
   <string name="error_lack_of_space">Insufficient storage space.</string>
   <string name="error_missing_parameter">Missing content.</string>
-  <string name="error_mobile_have_bind_another_account">This mobile phone number is already linked to another account.</string>
+  <string name="error_mobile_have_bind_another_account">This mobile phone number is already associated to another account.</string>
   <string name="error_network_exception">Failed to obtain network, please try again.</string>
-  <string name="error_no_formatted_storage">No storage disk found.</string>
-  <string name="error_no_network">The mobile phone is not connected to the network.</string>
+  <string name="error_no_formatted_storage">No storage found.</string>
+  <string name="error_no_network">Phone is not connected to the network.</string>
   <string name="error_no_space_left">Insufficient space in the device.</string>
   <string name="error_no_such_file_or_directory">No such file or folder exists.</string>
   <string name="error_old_password_uncorrected">Current admin password entered is incorrect.</string>
@@ -151,27 +151,27 @@
   <string name="error_unsupported_file_open_temporarily">Unable to open this type of file.</string>
   <string name="error_unsupported_operation_in_remote">This operation cannot be carried out remotely.</string>
   <string name="exit">Exit</string>
-  <string name="exit_press_back_again">Please tap back key again to exit Mi Wi-Fi.</string>
+  <string name="exit_press_back_again">Please tap back key again to exit Mi WiFi.</string>
   <string name="exit_xunlei_error">Failed to log off Xunlei account, please try again in a moment.</string>
   <string name="feed_network_request_timeout">We are unable to connect you to a network, please check the connection.</string>
-  <string name="feed_no_bind_router_connected">You are connected to a new Mi Wi-Fi. Would you like to link it?</string>
+  <string name="feed_no_bind_router_connected">You are connected to a new Mi WiFi. Would you like to link it?</string>
   <string name="feedback">User feedback</string>
   <string name="feedback_app_succ_router_fail">User successfully uploaded App log.</string>
   <string name="feedback_error">User feedback submission failed. Please try again.</string>
   <string name="feedback_succ">User feedback submitted successfully.</string>
   <string name="feedbacking">Sending user feedback</string>
-  <string name="file_delete_loading">Deleting, one moment…</string>
+  <string name="file_delete_loading">Deleting, please wait...</string>
   <string name="file_delete_message">Are you sure you want to delete it?</string>
   <string name="file_delete_success">Successfully deleted.</string>
   <string name="file_disk_format">Formatting</string>
-  <string name="file_disk_format_failed">External storage device has failed to format.</string>
-  <string name="file_disk_format_loading">Formatting, please wait…</string>
+  <string name="file_disk_format_failed">External storage device failed to format.</string>
+  <string name="file_disk_format_loading">Formatting, please wait...</string>
   <string name="file_disk_format_message">Do you want to format this storage device?</string>
-  <string name="file_disk_format_success">Formatting of the external storage device is complete. You can now use the Mi Wi-Fi file function.</string>
+  <string name="file_disk_format_success">Formatting external storage is complete. You can now use the Mi WiFi file function.</string>
   <string name="file_disk_format_warning">Attention: all data on the storage device will be cleared!</string>
   <string name="file_download_calculate">Syncing requested files for download</string>
   <string name="file_download_empty">No files found.</string>
-  <string name="file_download_loading">Downloading…</string>
+  <string name="file_download_loading">Downloading...</string>
   <string name="file_download_save_directory">The default file is stored in %s.</string>
   <string name="file_empty_message">No files found.</string>
   <string name="file_folder_children">%d item(s).</string>
@@ -179,8 +179,8 @@
   <string name="file_menu_cancel">Cancel</string>
   <string name="file_menu_copy">Copy</string>
   <string name="file_menu_create_folder_default_name">Create new folder</string>
-  <string name="file_menu_create_folder_name_empty">Filename is missing.</string>
-  <string name="file_menu_create_folder_name_too_long">Filename is too long.</string>
+  <string name="file_menu_create_folder_name_empty">Filename missing.</string>
+  <string name="file_menu_create_folder_name_too_long">Filename too long.</string>
   <string name="file_menu_create_folder_title">Enter folder name</string>
   <string name="file_menu_cut">Move</string>
   <string name="file_menu_delete">Delete</string>
@@ -188,24 +188,24 @@
   <string name="file_menu_new_folder">Create new folder</string>
   <string name="file_menu_paste">Paste</string>
   <string name="file_menu_upload_to">Upload file</string>
-  <string name="file_no_disk_checked">Mi Wi-Fi has no storage disk available.</string>
-  <string name="file_no_disk_checked_description">This Mi Wi-Fi has no storage disk. In order to use remote downloads or home data center, you need a storage disk and please restart your mobile phone after setting it up.</string>
-  <string name="file_no_formatted_disk_checked">We have found an external storage.</string>
-  <string name="file_no_formatted_disk_checked_description">We have found an external storage. Would you like to format it as the Mi Wi-Fi storage?</string>
+  <string name="file_no_disk_checked">Mi WiFi has no storage disk available.</string>
+  <string name="file_no_disk_checked_description">This Mi WiFi has no storage disk. In order to use remote downloads or home data center you need a storage disk. Please restart your phone after setting it up.</string>
+  <string name="file_no_formatted_disk_checked">External storage found</string>
+  <string name="file_no_formatted_disk_checked_description">We have found an external storage device. Would you like to format it as Mi WiFi storage?</string>
   <string name="file_no_service_checked">No storage service is available.</string>
   <string name="file_only_one_mpk_plugin">You can only upload one MPK file</string>
-  <string name="file_open_ready_loading">Preparing to open the file…</string>
-  <string name="file_paste_loading">Pasting…</string>
-  <string name="file_paste_success">Successful pasted.</string>
+  <string name="file_open_ready_loading">Loading file...</string>
+  <string name="file_paste_loading">Pasting...</string>
+  <string name="file_paste_success">Paste successful</string>
   <string name="file_router_storage">Storage disk</string>
   <string name="file_select_0">Select an item</string>
   <string name="file_select_all">Select all</string>
   <string name="file_select_all_not">Unselect</string>
   <string name="file_select_n">%d selected</string>
   <string name="file_upload_failed">Failed to upload.</string>
-  <string name="file_upload_files">Start to upload…</string>
-  <string name="file_upload_loading">Uploading…</string>
-  <string name="file_upload_success">Successful uploaded.</string>
+  <string name="file_upload_files">Starting upload...</string>
+  <string name="file_upload_loading">Uploading...</string>
+  <string name="file_upload_success">Uploaded successfully</string>
   <string name="file_volume_local_external">SD card</string>
   <string name="file_volume_local_internal">Internal memory</string>
   <string name="file_volume_router_external">USB Disk</string>
@@ -238,25 +238,25 @@
   <string name="kuaipan_account_input_hint">Please enter email/phone number.</string>
   <string name="kuaipan_account_kp">Kuaipan/phone account number</string>
   <string name="kuaipan_account_logout_hint">Logging off will stop the backup.</string>
-  <string name="kuaipan_account_router_logout_hint">To protect your document, it’s highly recommended that you link a mobile phone number with the Mi Wi-Fi Cloud before logging off.</string>
-  <string name="kuaipan_account_xm">Enter account number</string>
-  <string name="kuaipan_add_download_task_failed">Failure to add download task</string>
+  <string name="kuaipan_account_router_logout_hint">To protect your document, it's highly recommended that you link a mobile phone number with the Mi WiFi Cloud before logging off.</string>
+  <string name="kuaipan_account_xm">Input account number</string>
+  <string name="kuaipan_add_download_task_failed">Failed to add download task</string>
   <string name="kuaipan_add_download_task_failed_count">The default file is saved in %1$s and (%2$d files cannot be downloaded)</string>
   <string name="kuaipan_added_to_trans_list">Added to download list</string>
   <string name="kuaipan_adding_download_task">Download tasks are being added…</string>
   <string name="kuaipan_bind_mobile">Pairing mobile phone number</string>
   <string name="kuaipan_bind_mobile_already">Mobile phone number has been linked.</string>
   <string name="kuaipan_bind_mobile_hint">This is a great opportunity to use your mobile phone number to retrieve your files.</string>
-  <string name="kuaipan_bind_mobile_loading">Linking, please wait…</string>
-  <string name="kuaipan_bind_mobile_phone_hint">Please enter your mobile phone number.</string>
-  <string name="kuaipan_bind_mobile_send_verify_code">Send verification code.</string>
+  <string name="kuaipan_bind_mobile_loading">Pairing, please wait...</string>
+  <string name="kuaipan_bind_mobile_phone_hint">Please input your mobile phone number.</string>
+  <string name="kuaipan_bind_mobile_send_verify_code">Send verification code</string>
   <string name="kuaipan_bind_mobile_space_upgrade_hint">This is a great opportunity to retrieve data.</string>
-  <string name="kuaipan_bind_mobile_success">Successfully linked. You can use your mobile phone number to access your Cloud files.</string>
+  <string name="kuaipan_bind_mobile_success">Successfully paired. You can use your mobile phone number to access your Cloud data.</string>
   <string name="kuaipan_bind_mobile_title">Pairing mobile phone number</string>
-  <string name="kuaipan_bind_mobile_verify_code_hint">Enter verification code.</string>
+  <string name="kuaipan_bind_mobile_verify_code_hint">Input verification code.</string>
   <string name="kuaipan_can_not_download_in_remote">Temporarily unable to download remotely</string>
   <string name="kuaipan_can_not_download_to_this">Sorry, only a shared disk can download remotely.</string>
-  <string name="kuaipan_can_not_found_open_app">No applications support opening this file.</string>
+  <string name="kuaipan_can_not_found_open_app">No applications support opening this file type.</string>
   <string name="kuaipan_can_not_open_in_remote">Temporarily unable to open remotely</string>
   <string name="kuaipan_can_not_open_this">Sorry, only a shared disk can be viewed remotely.</string>
   <string name="kuaipan_can_not_sync_files">Files exceed the size limit and cannot be synced</string>
@@ -267,19 +267,19 @@
   <string name="kuaipan_can_only_open_in_sync_folder">Only files marked with a green check mark can be opened remotely.</string>
   <string name="kuaipan_can_only_upload_to_sync_folder">Files can be uploaded remotely only to folders that have been opened in Cloud Backup.</string>
   <string name="kuaipan_check_account">Checking backup information…</string>
-  <string name="kuaipan_cloud_space_info">Cloud Space: %1$s(%2$s%%Space)</string>
+  <string name="kuaipan_cloud_space_info">Cloud Space: %1$s (%2$s%% Space)</string>
   <string name="kuaipan_con_not_download_unsync_file">Only files marked with a green check mark can be downloaded remotely.</string>
   <string name="kuaipan_con_not_open_unsync_file">Only files marked with a green check mark can be opened remotely.</string>
   <string name="kuaipan_download_in_3g_warning">File download will use mobile data.</string>
   <string name="kuaipan_download_wihithout_account">Login to the Router Cloud Backup to download files remotely.</string>
   <string name="kuaipan_file_count_des">%1$d files</string>
-  <string name="kuaipan_file_upload_loading">After uploading to the cloud, Mi Wi-Fi will start to download…</string>
-  <string name="kuaipan_get_folder_list_failed">Failed to obtain folder list.</string>
+  <string name="kuaipan_file_upload_loading">After uploading to Mi Cloud, Mi WiFi will start to download automatically</string>
+  <string name="kuaipan_get_folder_list_failed">Failed to read folder list.</string>
   <string name="kuaipan_get_sync_folder_list">Retrieving folder sync info</string>
   <string name="kuaipan_input_mobile_account_password_hint">Set up password (at least 6 characters)</string>
   <string name="kuaipan_load_failed">There was a problem, please try again.</string>
   <string name="kuaipan_login_failed">Login failed, please try again.</string>
-  <string name="kuaipan_login_hint">Account files will be downloaded to the Mi Wi-Fi.</string>
+  <string name="kuaipan_login_hint">Account files will be downloaded to the Mi WiFi.</string>
   <string name="kuaipan_login_waiting">Login may take a moment, please wait…</string>
   <string name="kuaipan_logout_account">Log off account</string>
   <string name="kuaipan_logout_failed">Log off failed, please try again.</string>
@@ -288,7 +288,7 @@
   <string name="kuaipan_no_folder">No folder</string>
   <string name="kuaipan_not_support_upload_large_file">Files that are 2GB and larger cannot be uploaded remotely.</string>
   <string name="kuaipan_open_wihithout_account">Login to the Router Cloud Backup to view files remotely.</string>
-  <string name="kuaipan_pause_sync_waiting">Stopping…</string>
+  <string name="kuaipan_pause_sync_waiting">Stopping...</string>
   <string name="kuaipan_plugin_tile">Router Cloud Backup</string>
   <string name="kuaipan_plugin_uninstall_confirm">Confirm close</string>
   <string name="kuaipan_plugin_uninstall_hint">If you uninstall the application, you are unable to back it up.</string>
@@ -311,38 +311,38 @@
   <string name="kuaipan_upload_in_3g_warning">File upload will consume mobile data.</string>
   <string name="kuaipan_upload_succeed">Successfully uploaded. Files should be availale soon.</string>
   <string name="kuaipan_upload_wihithout_account">Login to the Router Cloud Backup to upload files remotely.</string>
-  <string name="kuaipan_xiaomi_router_hint">Backup to my Mi Wi-Fi Cloud</string>
+  <string name="kuaipan_xiaomi_router_hint">Backup to my Mi WiFi Cloud</string>
   <string name="local_account_prompt_login_fail">Failed to login using password entered. Please try admin login to change your password.</string>
-  <string name="local_account_prompt_no_router_found">In order to use admin password to login, please make sure Mi Wi-Fi is connected.</string>
+  <string name="local_account_prompt_no_router_found">In order to use admin password to login, please make sure Mi WiFi is connected.</string>
   <string name="local_machine">This device</string>
   <string name="login_account_login">Login</string>
-  <string name="login_account_tip">Email/Mobile phone number/Mi account</string>
-  <string name="login_admin_guide_backend_title">Mi Wi-Fi administration</string>
+  <string name="login_account_tip">E-mail/Mobile phone number/Mi account</string>
+  <string name="login_admin_guide_backend_title">Mi WiFi administration</string>
   <string name="login_admin_guide_description1">Login failed</string>
   <string name="login_admin_guide_description2">Possible problem with the external network connection</string>
   <string name="login_admin_guide_prompt">Administration login</string>
   <string name="login_admin_password_tip">Enter admin password</string>
   <string name="login_bind_confirm">Confirm</string>
-  <string name="login_bind_start">One moment…</string>
+  <string name="login_bind_start">Please wait...</string>
   <string name="login_change_account">" "&lt;u&gt;Switch accounts&lt;/u&gt;" "</string>
   <string name="login_forget_password">Forgot Password</string>
   <string name="login_guide_description_1">"Hello %s
- To Connect Mi Wi-Fi"</string>
-  <string name="login_guide_description_2">"Please make sure your Mi Wi-Fi
+ to connect Mi WiFi"</string>
+  <string name="login_guide_description_2">"please make sure your Mi WiFi
 indicator light is blue."</string>
-  <string name="login_guide_description_3">"Please make sure your phone has connected to the 
-Mi Wi-Fi network."</string>
+  <string name="login_guide_description_3">"Also make sure your phone has been connected to the 
+Mi WiFi network."</string>
   <string name="login_local_admin_account_login">Admin password login</string>
-  <string name="login_miwifi_admin_password_error">Mi Wi-Fi admin password is incorrect.</string>
-  <string name="login_miwifi_bind_failed">Failed to connect to Mi Wi-Fi.</string>
-  <string name="login_miwifi_bind_waiting">Connecting, please wait…</string>
-  <string name="login_miwifi_has_bind_other_account">Mi Wi-Fi is already connected to other Mi accounts.</string>
-  <string name="login_miwifi_not_init">Mi Wi-Fi has not yet initialized.</string>
-  <string name="login_new_user_register">New Register</string>
-  <string name="login_not_connect_miwifi">Not connected to Mi Wi-Fi</string>
-  <string name="login_passport_input_fail">Incorrect Mi account and password combanition.</string>
+  <string name="login_miwifi_admin_password_error">Mi WiFi admin password is incorrect.</string>
+  <string name="login_miwifi_bind_failed">Failed to connect to Mi WiFi.</string>
+  <string name="login_miwifi_bind_waiting">Connecting, please wait...</string>
+  <string name="login_miwifi_has_bind_other_account">Mi WiFi is already connected to other Mi accounts.</string>
+  <string name="login_miwifi_not_init">Mi WiFi has not yet initialized.</string>
+  <string name="login_new_user_register">Register</string>
+  <string name="login_not_connect_miwifi">Not connected to Mi WiFi</string>
+  <string name="login_passport_input_fail">incorrect password.</string>
   <string name="login_passport_login_fail">Failed to login to Mi account.</string>
-  <string name="login_passport_login_waiting">Logging in…</string>
+  <string name="login_passport_login_waiting">Logging in...</string>
   <string name="login_password_tip">Password</string>
   <string name="login_system_account_admin_password">" "&lt;u&gt;Admin login&lt;/u&gt;" "</string>
   <string name="login_system_login">Login</string>
@@ -359,21 +359,21 @@ Mi Wi-Fi network."</string>
   <string name="network_account_input_prompt">Please enter broadband account information provided by your service provider.</string>
   <string name="network_account_name_tip">Broadband Account #</string>
   <string name="network_account_password_tip">Broadband Password</string>
-  <string name="network_connect_errort">There is an error accured while connecting to Mi Wi-Fi.</string>
-  <string name="network_disconnect">Disconnected from the network, we are unable to connect you to Mi Wi-Fi.</string>
+  <string name="network_connect_errort">There is an error accured while connecting to Mi WiFi.</string>
+  <string name="network_disconnect">Disconnected from the network, we are unable to connect you to Mi WiFi.</string>
   <string name="next_button">Next</string>
   <string name="no_backname">No name.</string>
   <string name="no_client">No devices are currently connected</string>
   <string name="no_dial_required">" "&lt;u&gt;No dialing is required&lt;/u&gt;" "</string>
   <string name="no_network">No network available</string>
-  <string name="not_admin">You are no longer authorized to manage this Mi Wi-Fi. You can try re-log in.</string>
+  <string name="not_admin">You are no longer authorized to manage this Mi WiFi. You can try re-log in.</string>
   <string name="now_upgrade">Update now</string>
   <string name="ok_button">OK</string>
   <string name="other_feedback">Other</string>
   <string name="passport_binding_account_input_hint">Email address/phone number/MiID</string>
   <string name="passport_binding_account_input_prompt">Enter your Mi account number.</string>
   <string name="passport_binding_account_name">%1$s(%2$s)</string>
-  <string name="passport_binding_advantage_content">"• manage Mi Wi-Fi anytime and anywhere. 
+  <string name="passport_binding_advantage_content">"• manage Mi WiFi anytime and anywhere. 
 • use numerous enhanced apps 
 • download movies and TV shows without using a computer"</string>
   <string name="passport_binding_advantage_title">By linking your Mi accounts, you can</string>
@@ -390,7 +390,7 @@ Mi Wi-Fi network."</string>
   <string name="passport_login_retry_prompt">Do you want to continue using this account?</string>
   <string name="passport_manager">Mi Account number</string>
   <string name="passport_prompt_login_fail">Failed to log in.</string>
-  <string name="passport_prompt_no_router_bound">This Mi account is not linked to any Mi Wi-Fi.</string>
+  <string name="passport_prompt_no_router_bound">This Mi account is not linked to any Mi WiFi.</string>
   <string name="password_incorrect">Password incorrect</string>
   <string name="password_must_not_empty">Password cannot be empty</string>
   <string name="permission_network">Internet access</string>
@@ -433,10 +433,10 @@ Mi Wi-Fi network."</string>
   <string name="plugin_manager_sys_passport_logining">System account login in progress</string>
   <string name="plugin_manager_sys_passport_logining_error">System account login failed. Please try again.</string>
   <string name="plugin_manual_install">Local upload and install</string>
-  <string name="plugin_nfc_getwifi">Obtaining Wi-Fi settings. Please wait.</string>
-  <string name="plugin_nfc_getwifi_error">Failed to obtain Wi-Fi settings. Please try again in a moment.</string>
+  <string name="plugin_nfc_getwifi">Obtaining WiFi settings. Please wait.</string>
+  <string name="plugin_nfc_getwifi_error">Failed to obtain WiFi settings. Please try again in a moment.</string>
   <string name="plugin_nfc_not_support">Sorry, this phone does not support NFC functions.</string>
-  <string name="plugin_nfc_put_mobile_up_router">Place the mobile phone on Mi Wi-Fi.</string>
+  <string name="plugin_nfc_put_mobile_up_router">Place the mobile phone on Mi WiFi.</string>
   <string name="plugin_nfc_setting">Setup NFC</string>
   <string name="plugin_nfc_setting_clear">" "&lt;u&gt;Remove existing NFC settings&lt;/u&gt;" "</string>
   <string name="plugin_nfc_setting_clear_succ">Removal succeeded</string>
@@ -451,28 +451,28 @@ Mi Wi-Fi network."</string>
   <string name="plugin_uninstall_success">Successfully removed</string>
   <string name="prev_button">Previous</string>
   <string name="previous_button">Return</string>
-  <string name="prompt_below_password_minimum_length">Admin (Wi-Fi) password requires at least %d char.</string>
+  <string name="prompt_below_password_minimum_length">Admin (WiFi) password requires at least %d char.</string>
   <string name="prompt_login">Logging in, please wait…</string>
   <string name="prompt_password_too_long">Password is too long.</string>
-  <string name="prompt_router_get_wifi_fail">Error occurred while obtaining Wi-Fi router information.</string>
+  <string name="prompt_router_get_wifi_fail">Error occurred while obtaining WiFi router information.</string>
   <string name="prompt_router_name_invalid">Router name invalid. An example of an valid user name is Xiaomi.Wifi</string>
   <string name="prompt_router_name_should_not_empty">Router name is missing.</string>
   <string name="prompt_router_name_too_long">Given name is too long.</string>
   <string name="prompt_router_pwd_invalid">Password cannot contain Chinese characters.</string>
-  <string name="prompt_wifi_psw_at_least_8">Wi-Fi password requires at least 8 characters.</string>
+  <string name="prompt_wifi_psw_at_least_8">WiFi password requires at least 8 characters.</string>
   <string name="prompt_wifi_ssid_conflict">Name for 5G and 2.4G cannot be the same.</string>
   <string name="proposal_feedback">Product suggestion</string>
   <string name="pull_down_refresh">Pull down to refresh</string>
   <string name="quit_application">Exit App</string>
   <string name="quit_hint">Are you sure to log out?</string>
-  <string name="reboot_router">Restart Mi Wi-Fi</string>
+  <string name="reboot_router">Restart Mi WiFi</string>
   <string name="reboot_router_confirm">Restart</string>
-  <string name="reboot_router_rebooting_message">Mi Wi-Fi is restarting, and you will be automatically connected to the Wi-Fi soon.</string>
+  <string name="reboot_router_rebooting_message">Mi WiFi is restarting, and you will be automatically connected to the WiFi soon.</string>
   <string name="reboot_router_rebooting_title">Restarting…</string>
-  <string name="reboot_router_reconnect">Connecting Mi Wi-Fi…</string>
-  <string name="reboot_router_success">Mi Wi-Fi has been successfully reconnected.</string>
+  <string name="reboot_router_reconnect">Connecting Mi WiFi…</string>
+  <string name="reboot_router_success">Mi WiFi has been successfully reconnected.</string>
   <string name="reboot_router_tip_1">All connections will be disconnected during the restart and restored within a minute.</string>
-  <string name="reboot_router_tip_2">Wi-Fi may need to be manually connected after the restart.</string>
+  <string name="reboot_router_tip_2">WiFi may need to be manually connected after the restart.</string>
   <string name="recovery_factory">Reset all settings</string>
   <string name="refreshing">Loading…</string>
   <string name="refreshing_no_point">Loading…</string>
@@ -572,7 +572,7 @@ Mi Wi-Fi network."</string>
   <string name="retry">Try again</string>
   <string name="rom_upgrade_check">Check for updates</string>
   <string name="rom_upgrade_fail_hint1">System upgrade has failed.</string>
-  <string name="rom_upgrade_fail_hint2">"Please try again after checking Mi Wi-Fi's network connection and battery status."</string>
+  <string name="rom_upgrade_fail_hint2">"Please try again after checking Mi WiFi's network connection and battery status."</string>
   <string name="rom_upgrade_installing">Installing…</string>
   <string name="rom_upgrade_new_version">New versions are available for update.</string>
   <string name="rom_upgrade_now">Click to update</string>
@@ -593,7 +593,7 @@ Mi Wi-Fi network."</string>
   <string name="router_setting_new_password_same_to_origin">New password cannot be identical to the original admin password.</string>
   <string name="router_setting_new_password_tip">New password</string>
   <string name="router_setting_password_loading">Updating information…</string>
-  <string name="router_setting_password_success">Mi Wi-Fi admin password has been successfully set.</string>
+  <string name="router_setting_password_success">Mi WiFi admin password has been successfully set.</string>
   <string name="router_setting_permission">This feature can only work</string>
   <string name="router_upgrade">Router software upgrade</string>
   <string name="router_version_upgrade">Update your app to avoid incompatibilities.</string>
@@ -605,11 +605,11 @@ Mi Wi-Fi network."</string>
   <string name="send_log">Send questions while keeping a log.</string>
   <string name="setting">Advanced Settings</string>
   <string name="setting_facroty_reset_activity_btn_label">Confirm to reset</string>
-  <string name="setting_facroty_reset_activity_confirm_body">Are you sure to reset Mi Wi-Fi?</string>
+  <string name="setting_facroty_reset_activity_confirm_body">Are you sure to reset Mi WiFi?</string>
   <string name="setting_facroty_reset_activity_format">Format the entire hard drive</string>
   <string name="setting_facroty_reset_activity_format_hint">All data on the hard drive will be deleted.</string>
   <string name="setting_facroty_reset_activity_title">Reset all settings.</string>
-  <string name="setting_facroty_reset_activity_top_hint">If you wish to reset Mi Wi-Fi, all data stored in Mi Wi-Fi locally will be deleted.</string>
+  <string name="setting_facroty_reset_activity_top_hint">If you wish to reset Mi WiFi, all data stored in Mi WiFi locally will be deleted.</string>
   <string name="setting_format_btn_label">Format now</string>
   <string name="setting_format_confirm_hint">Do you want to start formatting the hard drive now?</string>
   <string name="setting_format_desc">Once you confirm to format the hard drive, all data will be deleted and recoverable.</string>
@@ -630,8 +630,8 @@ Mi Wi-Fi network."</string>
   <string name="setting_passport_unbind_fail">Failed unlink</string>
   <string name="setting_passport_unbind_passport_account">Mi Account: %s</string>
   <string name="setting_passport_unbind_passport_password_prompt">In order to unlink the accounts, we need to verify your account info.</string>
-  <string name="setting_passport_unbind_prompt">This Mi Wi-Fi has been linked to %s,</string>
-  <string name="setting_revovery_factory_remote">This setting may disconnect Mi Wi-Fi from network, please do this when you set up Wi-Fi.</string>
+  <string name="setting_passport_unbind_prompt">This Mi WiFi has been linked to %s,</string>
+  <string name="setting_revovery_factory_remote">This setting may disconnect Mi WiFi from network, please do this when you set up WiFi.</string>
   <string name="setting_revovery_factory_remote_confirm">I Understand</string>
   <string name="setting_router_version">Router version:</string>
   <string name="setting_storage">Storage settings</string>
@@ -641,13 +641,13 @@ Mi Wi-Fi network."</string>
   <string name="several_minutes_ago">%d minutes ago</string>
   <string name="several_months_ago">%d months ago</string>
   <string name="several_years_ago">%d years ago</string>
-  <string name="shutdown_router">Turn off Mi Wi-Fi</string>
+  <string name="shutdown_router">Turn off Mi WiFi</string>
   <string name="shutdown_router_closing_message">You can unplug the device after the indicator light turns off.</string>
   <string name="shutdown_router_closing_title">Turning off the device…</string>
-  <string name="shutdown_router_confirm_message">"Once the Mi Wi-Fi is turned off, all current connections will be disconnected from the Wi-Fi. 
+  <string name="shutdown_router_confirm_message">"Once the Mi WiFi is turned off, all current connections will be disconnected from the WiFi. 
 Are you sure to turn it off?"</string>
-  <string name="shutdown_router_tip_1">To protect your data, please shut down the Mi Wi-Fi before unplug it.</string>
-  <string name="shutdown_router_tip_2">After the Mi Wi-Fi is shut down, it will start automatically when it is pluged in again.</string>
+  <string name="shutdown_router_tip_1">To protect your data, please shut down the Mi WiFi before unplug it.</string>
+  <string name="shutdown_router_tip_2">After the Mi WiFi is shut down, it will start automatically when it is pluged in again.</string>
   <string name="smarthome_aircon_temperature">%d°</string>
   <string name="smarthome_aircon_temperature_default">--</string>
   <string name="smarthome_create_scene">Create Scene</string>
@@ -704,10 +704,10 @@ Are you sure to turn it off?"</string>
   <string name="smarthome_scene_outline">Offline</string>
   <string name="smarthome_scene_radio">Turn on the internet radio</string>
   <string name="smarthome_scene_record_actions">Record combination command</string>
-  <string name="smarthome_scene_router_wifi_12h">Turn off Wi-Fi in 12 hours</string>
-  <string name="smarthome_scene_router_wifi_24h">Turn off Wi-Fi in 24 hours</string>
-  <string name="smarthome_scene_router_wifi_4h">Turn off Wi-Fi in 4 hours</string>
-  <string name="smarthome_scene_router_wifi_8h">Turn off Wi-Fi in 8 hours</string>
+  <string name="smarthome_scene_router_wifi_12h">Turn off WiFi in 12 hours</string>
+  <string name="smarthome_scene_router_wifi_24h">Turn off WiFi in 24 hours</string>
+  <string name="smarthome_scene_router_wifi_4h">Turn off WiFi in 4 hours</string>
+  <string name="smarthome_scene_router_wifi_8h">Turn off WiFi in 8 hours</string>
   <string name="smarthome_scene_saving_scene">Saving…</string>
   <string name="smarthome_scene_set_fail">Failed to create new intelligent scene, please try again.</string>
   <string name="smarthome_scene_set_fail_at_least_0">Select at least one device to conduct operation</string>
@@ -737,11 +737,11 @@ Are you sure to turn it off?"</string>
   <string name="smarthome_scene_update_fail">Failed to update, please try again.</string>
   <string name="smarthome_scene_update_succ">Intelligent Scene has updated successfully.</string>
   <string name="smarthome_scene_updating_scene">Updating settings…</string>
-  <string name="smarthome_scene_wan_1d">Turn off the Wi-Fi in 24 hours</string>
-  <string name="smarthome_scene_wan_1h">Turn off the Wi-Fi in 1 hour</string>
-  <string name="smarthome_scene_wan_30m">Tur off the Wi-Fi in 30 minutes</string>
-  <string name="smarthome_scene_wan_4h">Turn off the Wi-Fi in 4 hours</string>
-  <string name="smarthome_scene_wan_8h">Turn off the Wi-Fi in 8 hours</string>
+  <string name="smarthome_scene_wan_1d">Turn off the WiFi in 24 hours</string>
+  <string name="smarthome_scene_wan_1h">Turn off the WiFi in 1 hour</string>
+  <string name="smarthome_scene_wan_30m">Tur off the WiFi in 30 minutes</string>
+  <string name="smarthome_scene_wan_4h">Turn off the WiFi in 4 hours</string>
+  <string name="smarthome_scene_wan_8h">Turn off the WiFi in 8 hours</string>
   <string name="smarthome_scene_wan_disconnect_processing">Processing…</string>
   <string name="smarthome_smart_liucheng">Intelligent Scene</string>
   <string name="smarthome_switch_status_get_failed">Obtain smart socket failure status</string>
@@ -780,7 +780,7 @@ Are you sure to turn it off?"</string>
   <string name="storage_feedback">Router storage</string>
   <string name="switch_control_power_description">Real-time power</string>
   <string name="switch_control_power_unit">Watt</string>
-  <string name="switch_wifi">Switch Wi-Fi</string>
+  <string name="switch_wifi">Switch WiFi</string>
   <string name="sys_upgrade">Detect mobile phone app version</string>
   <string name="terminal_feedback">Smart devices</string>
   <string name="ths_feed">Your feedback helps us improve!</string>
@@ -791,7 +791,7 @@ Are you sure to turn it off?"</string>
   <string name="upgrade_check_fail">We are unable to obtain version information at this moment.</string>
   <string name="upgrade_device_offline_body">"Unable to update %s, please make sure it's connected to a working network before try this again."</string>
   <string name="upgrade_device_offline_title">Device is offline.</string>
-  <string name="upgrade_downloading_hint2">Mi Wi-Fi needs to maintain power and a network connection at all time.</string>
+  <string name="upgrade_downloading_hint2">Mi WiFi needs to maintain power and a network connection at all time.</string>
   <string name="upgrade_dwonload_fail_body">Please ensure the external network connection is working fine.</string>
   <string name="upgrade_dwonload_fail_title">Failed to download.</string>
   <string name="upgrade_flash_fail_body">There was a problem saving the installation package. Please download it again.</string>
@@ -802,18 +802,18 @@ Are you sure to turn it off?"</string>
   <string name="upgrade_pkg_downloaded">Download complete, please tap to install.</string>
   <string name="upgrade_pkg_downloaded_title">Download complete.</string>
   <string name="upgrade_progress">%d%% downloaded.</string>
-  <string name="upgrade_reboot_timeout_body">"Mi Wi-Fi may not been connected to a network.
+  <string name="upgrade_reboot_timeout_body">"Mi WiFi may not been connected to a network.
 Please make sure it's connected before you login again."</string>
   <string name="upgrade_reboot_timeout_title">Timeout.</string>
   <string name="upgrade_rebooting">Please wait until the update is completed - only %d sec. left.</string>
   <string name="upgrade_rom_downloading">Downloading the installation package, %s…</string>
   <string name="upgrade_rom_installing">Please ensure the power and network connection are maintained while the installation package is written…</string>
   <string name="upgrade_rom_validating">Verifying integrity of installation package…</string>
-  <string name="upgrade_router_hint">This update requires Mi Wi-Fi to stay connected to a network. This update will take about 5–8 minutes. Would you like to start?</string>
-  <string name="upgrade_upgrading_hint1">%1$s(%2$s) Update</string>
+  <string name="upgrade_router_hint">This update requires Mi WiFi to stay connected to a network. This update will take about 5–8 minutes. Would you like to start?</string>
+  <string name="upgrade_upgrading_hint1">%1$s (%2$s) Update</string>
   <string name="upgrade_validate_fail_body">There is an error occurred, please try again.</string>
   <string name="upgrade_validate_fail_title">Failed to validate.</string>
-  <string name="upgrading_error">Update failed. Please check network connection and try again.</string>
+  <string name="upgrading_error">Update failed, please check network connection and try again.</string>
   <string name="upgrading_error_has_upgrading">Router is updating.</string>
   <string name="upgrading_hint">Updating… Disconnected from the network, please connect again after Restart.</string>
   <string name="upload_app_log">User Feedback</string>
@@ -821,18 +821,18 @@ Please make sure it's connected before you login again."</string>
   <string name="upload_router_log_fail">Failed to upload logs, please try again later.</string>
   <string name="upload_router_log_succ">Logs have been uploaded successfully.</string>
   <string name="uploading_log_error">App log upload failed. Please try again.</string>
-  <string name="uploading_router_log">Sending request to Mi Wi-Fi…</string>
-  <string name="useable_space">Extra space</string>
+  <string name="uploading_router_log">Sending request to Mi WiFi...</string>
+  <string name="useable_space">Usable space</string>
   <string name="user_license">"小米路由器系列产品 用户许可使用协议
  
  【重要提示】
- 请您在开始使用小米路由器系列产品（以下简称“本产品”）之前请务必仔细阅读并理解《用户许可使用协议》（以下简称“本协议”）中规定的所有权利和限制。
+ 请您在开始使用小米路由器系列产品（以下简称"本产品"）之前请务必仔细阅读并理解《用户许可使用协议》（以下简称"本协议"）中规定的所有权利和限制。
  
- 小米科技有限责任公司（以下简称“小米”或“我们”）一向尊重并会严格保护用户在使用本产品时的合法权益（包括用户隐私、用户数据等）不受到任何侵犯。
+ 小米科技有限责任公司（以下简称"小米"或"我们"）一向尊重并会严格保护用户在使用本产品时的合法权益（包括用户隐私、用户数据等）不受到任何侵犯。
  
- 本产品包括但不限于小米路由器硬件与小米路由器相关软件（包括小米路由器软件操作系统和名为“小米路由”的移动设备端软件应用、PC电脑端软件应用和Mac电脑端软件应用以及小米路由器云服务等产品）及其相关的、均由小米开发的产品。本产品中相关的知识产权（包括本产品的一切版权、专利权、商标权等）均属于小米。
+ 本产品包括但不限于小米路由器硬件与小米路由器相关软件（包括小米路由器软件操作系统和名为"小米路由"的移动设备端软件应用、PC电脑端软件应用和Mac电脑端软件应用以及小米路由器云服务等产品）及其相关的、均由小米开发的产品。本产品中相关的知识产权（包括本产品的一切版权、专利权、商标权等）均属于小米。
  
- 本协议（包括本文最后部分的隐私政策）是用户（包括通过各种合法途径获取到本产品的自然人、法人或其他组织机构，以下简称“用户”或“您“）与小米之间针对本产品相关事项最终的、完整的且排他的协议，并取代、合并之前的当事人之间关于上述事项的讨论和协议。
+ 本协议（包括本文最后部分的隐私政策）是用户（包括通过各种合法途径获取到本产品的自然人、法人或其他组织机构，以下简称"用户"或"您"）与小米之间针对本产品相关事项最终的、完整的且排他的协议，并取代、合并之前的当事人之间关于上述事项的讨论和协议。
  
  本协议将对用户使用本产品的行为产生法律约束力，您已承诺和保证有权利和能力订立本协议。用户开始使用本产品将视为已经接受本协议，请认真阅读并理解本协议中各条款，包括免除和限制小米责任的免责条款和对用户的权利限制（未成年人审阅时应由法定监护人陪同），如果您不能接受本协议中的全部条款，请勿开始使用本产品。（如果您已经购买我们的硬件产品但无法接受本协议中的全部条款，如需要，硬件产品部分的相关退货政策请查阅http://www.xiaomi.com ）
  
@@ -861,7 +861,7 @@ Please make sure it's connected before you login again."</string>
  2.2.5 您不得删除或破坏包含在本产品中的任何版权声明或其他所有权标记。
  2.3 权利归属
  2.3.1 小米许可您使用、下载本产品；
- 2.3.2 小米（及其“授权人”，如有）拥有本产品的所有相关知识产权。
+ 2.3.2 小米（及其"授权人"，如有）拥有本产品的所有相关知识产权。
  
  2.4 费用
  您必须自行负担购买本产品的费用，个人上网或第三方（包括但不限于电信或移动通讯提供商）收取的通讯费、信息费等相关费用。如涉及电信增值服务，我们建议您与增值服务提供商确认相关费用问题。
@@ -875,7 +875,7 @@ Please make sure it's connected before you login again."</string>
  3.1.4 本产品为您在使用本产品过程中所产生的内容提供存储的载体（内置硬盘），该硬盘只能使用在本产品上，小米对于您的非正常使用情况（如对硬盘的拆卸、分解或将硬盘使用在其他非小米产品上）所可能带来的内容损坏、丢失等情况将不负责。
  
  3.2 反馈
- 3.2.1 您对小米提出的建议（或称“反馈”），即视为您向小米转让“反馈”的全部权利并同意小米有权利以任何合理方式使用此反馈及其相关信息。我们将视此类反馈信息为非保密且非专有；
+ 3.2.1 您对小米提出的建议（或称"反馈"），即视为您向小米转让"反馈"的全部权利并同意小米有权利以任何合理方式使用此反馈及其相关信息。我们将视此类反馈信息为非保密且非专有；
  3.2.2 您已同意您不会向小米提供任何您视为保密和专有的信息。
  3.3 我们将保留基于我们的判断检查用户分享内容的权利（而非义务）
  无论通知与否，我们有权在任何时间以任何理由删除和移动您的用户分享内容。依据第5条规定，我们有权保留或终止您的账户。
@@ -943,7 +943,7 @@ Please make sure it's connected before you login again."</string>
  8.1.6 本产品明文声明，不以明示或默示及以任何形式对本产品及其合作公司服务之及时性、安全性、准确性做出担保。
  
  9、隐私政策
- “小米路由器系列产品隐私政策”为本协议的一部分，您可以在本文的最后部分找到。请您认真阅读并理解隐私协议中的所有内容。
+ "小米路由器系列产品隐私政策"为本协议的一部分，您可以在本文的最后部分找到。请您认真阅读并理解隐私协议中的所有内容。
  
  10、通知
  10.1 用户必须在小米账号中提供您最近经常使用的有效的电子邮件地址。您所提供的电子邮件地址无法使用或者因任何原因我们无法将通知送达给您而产生的风险，本产品不承担责任。
@@ -977,7 +977,7 @@ Please make sure it's connected before you login again."</string>
  我们如何收集和利用的信息
  
  个人信息的收集和使用
- 您与北京小米科技有限责任公司（以下简称“小米”或“我们”）及其关联公司进行互动时，您可能会被要求提供您同意使用我们基本产品服务所必需的某些个人信息。该个人信息可能与其他信息合并在一起，被用于改进我们的产品或服务等。
+ 您与北京小米科技有限责任公司（以下简称"小米"或"我们"）及其关联公司进行互动时，您可能会被要求提供您同意使用我们基本产品服务所必需的某些个人信息。该个人信息可能与其他信息合并在一起，被用于改进我们的产品或服务等。
  下文是小米可能收集的个人信息的类型以及我们如何使用该信息的一些示例。
  
  个人信息的收集
@@ -1005,11 +1005,11 @@ Please make sure it's connected before you login again."</string>
  • 日志信息——当您访问小米服务器时，我们的服务器会自动记录某些日志信息。这类服务器日志信息可能包含如下信息：IP 地址、浏览器类型、浏览器语言、 refer来源页、操作系统、日期/时间标记和点击流数据。
  非个人信息的使用
  • 我们收集的诸如职业、语言、邮编、区号以及使用小米产品所在的时区等非个人信息，可以帮助我们更好地了解用户行为，改进我们的产品、服务和广告宣传。
- • 我们可以通过分析小米“用户体验改进计划”获取的统计数据来持续不断地提升产品和服务的操作体验、运行性能、修复问题、改善功能设计等。
+ • 我们可以通过分析小米"用户体验改进计划"获取的统计数据来持续不断地提升产品和服务的操作体验、运行性能、修复问题、改善功能设计等。
  • 我们通过使用 cookies 和其他技术（例如像素标签）收集到的信息，为您带来更好的用户体验，并提高我们的总体服务品质。例如，通过保存您的语言偏好设置，我们可以用您的首选语言显示我们的服务。我们可以通过使用像素标签向用户发送可阅读格式的电子邮件，并告知我们邮件是否被打开。我们可将此等信息用于减少向用户发送电子邮件或者不向用户发送电子邮件。
  用户如何选择性提供信息
  每个人对于隐私权的关注各有侧重，基于此，我们将明确指出我们收集信息的方式，以便您选择接受信息的提供方式。
- • 您可以自由设定是否加入“用户体验改进计划”，即可以通过关闭“用户体验改进计划”项的开关从而退出该计划。
+ • 您可以自由设定是否加入"用户体验改进计划"，即可以通过关闭"用户体验改进计划"项的开关从而退出该计划。
  • 您可以从设备设置上修改您设备的定位设置，例如：变更或禁用定位方法或定位服务器，或修改您位置信息的准确性，从而改变向小米提供的位置信息。
  • 您可以根据自己的需要来修改浏览器的设置以拒绝或接受 cookies，也可以随时从您存储设备中将其删除，或者在写入cookies时通知您。
  个人信息的访问和更新
@@ -1042,61 +1042,61 @@ Please make sure it's connected before you login again."</string>
  特定产品服务的惯例
  以下备注了您可能使用的某些小米路由器相关产品和服务的特定隐私权惯例。
  金山快盘云同步服务
- 您在使用小米路由器系列产品过程中会使用到由北京金山软件有限公司的产品“金山快盘”为您提供的“路由器云备份”功能。关于金山快盘的服务条款请查阅：http://www.kuaipan.cn/agreement/
+ 您在使用小米路由器系列产品过程中会使用到由北京金山软件有限公司的产品"金山快盘"为您提供的"路由器云备份"功能。关于金山快盘的服务条款请查阅：http://www.kuaipan.cn/agreement/
  关于金山快盘：
  金山快盘秉承极致、专注、快速的理念，凭借金山多年技术积累，将为金山其他业务提供支撑，同时致力于为用户提供稳定、安全、便捷的个人云存储服务。关于金山快盘的相关信息以及请查看：http://www.kuaipan.cn
 "</string>
   <string name="version">Version</string>
   <string name="version_quote">Version:</string>
-  <string name="vip_level">VIP%s</string>
-  <string name="waiting_wifi_connect">Wi-Fi is restarting and will take about 10 seconds, please wait…</string>
-  <string name="wan_setting">External network setup</string>
-  <string name="wan_setting_account_error">Broadband account number must be entered</string>
-  <string name="wan_setting_account_invalid">Broadband account number cannot contain Chinese characters</string>
+  <string name="vip_level">VIP %s</string>
+  <string name="waiting_wifi_connect">WiFi is restarting and will take about 10 seconds, please wait...</string>
+  <string name="wan_setting">WAN setup</string>
+  <string name="wan_setting_account_error">Account number must be entered</string>
+  <string name="wan_setting_account_invalid">Account number cannot contain Chinese characters</string>
   <string name="wan_setting_account_password_failed">Broadband account number or password error</string>
   <string name="wan_setting_account_password_success">Broadband account successfully configured</string>
-  <string name="wan_setting_dhcp_description">"Mi Wi-Fi dedicates automatically, 
+  <string name="wan_setting_dhcp_description">"Mi WiFi will automatically setup network connection 
 so there is no need for dialing."</string>
   <string name="wan_setting_dhcp_link">" "&lt;u&gt;Requires dial-up&lt;/u&gt;" "</string>
   <string name="wan_setting_dhcp_title">External network setup</string>
   <string name="wan_setting_loading">Setting up external network…</string>
   <string name="wan_setting_password_error">Password must be entered</string>
   <string name="wan_setting_password_invalid">Password cannot contain Chinese characters</string>
-  <string name="wan_setting_permission">This setting may disconnect Mi Wi-Fi from the network, please set this up when you set up Wi-Fi network.</string>
-  <string name="wan_setting_pppoe_account_tip">Broadband account:</string>
+  <string name="wan_setting_permission">This setting may disconnect Mi WiFi from the network, please set this up when you set up WiFi network.</string>
+  <string name="wan_setting_pppoe_account_tip">PPPoE account:</string>
   <string name="wan_setting_pppoe_edit">Editor</string>
-  <string name="wan_setting_pppoe_edit_account_hint">Broadband account</string>
+  <string name="wan_setting_pppoe_edit_account_hint">Edit PPPoE account</string>
   <string name="wan_setting_pppoe_edit_message">Please manually select the required dial-up</string>
-  <string name="wan_setting_pppoe_edit_password_hint">Broadband password</string>
-  <string name="wan_setting_pppoe_edit_title">Edit broadband account information</string>
+  <string name="wan_setting_pppoe_edit_password_hint">Edit PPPoE password</string>
+  <string name="wan_setting_pppoe_edit_title">Edit PPoE account information</string>
   <string name="wan_setting_pppoe_link">" "&lt;u&gt;No dialing is required&lt;/u&gt;" "</string>
-  <string name="wan_setting_pppoe_password_tip">Broadband password:</string>
-  <string name="wan_setting_pppoe_title">Broadband account settings</string>
+  <string name="wan_setting_pppoe_password_tip">PPPoE password:</string>
+  <string name="wan_setting_pppoe_title">PPPoE account settings</string>
   <string name="wan_setting_type_check_failed">Failed to detect external network type</string>
-  <string name="wan_setting_type_check_loading">Detecting external network type, please wait…</string>
+  <string name="wan_setting_type_check_loading">Detecting external network type, please wait...</string>
   <string name="wan_setting_type_dhcp">"Router's external network has been configured to not require dial-up"</string>
-  <string name="wifi_2_4_switch">2.4G Wi-Fi switch</string>
-  <string name="wifi_5_0_switch">5G Wi-Fi switch</string>
-  <string name="wifi_disabled">Wi-Fi is disabled and unable to set up.</string>
-  <string name="wifi_info_loading">Reading Wi-Fi information…</string>
-  <string name="wifi_manage">Wi-Fi settings</string>
-  <string name="wifi_name">Name</string>
-  <string name="wifi_name_should_not_empty">Wi-Fi name is missing.</string>
+  <string name="wifi_2_4_switch">2.4G WiFi</string>
+  <string name="wifi_5_0_switch">5G WiFi</string>
+  <string name="wifi_disabled">WiFi is disabled and unable to set up.</string>
+  <string name="wifi_info_loading">Loading WiFi info...</string>
+  <string name="wifi_manage">WiFi settings</string>
+  <string name="wifi_name">WiFi SSID</string>
+  <string name="wifi_name_should_not_empty">WiFi name is missing.</string>
   <string name="wifi_password">Password</string>
-  <string name="wifi_reconnect_failed">Failed to connect to Mi Wi-Fi, please manually connect them in phone settings.</string>
-  <string name="wifi_reconnect_state_connecting">Reconnecting Wi-Fi…</string>
-  <string name="wifi_reconnect_state_fail">Wi-Fi failed to reconnect. Please manually reconnect the Wi-Fi in the phone settings.</string>
-  <string name="wifi_reconnect_state_setting">Setting up Wi-Fi…</string>
+  <string name="wifi_reconnect_failed">Failed to connect to Mi WiFi, please manually connect via phone settings.</string>
+  <string name="wifi_reconnect_state_connecting">Reconnecting WiFi…</string>
+  <string name="wifi_reconnect_state_fail">WiFi failed to reconnect. Please manually reconnect  WiFi via phone settings.</string>
+  <string name="wifi_reconnect_state_setting">Setting up WiFi...</string>
   <string name="wifi_reconnect_state_success">Setup successfully.</string>
   <string name="wifi_reconnect_title">System being set up…</string>
   <string name="wifi_save_fail">Setup failed.</string>
   <string name="wifi_save_success">Set up successfully.</string>
-  <string name="wifi_setting_input_prompt">Please set up Wi-Fi username and password (also will be the admin password).</string>
+  <string name="wifi_setting_input_prompt">Please set up WiFi username and password (also will be the admin password).</string>
   <string name="wifi_turnoff_local_used_promot">The current mobile phone. If shutdown occurs the apps will lose their connection to the Router.</string>
-  <string name="wifi_turnoff_prompt">All devices will be disconnected from the Wi-Fi du Are you sure to restart?</string>
-  <string name="wps_ok_but_not_connect">Keep the new device manually connected to Wi-Fi hotpots</string>
-  <string name="xiaomi_router">Mi Wi-Fi</string>
-  <string name="xiaomi_topic_upgrade">Mi Wi-Fi App update</string>
+  <string name="wifi_turnoff_prompt">All devices will be disconnected from the WiFi du Are you sure to restart?</string>
+  <string name="wps_ok_but_not_connect">Keep the new device manually connected to WiFi hotpots</string>
+  <string name="xiaomi_router">Mi WiFi</string>
+  <string name="xiaomi_topic_upgrade">Mi WiFi App update</string>
   <string name="xunlei_guide_tips1">One step to download high definition TV.</string>
   <string name="xunlei_guide_tips2">Start the Cloud Acceleration plug-in to accelerate download speed.</string>
   <string name="xunlei_guide_tips3">Xunlei VIP members receive many benefits for a year.</string>

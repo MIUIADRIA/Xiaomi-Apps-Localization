@@ -157,7 +157,7 @@
   <string name="checknet_error_internet_response_result_ok">OK</string>
   <string name="checknet_error_internet_response_result_unknown">Unknown error</string>
   <string name="checknet_error_main_stream_blocking">Streaming high-definition video may experience blocking</string>
-  <string name="checknet_error_msg_format" formatted="false">&lt;Data&gt;"&amp;lt;font color='#373737'&amp;gt;%s&amp;lt;/font&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#262626'&amp;gt;%s&amp;lt;/font&amp;gt;"&lt;/Data&gt;</string>
+  <string name="checknet_error_msg_format" formatted="false"><Data>"&lt;font color='#373737'>%s&lt;/font>&lt;br/>&lt;br/>&lt;font color='#262626'>%s&lt;/font>"</Data></string>
   <string name="checknet_error_unknown_wifi_info">Unknown WiFi info, please use another WiFi network</string>
   <string name="checknet_gateway">Geteway:</string>
   <string name="checknet_internet_category">Internet category:</string>
@@ -170,7 +170,7 @@
   <string name="checknet_intranetCheck_time_delay">Delay:</string>
   <string name="checknet_local_internet_info">Local network info:</string>
   <string name="checknet_loss_info_0">Network connection is OK</string>
-  <string name="checknet_ok">Network connection is OK<</string>
+  <string name="checknet_ok">Network connection is OK</string>
   <string name="checknet_progress_prompt">Checking, please wait...</string>
   <string name="choose">Select</string>
   <string name="choose_language">Select language:</string>
@@ -718,7 +718,7 @@ Please make sure you share the video content ensuring no personal privacy leak, 
   <string name="winexperience_shouldupdate_info_downloading">Downloading, please wait...</string>
   <string name="winexperience_shouldupdate_info_needupdate">New version available for download</string>
   <string name="winexperience_shouldupdate_info_ok">You are using latest version!</string>
-  <string name="winexperience_shouldupdate_info_tf_formating">Formatting TF card, can't update, try again?</string>
+  <string name="winexperience_shouldupdate_info_tf_formating">Formatting TF card, can\'t update, try again?</string>
   <string name="winexperience_shouldupdate_info_timeout">@string/winexperience_info_timeout</string>
   <string name="winexperience_shouldupdate_info_update">Updating, please wait...</string>
   <string name="winexperience_shouldupdate_title">SmallAnts update check</string>
@@ -730,7 +730,7 @@ Please make sure you share the video content ensuring no personal privacy leak, 
   <string name="winexperience_tfcardstate_info_lowerspeed">TF card too slow, would you like to format?</string>
   <string name="winexperience_tfcardstate_info_needformat">TF card error, would you like to format?</string>
   <string name="winexperience_tfcardstate_info_timeout">@string/winexperience_info_timeout</string>
-  <string name="winexperience_tfcardstate_info_total_0">No TF card,  can't view history video</string>
+  <string name="winexperience_tfcardstate_info_total_0">No TF card,  can\'t view history video</string>
   <string name="winexperience_tfcardstate_info_total_0_dlg">No TF card</string>
   <string name="winexperience_tfcardstate_info_total_16g">16GB</string>
   <string name="winexperience_tfcardstate_info_total_32g">32G B</string>

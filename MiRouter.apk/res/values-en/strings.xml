@@ -238,7 +238,7 @@
   <string name="kuaipan_account_input_hint">Input e-mail/phone</string>
   <string name="kuaipan_account_kp">Kuaipan/phone number</string>
   <string name="kuaipan_account_logout_hint">Logging off will stop the backup.</string>
-  <string name="kuaipan_account_router_logout_hint">To protect your document, it's highly recommended that you link a mobile phone number with cloud backup before logging off.</string>
+  <string name="kuaipan_account_router_logout_hint">To protect your document, it\'s highly recommended that you link a mobile phone number with cloud backup before logging off.</string>
   <string name="kuaipan_account_xm">Input account number</string>
   <string name="kuaipan_add_download_task_failed">Failed to add download task</string>
   <string name="kuaipan_add_download_task_failed_count">The default file is saved in %1$s and (%2$d files cannot be downloaded)</string>

@@ -65,7 +65,7 @@ function setCurLocale(locale)
         log('set indo locale table')
         g_curTable = localization_indonesia_table;
     else
-        g_curTable = localization_table[zh_CN]
+        g_curTable = localization_table[en]
     end
     if (g_curTable == nil) then
         log('g curTable is nil')

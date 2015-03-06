@@ -44,7 +44,7 @@
     <string name="add">추가</string>
     <string name="running_notification">Xiaomi MiKey</string>
     <string name="click_to_open">열기</string>
-    <string name="call_to">전화걸기</strin>
+    <string name="call_to">전화걸기</string>
     <string name="sms_to">: 에게 문자보내기</string>
     <string name="sms_template">문자양식</string>
     <string name="confirm">확인</string>

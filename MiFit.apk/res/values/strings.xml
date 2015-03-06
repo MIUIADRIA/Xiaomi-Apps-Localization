@@ -942,7 +942,7 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="weight_unbinded">Upairing scales</string>
   <string name="weight_unit_british">British(Pounds)</string>
   <string name="weight_unit_metric">Metric (kilograms, kg)</string>
-  <string name="weight_unit_shijin">Grams (1kg=500grams)</string>
+  <string name="weight_unit_shijin">Half kilogram (1kg=500grams)</string>
   <string name="weight_unit_text_info">Weight scales have been paired, weight unit set on scales will be used. Open the battery cover located on the back panel to reset or adjust the weight unit.</string>
   <string name="weight_weighting_now">Weighing...</string>
   <string name="weighting_failed">Wait until the LED notification light blinks before stepping on the scale.</string>

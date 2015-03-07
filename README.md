@@ -29,7 +29,7 @@ Localization Project For Xiaomi Gadgets Android Applications
 - MiRemote_4.2 - http://app.mi.com/detail/31067 - English
 - MiRouter_1.0.60 - http://app.mi.com/detail/53711 - Partially English
 - MiSmartHome_2.3.5 - http://app.mi.com/detail/75542 - Partially English
-- MiSportCamera_1.0.0 - http://xiaoyi.com/home/welcome.html - English
+- MiSportCamera_1.2 - http://app.mi.com/detail/87320 - English
 - MiSoundBar_1.1.1 - http://app.mi.com/detail/64097 - Chinese Only
 - MiTag_2.0.4 - http://app.mi.com/detail/56946 - English
 - MiTalk_1.0.1262 - http://app.mi.com/detail/323 - English + Chinese Images

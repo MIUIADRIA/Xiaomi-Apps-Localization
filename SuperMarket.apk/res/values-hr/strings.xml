@@ -56,9 +56,9 @@
   <string name="comment_sending">Slanje komentara…</string>
   <string name="comment_upload_account_need_activitied">Aktivirati vaš račun?</string>
   <string name="comment_upload_account_not_activitied">Vaš račun nije aktiviran, aktivirajte ga i pokušajte ponovno</string>
-  <string name="comment_upload_account_not_activitied">"Vaš račun još nije aktiviran."</string>
+  <string name="comment_upload_auth_failed">"Ne mogu poslati komentar. Pokušajte se ponovno prijaviti."</string>
   <string name="comment_upload_data_invalid">Komentar koji ste unijeli nije važeći</string>
-  <string name="comment_upload_failed">Nije uspjelo slanje komentara</string>
+  <string name="comment_upload_failed">Ne mogu poslati komentar</string>
   <string name="comment_upload_hint">Vaš komentar će biti prikazan nakon kratkog pregleda.</string>
   <string name="comment_upload_login_cancel">Odustani</string>
   <string name="comment_upload_login_ok">Prijava uspješna</string>

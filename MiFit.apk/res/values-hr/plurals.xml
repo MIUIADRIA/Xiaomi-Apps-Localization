@@ -6,7 +6,15 @@
         <item quantity="one">Odabrano: %1$d</item>
     </plurals>
     <plurals name="numberOfPullUpdateReport">
-        <item quantity="other">Ažurirano stavki: %d.</item>
-        <item quantity="one">Ažurirana %d stavka.</item>
+        <item quantity="other">Ažurirano stavaka: %d.</item>
+        <item quantity="one">Ažurirano stavaka: %d.</item>
+    </plurals>
+    <plurals name="numberFoot">
+        <item quantity="other">%s stopa</item>
+        <item quantity="one">%s stopa</item>
+    </plurals>
+    <plurals name="numberInch">
+        <item quantity="other">%s inča</item>
+        <item quantity="one">%s inč</item>
     </plurals>
 </resources>

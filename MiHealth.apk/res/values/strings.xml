@@ -5,7 +5,7 @@
   <string name="Cancel">Cancel</string>
   <string name="Data">Data</string>
   <string name="V1_3WHOTITLE">World Health Organization definition of the measurement results</string>
-  <string name="V1_4beta_bpresult_analysis_title">Analysis results:</string>
+  <string name="V1_4beta_bpresult_analysis_title">Analysis results</string>
   <string name="V1_4beta_bpresult_detail_title">Measurement details</string>
   <string name="V1_4beta_bpresult_eatmedicine_has">Have</string>
   <string name="V1_4beta_bpresult_eatmedicine_nohas">"Haven't"</string>
@@ -18,7 +18,7 @@
   <string name="act_bpm3_setting_battery">Sphygmomanometer battery status</string>
   <string name="act_bpm3_setting_update_new">Latest version already installed</string>
   <string name="act_bpm3_setting_update_new_un">New update available, please update now</string>
-  <string name="act_bpm3_start_current">测量者:</string>
+  <string name="act_bpm3_start_current">Guage:</string>
   <string name="act_bpm3_start_noselect">Nothing selected</string>
   <string name="act_bpm3_start_title">Blood pressure test</string>
   <string name="act_bpm3_start_txt">Start test</string>
@@ -26,7 +26,7 @@
   <string name="act_bpm3_start_weburl_tv">"No sphygmomanometer?
 Buy online at:"</string>
   <string name="act_menu_care">See results</string>
-  <string name="act_menu_dynamic">爱家人</string>
+  <string name="act_menu_dynamic">Love your Family</string>
   <string name="act_menu_dynamic_guest">"You are not logged in, 
   you not able to add family, measurement data will be cleared after switching accounts"</string>
   <string name="act_menu_dynamic_guest_register">Guest registration</string>
@@ -39,7 +39,7 @@ Buy online at:"</string>
   <string name="app_name">Mi Health</string>
   <string name="ball_Normal_txt">Normotensive</string>
   <string name="bangwantext">Evening</string>
-  <string name="bperr0">20s未找到合适零点</string>
+  <string name="bperr0">Unable to find suitable zero point within 20 secs</string>
   <string name="bperr1">High pressure not found</string>
   <string name="bperr10">SPAN value error</string>
   <string name="bperr11">CRC parity error</string>
@@ -77,7 +77,7 @@ Buy online at:"</string>
   <string name="bpresult_share_send_friend">Send to a friend</string>
   <string name="bpresult_share_weixin">WeChat</string>
   <string name="bpresults_DIA">Low</string>
-  <string name="bpresults_Mood1">Okay</string>
+  <string name="bpresults_Mood1">OK</string>
   <string name="bpresults_Mood2">Good</string>
   <string name="bpresults_Mood3">Normal</string>
   <string name="bpresults_Mood4">Poor</string>
@@ -105,8 +105,8 @@ Buy online at:"</string>
   <string name="bpresults_pulseunit">Beats/min</string>
   <string name="bpresults_result_analysis">Result analysis</string>
   <string name="bpresults_send">Send</string>
-  <string name="bpresults_share_title">[我的血压摘要]</string>
-  <string name="bpresults_share_title_family">的血压摘要]</string>
+  <string name="bpresults_share_title">[My blood pressure info]</string>
+  <string name="bpresults_share_title_family">[Family blood pressure info]</string>
   <string name="bpresults_title">Continue to measure blood pressure</string>
   <string name="bpresults_title_family">Measurement details</string>
   <string name="bpresults_wave">Pulse wave</string>
@@ -222,13 +222,13 @@ Buy online at:"</string>
 create a healthy family"</string>
   <string name="perfect_1_tv">Create health diary for your family</string>
   <string name="perfect_edit_hint">Input family name(2~10 characters)</string>
-  <string name="perfect_has">已创建</string>
-  <string name="perfect_new_person">新家人</string>
+  <string name="perfect_has">Already created</string>
+  <string name="perfect_new_person">Add new family</string>
   <string name="perfect_nohas">Create now</string>
-  <string name="perfect_tv">先起一个好记的家庭名称</string>
+  <string name="perfect_tv">Please create a family name which is easy to remember</string>
   <string name="perfect_word_count_error">Family name should be between 2-10 characters</string>
   <string name="pinterest">Pinterest</string>
-  <string name="pinterest_client_inavailable">Pinterest is not installed or version is too old!</string>
+  <string name="pinterest_client_inavailable">Pinterest is not installed or version is too old</string>
   <string name="pull_to_refresh">Pull down to refresh</string>
   <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
   <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
@@ -264,7 +264,7 @@ measurement result announced, parents can receive your message"</string>
   <string name="remind_btn_txt">Remind</string>
   <string name="remind_cancel">Cancel reminder</string>
   <string name="remind_dialog_message0">Remind me tomorrow</string>
-  <string name="remind_dialog_message1">会提醒他测血压哒!</string>
+  <string name="remind_dialog_message1">Reminder to take blood pressure!</string>
   <string name="remind_dialog_ok">OK</string>
   <string name="remind_failed">Failed to set reminder</string>
   <string name="remind_me">Remind me to check my blood pressure</string>
@@ -317,7 +317,7 @@ measurement result announced, parents can receive your message"</string>
   <string name="tencentweibo">Tencent Microblog</string>
   <string name="test_quite">Please keep the cuff and heart at the same level</string>
   <string name="test_quite_2">Pulse wave graph is the pulse wave pressure which is collected by cuff, updated in real-time</string>
-  <string name="test_select_title">测量要分开,血压才能管的准</string>
+  <string name="test_select_title">Measure blood pressure several times for more accurate results</string>
   <string name="test_title_txt">Test</string>
   <string name="todaytext">Today</string>
   <string name="trends_month">This month</string>

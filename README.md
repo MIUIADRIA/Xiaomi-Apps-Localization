@@ -71,7 +71,7 @@ Localization Project For Xiaomi Gadgets Android Applications
 - Bulgarian (MIUI.BG)
 - Hungarian (vagyula, miui.hu)
 - French (cpasmoi, guiluge, burnarz)
-- Russian (miui.su)
+- Russian (miuipro.ru, miui.su)
 - Croatian (Masva, MIUI Adria)
 - Vietnamese (Belmont-Gabriel)
 - Italian (miui.it)

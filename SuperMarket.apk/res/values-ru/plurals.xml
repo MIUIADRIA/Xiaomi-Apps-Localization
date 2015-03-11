@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_download_history_confirm">
+        <item quantity="other">Удалить записи истории поиска: %1$s</item>
+        <item quantity="one">Удалить записи истории поиска: %1$s</item>
+    </plurals>
+</resources>

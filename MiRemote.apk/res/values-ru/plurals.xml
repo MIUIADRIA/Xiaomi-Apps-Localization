@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_count">
+        <item quantity="other">Загрузок: %1$s</item>
+        <item quantity="one">Загрузок: %1$s</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s пользователей</item>
+        <item quantity="one">%1$s пользователй</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d моделей доступно</item>
+        <item quantity="one">1 моделей доступно</item>
+    </plurals>
+</resources>

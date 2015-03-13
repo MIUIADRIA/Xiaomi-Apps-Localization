@@ -1,0 +1,108 @@
+{
+    "0": {
+        name: "Standardno",
+        desc: "Paket za svakodnevnu uporabu.",
+        speed: 500,
+        actions: {
+            "1": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.ToolboxAction",
+                        subActions: [
+                            {
+                                name: "com.xiaomi.miclick.core.action.TorchAction"
+                            },
+                            {
+                                name: "com.xiaomi.miclick.core.action.AudioRecorderAction"
+                            },
+                            {
+                                name: "com.xiaomi.miclick.core.action.CapturePhotoInstantAction"
+                            },
+                            {
+                                name: "com.xiaomi.miclick.core.action.EmptyAction"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "2": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.WallpaperAction"
+                    }
+                ]
+            },
+            "3": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.ScreenShotAction"
+                    }
+                ]
+            }
+        }
+    },
+    "1": {
+        name: "Tipka Energije",
+        desc: "Simulacija pritiska tipke Energije.",
+        speed: 0,
+        actions: {
+            "1": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.key.PowerShortAction"
+                    }
+                ]
+            }
+        }
+    },
+    "2": {
+            name: "007",
+            desc: "Snimanje fotografija u svim uvjetima.",
+            speed: 0,
+        actions: {
+            "1": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.CapturePhotoInstantAction"
+                    }
+                ]
+            }
+        }
+    },
+    "3": {
+        name: "Lud način",
+        desc: "Isprobajte ;)",
+        speed: 1000,
+        actions: {
+            "8": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.TorchAction"
+                    }
+                ]
+            },
+            "9": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.SearchAction"
+                    }
+                ]
+            },
+            "10": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.ClearMemoryAction"
+                    }
+                ]
+            }
+        }
+    }
+}

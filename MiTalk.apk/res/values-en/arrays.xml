@@ -2,7 +2,7 @@
 <resources>
     <string-array name="album_setting_choices">
         <item>Select</item>
-        <item>Latest 21 photos</item>
+        <item>Latest photos</item>
         <item>Disabled</item>
     </string-array>
     <string-array name="archive_remind_frequency">

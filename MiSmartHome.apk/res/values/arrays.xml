@@ -30,6 +30,6 @@
     <string-array name="device_shop_detail_webview_title">
         <item>Features</item>
         <item>Technical specifications</item>
-        <item>Packaging list</item>
+        <item>Package list</item>
     </string-array>
 </resources>

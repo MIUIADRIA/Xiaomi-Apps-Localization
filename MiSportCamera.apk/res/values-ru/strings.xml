@@ -24,6 +24,8 @@
   <string name="buzzer_volume_mute">Без звука</string>
   <string name="camera_firmware_upgrade">Обновление прошивки</string>
   <string name="camera_firmware_v">Прошивка камеры v</string>
+  <string name="camera_start_fw_update">Обновление прошивки камеры</string>
+  <string name="camera_start_usb_storage_mode">Камера подключена в режиме USB</string>
   <string name="can_not_piv">Съемка может быть использована только во время записи</string>
   <string name="can_not_piv_in_current_resolution">Текущее разрешение не подходит</string>
   <string name="cancel">Отмена</string>
@@ -311,6 +313,7 @@
   <string name="setting_camera">Камера</string>
   <string name="setting_camera_clock">Часы камеры</string>
   <string name="setting_capture_default_mode">По умолчанию режим фото</string>
+  <string name="setting_cloud_album">Сменить облачный альбом</string>
   <string name="setting_common_problem">Вопросы и ответы</string>
   <string name="setting_device">Устройства</string>
   <string name="setting_failed">Не удалось обновить настройки</string>
@@ -330,6 +333,7 @@
   <string name="setting_start_wifi_while_booted">Автом. включать Wi-Fi с устройством</string>
   <string name="setting_sw_version">Версия прошивки</string>
   <string name="setting_system_default_mode">По умолчанию режим камеры</string>
+  <string name="setting_timeout">Установить время ожидания</string>
   <string name="setting_unsupported_resolution">Текущее разрешение не отвечает требованиям для автоматического низкой освещенности</string>
   <string name="setting_user_guide">Руководство пользователя</string>
   <string name="setting_video">Видео</string>
@@ -360,7 +364,7 @@
   <string name="sns_caching_video">Буферизация…(XX%)</string>
   <string name="sns_detail_video">Все видео</string>
   <string name="sns_found_photo">Популярные фото</string>
-  <string name="sns_home_found">Люди</string>
+  <string name="sns_home_found">Лента</string>
   <string name="sns_home_more">Еще</string>
   <string name="sns_home_my">Профиль</string>
   <string name="sns_loading_video">Загрузка видео…</string>
@@ -369,7 +373,7 @@
   <string name="sohumicroblog">Sohu Microblog</string>
   <string name="sohusuishenkan">Sohu Suishenkan</string>
   <string name="splash">splash page</string>
-  <string name="ssid_format_error">Имя Wi-Fi должно быть от 1 до 32 символов, состоять из цифр и символав и без пробелов</string>
+  <string name="ssid_format_error">Имя Wi-Fi должно быть от 1 до 32 символов, состоять из цифр и символов и без пробелов</string>
   <string name="ssid_is_empty">Введите SSID</string>
   <string name="standard_definition">SD</string>
   <string name="start_session_failed">Ошибка подключения</string>
@@ -454,7 +458,6 @@
   <string name="tv_timing_15s">15 с.</string>
   <string name="tv_timing_3s">3 с.</string>
   <string name="tv_timing_5s">5 с.</string>
-  <string name="tv_timing_off">off</string>
   <string name="twitter">Twitter</string>
   <string name="unable_to_delete_photo">Загружаемое изображение нельзя удалить</string>
   <string name="unsurported_sw_version">Текущая версия не поддерживает синхронизацию камеры для съемки. Пожалуйста, обновите до последней версии.</string>
@@ -506,8 +509,9 @@
   <string name="weibo_upload_content">Поделиться изображением</string>
   <string name="whatsapp">WhatsApp</string>
   <string name="whatsapp_client_inavailable">WhatsApp клиент не существует или слишком старая версия</string>
+  <string name="wifi_authenticate_failed">Убедитесь что Wi-Fi пароль введен правильно</string>
   <string name="wifi_connect_failed">Отключено</string>
-  <string name="wifi_connect_failed_solution">Проверьте, подключено ли устройство к камере. Wi-Fi будет мигать при подключении.</string>
+  <string name="wifi_connect_failed_solution">Проверьте, подключено ли устройство к камере. Индикатор Wi-Fi будет мигать при подключении.</string>
   <string name="wifi_invalidate_password">Неверный пароль Wi-Fi</string>
   <string name="wifi_password_hint">По умолчанию 1234567890</string>
   <string name="wifi_prex">SportsCamera_</string>

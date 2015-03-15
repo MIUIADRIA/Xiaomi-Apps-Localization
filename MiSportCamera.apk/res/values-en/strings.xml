@@ -255,7 +255,7 @@
   <string name="pull_to_refresh_release_label">Release to refresh</string>
   <string name="qq">QQ</string>
   <string name="qq_client_inavailable">Mobile QQ client not installed or the version is too old</string>
-<string name="quick_record_failed">Quick video capture failed.</string>
+  <string name="quick_record_failed">Quick video capture failed.</string>
   <string name="quick_video">Quick video</string>
   <string name="qzone">QQ Zone</string>
   <string name="record">Video</string>

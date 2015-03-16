@@ -24,8 +24,8 @@
   <string name="buzzer_volume_mute">Mute</string>
   <string name="camera_firmware_upgrade">Firmware update</string>
   <string name="camera_firmware_v">Camera Firmware version</string>
-  <string name="camera_start_fw_update">相机开始升级</string>
-  <string name="camera_start_usb_storage_mode">相机已开启USB模式</string>
+  <string name="camera_start_fw_update">Camera Firmware is being updated</string>
+  <string name="camera_start_usb_storage_mode">Camera is using USB mode</string>
   <string name="can_not_piv">Capture can only be used during recording.</string>
   <string name="can_not_piv_in_current_resolution">Current resolution is not supported.</string>
   <string name="cancel">Cancel</string>
@@ -317,7 +317,7 @@
   <string name="setting_camera">Camera</string>
   <string name="setting_camera_clock">Camera clock</string>
   <string name="setting_capture_default_mode">Default photo mode</string>
-  <string name="setting_cloud_album">云相册开关</string>
+  <string name="setting_cloud_album">Cloud albums</string>
   <string name="setting_common_problem">Q &amp; A</string>
   <string name="setting_device">Devices</string>
   <string name="setting_failed">Failed to update settings.</string>
@@ -337,7 +337,7 @@
   <string name="setting_start_wifi_while_booted">Automaticallyt start WiFi on boot</string>
   <string name="setting_sw_version">Firmware version</string>
   <string name="setting_system_default_mode">Camera default start mode</string>
-  <string name="setting_timeout">设置超时</string>
+  <string name="setting_timeout">Timed out while updating settings</string>
   <string name="setting_unsupported_resolution">Current resolution does not meet requirements for auto low light.</string>
   <string name="setting_user_guide">User guide</string>
   <string name="setting_video">Video</string>
@@ -514,7 +514,7 @@ battery"</string>
   <string name="weibo_upload_content">share picture</string>
   <string name="whatsapp">WhatsApp</string>
   <string name="whatsapp_client_inavailable">WhatsApp client not exist or the version is too old</string>
-  <string name="wifi_authenticate_failed">请确认Wifi密码是否输入正确。</string>
+  <string name="wifi_authenticate_failed">WiFi failed to authenticate, please check password and try again.</string>
   <string name="wifi_connect_failed">Disconnected</string>
   <string name="wifi_connect_failed_solution">Please check if your phone has been connected with your camera. The Wi-Fi light will flash when they are connected.</string>
   <string name="wifi_invalidate_password">WiFi password is incorrect.</string>

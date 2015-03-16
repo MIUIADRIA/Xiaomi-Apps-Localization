@@ -102,7 +102,7 @@
   <string name="googleplus">Google+</string>
   <string name="high_definition">HD</string>
   <string name="hint_password">Новый пароль</string>
-  <string name="hint_ssid">Введите Wi-Fi SSID</string>
+  <string name="hint_ssid">Введите SSID Wi-Fi сети</string>
   <string name="ib_back_contentdescription">Кнопка назад</string>
   <string name="ib_back_photo_show_contentdescription">Назад</string>
   <string name="ib_back_video_show_contentdescription">Назад</string>
@@ -399,7 +399,7 @@
   <string name="title_cancle_share">Отмена</string>
   <string name="title_delete">Удалить</string>
   <string name="title_sdcard">SD-карта</string>
-  <string name="title_share">Успехно отправлено!</string>
+  <string name="title_share">Успешно отправлено!</string>
   <string name="title_video_share">Отправка видео</string>
   <string name="tumblr">Tumblr</string>
   <string name="tvAspectRatio"/>

@@ -25,13 +25,13 @@
   <string name="act_bpm3_start_weburl">http://mi.com/ihealth</string>
   <string name="act_bpm3_start_weburl_tv">"No sphygmomanometer?
 Buy online at:"</string>
-  <string name="act_menu_care">See results</string>
-  <string name="act_menu_dynamic">Love your Family</string>
+  <string name="act_menu_care">Results</string>
+  <string name="act_menu_dynamic">Your Family</string>
   <string name="act_menu_dynamic_guest">"You are not logged in, 
   you not able to add family, measurement data will be cleared after switching accounts"</string>
   <string name="act_menu_dynamic_guest_register">Guest registration</string>
   <string name="act_menu_newDynamic">New developments</string>
-  <string name="act_menu_test">Blood pressure test</string>
+  <string name="act_menu_test">Test</string>
   <string name="action_settings">Settings</string>
   <string name="addperson_nickname">Nickname</string>
   <string name="addperson_nickname_default">Friend</string>
@@ -157,8 +157,8 @@ Buy online at:"</string>
   <string name="homesetting_family">Add family</string>
   <string name="homesetting_family_choose">Select default identity</string>
   <string name="homesetting_family_id">Family ID number</string>
-  <string name="homesetting_family_name">Family group name</string>
-  <string name="homesetting_family_tv">With the default identity, family messages and reminders will be more convenient</string>
+  <string name="homesetting_family_name">Family name</string>
+  <string name="homesetting_family_tv">Adding a family name makes messages &amp; reminders more convenient</string>
   <string name="homesetting_me">Current user</string>
   <string name="homesetting_qun">Family group</string>
   <string name="homesetting_title">Family management</string>
@@ -166,7 +166,7 @@ Buy online at:"</string>
   <string name="homesetting_usersetting">Account settings</string>
   <string name="homesetting_who">Family settings</string>
   <string name="instagram">Instagram</string>
-  <string name="instagram_client_inavailable">Instagram is not installed or version is too old!</string>
+  <string name="instagram_client_inavailable">Instagram is not installed or version is too old</string>
   <string name="introductry_close">Close</string>
   <string name="introductry_lastpage">Last page</string>
   <string name="introductry_nextpage">Next page</string>
@@ -184,7 +184,7 @@ Buy online at:"</string>
   <string name="measure_stop">Stop</string>
   <string name="menu_about">About app</string>
   <string name="menu_ask">Are you sure you want to exit?</string>
-  <string name="menu_care_fragment_nodata_txt">Connect the phone with the sphygmomanometer to tart measuring</string>
+  <string name="menu_care_fragment_nodata_txt">Connect phone with iHealth monitor to start testing</string>
   <string name="menu_contact">Contact customer services</string>
   <string name="menu_contact_Edit_txt">iHealth</string>
   <string name="menu_contact_btn_telephone">Call for help</string>
@@ -192,7 +192,7 @@ Buy online at:"</string>
   <string name="menu_contact_copy">Copy</string>
   <string name="menu_contact_telephone">400-611-0208</string>
   <string name="menu_contact_telephone_txt">Free phone customer services line</string>
-  <string name="menu_contact_txt">After copying the name, open WeChat, paste  \"iHealthChina\" into the search box. You will be provided with online interactive service support</string>
+  <string name="menu_contact_txt">After copying open WeChat, paste  \"iHealthChina\" into the search box. You will be provided with online support</string>
   <string name="menu_contact_weixin_txt">WeChat customer services</string>
   <string name="menu_logout">Logout</string>
   <string name="menu_please_put_out_phone">Unplug phone then switch user account</string>

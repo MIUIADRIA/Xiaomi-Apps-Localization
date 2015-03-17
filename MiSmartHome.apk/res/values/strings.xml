@@ -1985,7 +1985,7 @@
 	<string name="smarthome_span_error">Please select at least one day</string>
 	<string name="smarthome_switch_status_get_failed">Failed to get Smart plug status</string>
 	<string name="smarthome_switch_status_set_failed">Setting Smart plug failed!</string>
-	<string name="smarthome_switch_status_setting">Srtting Smart plug status</string>
+	<string name="smarthome_switch_status_setting">Setting Smart plug status</string>
 	<string name="smarthome_time_hint">%1$d:%2$d</string>
 	<string name="smarthome_timespan_text">Set duration</string>
 	<string name="smarthome_to_user_status_accept">Accept</string>

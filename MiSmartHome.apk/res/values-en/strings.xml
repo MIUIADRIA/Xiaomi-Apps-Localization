@@ -1132,8 +1132,8 @@
 	<string name="irv2_matching_click_hint">Click the button at the top</string>
 	<string name="irv2_matching_controller">Matching remote control</string>
 	<string name="irv2_matching_fail">Failed!</string>
-	<string name="irv2_matching_fail_hint_postfix">遥控器，可以</string>
-	<string name="irv2_matching_fail_hint_postfix_2">Let the remote control center learn your remote control</string>
+	<string name="irv2_matching_fail_hint_postfix">Remote control can</string>
+	<string name="irv2_matching_fail_hint_postfix_2">Allow remote control center learn your remote control functions</string>
 	<string name="irv2_matching_fail_hint_prefix">Failed to find any devices to be matched</string>
 	<string name="irv2_matching_finish">Matching finished</string>
 	<string name="irv2_matching_hint_text_prefix">Please confirm connection between remote control center and</string>

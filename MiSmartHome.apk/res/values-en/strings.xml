@@ -1231,7 +1231,7 @@
 	<string name="kuailian_unconn_reason">Intelligent device does not support the network, please use Mi router to connect</string>
 	<string name="kuailian_unsafe_wifi">Unsecure WiFi</string>
 	<string name="kuailian_unsafe_wifi_content">Intelligent device might not support this type of network, do you want to continue?</string>
-	<string name="kuailian_unsafe_wifi_content_1">当前环境存在重名网络,确认连接吗?</string>
+	<string name="kuailian_unsafe_wifi_content_1">WiFi SSID of the same name was found, do you want to continue?</string>
 	<string name="kuailian_wifi_security_type">WiFi security: %s</string>
 	<string name="kualian_conn_title">Network connection available</string>
 	<string name="kualian_unconn_title">Network connection unavailable</string>

@@ -204,8 +204,8 @@
 	<string name="air_purifier_v2_filter_buy">Buy filters</string>
 	<string name="air_purifier_v2_filter_desc">"Description:
 	
-	检测到滤芯需更换时，每次开机滤芯更换指示灯呈红色呼吸状态30秒。
-	更换滤芯后开机并长按机体背面滤芯复位按键，听到滴滴滴提示音后，滤芯复位成功。"</string>
+	Detected when the filter needs to be replaced, filter replacement lights flash red for 30 seconds when device is open.
+	Replace filter, reboot and long press the filter reset button on the back of the device at the same time, when you hear "DI DI" alarm the filter replacement will be completed.</string>
 	<string name="air_purifier_v2_filter_health">Filter health status</string>
 	<string name="air_purifier_v2_filter_level_0">Excellent</string>
 	<string name="air_purifier_v2_filter_level_1">Good</string>
@@ -333,8 +333,8 @@
 	<string name="air_purifier_v3_filter_buy">Buy filters</string>
 	<string name="air_purifier_v3_filter_desc">"Description:
 	
-	检测到滤芯需更换时，每次开机滤芯更换指示灯呈红色呼吸状态30秒。
-	更换滤芯后开机并长按机体背面滤芯复位按键，听到滴滴滴提示音后，滤芯复位成功。"</string>
+	Detected when the filter needs to be replaced, filter replacement lights flash red for 30 seconds when device is open.
+	Replace filter, reboot and long press the filter reset button on the back of the device at the same time, when you hear "DI DI" alarm the filter replacement will be completed.</string>
 	<string name="air_purifier_v3_filter_health">Filter health</string>
 	<string name="air_purifier_v3_filter_level_0">Excellent</string>
 	<string name="air_purifier_v3_filter_level_1">Good</string>
@@ -453,7 +453,7 @@
 	<string name="app_latest_version_installed">Mi Home is up to date.</string>
 	<string name="app_latest_version_installed_smarthome">Your system is up to date.</string>
 	<string name="app_name">Mi Home</string>
-	<string name="app_name2">Mi Smart Home</string>
+	<string name="app_name2">Mi Smart home</string>
 	<string name="app_upgrade_check_smarthome">Checking...</string>
 	<string name="app_upgrade_detail_smarthome">Update Mi Home now?</string>
 	<string name="app_upgrade_failed_smarthome">"Can't download update"</string>
@@ -473,7 +473,7 @@
 	<string name="bing_tips">View reset help</string>
 	<string name="bought_device_go">Learn more</string>
 	<string name="bought_device_remote">Intelligent control</string>
-	<string name="bought_device_switch">Mi Smart Plug</string>
+	<string name="bought_device_switch">Mi Smart plug</string>
 	<string name="button_bind">Connect</string>
 	<string name="button_bind_failed">Connection failed, please try again</string>
 	<string name="button_bind_failed_info">Connection failed, check the device and phone use the same router</string>
@@ -706,7 +706,7 @@
 	<string name="connectFailed">Connection failed!</string>
 	<string name="connectTimeout">5000</string>
 	<string name="connect_first_step">Power on and check if yellow LED is flashing</string>
-	<string name="connect_first_step_has_ready">Discovered new Mi smart socket, click Next to complete the connection</string>
+	<string name="connect_first_step_has_ready">Discovered new Mi Smart plug, click Next to complete the connection</string>
 	<string name="connect_second_step">Step 2: Choose a network device to be accessed.</string>
 	<string name="connect_time">Connection time</string>
 	<string name="connect_type">Connection type</string>
@@ -990,8 +990,8 @@
 	<string name="ignore">Ignore</string>
 	<string name="input_account">Input account number</string>
 	<string name="input_account_null">Account cannot be left blank</string>
-	<string name="intelligent_220v_plug">220V socket</string>
-	<string name="intelligent_plug">Mi Smart socket</string>
+	<string name="intelligent_220v_plug">220V plug</string>
+	<string name="intelligent_plug">Mi Smart plug</string>
 	<string name="intelligent_plug_dunhao">、</string>
 	<string name="intelligent_plug_everyday">Every day</string>
 	<string name="intelligent_plug_everytime">Weekly</string>
@@ -1270,34 +1270,34 @@
 	<string name="log_day_outoffice_late">You left work late</string>
 	<string name="log_day_outoffice_normal">You left work normally</string>
 	<string name="log_downlaoding">Downloading log...</string>
-	<string name="log_month_athome_Random">您这月回家时间有点不靠谱</string>
-	<string name="log_month_athome_normal">您这月回家时间正常</string>
-	<string name="log_month_athome_stdest">您这月回家时间太准时了</string>
-	<string name="log_month_atoffice_Random">您这月上班时间有点不靠谱</string>
-	<string name="log_month_atoffice_normal">您这月上班时间正常</string>
-	<string name="log_month_atoffice_stdest">您这月上班时间太准时了</string>
-	<string name="log_month_outhome_Random">您这月出门时间有点不靠谱</string>
-	<string name="log_month_outhome_normal">您这月出门时间正常</string>
-	<string name="log_month_outhome_stdest">您这月出门时间太准时了</string>
-	<string name="log_month_outoffice_Random">您这月下班时间有点不靠谱</string>
-	<string name="log_month_outoffice_normal">您这月下班时间正常</string>
-	<string name="log_month_outoffice_stdest">您这月下班时间太准时了</string>
+	<string name="log_month_athome_Random">Your home time this month is a bit abnormal</string>
+	<string name="log_month_athome_normal">Your time at home this month is normal</string>
+	<string name="log_month_athome_stdest">Your time at home this month is standard</string>
+	<string name="log_month_atoffice_Random">Your time at work this month is abnormal</string>
+	<string name="log_month_atoffice_normal">Your time at work this month is normal</string>
+	<string name="log_month_atoffice_stdest">Your time at work this month is standard</string>
+	<string name="log_month_outhome_Random">Your time outside this month is abnormal</string>
+	<string name="log_month_outhome_normal">Your time outside this month is normal</string>
+	<string name="log_month_outhome_stdest">Your time outside this month is standard</string>
+	<string name="log_month_outoffice_Random">Your time after work this month is abnormal</string>
+	<string name="log_month_outoffice_normal">Your time after work this month is normal</string>
+	<string name="log_month_outoffice_stdest">Your time after work this month is standard</string>
 	<string name="log_no_logs">No logs</string>
-	<string name="log_scene_error">执行失败</string>
-	<string name="log_scene_sucess">执行成功</string>
+	<string name="log_scene_error">Failed to execute</string>
+	<string name="log_scene_sucess">Sucessfully executed</string>
 	<string name="log_title">Log type</string>
-	<string name="log_week_athome_Random">您这周回家时间有点不靠谱</string>
-	<string name="log_week_athome_normal">您这周回家时间正常</string>
-	<string name="log_week_athome_stdest">您这周回家时间太准时了</string>
-	<string name="log_week_atoffice_Random">您这周上班时间有点不靠谱</string>
-	<string name="log_week_atoffice_normal">您这周上班时间正常</string>
-	<string name="log_week_atoffice_stdest">您这周上班时间太准时了</string>
-	<string name="log_week_outhome_Random">您这周出门时间有点不靠谱</string>
-	<string name="log_week_outhome_normal">您这周出门时间正常</string>
-	<string name="log_week_outhome_stdest">您这周出门时间太准时了</string>
-	<string name="log_week_outoffice_Random">您这周下班时间有点不靠谱</string>
-	<string name="log_week_outoffice_normal">您这周下班时间正常</string>
-	<string name="log_week_outoffice_stdest">您这周下班时间太准时了</string>
+	<string name="log_week_athome_Random">Your time at home this week is abnormal</string>
+	<string name="log_week_athome_normal">Your time at home this week is normal</string>
+	<string name="log_week_athome_stdest">Your time at home this week is standard</string>
+	<string name="log_week_atoffice_Random">Your time at work this week is abnormal</string>
+	<string name="log_week_atoffice_normal">Your time at work this week is normal</string>
+	<string name="log_week_atoffice_stdest">Your time at work this week is standard</string>
+	<string name="log_week_outhome_Random">Your time outside this week is abnormal</string>
+	<string name="log_week_outhome_normal">Your time outside this week is normal</string>
+	<string name="log_week_outhome_stdest">Your time outside this week is standard</string>
+	<string name="log_week_outoffice_Random">Your time after work this week is abnormal</string>
+	<string name="log_week_outoffice_normal">Your time after work this week is normal</string>
+	<string name="log_week_outoffice_stdest">Your time after work this week is standard</string>
 	<string name="loggin_first">Please login first</string>
 	<string name="login_account_hint">E-mail/Phone/Mi Account ID</string>
 	<string name="login_account_login">Sign in</string>
@@ -1350,7 +1350,7 @@
 	<string name="menu_correct">Modify location</string>
 	<string name="message_clear_all">Clear all messages</string>
 	<string name="midea_aircondition">Midea air conditioner</string>
-	<string name="miio_before_firmware_upgrade_tip">请保持芯片连网</string>
+	<string name="miio_before_firmware_upgrade_tip">Please keep the chip connected to the network</string>
 	<string name="miio_close">Off</string>
 	<string name="miio_del_success">Device removed</string>
 	<string name="miio_device_list_add_device">Add device</string>
@@ -1359,7 +1359,7 @@
 	<string name="miio_device_list_del_device_fail">"Can't remove device"</string>
 	<string name="miio_device_list_del_device_fail_no_token">"Can't remove this device"</string>
 	<string name="miio_device_list_none_avail_miio_device">No remotes available.</string>
-	<string name="miio_device_list_refreshing">Just a sec…</string>
+	<string name="miio_device_list_refreshing">Refreshing, please wait...</string>
 	<string name="miio_device_list_select_main_device_title">Choose devices to add</string>
 	<string name="miio_device_local_device_exception">Local device exception</string>
 	<string name="miio_device_local_permission_denied">Local device permission denied</string>
@@ -1396,16 +1396,16 @@
 	<string name="miio_start_firmware_upgrade_fail">Failed to update, please try again</string>
 	<string name="miio_sub_device_key_not_available">Key is not available</string>
 	<string name="miio_sub_device_preview_record">Preview</string>
-	<string name="miio_sub_device_record">自定义组合指令</string>
-	<string name="miio_sub_device_record_click_start">请点击开始录制</string>
-	<string name="miio_sub_device_record_none_cmd">还未录入指令</string>
+	<string name="miio_sub_device_record">Custom combo instructions</string>
+	<string name="miio_sub_device_record_click_start">Start recording</string>
+	<string name="miio_sub_device_record_none_cmd">Nothing recorded yet</string>
 	<string name="miio_sub_device_remove">Remove device</string>
-	<string name="miio_sub_device_rename">修改备注名</string>
-	<string name="miio_sub_device_send_fail">发送失败</string>
-	<string name="miio_sub_device_send_success">发送成功</string>
-	<string name="miio_sub_device_start_record">开始录制</string>
-	<string name="miio_sub_device_stop_record">停止录制</string>
-	<string name="miio_sub_device_study">功能键学习</string>
+	<string name="miio_sub_device_rename">Rename device</string>
+	<string name="miio_sub_device_send_fail">Failed to send</string>
+	<string name="miio_sub_device_send_success">Sucessfully sent</string>
+	<string name="miio_sub_device_start_record">Start recording</string>
+	<string name="miio_sub_device_stop_record">Stop recording</string>
+	<string name="miio_sub_device_study">Learn function keys</string>
 	<string name="miio_sub_device_study_cancel">Cancel</string>
 	<string name="miio_sub_device_study_complete">Completed</string>
 	<string name="miio_sub_device_study_fail">Learning failed</string>
@@ -1750,7 +1750,7 @@
 	<string name="router_path">Router path</string>
 	<string name="router_plug">Router plugins</string>
 	<string name="router_plug_info">Already installed %1$d plug-in</string>
-	<string name="router_private_path">路由器隐私盘</string>
+	<string name="router_private_path">Router private path</string>
 	<string name="router_speed_high">Suitable for video streaming</string>
 	<string name="router_speed_low">Suitable for web browsing</string>
 	<string name="router_speed_middle">Suitable for gaming</string>
@@ -1764,24 +1764,24 @@
 	<string name="scene_add_condition">Step one: Set the start condition</string>
 	<string name="scene_add_condition_empty">You have not set any start condition</string>
 	<string name="scene_add_task">Step two: add tasks</string>
-	<string name="scene_add_task_empty">你还没有添加任何执行任务</string>
-	<string name="scene_default_keyname_1">智能保卫您的家</string>
-	<string name="scene_default_keyname_2">打开所有智能插座</string>
-	<string name="scene_default_keyname_3">关闭所有智能插座</string>
-	<string name="scene_default_keyname_4">手环判断开启插座</string>
-	<string name="scene_default_keyname_5">用手环关灯</string>
-	<string name="scene_default_name_1">家庭保镖</string>
-	<string name="scene_default_name_2">随手开</string>
-	<string name="scene_default_name_3">随手关</string>
-	<string name="scene_default_name_4">早安模式</string>
-	<string name="scene_default_name_5">晚安模式</string>
+	<string name="scene_add_task_empty">"You haven't added any tasks"</string>
+	<string name="scene_default_keyname_1">Intelligently defend your home</string>
+	<string name="scene_default_keyname_2">Open all Smart plugs</string>
+	<string name="scene_default_keyname_3">Close all Smart plugs</string>
+	<string name="scene_default_keyname_4">Use Mi Band to determine whether Smart plug is on or off</string>
+	<string name="scene_default_keyname_5">Close light with Mi band</string>
+	<string name="scene_default_name_1">Family guard</string>
+	<string name="scene_default_name_2">Open</string>
+	<string name="scene_default_name_3">Closed</string>
+	<string name="scene_default_name_4">Day mode</string>
+	<string name="scene_default_name_5">Night mode</string>
 	<string name="scene_enable">Enable</string>
-	<string name="scene_if">如果</string>
+	<string name="scene_if">if</string>
 	<string name="scene_if_extra">Set a start condition</string>
 	<string name="scene_manage">Manage Intelligent scene</string>
 	<string name="scene_modify_name_error">Scene name already in use, please try another name</string>
 	<string name="scene_save">Save scene</string>
-	<string name="scene_then">就</string>
+	<string name="scene_then">then</string>
 	<string name="scene_then_extra">Add tasks</string>
 	<string name="search_new_device">Found new devices nearby</string>
 	<string name="second">second</string>
@@ -1800,7 +1800,7 @@
 	<string name="setting_logout">Sign out</string>
 	<string name="setting_logout_message">Sign out of your Mi Account?</string>
 	<string name="setting_logout_waiting">Signing out...</string>
-	<string name="setting_menu_advanced_setting">Advanced</string>
+	<string name="setting_menu_advanced_setting">Advanced settings-</string>
 	<string name="setting_menu_feedback">Feedback</string>
 	<string name="setting_menu_logout">Sign out</string>
 	<string name="setting_menu_network_diagnosis">Test network</string>
@@ -1831,7 +1831,7 @@
 	<string name="share_score_action_scores">"Active score: %1$d"</string>
 	<string name="share_score_all_socres">"Intelligent score: %1$d"</string>
 	<string name="share_score_safe_scores">"Security score: %1$d"</string>
-	<string name="share_score_scence_scores">"Link score: %1$d"</string>
+	<string name="share_score_scence_scores">"Smart score: %1$d"</string>
 	<string name="share_score_score">Smart score</string>
 	<string name="share_score_score_info">Share smart score</string>
 	<string name="share_score_share_no_install">Application not installed, unable to share</string>
@@ -1885,7 +1885,7 @@
 	<string name="smarthome_disable_condition">Temporarily unable to add tasks</string>
 	<string name="smarthome_edit_scene">Edit Intelligent scene</string>
 	<string name="smarthome_has_shared_to_user">Shared with %1$s</string>
-	<string name="smarthome_has_shared_to_user_more">	</string>
+	<string name="smarthome_has_shared_to_user_more">Shared to %1$s with %2$d people</string>
 	<string name="smarthome_input_xiaomi_account">Please login to your XiaoMi Account</string>
 	<string name="smarthome_modify_timespan">Modify timing</string>
 	<string name="smarthome_no_device">You do not have any smart devices currently</string>
@@ -1993,7 +1993,7 @@
 	<string name="smarthome_to_user_status_waiting">Waiting</string>
 	<string name="smarthome_unbind_tips">Are you sure you want to unpair?</string>
 	<string name="smarthome_unbinding">Unparing</string>
-	<string name="smarthome_unbinding_info">Deleted successfully, to use again you must reset the device. Click here to view reset method.</string>
+	<string name="smarthome_unbinding_info">Deleted successfully, to use again you must reset the device. Click here to view reset methods.</string>
 	<string name="smarthome_unbinding_title">Unpair</string>
 	<string name="smarthome_upload_video_for_play">Upload video from phone</string>
 	<string name="some_device_bind_error">Failed to pair device, please check it is not already connected to another account</string>
@@ -2145,7 +2145,7 @@
 	5.2.5 一旦本协议终止，您使用本产品的权利即告终止。您应当知晓您的产品终止意味着您的用户内容将从我们的活动数据库中删除。小米不因终止本协议对您承担任何责任，包括终止您的用户账户和删除您的用户内容。
 	
 	
-	6、第三方
+	6: 3rd Party
 	6.1 您已知晓或同意我们的部分服务是基于第三方的技术支持获得。
 	您已知晓本协议是在您与小米之间签订，而非您与上述第三方之间签订。小米是基于本产品所产生的内容、维护、支持服务、保证和由此产生的诉讼等事项的唯一责任人。您已同意遵守且授权给本产品限制您有条件地使用本产品的服务。
 	6.2 第三方信息和服务
@@ -2279,7 +2279,7 @@
 	<string name="water_purifier">Water purifier</string>
 	<string name="web_shell_loading">Loading...</string>
 	<string name="wednesday">Wednesday</string>
-	<string name="week_day_0">日</string>
+	<string name="week_day_0">Day</string>
 	<string name="week_day_1">One</string>
 	<string name="week_day_2">Two</string>
 	<string name="week_day_3">Three</string>
@@ -2321,8 +2321,8 @@
 	<string name="wifi_scan_new_device_title">Scan for new devices</string>
 	<string name="wifi_scan_new_plug">Found %1$d smart device, click quick connect to view devices</string>
 	<string name="wifi_select_desc">Please select home / office WiFi to help keep record of your time</string>
-	<string name="wifi_select_home_title">Select Home WiFi</string>
-	<string name="wifi_select_office_title">Select Office WiFi</string>
+	<string name="wifi_select_home_title">Select home WiFi</string>
+	<string name="wifi_select_office_title">Select office WiFi</string>
 	<string name="wifi_select_title">Select WiFi network</string>
 	<string name="wifi_setting_choose">Select WiFi network</string>
 	<string name="wifi_setting_connect">Connect</string>
@@ -2401,12 +2401,12 @@
 	<string name="umstring02">Unknown location</string>
 	<string name="um_string_tds_anim">TDS introduction</string>
 	<string name="um_string_tds_anim_error01">TDS errors?</string>
-	<string name="um_string_tds_anim_error02">查询问题</string>
-	<string name="um_string_buy_time_01">下单之后预计在</string>
+	<string name="um_string_tds_anim_error02">Search questions</string>
+	<string name="um_string_buy_time_01">Will be available to buy after</string>
 	<string name="um_string_buy_time_02">Year</string>
 	<string name="um_string_buy_time_03">Month</string>
 	<string name="um_string_buy_time_04">Delivery date</string>
 	<string name="um_string_buy_time_05">Day</string>
-	<string name="um_string_buy_time_06">Next</string>
+	<string name="um_string_buy_time_06">Next day</string>
 	<string name="um_string_layout_q_title">Possible causes of abnormal TDS</string>
 </resources>

@@ -719,7 +719,7 @@
   <string name="continue_nextstep">Next</string>
   <string name="control_panel">Remote control panel</string>
   <string name="creating">Creating...</string>
-  <string name="current_all_step">Total steps</string>
+  <string name="current_all_step">@Total steps: "</string>
   <string name="current_speed">Current speed</string>
   <string name="day">days</string>
   <string name="day_no_record_file">No video recording history</string>
@@ -730,7 +730,7 @@
   <string name="deviceLost">Device missing</string>
   <string name="device_closed">Offline</string>
   <string name="device_detail_detail">Details</string>
-  <string name="device_detail_mac_address">MAC Address: %s</string>
+  <string name="device_detail_mac_address">MAC address: %s</string>
   <string name="device_detail_network">Network</string>
   <string name="device_detail_option_cumstom">Device color</string>
   <string name="device_detail_option_rename">Change name</string>
@@ -817,9 +817,9 @@
   <string name="family_modify_nickname">Modify name</string>
   <string name="family_nickname_empty">Please input relationship</string>
   <string name="family_reject">Reject</string>
-  <string name="family_share_count">Share %s smart devices</string>
+  <string name="family_share_count">%s shared smart devices</string>
   <string name="family_share_detail_title">Family details</string>
-  <string name="family_share_device_count">Shared %s devices</string>
+  <string name="family_share_device_count">%s shared devices</string>
   <string name="family_share_time">%1$s.%2$s.%3$s shared</string>
   <string name="family_wait_accept">Invitation sent!</string>
   <string name="feedback">Feedback</string>
@@ -1223,7 +1223,7 @@ Click for confirmation"</string>
   <string name="kuailian_still_connect">Connect anyway</string>
   <string name="kuailian_sub_main_device_count">Continue searching...</string>
   <string name="kuailian_sub_main_device_finish">Found %d intelligent devices, click here to finish</string>
-  <string name="kuailian_sub_main_title_1">Connect power then click "Next" when the LED is blinking</string>
+  <string name="kuailian_sub_main_title_1">Connect power then click "Next" when the LED is flashing</string>
   <string name="kuailian_sub_main_title_2">Select available WiFi, let device connect to network</string>
   <string name="kuailian_sub_main_title_3_1">Trying to connect, please wait...</string>
   <string name="kuailian_sub_main_title_3_2">Still trying to connect, please wait...</string>
@@ -1384,7 +1384,7 @@ Click for confirmation"</string>
   <string name="miio_firmware_upgrading">Updating...</string>
   <string name="miio_go_back_tips">Back to help</string>
   <string name="miio_ir_name">Infrared remote</string>
-  <string name="miio_market_user_center">User profile</string>
+  <string name="miio_market_user_center">Mi profile</string>
   <string name="miio_no_message">No messages</string>
   <string name="miio_not_bind_device">Select a device</string>
   <string name="miio_not_click_btn">"Don't click the button"</string>
@@ -1476,7 +1476,7 @@ Click for confirmation"</string>
   <string name="mini_switch">Switch</string>
   <string name="mini_weakpassword_error_same">Password is weak, please consider a stronger password</string>
   <string name="mini_weakpassword_error_serial">Do not use consecutive numbers!</string>
-  <string name="minute">min</string>
+  <string name="minute">" mins"</string>
   <string name="mitv_apk_background_downloading">Downloading in background</string>
   <string name="mitv_apk_cancel_downloading">Cancel download</string>
   <string name="mitv_apk_downloading">Downloading...</string>
@@ -1530,7 +1530,7 @@ Click for confirmation"</string>
   <string name="msp_xlistview_header_last_time">"Last updated: "</string>
   <string name="my_ble">Mi Band</string>
   <string name="my_home">Account</string>
-  <string name="my_phone_name">Phone name</string>
+  <string name="my_phone_name">Mi phone</string>
   <string name="network_disable">Network connection unavailable</string>
   <string name="network_disconnect">Network disconnected</string>
   <string name="network_erro">Network connection error</string>
@@ -1754,7 +1754,7 @@ Click for confirmation"</string>
   <string name="router_downloading_info">Downloading %1$d</string>
   <string name="router_moblie_path">Removable disk</string>
   <string name="router_network_speed">Network speed</string>
-  <string name="router_no_speed">No network speed data</string>
+  <string name="router_no_speed">No network connection</string>
   <string name="router_path">Router path</string>
   <string name="router_plug">Router plugins</string>
   <string name="router_plug_info">Already installed %1$d plug-in</string>
@@ -1792,7 +1792,7 @@ Click for confirmation"</string>
   <string name="scene_then">then</string>
   <string name="scene_then_extra">Add tasks</string>
   <string name="search_new_device">Found new devices nearby</string>
-  <string name="second">second</string>
+  <string name="second">" seconds"</string>
   <string name="select_camera">Select camera</string>
   <string name="select_device_title">Select device to connect</string>
   <string name="select_mitvs">Select Mi TV</string>
@@ -1852,7 +1852,7 @@ enjoy an intelligent life!"</string>
   <string name="smarthome_aircon_temperature_default">--</string>
   <string name="smarthome_cancel_timespan">Cancel</string>
   <string name="smarthome_create_scene">Create scene</string>
-  <string name="smarthome_delete_timespan">Delete timing</string>
+  <string name="smarthome_delete_timespan">Delete timespan</string>
   <string name="smarthome_device__add_subdevice_error">"Can't add device"</string>
   <string name="smarthome_device__add_subdevice_succ">Device added</string>
   <string name="smarthome_device__confirm_remove">Remove this device?</string>
@@ -1895,7 +1895,7 @@ enjoy an intelligent life!"</string>
   <string name="smarthome_has_shared_to_user">Shared with %1$s</string>
   <string name="smarthome_has_shared_to_user_more">Shared to %1$s with %2$d people</string>
   <string name="smarthome_input_xiaomi_account">Please login to your XiaoMi Account</string>
-  <string name="smarthome_modify_timespan">Modify timing</string>
+  <string name="smarthome_modify_timespan">Modify timespan</string>
   <string name="smarthome_no_device">You do not have any smart devices currently</string>
   <string name="smarthome_no_localnetwork">Upload not supported by local network</string>
   <string name="smarthome_not_shared">Not shared</string>
@@ -2347,8 +2347,8 @@ The user accepts that in relation to business development, we may change, suspen
   <string name="wifi_log_month">Month</string>
   <string name="wifi_log_month_title">%d Month</string>
   <string name="wifi_log_reset_query">Are you sure you want to reset logs?</string>
-  <string name="wifi_log_set_success">Logging successfully set up</string>
-  <string name="wifi_log_set_success_sub_title">Phone log file time is for reference only</string>
+  <string name="wifi_log_set_success">Logging set up successfully</string>
+  <string name="wifi_log_set_success_sub_title">Note: Phone log file time is for reference only</string>
   <string name="wifi_log_stat_at_home_title">Home</string>
   <string name="wifi_log_stat_at_office_title">Work</string>
   <string name="wifi_log_stat_out_home_title">Home</string>

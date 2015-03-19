@@ -719,7 +719,7 @@
   <string name="continue_nextstep">Next</string>
   <string name="control_panel">Remote control panel</string>
   <string name="creating">Creating...</string>
-  <string name="current_all_step">@Total steps: "</string>
+  <string name="current_all_step">"Total steps: "</string>
   <string name="current_speed">Current speed</string>
   <string name="day">days</string>
   <string name="day_no_record_file">No video recording history</string>

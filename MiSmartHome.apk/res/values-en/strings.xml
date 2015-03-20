@@ -701,7 +701,7 @@
   <string name="condition_leave_home">Leave home</string>
   <string name="confirm_button">OK</string>
   <string name="confirm_delete_family">Are you sure you want to delete this family member?</string>
-  <string name="confirm_format_tf_card">Are you sre you want to format? the caamera will restart after formatting</string>
+  <string name="confirm_format_tf_card">Are you sre you want to format? the camera will restart after formatting</string>
   <string name="confirm_quit">Exit</string>
   <string name="confirm_title">Confirm</string>
   <string name="connectFailed">Connection failed!</string>

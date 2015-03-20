@@ -20,23 +20,23 @@ Localization Project For Xiaomi Gadgets Android Applications
 
 # List Of Xiaomi Apps & Their SW Version - English Base Translation Status 100%
 
-- AntiFake_10201 - https://jd.mi.com/ - English
-- CoolWallpaper_2.3.1 - http://app.mi.com/detail/41245 - Chinese Only
-- MiAuthenticator_2.27 - http://app.mi.com/detail/62091 - English
-- MiClick_3.0.1 - http://app.mi.com/detail/59090 - English
-- MiFit_1.3.412 - http://app.mi.com/detail/68548 - English + Chinese Images
-- MiHealth_1.3.3 - http://app.mi.com/detail/73250 - Chinese Only
-- MiRemote_4.3 - http://app.mi.com/detail/31067 - English
-- MiRouter_1.0.60 - http://app.mi.com/detail/53711 - Partially English
-- MiSmartHome_2.4.3 - http://app.mi.com/detail/75542 - Partially English
-- MiSportCamera_1.3 - http://app.mi.com/detail/87320 - English
-- MiSoundBar_1.1.1 - http://app.mi.com/detail/64097 - Chinese Only
-- MiTag_2.0.4 - http://app.mi.com/detail/56946 - English
-- MiTalk_1.0.1262 - http://app.mi.com/detail/323 - English + Chinese Images
-- MiTransfer_1.0.131029 - http://app.mi.com/detail/64390 - English
-- MiWifiPortable_1.1.755 - http://app.mi.com/detail/65299 - English; Credits: @allakazoo; @Backlash2
-- SmallAnts_1.3.6 - http://app.mi.com/detail/75646 - English + Chinese Images
-- SuperMarket_R.1.4.2 - http://app.mi.com/detail/34346 - Partially English
+- AntiFake_10301 - https://jd.mi.com/
+- CoolWallpaper_2.3.1 - http://app.mi.com/detail/41245
+- MiAuthenticator_2.27 - http://app.mi.com/detail/62091
+- MiClick_3.0.1 - http://app.mi.com/detail/59090
+- MiFit_1.3.412 - http://app.mi.com/detail/68548
+- MiHealth_1.3.3 - http://app.mi.com/detail/73250
+- MiRemote_4.3 - http://app.mi.com/detail/31067
+- MiRouter_1.0.60 - http://app.mi.com/detail/53711
+- MiSmartHome_2.4.3 - http://app.mi.com/detail/75542
+- MiSportCamera_1.3 - http://app.mi.com/detail/87320
+- MiSoundBar_1.1.1 - http://app.mi.com/detail/64097
+- MiTag_2.0.4 - http://app.mi.com/detail/56946
+- MiTalk_1.0.1262 - http://app.mi.com/detail/323
+- MiTransfer_1.0.131029 - http://app.mi.com/detail/64390
+- MiWifiPortable_1.1.755 - http://app.mi.com/detail/65299
+- SmallAnts_1.3.6 - http://app.mi.com/detail/75646
+- SuperMarket_R.1.4.2 - http://app.mi.com/detail/34346
 
 
 

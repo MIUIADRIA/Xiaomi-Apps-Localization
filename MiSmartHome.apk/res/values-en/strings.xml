@@ -504,7 +504,7 @@
   <string name="camera_get_device_info_error_retry">Getting camera device information failed, please try again</string>
   <string name="camera_local_scan">Scan for local camera</string>
   <string name="camera_max_record_time">Maximum recording time has been reached</string>
-  <string name="camera_name">Yi SmallAnts camera</string>
+  <string name="camera_name">Yi Small Ants camera</string>
   <string name="camera_need_update_rom">The current firmware version is too low, please upgrade to the latest version to avoid any issues.</string>
   <string name="camera_need_update_rom_for_use">The current firmware version is too low, feature unavailable. Please upgrade to the latest version</string>
   <string name="camera_new_version">New version</string>
@@ -553,11 +553,11 @@
   <string name="camera_settings_camera_not_support_copyback">No SD card detected in camera, you can not use this feature</string>
   <string name="camera_settings_camera_reboot">Restart camera to install update</string>
   <string name="camera_settings_camera_snap_share">Camera screen sharing</string>
-  <string name="camera_settings_camera_snap_share_info">SmallAnts photo sharing</string>
-  <string name="camera_settings_camera_speaking">Talking, release to stop</string>
+  <string name="camera_settings_camera_snap_share_info">Camera photo sharing</string>
+  <string name="camera_settings_camera_speaking">Speaking, release to end</string>
   <string name="camera_settings_camera_update">Update now</string>
   <string name="camera_settings_check_update">Check for updates</string>
-  <string name="camera_settings_check_update_new">Firmware upgrade (new)</string>
+  <string name="camera_settings_check_update_new">Firmware update (new)</string>
   <string name="camera_settings_copybacking">Backup now</string>
   <string name="camera_settings_copybacking_desc">Backing up...</string>
   <string name="camera_settings_last_copyback_time">Last backup time:</string>
@@ -565,9 +565,9 @@
   <string name="camera_settings_motion_alarm_switch_desc">Detect abnormal movement and send notification alerts</string>
   <string name="camera_settings_motion_alarm_switch_setting">Alarm settings</string>
   <string name="camera_settings_motion_detect_switch">Motion detection recording</string>
-  <string name="camera_settings_motion_detect_switch_des">Begin recording when changes are detected in the video. After opening can save storage space, but you can not record all sound</string>
+  <string name="camera_settings_motion_detect_switch_des">Begin recording when changes are detected in video. After opening can save storage space, but you can not record all sound</string>
   <string name="camera_settings_open_error_no_config_info">Failed to get router backup information</string>
-  <string name="camera_settings_open_error_no_device_info">Camera is not open to view</string>
+  <string name="camera_settings_open_error_no_device_info">Camera not open to view</string>
   <string name="camera_settings_open_error_no_update_info">Failed to get camera update information</string>
   <string name="camera_settings_open_error_router_not_support">Router does not support backup, please update to latest version</string>
   <string name="camera_settings_router_no_space_to_support_copyback">No router hard drive detected, you can not use this feature, it is recommended to add a hard drive</string>
@@ -575,9 +575,9 @@
   <string name="camera_settings_save_all_day">All day</string>
   <string name="camera_settings_save_location">Save location</string>
   <string name="camera_settings_save_route">Mi WiFi</string>
-  <string name="camera_settings_save_route_des">Can store up to 30 days of video</string>
+  <string name="camera_settings_save_route_des">Store up to 30 days of video</string>
   <string name="camera_settings_save_sd_card">Camera SD card</string>
-  <string name="camera_settings_save_sd_card_des">Can store HD video and support real-time streaming</string>
+  <string name="camera_settings_save_sd_card_des">Store HD video and support real-time streaming</string>
   <string name="camera_settings_save_space_not_enough">Router does not have enough available storage</string>
   <string name="camera_settings_save_user_define">Custom recording</string>
   <string name="camera_settings_set_alarm_user_define">Set alarm time</string>
@@ -587,7 +587,7 @@
   <string name="camera_settings_space_save_size_desc">Mi router free storage:</string>
   <string name="camera_settings_update_done">Restarting, refresh the list after opening camera</string>
   <string name="camera_settings_video_high">HD video</string>
-  <string name="camera_settings_video_normal">Normal video</string>
+  <string name="camera_settings_video_normal">SD video</string>
   <string name="camera_settings_video_save_no_limit">No limit</string>
   <string name="camera_settings_video_save_no_limit_desc">Router will use all available storage</string>
   <string name="camera_settings_video_save_one_day">One day</string>
@@ -601,12 +601,12 @@
   <string name="camera_settings_video_save_switch_desc">When turned on, video surveillance will be stored on the routers storage space</string>
   <string name="camera_settings_video_save_switch_setting">Video surveillance settings</string>
   <string name="camera_show_top_snap">Snap to top</string>
-  <string name="camera_snapshot_no_space">No phone storage space available</string>
-  <string name="camera_snapshot_save_success">Screenshot saved successfully</string>
+  <string name="camera_snapshot_no_space">No storage space available</string>
+  <string name="camera_snapshot_save_success">Screenshot successfully captured</string>
   <string name="camera_status_1">Internal network</string>
   <string name="camera_status_2">External network</string>
   <string name="camera_status_3">Both in local network and Internet</string>
-  <string name="camera_status__1">Illegal ID</string>
+  <string name="camera_status__1">Invalid ID</string>
   <string name="camera_status__2">Camera is offline</string>
   <string name="camera_status__5400">No network connection</string>
   <string name="camera_update_current_is_last_version">Latest version: %1$s</string>
@@ -626,10 +626,10 @@
   <string name="camera_waiting">Loading...</string>
   <string name="cancel">Cancel</string>
   <string name="cardCancle">Cancel</string>
-  <string name="cardDefaultuse">Use card as default payment method</string>
+  <string name="cardDefaultuse">Set as default card</string>
   <string name="cardUnbing">Unpair</string>
   <string name="change_back_name">Edit note name</string>
-  <string name="change_back_name_fail">Failed to edit note name, please try again</string>
+  <string name="change_back_name_fail">Failed editing note name, please try again</string>
   <string name="changeing_back_name">Note has been successfully modified</string>
   <string name="channel">CommonChannelInfo</string>
   <string name="check_upgrading_error">"Couldn't check for updates"</string>
@@ -638,8 +638,8 @@
   <string name="choose_detail_wifi">"Ready to connect to %s
 	"</string>
   <string name="choose_device_title">Select device to connect with</string>
-  <string name="choose_home_wifi">Select Home WiFi</string>
-  <string name="choose_office_wifi">Select Office WiFi</string>
+  <string name="choose_home_wifi">Select home WiFi</string>
+  <string name="choose_office_wifi">Select office WiFi</string>
   <string name="choose_question">Select question</string>
   <string name="choose_same_ssid_error">The same WiFi SSID has been selected, please try again</string>
   <string name="choose_wifi_count_over">Name must not exceed more than 6 chars.</string>
@@ -674,7 +674,7 @@
   <string name="comment_from_site_app">From: Mi Shop</string>
   <string name="comment_from_site_web">From: Mi Market</string>
   <string name="comment_get_data_failed">Failed to get comment data</string>
-  <string name="comment_multi_graph_number">Total %d pieces</string>
+  <string name="comment_multi_graph_number">Total %d items</string>
   <string name="comment_no_comment">No reviews for this product</string>
   <string name="comment_offical_reply_prefix">"Official reply: "</string>
   <string name="comment_person">People</string>
@@ -712,10 +712,10 @@
   <string name="connect_time">Connection time</string>
   <string name="connect_type">Connection type</string>
   <string name="connect_type_line">LAN</string>
-  <string name="connect_type_wifi_24">WiFi - 2.4G</string>
-  <string name="connect_type_wifi_5">WiFi - 5G</string>
+  <string name="connect_type_wifi_24">WiFi 2.4G</string>
+  <string name="connect_type_wifi_5">WiFi 5G</string>
   <string name="connected">Successfully connected!</string>
-  <string name="content_description">Problem description (Required)</string>
+  <string name="content_description">Problem description (required)</string>
   <string name="continue_nextstep">Next</string>
   <string name="control_panel">Remote control panel</string>
   <string name="creating">Creating...</string>
@@ -735,7 +735,7 @@
   <string name="device_detail_option_cumstom">Device color</string>
   <string name="device_detail_option_rename">Change name</string>
   <string name="device_detail_pri_storage">Private storage</string>
-  <string name="device_detail_save">Saving…</string>
+  <string name="device_detail_save">Saving...</string>
   <string name="device_detail_storage">Public storage</string>
   <string name="device_failed">Device operation failed</string>
   <string name="device_more_activity_feedback">Feedback</string>
@@ -760,16 +760,16 @@
   <string name="device_shop_detail_reserve">Book now</string>
   <string name="device_shop_dialog_load_failed">Failed to load!</string>
   <string name="device_shop_dialog_loading">Loading...</string>
-  <string name="device_shop_dialog_no_permission">Sorry, unfortunately your account does not meet with the requirements. Good luck next time!</string>
+  <string name="device_shop_dialog_no_permission">Sorry, your account does not meet with the requirements. Good luck next time!</string>
   <string name="device_shop_dialog_no_permission_btn">Check</string>
   <string name="device_shop_dialog_select">Please select</string>
   <string name="device_shop_dialog_time_format1">d:HH:mm</string>
   <string name="device_shop_dialog_time_format2">HH:mm:ss</string>
   <string name="device_shop_dialog_title">Shop</string>
-  <string name="device_shop_favor_add_failure">Failed to add to favorites!</string>
+  <string name="device_shop_favor_add_failure">Failed adding to favorites!</string>
   <string name="device_shop_favor_add_success">Successfully added to favorites!</string>
-  <string name="device_shop_favor_del_failure">Failed to remove!</string>
-  <string name="device_shop_favor_del_success">Sucessfully removed!</string>
+  <string name="device_shop_favor_del_failure">Failed to delete!</string>
+  <string name="device_shop_favor_del_success">Sucessfully deleted</string>
   <string name="device_shop_fragment_saled">%1$s bought this</string>
   <string name="device_shop_payment_cont">Keep shopping</string>
   <string name="device_shop_payment_fee">%1$s yuan</string>
@@ -788,11 +788,11 @@
   <string name="device_shop_share_cancel">Cancel</string>
   <string name="device_shop_share_failure">Failed to share</string>
   <string name="device_shop_share_no_app">No applications installed supporting sharing!</string>
-  <string name="device_shop_share_no_miliao">MiTalk is not installed</string>
+  <string name="device_shop_share_no_miliao">Mi Talk is not installed</string>
   <string name="device_shop_share_no_weibo">Sina Weibo is not installed</string>
   <string name="device_shop_share_no_weixin">WeChat is not installed</string>
   <string name="device_shop_share_success">Shared successfully</string>
-  <string name="device_shop_share_weibo_not_support">Sharing is not supported</string>
+  <string name="device_shop_share_weibo_not_support">Sharing not supported</string>
   <string name="disclaim_cancel">Cancel</string>
   <string name="disclaim_confirm">Agree</string>
   <string name="disclaim_content">"By using this product, you are agreeing to our Terms of Service. Mi Home needs to connect to the internet, manage your device's Bluetooth settings, read your contacts' info, and access your location to work normally."</string>
@@ -992,7 +992,7 @@
   <string name="hour">hr</string>
   <string name="ignore">Ignore</string>
   <string name="input_account">Input account number</string>
-  <string name="input_account_null">Account cannot be left blank</string>
+  <string name="input_account_null">Account number cannot be left blank</string>
   <string name="intelligent_220v_plug">220V plug</string>
   <string name="intelligent_plug">Mi Smart plug</string>
   <string name="intelligent_plug_dunhao">、</string>
@@ -1060,7 +1060,7 @@
   <string name="irv2_controller_ff_text">Fast forward</string>
   <string name="irv2_controller_heating_text">Heating</string>
   <string name="irv2_controller_home_text">Home</string>
-  <string name="irv2_controller_info_text">Information</string>
+  <string name="irv2_controller_info_text">Info</string>
   <string name="irv2_controller_menu_text">Menu</string>
   <string name="irv2_controller_mode_text">Mode</string>
   <string name="irv2_controller_more_change_device_name">Change device name</string>
@@ -1090,7 +1090,7 @@
   <string name="irv2_controller_shake_text">Shake head</string>
   <string name="irv2_controller_source_text">Source</string>
   <string name="irv2_controller_stop_text">Stop</string>
-  <string name="irv2_controller_study_add_hint">Click the + sign to add button</string>
+  <string name="irv2_controller_study_add_hint">Click the + sign to add keys</string>
   <string name="irv2_controller_study_air_conditioner_hint">Air conditioning remote control</string>
   <string name="irv2_controller_study_air_conditioner_hint_details">"The code sent by the air conditioner is a composite infrared code,
 	So it cant lear,，only can match
@@ -1104,7 +1104,7 @@ Click for confirmation"</string>
   <string name="irv2_controller_volume_text">Volume</string>
   <string name="irv2_controller_wind_speed_text">Wind speed</string>
   <string name="irv2_controller_wind_text">Wind speed</string>
-  <string name="irv2_device_name">Xiaomi infrared controller</string>
+  <string name="irv2_device_name">Xiaomi remote control</string>
   <string name="irv2_device_type_air_conditioner_text">Aircon</string>
   <string name="irv2_device_type_box_text">Box</string>
   <string name="irv2_device_type_dvd_text">DVD player</string>
@@ -1198,7 +1198,7 @@ Click for confirmation"</string>
   <string name="kuailian_complete">Finished</string>
   <string name="kuailian_connectting_cloud">Router is attempting to connect to cloud service</string>
   <string name="kuailian_connectting_router">Phone is trying to connect to router</string>
-  <string name="kuailian_fail_auth">Authentication failed, please check password and #encryption type is correct (e.g. WPA/WPA2 encryption)</string>
+  <string name="kuailian_fail_auth">Authentication failed, please check password and encryption type is correct (e.g. WPA/WPA2 encryption)</string>
   <string name="kuailian_fail_connect">Failed to connect to router, please check and try again</string>
   <string name="kuailian_fail_dhcp">Failed to obtain IP address, please check DHCP is enabled on the router</string>
   <string name="kuailian_failed">Connection failed, please try again</string>
@@ -1483,15 +1483,15 @@ Click for confirmation"</string>
   <string name="mitv_apk_downloading_back_tips">Are you sure you want to cancel the download?</string>
   <string name="mitv_apk_is_downloading">App already downloading, please wait</string>
   <string name="mitv_app">Install TV app</string>
-  <string name="mitv_bind_device">Pair device</string>
+  <string name="mitv_bind_device">paired</string>
   <string name="mitv_download_des">Designed by Xiaomi, Smart TV screen casting</string>
   <string name="mitv_download_title">Mi TV projector</string>
   <string name="mitv_is_not_in_local">Sending command failed, make sure TV is powered on connected to the network</string>
   <string name="mitv_local_device">Local device</string>
   <string name="mitv_login_account_box_info">Please input Mi Account %1$s in the password authorization box</string>
-  <string name="mitv_login_account_error_already_login">Mi TV account is already signed in</string>
+  <string name="mitv_login_account_error_already_login">Mi TV account already signed in</string>
   <string name="mitv_login_account_error_decode">Failed to decrypt data</string>
-  <string name="mitv_login_account_error_format">Data format is incorrect</string>
+  <string name="mitv_login_account_error_format">Data format is invalid</string>
   <string name="mitv_login_account_error_invalid_user">Invalid user</string>
   <string name="mitv_login_account_error_passwd">Password is incorrect</string>
   <string name="mitv_login_account_error_server">Server access error</string>
@@ -1502,12 +1502,12 @@ Click for confirmation"</string>
   <string name="mitv_not_bind_device">" Unpaired "</string>
   <string name="mitv_offline_device">" Offline "</string>
   <string name="mitv_play">Photo slideshow</string>
-  <string name="mitv_remote_device">"Remote device "</string>
+  <string name="mitv_remote_device">"Mi Remote "</string>
   <string name="mitv_share_device">From %1$s sharing device</string>
   <string name="mitv_style">Change style</string>
   <string name="mitv_style_black">Black</string>
   <string name="mitv_style_white">White</string>
-  <string name="mitv_touch_info">Phone volume keys can be used to adjust Mi TV/Mi Box volume</string>
+  <string name="mitv_touch_info">Phone volume keys can adjust Mi TV or Mi Box volume</string>
   <string name="monday">Monday</string>
   <string name="month">Month</string>
   <string name="more_record_video">All videos</string>
@@ -1517,7 +1517,7 @@ Click for confirmation"</string>
   <string name="msp_error_title_default">Warning!</string>
   <string name="msp_memo_app_cancel">Application or data error!</string>
   <string name="msp_memo_repeat_pay">Unable to make process duplicate payments.</string>
-  <string name="msp_memo_server_cancel">System is busy, please try again later.</string>
+  <string name="msp_memo_server_cancel">Server is busy, please try again later.</string>
   <string name="msp_memo_user_cancel">Cancelled by user.</string>
   <string name="msp_mini_card_type_text">Card type</string>
   <string name="msp_mini_choose_identitify">Select category</string>
@@ -1526,7 +1526,7 @@ Click for confirmation"</string>
   <string name="msp_mini_safty_code_title">Security code</string>
   <string name="msp_str_null"/>
   <string name="msp_xlistview_footer_hint_normal">View more</string>
-  <string name="msp_xlistview_header_hint_normal">Drop down to refresh</string>
+  <string name="msp_xlistview_header_hint_normal">Pull down to refresh</string>
   <string name="msp_xlistview_header_last_time">"Last updated: "</string>
   <string name="my_ble">Mi Band</string>
   <string name="my_home">Account</string>
@@ -1939,15 +1939,15 @@ enjoy an intelligent life!"</string>
   <string name="smarthome_scene_open_close">Off</string>
   <string name="smarthome_scene_open_device">On</string>
   <string name="smarthome_scene_outline">Offline</string>
-  <string name="smarthome_scene_play_url">Play from specified url</string>
+  <string name="smarthome_scene_play_url">Play from url</string>
   <string name="smarthome_scene_quest_ok">OK</string>
-  <string name="smarthome_scene_quit">Are you sure you want to exit Intelligent scene? all changes will be lost</string>
+  <string name="smarthome_scene_quit">Exit Intelligent scene setup?</string>
   <string name="smarthome_scene_radio">Radio</string>
   <string name="smarthome_scene_record_actions">Record actions</string>
-  <string name="smarthome_scene_router_pause_all_download_mission">Pause downloads</string>
-  <string name="smarthome_scene_router_resume_all_download_mission">Resume downloads</string>
+  <string name="smarthome_scene_router_pause_all_download_mission">Pause</string>
+  <string name="smarthome_scene_router_resume_all_download_mission">Resume</string>
   <string name="smarthome_scene_saving_scene">Saving Intelligent scene</string>
-  <string name="smarthome_scene_set_fail">Failed to set Intelligent scene, please try again</string>
+  <string name="smarthome_scene_set_fail">Failed to save Intelligent scene, please try again</string>
   <string name="smarthome_scene_set_fail_at_least_0">Please select at least one device</string>
   <string name="smarthome_scene_set_name">Set name</string>
   <string name="smarthome_scene_set_succ">Intelligent scene set successfully!</string>
@@ -1973,9 +1973,9 @@ enjoy an intelligent life!"</string>
   <string name="smarthome_scene_timer_title">Alarm time</string>
   <string name="smarthome_scene_timer_workday">Days</string>
   <string name="smarthome_scene_undefine">Not set</string>
-  <string name="smarthome_scene_update_fail">Failed to update intelligent scene!</string>
-  <string name="smarthome_scene_update_succ">Successfully updated intelligent scene</string>
-  <string name="smarthome_scene_updating_scene">Updating settings...</string>
+  <string name="smarthome_scene_update_fail">Failed to update Intelligent scene!</string>
+  <string name="smarthome_scene_update_succ">Successfully updated Intelligent scene</string>
+  <string name="smarthome_scene_updating_scene">Updating scene...</string>
   <string name="smarthome_scene_wan_disconnect_processing">Processing...</string>
   <string name="smarthome_score">Score</string>
   <string name="smarthome_see_now">Take a look</string>
@@ -2074,8 +2074,8 @@ enjoy an intelligent life!"</string>
   <string name="umstringcheckerrorcontext">Network communication error, please try again later</string>
   <string name="umstringcheckerrortitle">Water quality error checking</string>
   <string name="umstringcountdetail">Yearly usage</string>
-  <string name="umstringcountfour">"Never waste a drop of water
-	concentrated water will be recycled again for you"</string>
+  <string name="umstringcountfour">"Never waste a drop of water 
+  concentrated water will be recycled again for you"</string>
   <string name="umstringcountone">Amount of water</string>
   <string name="umstringcountthree">Amount recycled</string>
   <string name="umstringcounttwo">Water this month</string>
@@ -2398,6 +2398,6 @@ The user accepts that in relation to business development, we may change, suspen
   <string name="yeelight_romantic">Romantic</string>
   <string name="yeelight_sun">Sunny</string>
   <string name="yeelight_tips_forusage">Voltage range is from 100v to 240v, please dont use it on the lamp holders with dimming function</string>
-  <string name="yeelight_warf">Oceanside</string>
-  <string name="yunyi_camera">Yi SmallAnts Camera</string>
+  <string name="yeelight_warf">Seaside</string>
+  <string name="yunyi_camera">Yi Small Ants Camera</string>
 </resources>

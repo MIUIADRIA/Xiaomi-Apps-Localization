@@ -560,6 +560,8 @@
   <string name="camera_settings_check_update_new">Firmware update (new)</string>
   <string name="camera_settings_copybacking">Backup now</string>
   <string name="camera_settings_copybacking_desc">Backing up...</string>
+  <string name="camera_settings_copybacking_luanch_failed">Backup failed to start</string>
+  <string name="camera_settings_copybacking_luanch_success">Backup successfully started</string>
   <string name="camera_settings_last_copyback_time">Last backup time:</string>
   <string name="camera_settings_motion_alarm_switch">Intruder alarm</string>
   <string name="camera_settings_motion_alarm_switch_desc">Detect abnormal movement and send notification alerts</string>
@@ -636,7 +638,7 @@
   <string name="check_upgrading_error_smarthome">"Can't check for updates"</string>
   <string name="checking">Checking...</string>
   <string name="choose_detail_wifi">"Ready to connect to %s
-	"</string>
+"</string>
   <string name="choose_device_title">Select device to connect with</string>
   <string name="choose_home_wifi">Select home WiFi</string>
   <string name="choose_office_wifi">Select office WiFi</string>
@@ -724,6 +726,7 @@
   <string name="day">days</string>
   <string name="day_no_record_file">No video recording history</string>
   <string name="delete">Delete</string>
+  <string name="developer_remote_debug">Cloud testing address</string>
   <string name="developing_desc">Creating...</string>
   <string name="deviceFound">Devices found</string>
   <string name="deviceListName">Device list</string>
@@ -824,6 +827,9 @@
   <string name="family_wait_accept">Invitation sent!</string>
   <string name="feedback">Feedback</string>
   <string name="feedback_app_succ_router_fail">Successfully uploaded router diagnostic log</string>
+  <string name="feedback_contact_header">Contact info:</string>
+  <string name="feedback_contact_tips">Contact information (optional)</string>
+  <string name="feedback_content_header">Feedback details:</string>
   <string name="feedback_error">Failed sending feedback</string>
   <string name="feedback_succ">Feedback submitted successfully</string>
   <string name="feedbacking">Sending feedback</string>
@@ -840,23 +846,32 @@
   <string name="gateway_add_subdevice_detail">Please press the reset pin on the device which is going to be connected</string>
   <string name="gateway_add_subdevice_failed">Adding child device failed</string>
   <string name="gateway_add_subdevice_ok">Device added successfully</string>
+  <string name="gateway_alarm_detail">%s is triggered</string>
   <string name="gateway_alarm_music">Alarm sound</string>
   <string name="gateway_alarm_music_set">Set alarm sound</string>
   <string name="gateway_alarm_setting">Alarm settings</string>
+  <string name="gateway_alarm_title">Trigger alert</string>
   <string name="gateway_alarm_voice_select">Select alarm tone</string>
   <string name="gateway_alarm_volume_title">Alarm volume</string>
+  <string name="gateway_arming_confirm_text">Confirm</string>
   <string name="gateway_arming_device_select">Select alarm device</string>
   <string name="gateway_arming_off">Alert off</string>
   <string name="gateway_arming_on">Alert on</string>
   <string name="gateway_arming_oning">Will be guarded after %d secs</string>
   <string name="gateway_arming_setting_title">Set alert</string>
   <string name="gateway_arming_text">Guard</string>
+  <string name="gateway_battery_change">Battery replacement instructions</string>
+  <string name="gateway_battery_confirm">Confirm</string>
+  <string name="gateway_battery_low_title">Battery information</string>
+  <string name="gateway_battery_low_waring">Low battery, please replace the battery</string>
+  <string name="gateway_battery_model">Model: CR2032 battery</string>
   <string name="gateway_bind_no_set">Not setup</string>
   <string name="gateway_body_sensor">Human body sensor</string>
   <string name="gateway_body_sensor_pass_alarm">Alert when anyone passes by</string>
   <string name="gateway_bodysensor_airpurifier_on">Open air purifer</string>
   <string name="gateway_bodysensor_camera_on">Open camera</string>
   <string name="gateway_bodysensor_night_pass">Anyone passing by at night time</string>
+  <string name="gateway_bodysensor_no_motion">No motion detected after 5 minutes</string>
   <string name="gateway_bodysensor_pass">Someone passing by</string>
   <string name="gateway_bodysensor_pass_device">Open device when someone passes by</string>
   <string name="gateway_bodysensor_setting">Human body sensor settings</string>
@@ -881,6 +896,7 @@
   <string name="gateway_guard_setting">Guard settings</string>
   <string name="gateway_intelligent_caution">Intelligent alerts</string>
   <string name="gateway_light_text">Light</string>
+  <string name="gateway_light_time_setting">Light timer</string>
   <string name="gateway_link_subdevice">Link sub device</string>
   <string name="gateway_load_log_failed">Failed to load log</string>
   <string name="gateway_load_music_failed">Failed to load music list</string>
@@ -913,6 +929,7 @@
   <string name="gateway_magnetsensor_close_window_notice">Intelligent alert to remind to close window</string>
   <string name="gateway_magnetsensor_open">Doors or windows are open</string>
   <string name="gateway_magnetsensor_setting">Door sensor settings</string>
+  <string name="gateway_main_title">Smart home</string>
   <string name="gateway_motion_name">Motion sensor</string>
   <string name="gateway_music_text">Ringtones</string>
   <string name="gateway_music_title">Music ringtones</string>
@@ -1093,9 +1110,9 @@
   <string name="irv2_controller_study_add_hint">Click the + sign to add keys</string>
   <string name="irv2_controller_study_air_conditioner_hint">Air conditioning remote control</string>
   <string name="irv2_controller_study_air_conditioner_hint_details">"The code sent by the air conditioner is a composite infrared code,
-	So it cant lear,，only can match
-	if you aircon cant be matched
-	You can set the type of your aircon manually"</string>
+	So it cant learn，only match.
+	If aircon cant be matched
+	You can set the type of aircon brand manually"</string>
   <string name="irv2_controller_temp_text">Adjust temp</string>
   <string name="irv2_controller_timer_text">Timer</string>
   <string name="irv2_controller_touch_hint">"Slide up and down
@@ -1136,21 +1153,31 @@ Click for confirmation"</string>
   <string name="irv2_matching_brand_title_mi_controller">Please select the Xiaomi remote control</string>
   <string name="irv2_matching_brand_title_purifier">"Please select the air purifier's brand"</string>
   <string name="irv2_matching_brand_title_tv">"Please select the TV's brand"</string>
-  <string name="irv2_matching_click_hint">Click the button at the top</string>
   <string name="irv2_matching_controller">Matching remote control</string>
   <string name="irv2_matching_fail">Failed!</string>
   <string name="irv2_matching_fail_hint_postfix">Remote control can</string>
   <string name="irv2_matching_fail_hint_postfix_2">Allow remote control center learn your remote control functions</string>
   <string name="irv2_matching_fail_hint_prefix">Failed to find any devices to be matched</string>
   <string name="irv2_matching_finish">Matching finished</string>
-  <string name="irv2_matching_hint_text_prefix">Please confirm connection between remote control center and</string>
-  <string name="irv2_matching_hint_text_subfix">that there is nothing obstructing the controller!</string>
-  <string name="irv2_matching_select_hint_postfix">Result response</string>
-  <string name="irv2_matching_select_hint_prefix">Select yours</string>
-  <string name="irv2_matching_step_one">Step one</string>
+  <string name="irv2_matching_hint_air_conditioner_ar16">Click button below, cool room with air conditioner?</string>
+  <string name="irv2_matching_hint_air_conditioner_off">Click button below, turn off air conditioner?</string>
+  <string name="irv2_matching_hint_air_conditioner_on">Click button below, turn on air conditioner?</string>
+  <string name="irv2_matching_hint_box_ok">Click button button below, is it OK now?</string>
+  <string name="irv2_matching_hint_dvd_pause">Click button button below, has the DVD paused?</string>
+  <string name="irv2_matching_hint_dvd_play">"Please insert a DVD,
+click button below, did the DVD play?"</string>
+  <string name="irv2_matching_hint_dvd_stop">Click button button below, did the DVD stop?</string>
+  <string name="irv2_matching_hint_text_prefix">Please confirm that beetween remote and</string>
+  <string name="irv2_matching_hint_text_subfix">no objects are blocking the signal!</string>
+  <string name="irv2_matching_hint_tv_ch_add">"Please change the TV signal to AV/TV
+click button below, did the channel change?"</string>
+  <string name="irv2_matching_hint_tv_vol_add">"Please turn on TV
+Click the button below, is there any volume increase?"</string>
   <string name="irv2_matching_success">Completed</string>
   <string name="irv2_matching_success_hint_postfix">TV</string>
   <string name="irv2_matching_success_hint_prefix">Successfully added</string>
+  <string name="irv2_matching_total_hint_postfix">Total programs</string>
+  <string name="irv2_matching_total_hint_prefix">Total</string>
   <string name="irv2_mi_controller_brand_name">Xiaomi</string>
   <string name="irv2_no_device_hint">No devices added</string>
   <string name="irv2_ok_text">OK</string>
@@ -1168,6 +1195,7 @@ Click for confirmation"</string>
   <string name="irv2_report_title">Feedback</string>
   <string name="irv2_response_negative">No response</string>
   <string name="irv2_response_positive">Responded</string>
+  <string name="irv2_select_brand_master">Popular brands</string>
   <string name="irv2_set_top_box_controller_title">Set-top box remote control</string>
   <string name="irv2_set_top_box_setting">Set-top box settings</string>
   <string name="irv2_study_controller">Learn remote</string>
@@ -1257,6 +1285,7 @@ Click for confirmation"</string>
   <string name="lock_device_type_ir">IR device</string>
   <string name="lock_empty_message_need_add">Add devices to Smart home</string>
   <string name="lock_empty_message_need_login">Sign in to experience Smart home</string>
+  <string name="lock_empty_message_refreshing">Refreshing...</string>
   <string name="lock_empty_title_need_add">No devices found</string>
   <string name="lock_empty_title_need_login">You are not signed in</string>
   <string name="lock_intell_title">Smart devices</string>
@@ -1489,6 +1518,9 @@ Click for confirmation"</string>
   <string name="mitv_is_not_in_local">Sending command failed, make sure TV is powered on connected to the network</string>
   <string name="mitv_local_device">Local device</string>
   <string name="mitv_login_account_box_info">Please input Mi Account %1$s in the password authorization box</string>
+  <string name="mitv_login_account_captchacode">Input captcha code</string>
+  <string name="mitv_login_account_captchacode_error">Incorrect captcha code</string>
+  <string name="mitv_login_account_captchacode_error_get">Failed to get captcha code</string>
   <string name="mitv_login_account_error_already_login">Mi TV account already signed in</string>
   <string name="mitv_login_account_error_decode">Failed to decrypt data</string>
   <string name="mitv_login_account_error_format">Data format is invalid</string>
@@ -1498,6 +1530,7 @@ Click for confirmation"</string>
   <string name="mitv_login_account_passwd">Please input password</string>
   <string name="mitv_login_account_title">After signing in successfully please complete pairing</string>
   <string name="mitv_login_account_tv_info">Please input Mi Account %1$s sign in password to authorize TV</string>
+  <string name="mitv_login_account_vericode">Please input captcha code</string>
   <string name="mitv_movie">Movies</string>
   <string name="mitv_not_bind_device">" Unpaired "</string>
   <string name="mitv_offline_device">" Offline "</string>
@@ -2321,6 +2354,7 @@ The user accepts that in relation to business development, we may change, suspen
   <string name="volumeDec">-</string>
   <string name="volumeInc">+</string>
   <string name="water_purifier">Water purifier</string>
+  <string name="weak_device_signal">WiFi signal is too weak</string>
   <string name="web_shell_loading">Loading...</string>
   <string name="wednesday">Wednesday</string>
   <string name="week_day_0">Day</string>
@@ -2398,6 +2432,7 @@ The user accepts that in relation to business development, we may change, suspen
   <string name="yeelight_romantic">Romantic</string>
   <string name="yeelight_sun">Sunny</string>
   <string name="yeelight_tips_forusage">Voltage range is from 100v to 240v, please dont use it on the lamp holders with dimming function</string>
+  <string name="yeelight_toast_name_too_long">Name can not be more than four characters</string>
   <string name="yeelight_warf">Seaside</string>
   <string name="yunyi_camera">Yi Small Ants Camera</string>
 </resources>

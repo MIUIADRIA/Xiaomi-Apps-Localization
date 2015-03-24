@@ -96,11 +96,11 @@ Localization Project For Xiaomi Gadgets Android Applications
 # Credits
 
 - Xiaomi : http://www.xiaomi.com
+- Xiaomi Unofficial Multilang Project & Support: http://xiaomi.eu
 - MIUI International Community : http://en.miui.com/forum
 - BalcanGSM & MIUI Adria Group : http://adria.mobiledevs.net
 - MGS (MIUI Geeks Squad) Team : mgs.devs@gmail.com
 - Andrei Zhukouski AKA BurgerZ : http://burgerz.pro
-- Xiaomi Unofficial Multilang Project : http://xiaomi.eu
 - All Past, Present And Future Contributors
 
 Please Give Appropriate Credits If You Use Content Of This GitHub Branch For End User Or Development Purpose.

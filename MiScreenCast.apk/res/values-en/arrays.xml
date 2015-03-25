@@ -89,33 +89,33 @@
         <item>Z</item>
     </string-array>
     <string-array name="assistant_setting_titles">
-        <item>设备管理</item>
-        <item>按键震动</item>
-        <item>横屏镜像</item>
-        <item>虚拟键盘</item>
-        <item>手机音量键控制电视音量</item>
-        <item>电视截屏</item>
-        <item>锁屏界面保留遥控器</item>
+        <item>Device management</item>
+        <item>Key vibration</item>
+        <item>Horizontal screen image</item>
+        <item>Virtual keyboard</item>
+        <item>Phone volume keys control TV volume</item>
+        <item>TV screenshots</item>
+        <item>Lock screen remote control</item>
     </string-array>
     <string-array name="assistant_setting_contents">
         <item></item>
-        <item>点击遥控器有震动触感</item>
-        <item>当手机横屏时自动打开镜像控制</item>
-        <item>当电视端需要输入时,使用手机键盘快速输入</item>
-        <item>使用手机上的音量键控制电视音量</item>
-        <item>双指轻触遥控器面板截取电视屏幕并保存到手机相册</item>
-        <item>开启后，使用投屏神器时在解锁界面上出现遥控器</item>
+        <item>Remote control haptic feedback</item>
+        <item>When screen is horizontal, automatically open image controls</item>
+        <item>Quickly type on TV screen from phone</item>
+        <item>Use volume keys on phone to control TV volume</item>
+        <item>Easy screenshot operation, save screenshots to phone</item>
+        <item>Use remote control to unlock the TV screen when using the projector</item>
     </string-array>
     <string-array name="app_album">
-        <item>推荐</item>
-        <item>新增</item>
-        <item>安装包</item>
-        <item>已安装</item>
+        <item>Recommended</item>
+        <item>Added</item>
+        <item>App package</item>
+        <item>Installed</item>
     </string-array>
     <string-array name="video_album">
-        <item>历史</item>
-        <item>收藏</item>
-        <item>最新</item>
-        <item>专题</item>
+        <item>History</item>
+        <item>Favorites</item>
+        <item>Newest</item>
+        <item>Other</item>
     </string-array>
 </resources>

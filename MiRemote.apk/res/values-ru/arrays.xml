@@ -95,9 +95,9 @@
         <item>Я</item>
     </string-array>
     <string-array name="ac_mode_array">
-        <item>Cooling</item>
-        <item>Heating</item>
+        <item>Кондиционер</item>
+        <item>Обогреватель</item>
         <item>Dehumidifier</item>
-        <item>Fan</item>
+        <item>Вентилятор</item>
     </string-array>
 </resources>

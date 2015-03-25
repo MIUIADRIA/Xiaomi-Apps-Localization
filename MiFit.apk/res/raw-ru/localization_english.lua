@@ -1,10 +1,10 @@
 -------------------------
--- Simplified Chinese Localization String resources
--- Huami Co, ltd. (2014)
--- Herbert dai
--- 20140731
+-- Russian Localization String resources
+-- MIUIpro, ltd. (2014 - 2015)
+-- malchik-solnce
+-- 20140808
 -------------------------
-localization_Chinese_table = {
+localization_English_table = {
     calories_table={
         {str="≈ Огурец грунт. (100г)",	calories=14},
 		{str="≈ Бульон куриный (100г)",	calories=15},
@@ -247,7 +247,7 @@ localization_Chinese_table = {
 	today_goal_reached_click_info="Нажмите, чтобы посмотреть",
     week_continue_reach_goal="Вы",
 	
-	-- Continue reach goals string
+	-- Продолжение цели
     challenge_format="Вы достигаете цели %d дн. подряд!",
     personal_best_format="Лучший рекорд %d дн.!",
 	continue_with_skips_title="Вы не достигли цели вчера. Назовем его ленивым днем ;)",
@@ -297,18 +297,18 @@ localization_Chinese_table = {
     record_reach_max="Вы побили свой рекорд!",
     new_record_born="Новый рекорд!",
 	
-	---====== Weather tips ===============
+	---====== Подсказки погоды ===============
 	weather_tips_title_0 = "Высокий уровень загрязнения. Постарайтесь оставаться дома.",
     weather_tips_title_1 = "Высокий уровень загрязнения. Постарайтесь оставаться дома.",
     weather_tips_info = "Упражнения для пресса, прыжки на скакалке и отжимания - отличный способ держать себя в форме не выходя из дома!",
 	
-	---------------Weight scale -------------------
+	--------------- Весы -------------------
     welcome_use_weight_scale = "Привет!",
     welcome_use_weight_scale_not_bind = "Нажмите для добавления весов",
     welcome_use_mi_health="Привет!",
 	
 	select_devices="Выберите устройство для сопряжения",
-	daily_steps_not_comlete = "Осталось шагов: %s"
+	daily_steps_not_comlete = "Осталось шагов: %s",
 	
 	am_format="%sAM",
     pm_format="%sPM",

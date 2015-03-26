@@ -439,9 +439,9 @@
     <string name="unlock_for_smartlock_tip">Для разблокировки экрана, браслет работает в фоновом режиме</string>
     <string name="unlock_for_smartlock_tip_step1">1. Перейдите в <b>настройки</b> - <b>безопасность</b></string>
     <string name="unlock_for_smartlock_tip_step2">2. Установите <b>блокировку экрана</b> в качестве шаблона, PIN-кода или пароля</string>
-    <string name="unlock_for_smartlock_tip_step3">3. Установите <b>Smart Lock</b> в <b>доверенные устройства</b></string>
-    <string name="unlock_for_smartlock_pair_start_tip">Сопряжение, подождите…</string>
-    <string name="unlock_for_smartlock_pair_success_tip">Сопряжено. Установите умную блокировку.</string>
+    <string name="unlock_for_smartlock_tip_step3">3. Установите в <b>Smart Lock</b> MI устройство как <b>доверенное</b></string>
+    <string name="unlock_for_smartlock_pair_start_tip">Сопряжение…</string>
+    <string name="unlock_for_smartlock_pair_success_tip">Браслет сопряжен. Установите Smart Lock.</string>
     <string name="unlock_for_smartlock_pair_fail_tip">Ошибка сопряжения</string>
     <string name="unlock_for_smartlock_start_setting">Начать</string>
     <string name="bind_weixin_title">Аккаунт WeChat</string>

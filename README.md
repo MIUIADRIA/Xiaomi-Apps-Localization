@@ -38,6 +38,7 @@ Localization Project For Xiaomi Gadgets Android Applications
 - MiWifiPortable_1.1.755 - http://app.mi.com/detail/65299
 - SmallAnts_1.3.6 - http://app.mi.com/detail/75646
 - SuperMarket_R.1.4.2 - http://app.mi.com/detail/34346
+- MiWifi_2.0.apk - http://bigota.miwifi.com/xiaoqiang/client/xqapp_preview.apk
 
 
 

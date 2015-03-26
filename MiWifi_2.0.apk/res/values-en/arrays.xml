@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_select_score_tips">
+        <item>当前网络非常畅通，联网速度极佳</item>
+        <item>当前网络有些拥堵，对联网速度有影响</item>
+        <item>当前网络拥堵严重，联网速度很慢</item>
+    </string-array>
+    <string-array name="choose_language">
+        <item>系统默认</item>
+        <item>简体中文</item>
+        <item>English</item>
+        <item>繁體中文-香港</item>
+        <item>繁體中文-臺灣</item>
+    </string-array>
+    <string-array name="language_key">
+        <item>auto</item>
+        <item>zh</item>
+        <item>en</item>
+        <item>zh-hk</item>
+        <item>zh-tw</item>
+    </string-array>
+    <string-array name="weekday">
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+        <item>星期日</item>
+    </string-array>
+</resources>

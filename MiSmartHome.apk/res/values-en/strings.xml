@@ -1802,10 +1802,10 @@ Click the button below, is there any volume increase?"</string>
   <string name="sans_serif">sans-serif</string>
   <string name="saturday">Saturday</string>
   <string name="scene_action_no_setting">Scene action not set</string>
-  <string name="scene_add_condition">Step one: add a start condition</string>
+  <string name="scene_add_condition">Step one: add start condition</string>
   <string name="scene_add_condition_empty">"You haven't set any start condition"</string>
-  <string name="scene_add_task">Step two: add tasks</string>
-  <string name="scene_add_task_empty">"You haven't added any tasks"</string>
+  <string name="scene_add_task">Step two: add task</string>
+  <string name="scene_add_task_empty">"You haven't added a task"</string>
   <string name="scene_default_keyname_1">Intelligently defend your home</string>
   <string name="scene_default_keyname_2">Open all Smart plugs</string>
   <string name="scene_default_keyname_3">Close all Smart plugs</string>
@@ -1922,7 +1922,7 @@ enjoy an intelligent life!"</string>
   <string name="smarthome_device_study">Learn more</string>
   <string name="smarthome_device_upgrade">Update Firmware</string>
   <string name="smarthome_device_upgrade_new">Check for Firmware update</string>
-  <string name="smarthome_device_user_detail">Sharing management</string>
+  <string name="smarthome_device_user_detail">" Share management"</string>
   <string name="smarthome_disable_condition">Temporarily unable to add tasks</string>
   <string name="smarthome_edit_scene">Edit Intelligent scene</string>
   <string name="smarthome_has_shared_to_user">Shared with %1$s</string>
@@ -2418,10 +2418,10 @@ The user accepts that in relation to business development, we may change, suspen
   <string name="yeelight_btn_txt_back">Back</string>
   <string name="yeelight_btn_txt_del">Delete</string>
   <string name="yeelight_btn_txt_ok">OK</string>
-  <string name="yeelight_color_desc0">White: Represents purity and elegance. White symbolizes fair, pure, dignified, honest, young and vigorous. Transcend the mundane and relax.</string>
-  <string name="yeelight_color_desc1">Pink: Cute, romantic and very popular for woman and girls. Create a fairy tail lighting mood.</string>
-  <string name="yeelight_color_desc2">Yellow: Yellow gives a feeling of calm, makes your eyes clear and bright. Yellow also reminds us of the sun, symbolizing the light of wisdom to illuminate the darkness.</string>
-  <string name="yeelight_color_desc3">Purple: Purple represents strong emotion, elegance and noble personality. It has a wealth of sensitivity, aesthetic taste and very self aware.</string>
+  <string name="yeelight_color_desc0">White represents purity and elegance. White symbolizes fair, pure, dignified, honest, young and vigorous. Transcend the mundane and relax.</string>
+  <string name="yeelight_color_desc1">Pink is cute, romantic and very popular for woman and girls. Create a fairy tail lighting mood.</string>
+  <string name="yeelight_color_desc2">Yellow gives a feeling of calm, makes your eyes clear and bright. Yellow also reminds us of the sun, symbolizing the light of wisdom to illuminate the darkness.</string>
+  <string name="yeelight_color_desc3">Purple represents strong emotion, elegance and noble personality. It has a wealth of sensitivity, aesthetic taste and very self aware.</string>
   <string name="yeelight_color_preset0">White</string>
   <string name="yeelight_color_preset1">Pink</string>
   <string name="yeelight_color_preset2">Yellow</string>

@@ -24,11 +24,12 @@ Localization Project For Xiaomi Gadgets Android Applications
 - CoolWallpaper_2.3.1 - http://app.mi.com/detail/41245
 - MiAuthenticator_2.27 - http://app.mi.com/detail/62091
 - MiClick_3.0.1 - http://app.mi.com/detail/59090
-- MiFit_1.3.412 - http://app.mi.com/detail/68548
+- MiFit_1.3.912 - http://app.mi.com/detail/68548
 - MiHealth_1.3.3 - http://app.mi.com/detail/73250
 - MiRemote_4.3 - http://app.mi.com/detail/31067
 - MiRouter_1.0.60 - http://app.mi.com/detail/53711
-- MiSmartHome_2.4.3 - http://app.mi.com/detail/75542
+- MiScreenCast_1.1.9 - http://app.mi.com/detail/82348
+- MiSmartHome_2.4.6 - http://app.mi.com/detail/75542
 - MiSportCamera_1.3 - http://app.mi.com/detail/87320
 - MiSoundBar_1.1.1 - http://app.mi.com/detail/64097
 - MiTag_2.0.4 - http://app.mi.com/detail/56946
@@ -42,22 +43,7 @@ Localization Project For Xiaomi Gadgets Android Applications
 
 # Per App Multilanguage Translation Status
 
-- MiAntiFake
-- MiAuthenticator
-- MiClick
-- MiCoolWallpaper
-- MiFit
-- MiHealth
-- MiRemote
-- MiRouter
-- MiSmallAnts
-- MiSmartHome
-- MiSoundBar
-- MiTag
-- MiTalk
-- MiTransfer
-- MiWifiPortable
-- SuperMarket
+ - Pending .... -
 
 
 

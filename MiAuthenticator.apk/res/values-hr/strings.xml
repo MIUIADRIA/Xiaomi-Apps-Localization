@@ -167,7 +167,7 @@ Možete: "</string>
   <string name="title_updatepattern">Promijeniti zaporku</string>
   <string name="title_visible_pattern">Učiniti uzorak vidljivim</string>
   <string name="type_prompt">Vrsta ključa</string>
-  <string name="update_pattern_jump">&lt;u&gt;Uklini zaporku&lt;/u&gt;</string>
+  <string name="update_pattern_jump">&lt;u&gt;Ukloni zaporku&lt;/u&gt;</string>
   <string name="version_preference_title">Verzija</string>
   <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Ako izbrišete vaš Mi Security Token, nećete biti u mogućnosti prijaviti se na svoj račun."</string>
   <string name="welcome_page_details">"— Držite svoj račun sigurnim.

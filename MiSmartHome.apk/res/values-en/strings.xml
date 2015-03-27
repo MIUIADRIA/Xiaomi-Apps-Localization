@@ -97,7 +97,7 @@
   <string name="air_purifier_indoor">Indoor</string>
   <string name="air_purifier_indoor_act_det">Real-time detection</string>
   <string name="air_purifier_indoor_air">"Indoor air "</string>
-  <string name="air_purifier_indoor_closed">Has been shutdown</string>
+  <string name="air_purifier_indoor_closed">Powered off</string>
   <string name="air_purifier_indoor_last">Last checked</string>
   <string name="air_purifier_indoor_none">No data</string>
   <string name="air_purifier_info_bar_fix_auto">Auto mode</string>
@@ -226,7 +226,7 @@
   <string name="air_purifier_v2_indoor">Indoor</string>
   <string name="air_purifier_v2_indoor_act_det">Real-time monitoring detection</string>
   <string name="air_purifier_v2_indoor_air">"Indoor air "</string>
-  <string name="air_purifier_v2_indoor_closed">Has been shutdown</string>
+  <string name="air_purifier_v2_indoor_closed">Powered off</string>
   <string name="air_purifier_v2_indoor_last">Last detected value</string>
   <string name="air_purifier_v2_indoor_none">No data found</string>
   <string name="air_purifier_v2_info_bar_fix_auto">Automatic mode</string>
@@ -749,7 +749,7 @@
   <string name="device_more_activity_setting">Settings</string>
   <string name="device_more_activity_share">Share with family</string>
   <string name="device_more_activity_title">More</string>
-  <string name="device_more_activity_unbind">Unpairing</string>
+  <string name="device_more_activity_unbind">Unpair device</string>
   <string name="device_nickname">Name</string>
   <string name="device_offline">Device is offline</string>
   <string name="device_offline_check">Please check: 1. Device is connected to power supply; 2. WiFi is operating normally;  3. Try resetting device; After checking, refresh and try again.</string>
@@ -1892,7 +1892,7 @@ enjoy an intelligent life!"</string>
   <string name="smarthome_device_add_to_launcher">Add shortcut to Home screen</string>
   <string name="smarthome_device_appletv">Apple TV</string>
   <string name="smarthome_device_auth">Share to family</string>
-  <string name="smarthome_device_auth_friend">Send to friend</string>
+  <string name="smarthome_device_auth_friend">Share device</string>
   <string name="smarthome_device_auth_release">Abort connection</string>
   <string name="smarthome_device_common_aircon">Air conditioners</string>
   <string name="smarthome_device_common_curation">Window shades</string>

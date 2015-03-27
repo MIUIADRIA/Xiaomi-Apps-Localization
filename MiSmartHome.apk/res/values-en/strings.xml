@@ -70,7 +70,7 @@
   <string name="air_purifier_common_outdoor_detail_source_pub">Publish</string>
   <string name="air_purifier_common_outdoor_detail_title">Outdoor</string>
   <string name="air_purifier_controll">Device control</string>
-  <string name="air_purifier_device_location_empty">Unable to get devices location</string>
+  <string name="air_purifier_device_location_empty">Device location unknown</string>
   <string name="air_purifier_device_location_unavailable">Turn on location services</string>
   <string name="air_purifier_filter">Filter</string>
   <string name="air_purifier_filter_buy">Buy Filter</string>
@@ -96,7 +96,7 @@
   <string name="air_purifier_health_index_normal">Normal</string>
   <string name="air_purifier_indoor">Indoor</string>
   <string name="air_purifier_indoor_act_det">Real-time detection &gt;</string>
-  <string name="air_purifier_indoor_air">Indoor air</string>
+  <string name="air_purifier_indoor_air">"Indoor air "</string>
   <string name="air_purifier_indoor_closed">Has been shutdown</string>
   <string name="air_purifier_indoor_last">Last checked</string>
   <string name="air_purifier_indoor_none">No data</string>
@@ -115,9 +115,9 @@
   <string name="air_purifier_info_bar_tmp_closing">Shutting down purifier...</string>
   <string name="air_purifier_info_bar_tmp_light_closed">Light is off</string>
   <string name="air_purifier_info_bar_tmp_light_open">Light is on</string>
-  <string name="air_purifier_info_bar_tmp_opening">Starting purifier...</string>
-  <string name="air_purifier_info_bar_tmp_syncing">Syncing with purifier...</string>
-  <string name="air_purifier_main_filter">Filter left: %s</string>
+  <string name="air_purifier_info_bar_tmp_opening">Starting Air purifier</string>
+  <string name="air_purifier_info_bar_tmp_syncing">Syncing with Air purifier</string>
+  <string name="air_purifier_main_filter">Filter status: %s</string>
   <string name="air_purifier_manual_check">Check indoor air quality</string>
   <string name="air_purifier_manual_check_count_three">Manual detection being used, automatic detection is switched off</string>
   <string name="air_purifier_manual_checking">Detecting...</string>
@@ -225,7 +225,7 @@
   <string name="air_purifier_v2_health_index_normal">Normal</string>
   <string name="air_purifier_v2_indoor">Indoor</string>
   <string name="air_purifier_v2_indoor_act_det">Real-time shutdown detection &gt;</string>
-  <string name="air_purifier_v2_indoor_air">Indoor air</string>
+  <string name="air_purifier_v2_indoor_air">"Indoor air "</string>
   <string name="air_purifier_v2_indoor_closed">Has been shutdown</string>
   <string name="air_purifier_v2_indoor_last">Last detected value</string>
   <string name="air_purifier_v2_indoor_none">No data found</string>
@@ -246,7 +246,7 @@
   <string name="air_purifier_v2_info_bar_tmp_light_open">Lights are on</string>
   <string name="air_purifier_v2_info_bar_tmp_opening">Starting purifier...</string>
   <string name="air_purifier_v2_info_bar_tmp_syncing">Synchronising purifier data......</string>
-  <string name="air_purifier_v2_main_filter">Filter left %s</string>
+  <string name="air_purifier_v2_main_filter">Filter status %s</string>
   <string name="air_purifier_v2_manual_check">Check indoor air quality</string>
   <string name="air_purifier_v2_manual_check_count_three">Manual detection, automatic detection is turned off</string>
   <string name="air_purifier_v2_manual_checking">Detecting...</string>
@@ -354,7 +354,7 @@
   <string name="air_purifier_v3_health_index_normal">Normal</string>
   <string name="air_purifier_v3_indoor">Indoor</string>
   <string name="air_purifier_v3_indoor_act_det">Real-time shutdown detection &gt;</string>
-  <string name="air_purifier_v3_indoor_air">Indoor air</string>
+  <string name="air_purifier_v3_indoor_air">"Indoor air "</string>
   <string name="air_purifier_v3_indoor_closed">Powered off</string>
   <string name="air_purifier_v3_indoor_last">Last detected</string>
   <string name="air_purifier_v3_indoor_none">Nothing detected</string>
@@ -375,7 +375,7 @@
   <string name="air_purifier_v3_info_bar_tmp_light_open">LED on</string>
   <string name="air_purifier_v3_info_bar_tmp_opening">Starting air purifier...</string>
   <string name="air_purifier_v3_info_bar_tmp_syncing">Syncronizing air purifier data...</string>
-  <string name="air_purifier_v3_main_filter">Filter left %s</string>
+  <string name="air_purifier_v3_main_filter">Filter status %s</string>
   <string name="air_purifier_v3_manual_check">Manually check indoor air quality</string>
   <string name="air_purifier_v3_manual_check_count_three">You are using manual detection, automatic detection is turned off</string>
   <string name="air_purifier_v3_manual_checking">Checking...</string>

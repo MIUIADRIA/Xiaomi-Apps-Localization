@@ -131,7 +131,7 @@
   <string name="air_purifier_notify_auto_start">Automatically open</string>
   <string name="air_purifier_notify_auto_start_desc">In the off state, if room quality is poor the air purifier will automatically clear the room air. When air is returned to normal conditions the purifier will automatically shutdown</string>
   <string name="air_purifier_notify_blue_sky_alarm">Blue sky notification</string>
-  <string name="air_purifier_notify_blue_sky_alarm_desc">When the purifier is turned on and the outdoor air is very good you will be reminded to use window ventilation</string>
+  <string name="air_purifier_notify_blue_sky_alarm_desc">When switched on and outdoor air is good you will be reminded to use window ventilation</string>
   <string name="air_purifier_notify_exception_alarm">Exception notification</string>
   <string name="air_purifier_notify_exception_alarm_desc">When abnormal operation is detected you will receive a notification alert</string>
   <string name="air_purifier_notify_filter_alarm">Filter alarm</string>

@@ -68,7 +68,7 @@
   <string name="air_purifier_common_outdoor_detail_so2">Sulfur dioxide:</string>
   <string name="air_purifier_common_outdoor_detail_source">Data sources:</string>
   <string name="air_purifier_common_outdoor_detail_source_pub">Publish</string>
-  <string name="air_purifier_common_outdoor_detail_title">Outdoor</string>
+  <string name="air_purifier_common_outdoor_detail_title">"Outdoor air quality "</string>
   <string name="air_purifier_controll">Device control</string>
   <string name="air_purifier_device_location_empty">Device location unknown</string>
   <string name="air_purifier_device_location_unavailable">Turn on location services</string>
@@ -137,7 +137,7 @@
   <string name="air_purifier_notify_filter_alarm">Filter alarm</string>
   <string name="air_purifier_notify_title">Intelligent notification settings</string>
   <string name="air_purifier_open">Powered on</string>
-  <string name="air_purifier_outdoor">Outdoor</string>
+  <string name="air_purifier_outdoor">"Outdoor air quality "</string>
   <string name="air_purifier_outdoor_locating">Locating, please wait...</string>
   <string name="air_purifier_pm25_indoor_level_0">Excellent</string>
   <string name="air_purifier_pm25_indoor_level_1">Good</string>

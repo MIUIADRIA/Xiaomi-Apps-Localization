@@ -73,7 +73,7 @@
   <string name="air_purifier_device_location_empty">Device location unknown</string>
   <string name="air_purifier_device_location_unavailable">Turn on location services</string>
   <string name="air_purifier_filter">Filter</string>
-  <string name="air_purifier_filter_buy">Buy Filter</string>
+  <string name="air_purifier_filter_buy">Buy Filters</string>
   <string name="air_purifier_filter_desc">"Description:
 	
 	Detected when the filter needs to be replaced, filter replacement lights flash red for 30 seconds when device is open.
@@ -90,12 +90,12 @@
   <string name="air_purifier_filter_reset_yes">Confirm</string>
   <string name="air_purifier_filter_rest_life">Filter left %s days</string>
   <string name="air_purifier_filter_tip">Filter health level %s</string>
-  <string name="air_purifier_filter_to_buy">Buy new filters &gt;</string>
+  <string name="air_purifier_filter_to_buy">Buy Filters</string>
   <string name="air_purifier_health_index">Current filter health index:</string>
   <string name="air_purifier_health_index_good">Good</string>
   <string name="air_purifier_health_index_normal">Normal</string>
   <string name="air_purifier_indoor">Indoor</string>
-  <string name="air_purifier_indoor_act_det">Real-time detection &gt;</string>
+  <string name="air_purifier_indoor_act_det">Real-time detection</string>
   <string name="air_purifier_indoor_air">"Indoor air "</string>
   <string name="air_purifier_indoor_closed">Has been shutdown</string>
   <string name="air_purifier_indoor_last">Last checked</string>
@@ -131,7 +131,7 @@
   <string name="air_purifier_notify_auto_start">Automatically open</string>
   <string name="air_purifier_notify_auto_start_desc">In the off state, if room quality is poor the air purifier will automatically clear the room air. When air is returned to normal conditions the purifier will automatically shutdown</string>
   <string name="air_purifier_notify_blue_sky_alarm">Blue sky notification</string>
-  <string name="air_purifier_notify_blue_sky_alarm_desc">When switched on and outdoor air is good you will be reminded to use window ventilation</string>
+  <string name="air_purifier_notify_blue_sky_alarm_desc">When outdoor air is safe you will be reminded to open window ventilation</string>
   <string name="air_purifier_notify_exception_alarm">Exception notification</string>
   <string name="air_purifier_notify_exception_alarm_desc">When abnormal operation is detected you will receive a notification alert</string>
   <string name="air_purifier_notify_filter_alarm">Filter alarm</string>
@@ -152,7 +152,7 @@
   <string name="air_purifier_reset_success">Reset successfully</string>
   <string name="air_purifier_set_fail">Failed to set</string>
   <string name="air_purifier_set_success">Successfully set</string>
-  <string name="air_purifier_setting_act_det">Real-time monitoring shutdown</string>
+  <string name="air_purifier_setting_act_det">Real-time shutdown monitoring</string>
   <string name="air_purifier_setting_act_det_desc">Uses a small amount of electricity each day</string>
   <string name="air_purifier_setting_aqi_link">Air Quality Index</string>
   <string name="air_purifier_setting_aqi_link_desc">Automatically start when the indoor air is poor quality, then automatically shutdown</string>
@@ -168,16 +168,16 @@
   <string name="air_purifier_setting_filter">Filter settings</string>
   <string name="air_purifier_setting_home">Home settings (lab)</string>
   <string name="air_purifier_setting_home_desc">Home automatic shutdown &amp; power on</string>
-  <string name="air_purifier_setting_light">LED settings</string>
+  <string name="air_purifier_setting_light">LED lights</string>
   <string name="air_purifier_setting_light_desc">LEDs will be automatically opened</string>
   <string name="air_purifier_setting_manual">Manual</string>
   <string name="air_purifier_setting_notify">Notitications</string>
   <string name="air_purifier_setting_power">Power settings</string>
   <string name="air_purifier_setting_relocation">Location settings</string>
-  <string name="air_purifier_setting_sound">&gt;Sound settings</string>
+  <string name="air_purifier_setting_sound">Sound settings</string>
   <string name="air_purifier_setting_sound_desc">Sound alert during boot</string>
   <string name="air_purifier_setting_start_time">Start time</string>
-  <string name="air_purifier_setting_time_open_close">Timer switch</string>
+  <string name="air_purifier_setting_time_open_close">Timer settings</string>
   <string name="air_purifier_setting_time_open_close_close">Closed</string>
   <string name="air_purifier_setting_time_open_close_open">Open</string>
   <string name="air_purifier_setting_title">Settings</string>
@@ -202,7 +202,7 @@
   <string name="air_purifier_v2_device_location_empty">Unable to find location</string>
   <string name="air_purifier_v2_device_location_unavailable">Location is currently unavailable</string>
   <string name="air_purifier_v2_filter">Filter</string>
-  <string name="air_purifier_v2_filter_buy">Buy filters</string>
+  <string name="air_purifier_v2_filter_buy">Buy Filters</string>
   <string name="air_purifier_v2_filter_desc">"Description:
 	
 	Detected when the filter needs to be replaced, filter replacement lights flash red for 30 seconds when device is open.
@@ -219,12 +219,12 @@
   <string name="air_purifier_v2_filter_reset_yes">Confirm</string>
   <string name="air_purifier_v2_filter_rest_life">Filter left %s days</string>
   <string name="air_purifier_v2_filter_tip">Filter health status: %s</string>
-  <string name="air_purifier_v2_filter_to_buy">Buy Filters &gt;</string>
+  <string name="air_purifier_v2_filter_to_buy">Buy Filters</string>
   <string name="air_purifier_v2_health_index">"Filter current health index: "</string>
   <string name="air_purifier_v2_health_index_good">Good</string>
   <string name="air_purifier_v2_health_index_normal">Normal</string>
   <string name="air_purifier_v2_indoor">Indoor</string>
-  <string name="air_purifier_v2_indoor_act_det">Real-time shutdown detection &gt;</string>
+  <string name="air_purifier_v2_indoor_act_det">Real-time monitoring detection</string>
   <string name="air_purifier_v2_indoor_air">"Indoor air "</string>
   <string name="air_purifier_v2_indoor_closed">Has been shutdown</string>
   <string name="air_purifier_v2_indoor_last">Last detected value</string>
@@ -266,7 +266,7 @@
   <string name="air_purifier_v2_notify_filter_alarm">Filter notification</string>
   <string name="air_purifier_v2_notify_title">Intelligent notification settings</string>
   <string name="air_purifier_v2_open">Powered on</string>
-  <string name="air_purifier_v2_outdoor">Outdoor</string>
+  <string name="air_purifier_v2_outdoor">"Outdoor air quality "</string>
   <string name="air_purifier_v2_outdoor_locating">Locating outdoor device...</string>
   <string name="air_purifier_v2_pm25_indoor_level_0">Excellent</string>
   <string name="air_purifier_v2_pm25_indoor_level_1">Good</string>
@@ -297,16 +297,16 @@
   <string name="air_purifier_v2_setting_filter">Filter settings</string>
   <string name="air_purifier_v2_setting_home">Home settings (lab)</string>
   <string name="air_purifier_v2_setting_home_desc">Home automatic shutdown &amp; power on</string>
-  <string name="air_purifier_v2_setting_light">LED settings</string>
+  <string name="air_purifier_v2_setting_light">LED lights</string>
   <string name="air_purifier_v2_setting_light_desc">LEDs will be automatically opened</string>
   <string name="air_purifier_v2_setting_manual">Manual</string>
   <string name="air_purifier_v2_setting_notify">Notitications</string>
   <string name="air_purifier_v2_setting_power">Power settings</string>
   <string name="air_purifier_v2_setting_relocation">Location settings</string>
-  <string name="air_purifier_v2_setting_sound">&gt;Sound settings</string>
+  <string name="air_purifier_v2_setting_sound">Sound settings</string>
   <string name="air_purifier_v2_setting_sound_desc">Sound alert during boot</string>
   <string name="air_purifier_v2_setting_start_time">Start time</string>
-  <string name="air_purifier_v2_setting_time_open_close">Timer switch</string>
+  <string name="air_purifier_v2_setting_time_open_close">Timer settings</string>
   <string name="air_purifier_v2_setting_time_open_close_close">Closed</string>
   <string name="air_purifier_v2_setting_time_open_close_open">Open</string>
   <string name="air_purifier_v2_setting_title">Settings</string>
@@ -331,7 +331,7 @@
   <string name="air_purifier_v3_device_location_empty">Unable to locate device</string>
   <string name="air_purifier_v3_device_location_unavailable">Device location is unavailable</string>
   <string name="air_purifier_v3_filter">Filter</string>
-  <string name="air_purifier_v3_filter_buy">Buy filters</string>
+  <string name="air_purifier_v3_filter_buy">Buy Filters</string>
   <string name="air_purifier_v3_filter_desc">"Description:
 	
 	Detected when the filter needs to be replaced, filter replacement lights flash red for 30 seconds when device is open.
@@ -348,12 +348,12 @@
   <string name="air_purifier_v3_filter_reset_yes">Confirm</string>
   <string name="air_purifier_v3_filter_rest_life">Filter left %s days</string>
   <string name="air_purifier_v3_filter_tip">Filter health %s</string>
-  <string name="air_purifier_v3_filter_to_buy">Buy new Filters &gt;</string>
+  <string name="air_purifier_v3_filter_to_buy">Buy Filters</string>
   <string name="air_purifier_v3_health_index">"Filter health index: "</string>
   <string name="air_purifier_v3_health_index_good">Good</string>
   <string name="air_purifier_v3_health_index_normal">Normal</string>
   <string name="air_purifier_v3_indoor">Indoor</string>
-  <string name="air_purifier_v3_indoor_act_det">Real-time shutdown detection &gt;</string>
+  <string name="air_purifier_v3_indoor_act_det">Real-time shutdown detection</string>
   <string name="air_purifier_v3_indoor_air">"Indoor air "</string>
   <string name="air_purifier_v3_indoor_closed">Powered off</string>
   <string name="air_purifier_v3_indoor_last">Last detected</string>
@@ -395,7 +395,7 @@
   <string name="air_purifier_v3_notify_filter_alarm">Filter alert</string>
   <string name="air_purifier_v3_notify_title">Intelligent notification settings</string>
   <string name="air_purifier_v3_open">Powered on</string>
-  <string name="air_purifier_v3_outdoor">Outdoor</string>
+  <string name="air_purifier_v3_outdoor">"Outdoor air quality "</string>
   <string name="air_purifier_v3_outdoor_locating">Locating outdoor device...</string>
   <string name="air_purifier_v3_pm25_indoor_level_0">Excellent</string>
   <string name="air_purifier_v3_pm25_indoor_level_1">Good</string>
@@ -426,7 +426,7 @@
   <string name="air_purifier_v3_setting_filter">Filters</string>
   <string name="air_purifier_v3_setting_home">Home settings (lab)</string>
   <string name="air_purifier_v3_setting_home_desc">Home automatic shutdown &amp; power on</string>
-  <string name="air_purifier_v3_setting_light">LED settings</string>
+  <string name="air_purifier_v3_setting_light">LED lights</string>
   <string name="air_purifier_v3_setting_light_desc">LEDs will be automatically opened</string>
   <string name="air_purifier_v3_setting_manual">Manual</string>
   <string name="air_purifier_v3_setting_notify">Notitications</string>
@@ -435,7 +435,7 @@
   <string name="air_purifier_v3_setting_sound">Sound settings</string>
   <string name="air_purifier_v3_setting_sound_desc">Sound alert during boot</string>
   <string name="air_purifier_v3_setting_start_time">Start time</string>
-  <string name="air_purifier_v3_setting_time_open_close">Timer switch</string>
+  <string name="air_purifier_v3_setting_time_open_close">Timer settings</string>
   <string name="air_purifier_v3_setting_time_open_close_close">Closed</string>
   <string name="air_purifier_v3_setting_time_open_close_open">Open</string>
   <string name="air_purifier_v3_setting_title">Settings</string>
@@ -742,8 +742,8 @@
   <string name="device_detail_storage">Public storage</string>
   <string name="device_failed">Device operation failed</string>
   <string name="device_more_activity_feedback">Feedback</string>
-  <string name="device_more_activity_firmware_update">Check for Firmware update</string>
-  <string name="device_more_activity_new_firmware">New Firmware version: %s</string>
+  <string name="device_more_activity_firmware_update">Firmware update</string>
+  <string name="device_more_activity_new_firmware">" new version: %s"</string>
   <string name="device_more_activity_rename">Rename device</string>
   <string name="device_more_activity_reset">Reset</string>
   <string name="device_more_activity_setting">Settings</string>
@@ -1921,7 +1921,7 @@ enjoy an intelligent life!"</string>
   <string name="smarthome_device_share">Share</string>
   <string name="smarthome_device_study">Learn more</string>
   <string name="smarthome_device_upgrade">Update Firmware</string>
-  <string name="smarthome_device_upgrade_new">Check for Firmware update</string>
+  <string name="smarthome_device_upgrade_new">Firmware update</string>
   <string name="smarthome_device_user_detail">" Share management"</string>
   <string name="smarthome_disable_condition">Temporarily unable to add tasks</string>
   <string name="smarthome_edit_scene">Edit Intelligent scene</string>

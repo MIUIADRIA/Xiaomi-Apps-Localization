@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout android:gravity="center_vertical" android:id="@id/file_upload_to_path_selector" android:background="@drawable/ml_alertdialog_chat_bottom_enter_bg_light" android:paddingLeft="16.699982dip" android:paddingTop="10.0dip" android:paddingRight="16.699982dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
   xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:textSize="@dimen/common_textsize_2" android:textColor="@color/class_text_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="下载到:" />
+    <TextView android:textSize="@dimen/common_textsize_2" android:textColor="@color/class_text_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Download to:" />
     <TextView android:textSize="@dimen/common_textsize_2" android:textColor="@color/class_text_1" android:id="@id/file_download_save_path" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:layout_weight="1.0" />
     <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/common_list_icon_goto" />
 </LinearLayout>

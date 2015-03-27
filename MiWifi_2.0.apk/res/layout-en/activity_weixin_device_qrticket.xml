@@ -4,5 +4,5 @@
     <TextView android:id="@id/device_id" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="device id" />
     <TextView android:id="@id/qr_ticket" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="qr ticket" />
     <ImageView android:id="@id/qr_code" android:layout_width="150.0dip" android:layout_height="150.0dip" />
-    <Button android:enabled="false" android:id="@id/bind_weixin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="绑定微信" />
+    <Button android:enabled="false" android:id="@id/bind_weixin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="WeChat" />
 </LinearLayout>

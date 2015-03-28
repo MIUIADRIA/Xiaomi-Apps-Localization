@@ -65,7 +65,7 @@ Localization Project For Xiaomi Gadgets Android Applications
 - Greek (Xiaomi-Miui Hellas TEAM)
 - Norwegian (datagutt, miuios.no)
 - Dutch (jacketti, cueie, redmaner)
-- Spanish (rpperezr and spanish users)
+- Spanish (rpperezr, Davida nd spanish users)
 - Turkish (Celaleddin, ekilciler)
 - Brazilian-Portuguese (MIUIBrasil, miuirom.com.br)
 - Portuguese (Efex)

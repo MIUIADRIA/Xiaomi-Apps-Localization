@@ -51,13 +51,20 @@
   <string name="app_slogan">Take Yi SmallAnts camera with you where ever you go</string>
   <string name="app_upgrade">Update app</string>
   <string name="back_start_upload_share">Start uploading in background...</string>
+  <string name="baike">小蚁百科</string>
   <string name="barcode_add">Add using QR code</string>
   <string name="best_music_software">Best music software in Android</string>
   <string name="best_recommend">Recommended</string>
   <string name="bind">Bind</string>
   <string name="bind_failed">Failed to bind!</string>
   <string name="bind_success">Successfully bound!</string>
+  <string name="blue_1">蓝灯长亮，摄像机与WiFi连接成功</string>
+  <string name="blue_2">语音\"连接成功\"，摄像机与服务器连接成功</string>
+  <string name="blue_shan">蓝灯闪烁，摄像机正在努力连接WiFi</string>
   <string name="bluetooth_add">Add Bluetooth</string>
+  <string name="btnCheckError">错误排查</string>
+  <string name="btnHearConnectSuccess">听到连接成功</string>
+  <string name="btnHearWifiPasswordError">听到WIFI密码错误</string>
   <string name="btn_gotofaq">FAQ</string>
   <string name="button_back">Back</string>
   <string name="button_camera_upgrade">Update</string>
@@ -66,6 +73,9 @@
   <string name="button_prev">Prev</string>
   <string name="button_reconfig">Search again</string>
   <string name="button_start_camera">Start</string>
+  <string name="button_voice_no">未听到语音提示</string>
+  <string name="button_voice_no_count_down">未听到语音提示(15s)</string>
+  <string name="button_voice_yes">已听到语音提示</string>
   <string name="by_device">By device</string>
   <string name="by_time">By time</string>
   <string name="camer_offline">Offline</string>
@@ -92,7 +102,7 @@
   <string name="camera_is_in_connecting">Connecting to camera...</string>
   <string name="camera_name">Camera name</string>
   <string name="camera_name_config">Camera name</string>
-  <string name="camera_no">Camera ID:</string>
+  <string name="camera_no">设备编号:</string>
   <string name="camera_not_found">Camera not found, please try again!</string>
   <string name="camera_not_found_wifi">Unable to find WiFi network, please power off and reboot the device</string>
   <string name="camera_other_setting">Advanced settings</string>
@@ -182,7 +192,8 @@
   <string name="company_name">Small ants Technology Co. Ltd.</string>
   <string name="company_telephone">Telephone: 400-920-6788</string>
   <string name="company_website">Website: http://www.360ants.com</string>
-  <string name="configing_camera">Configing camera...</string>
+  <string name="configing_camera">Configuring camera...</string>
+  <string name="confirm_exit_camera_config">确定退出摄像机配置</string>
   <string name="connect_to_wifi_msg">Please connect phone to WiFi network</string>
   <string name="connect_to_wifi_title">Connect to WiFi</string>
   <string name="connecting">Connecting</string>
@@ -336,6 +347,8 @@ please check network connection and try again"</string>
   <string name="name_drift_bottle">Name: drift bottle</string>
   <string name="neteasemicroblog">Netease Weibo</string>
   <string name="network_error">Network unavailable, please try again</string>
+  <string name="network_invaid_msg">无法连接到服务器，请检查您的网络</string>
+  <string name="network_invaid_title">网络不可用</string>
   <string name="new_alarm_setting">New alarm time</string>
   <string name="new_version_no">New version</string>
   <string name="nickname">Nickname</string>
@@ -344,6 +357,7 @@ please check network connection and try again"</string>
   <string name="no_camera_found">No camera was found!</string>
   <string name="no_device_found">No camera detected!</string>
   <string name="no_event_found">No video history found!</string>
+  <string name="no_network">网络连接不可用</string>
   <string name="no_photo">No photos</string>
   <string name="no_share_user">Camera is not shared with anyone else</string>
   <string name="no_video">No video...</string>
@@ -409,6 +423,8 @@ please check network connection and try again"</string>
   <string name="repassword">Confirm password</string>
   <string name="replay_failed">Broadcasting failed</string>
   <string name="research">Search again</string>
+  <string name="reset_camera">"使用重置针插入重置孔长按直至指示灯
+变成黄灯长亮"</string>
   <string name="reset_wait_relax">"Please reset using by inserting reset pin into the reset hole.
 Release after waiting for the light to turn orange"</string>
   <string name="resolution_auto">Auto</string>
@@ -417,6 +433,7 @@ Release after waiting for the light to turn orange"</string>
   <string name="resolution_normal">Normal</string>
   <string name="rightnow_connect">Connect now</string>
   <string name="room">Room</string>
+  <string name="run_score">跑分</string>
   <string name="save">Save</string>
   <string name="scan_the_qr_code">"Please scan the QR code at the rear of the camera"</string>
   <string name="sdcard_free_size">Available free space</string>
@@ -563,6 +580,7 @@ Please make sure you share the video content ensuring no personal privacy leak, 
   <string name="tips_wifi_disconnect">Disconnected</string>
   <string name="tips_wifi_name">Input WiFi name</string>
   <string name="tips_wifi_password">Input WiFi password</string>
+  <string name="tips_wifi_password_incorrect">小蚁无法识别当前WiFi密码，请修改</string>
   <string name="title">Title</string>
   <string name="title_add_device">Add new camera</string>
   <string name="title_camera_config">Camera configuration</string>
@@ -642,6 +660,7 @@ Please make sure you share the video content ensuring no personal privacy leak, 
   <string name="user_feedback">User feedback</string>
   <string name="user_input_uid">&lt;a href="#"&gt;What should we do when scaning failed?&lt;/a&gt;</string>
   <string name="user_login_in_other_device">The current account is logged in somewhere else</string>
+  <string name="user_login_in_session_time">当前账号时效已过期，请重新登录！</string>
   <string name="user_tips">Click here to add cameras</string>
   <string name="user_tips2">Experience Yi SmallAnts camera</string>
   <string name="userinfo_account_qq">QQ Zone</string>
@@ -680,6 +699,7 @@ Please make sure you share the video content ensuring no personal privacy leak, 
   <string name="wifi_name">WiFi SSID</string>
   <string name="wifi_password">WiFi password</string>
   <string name="wifi_reconfig">Camera WiFi settings</string>
+  <string name="wifi_wrong">听到wifi密码错误？</string>
   <string name="winexperience_activity_title">Check activity</string>
   <string name="winexperience_cannot_check_in_connecting">Unable to connect to camera, please try again</string>
   <string name="winexperience_connecting_btntxt">Connect</string>
@@ -739,6 +759,8 @@ Please make sure you share the video content ensuring no personal privacy leak, 
   <string name="winexperience_tfcardstate_title">TF card status</string>
   <string name="winexperience_waiting_check">Waiting...</string>
   <string name="work_day">Days</string>
+  <string name="wrong_wifi_ssid_msg">小蚁只支持英文加数字的WiFi名称！</string>
+  <string name="wrong_wifi_ssid_title">WiFi名字不规范</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_external_storage_unavailable">Storage is currently unavailable</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>

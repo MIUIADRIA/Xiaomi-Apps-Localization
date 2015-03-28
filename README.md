@@ -29,6 +29,7 @@ Localization Project For Xiaomi Gadgets Android Applications
 - MiRemote_4.3 - http://app.mi.com/detail/31067
 - MiRouter_1.0.60 - http://app.mi.com/detail/53711
 - MiScreenCast_1.1.9 - http://app.mi.com/detail/82348
+- MiSmallAnts_1.4.0 - http://app.mi.com/detail/75646
 - MiSmartHome_2.4.6 - http://app.mi.com/detail/75542
 - MiSportCamera_1.3 - http://app.mi.com/detail/87320
 - MiSoundBar_1.1.1 - http://app.mi.com/detail/64097
@@ -36,7 +37,6 @@ Localization Project For Xiaomi Gadgets Android Applications
 - MiTalk_1.0.1262 - http://app.mi.com/detail/323
 - MiTransfer_1.0.131029 - http://app.mi.com/detail/64390
 - MiWifiPortable_1.1.755 - http://app.mi.com/detail/65299
-- SmallAnts_1.3.6 - http://app.mi.com/detail/75646
 - SuperMarket_R.1.4.2 - http://app.mi.com/detail/34346
 - MiWifi_2.0.apk - http://bigota.miwifi.com/xiaoqiang/client/xqapp_preview.apk
 

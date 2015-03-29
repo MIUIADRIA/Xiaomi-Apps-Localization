@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="assistant_setting_titles">
+        <item>Upravljanje uređajem</item>
+        <item>Vibracija tipaka</item>
+        <item>Slika vodoravnog zaslona</item>
+        <item>Virtualna tipkovnica</item>
+        <item>Tipke za glasnoću telefona kontroliraju glasnoću TV-a</item>
+        <item>Snimke zaslona TV-a</item>
+        <item>Dalj. kontrola zaklj. zaslona</item>
+    </string-array>
+    <string-array name="assistant_setting_contents">
+        <item></item>
+        <item>Haptic feedback daljinskog upravljača</item>
+        <item>Kada je zaslon vodoravno, automatski otvori kontrole slike</item>
+        <item>Brzo tipkajte na zaslon TV-a s telefona</item>
+        <item>Upotrijebite tipke za glasnoću telefona za kontrolu glasnoće TV-a</item>
+        <item>Jednostavno napravite snimak zaslona TV-a, i spremite ga na telefon</item>
+        <item>Koristite daljinski za otključavanje zaslona TV-a kada koristite projektor</item>
+    </string-array>
+    <string-array name="app_album">
+        <item>Preporučeno</item>
+        <item>Dodano</item>
+        <item>Paket aplil.</item>
+        <item>Instalirano</item>
+    </string-array>
+    <string-array name="video_album">
+        <item>Povijest</item>
+        <item>Favoriti</item>
+        <item>Najnovije</item>
+        <item>Ostalo</item>
+    </string-array>
+</resources>

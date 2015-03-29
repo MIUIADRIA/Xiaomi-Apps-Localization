@@ -339,9 +339,9 @@
     <string name="dynamic_detail_modify_sleep_end_time">Измените время пробуждения</string>
     <string name="time_format_hour_min">%1$s ч. %2$s м.</string>
     <string name="time_format_min">%s мин.</string>
-    <string name="action_pop_my_bracelet">Мои устройства</string>
+    <string name="action_pop_my_bracelet">Устройства</string>
     <string name="action_pop_smart_alarms">Будильник</string>
-    <string name="action_pop_person_info">Мой профиль</string>
+    <string name="action_pop_person_info">Профиль</string>
     <string name="action_pop_unlock_screen">Разблокировка экрана</string>
     <string name="action_pop_weixin_enter">Добавить Wechat</string>
     <string name="bind_qq">Добавить QQ</string>

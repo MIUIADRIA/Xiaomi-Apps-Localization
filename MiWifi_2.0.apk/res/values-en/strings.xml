@@ -166,7 +166,7 @@
     <string name="block_hitch_hiker_feature_sub1">Notification reminder</string>
     <string name="block_hitch_hiker_feature_sub2">App notifications in home screen</string>
     <string name="block_hitch_hiker_mechanism">Anti-leech</string>
-    <string name="block_hitch_hiker_mechanism_detail">When unidentified WiFi device connects you will be automatically notified</string>
+    <string name="block_hitch_hiker_mechanism_detail">Block unwanted WiFi devices, you will be automatically notified</string>
     <string name="block_hitch_hiker_title">Anti-leech mode</string>
     <string name="block_load_blocked_devices_list">Loading device blocklist</string>
     <string name="block_no_disturb_mode">DND mode</string>

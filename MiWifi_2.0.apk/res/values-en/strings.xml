@@ -576,7 +576,7 @@ task already exists, do you want to download again?"</string>
     <string name="file_image_menu_original">View original</string>
     <string name="file_import_progress_message">Importing to router, remaining file size %s</string>
     <string name="file_list_header_return">Back</string>
-    <string name="file_list_item_info_dir_format">%1$s | %2$s项</string>
+    <string name="file_list_item_info_dir_format">%1$s | %2$s items</string>
     <string name="file_list_item_info_file_format">%1$s | %2$s</string>
     <string name="file_load_fail">Failed to load file, please try again later</string>
     <string name="file_media_select_items">Select items</string>

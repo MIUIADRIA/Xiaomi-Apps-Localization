@@ -769,8 +769,8 @@ other functions are the same as the Administrator"</string>
     <string name="login_captcha_code_hint">Please input verification code</string>
     <string name="login_captcha_code_prompt">Verification code</string>
     <string name="login_declaration_content_and">and</string>
-    <string name="login_declaration_content_privacy_protocol">Privacy agreement</string>
-    <string name="login_declaration_content_user_protocol">User agreement</string>
+    <string name="login_declaration_content_privacy_protocol">" Privacy agreement "</string>
+    <string name="login_declaration_content_user_protocol">" User agreement "</string>
     <string name="login_declaration_prefix">By signing in you agree to abide by Mi routers</string>
     <string name="login_dynamic_token_fail">Dynamic token failed</string>
     <string name="login_dynamic_token_hint">Please input the 6 digit dynamic token</string>
@@ -797,7 +797,7 @@ other functions are the same as the Administrator"</string>
     <string name="main_auto_switch_after_bind">Paired successfully, channel changed to %s automatically</string>
     <string name="main_auto_switch_after_demote_self">Exited sharing successfully, channel changed to %s automatically</string>
     <string name="main_auto_switch_after_unbind">Unpaired successfully, channel changed to %s automatically</string>
-    <string name="main_client">Routing</string>
+    <string name="main_client">Clients</string>
     <string name="main_download">Download</string>
     <string name="main_file">File</string>
     <string name="main_handle_account_exception">An execption has occurred, please sign in again</string>
@@ -806,7 +806,7 @@ other functions are the same as the Administrator"</string>
     <string name="main_personal_center">Personal center</string>
     <string name="main_rom_incompatible">Mi WiFi 2.0 ROM is required</string>
     <string name="main_router_offline">(Offline)</string>
-    <string name="main_router_setting">Router settings</string>
+    <string name="main_router_setting">Advanced settings</string>
     <string name="main_tools">Tools</string>
     <string name="main_user_feedback">User feedback</string>
     <string name="mobile_backup_enable">Enable phone backup</string>
@@ -845,7 +845,7 @@ other functions are the same as the Administrator"</string>
     <string name="recovery_fail_waiting">Failed to restore factory settings</string>
     <string name="recovery_format_disk">Format disk</string>
     <string name="recovery_format_disk_detail">Formatting disk will remove all data</string>
-    <string name="recovery_must_clean">Format needed</string>
+    <string name="recovery_must_clean">Format data</string>
     <string name="recovery_now">Restore now</string>
     <string name="recovery_optional_clean">Optional clean</string>
     <string name="recovery_personal_data">Personal data</string>
@@ -923,8 +923,8 @@ other functions are the same as the Administrator"</string>
     <string name="setting_title">Mi router settings</string>
     <string name="setting_unbind">Unpair</string>
     <string name="setting_unbind_failed">Failed to unpair</string>
-    <string name="setting_unbind_message">Unpair Mi router %s are you sure you want to continue?</string>
-    <string name="setting_unbind_waiting">Being unpaired, please wait</string>
+    <string name="setting_unbind_message">Unpair from %s, are you sure you want to continue?</string>
+    <string name="setting_unbind_waiting">Unpairing, please wait</string>
     <string name="setting_update">Update settings</string>
     <string name="setting_wifi_2_4_switch">2.4GHz WiFi</string>
     <string name="setting_wifi_5_0_switch">5GHz WiFi</string>
@@ -1110,7 +1110,7 @@ app and Mi router functions remain compatible"</string>
     <string name="udriver_please_insert_usb">Insert USB storage device</string>
     <string name="udriver_upgrade_new_rom">Please update to the latest ROM</string>
     <string name="udriver_upgrade_ok">Update successful</string>
-    <string name="udriver_usb_can_use_dot">Insert USB storage device to open the downloaded plug-in</string>
+    <string name="udriver_usb_can_use_dot">Insert USB storage device or use plug-ins</string>
     <string name="upgrade_check">Checking for update</string>
     <string name="upgrade_click_to_check">Check for update</string>
     <string name="upgrade_has_update_title">Updated version</string>

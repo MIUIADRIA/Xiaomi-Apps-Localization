@@ -322,7 +322,7 @@
     <string name="client_qos_download_band_x">Download bandwidth: %s</string>
     <string name="client_qos_download_speed">Download speed</string>
     <string name="client_qos_input_cannot_be_empty">Input cannot be empty!</string>
-    <string name="client_qos_input_cannot_be_negative">Input can't be negative!</string>
+    <string name="client_qos_input_cannot_be_negative">"Input can't be negative!"</string>
     <string name="client_qos_input_chars_invalid">Can only input numbers!</string>
     <string name="client_qos_input_must_be_positive">Input needs to be greater than zero!</string>
     <string name="client_qos_input_out_of_bound">Number inputted is too large (more than %d)!</string>

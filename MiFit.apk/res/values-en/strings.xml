@@ -33,7 +33,7 @@
   <string name="add_family_member">Add user</string>
   <string name="add_than_last_time">"Increased
 by %1$s"</string>
-  <string name="add_weight_fail_with_value">还需增重%1$s</string>
+  <string name="add_weight_fail_with_value">Still need to gain %1$s more weight</string>
   <string name="add_weight_succ">Weight added successfully</string>
   <string name="add_weight_succ_with_value">"Weight gained successfully,
 heavier than target of %1$s"</string>
@@ -320,7 +320,7 @@ is equal to previous weight"</string>
   <string name="fw_upgrade_progress">Updating %s%%</string>
   <string name="fw_upgrade_succ">Waiting...</string>
   <string name="fw_upgrade_tips">Keep your band close to your device while updating</string>
-  <string name="gen_qr_code">Generate</string>
+  <string name="gen_qr_code">Generate QR code</string>
   <string name="get_help">Need help</string>
   <string name="get_image_file_fail">"Can't find image"</string>
   <string name="goal_weight">Goal</string>
@@ -490,12 +490,12 @@ your goal"</string>
   <string name="label_message_too_busy">You send too many Budges, please try later!</string>
   <string name="label_mileage">Mileage (Km)</string>
   <string name="label_more">more</string>
-  <string name="label_my_qrcode">My QRCode</string>
+  <string name="label_my_qrcode">My QR code</string>
   <string name="label_no_care_time_by_me">Never send nudges to him</string>
   <string name="label_preparing_share_image">Preparing share image…</string>
   <string name="label_pull_to_load">Pull to load more</string>
   <string name="label_pull_to_refresh">Pull to refresh</string>
-  <string name="label_qrcode_error">Qr Code error!</string>
+  <string name="label_qrcode_error">QR Code error!</string>
   <string name="label_refreshing">Refreshing</string>
   <string name="label_refuse">Refuse</string>
   <string name="label_refuse_add_friend_by_him">Refuse to be your friend</string>
@@ -523,7 +523,7 @@ your goal"</string>
   <string name="label_update_time">Updated at %s</string>
   <string name="label_weight">Current Weight</string>
   <string name="lable_qrcode_is_myself">"Can't add yourself as a friend!"</string>
-  <string name="larger_than_normal_with_value">超出标准%1$s</string>
+  <string name="larger_than_normal_with_value">%1$s is larger than standard value</string>
   <string name="left_hand">Left hand</string>
   <string name="less_than_6">Children under 6 years of age, will only measure weight.</string>
   <string name="less_than_last_time">"Thinner than the last %1$s"</string>
@@ -717,7 +717,7 @@ uploaded to the server."</string>
   <string name="set_person_goal">Set goal</string>
   <string name="set_sport_goal">Set goal</string>
   <string name="set_unit">Units</string>
-  <string name="set_user_suc_tips">有了第一条称重记录，以后系统会自动识别属于你的称重记录，而且可以设置自己的体重控制目标哦。</string>
+  <string name="set_user_suc_tips">First weight recorded will be automatically identified to the user it belongs to, including weight and height records so you can keep a check on your targets.</string>
   <string name="set_user_succ">Set successfully</string>
   <string name="set_weight_goal">Weight goal</string>
   <string name="set_weight_goal_no">"Don't set"</string>

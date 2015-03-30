@@ -31,12 +31,12 @@
   <string name="action_type_error">Vrsta pogreške</string>
   <string name="action_walk">Šetnja</string>
   <string name="add_family_member">Dodaj korisnika</string>
-   <string name="add_than_last_time">"比上次
-增加了%1$s"</string>
-  <string name="add_weight_fail_with_value">还需增重%1$s</string>
-  <string name="add_weight_succ">增重成功</string>
-  <string name="add_weight_succ_with_value">"增重成功
-比目标重%1$s"</string>
+  <string name="add_than_last_time">"Povećano
+za %1$s"</string>
+  <string name="add_weight_fail_with_value">Još uvijek trebate dobiti %1$s više težine</string>
+  <string name="add_weight_succ">Težina uspješno dodana</string>
+  <string name="add_weight_succ_with_value">"Težina uspješno dobivena,
+teže od cilja %1$s"</string>
   <string name="addgoal_child_fat">"Vi ste iznad svoje željene težine"</string>
   <string name="addgoal_child_heavy">"Vi ste iznad svoje željene težine"</string>
   <string name="addgoal_child_normal">"Vi ste na svojoj željenoj težini."</string>
@@ -105,7 +105,7 @@ potrebna vam je dostupna mreža."</string>
   <string name="bind_weight_scale">Dodaj vagu</string>
   <string name="bind_weixin_failed">"Ne mogu generirati QR kod"</string>
   <string name="bind_weixin_new_disable_tips">"Da podijelite svoje fitness podatke sa svojim prijateljima,
-dodajte vaš WeChat Račun i zatim slijedite Mi Fit Service Account."</string>
+dodajte vaš WeChat Račun i zatim slijedite Mi Band Service Account."</string>
   <string name="bind_weixin_new_now">Sinkroniziram…</string>
   <string name="bind_weixin_new_tips">"Dodajte vaš WeChat Račun,
 zatim dodirnite Slijedi."</string>
@@ -134,9 +134,9 @@ Adresa: %2$s"</string>
   <string name="bracelet_not_connected_bat_unknown">Mi Band nije uparen</string>
   <string name="bracelet_not_found_info">"Provjerite je li baterija vašeg Mi Banda napunjena, i ostala zatvorena."</string>
   <string name="bracelet_not_found_title">Mi band nije pronađen</string>
-  <string name="bracelet_notify_text">主人可别忘了戴上环环呀</string>
-  <string name="bracelet_notify_title">手环电池已充满</string>
-  <string name="bracelet_store_desc">Band trgovina</string>
+  <string name="bracelet_notify_text">"Ne zaboravite nositi vaš Mi Band"</string>
+  <string name="bracelet_notify_title">Baterija Mi Banda je napunjena</string>
+  <string name="bracelet_store_desc">Mi Trgovina</string>
   <string name="bt_operation_failed_tips">Bluetooth ne radi ispravno. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="btn_confirm">Da</string>
   <string name="btn_continue">Nastavi</string>
@@ -147,10 +147,10 @@ Adresa: %2$s"</string>
   <string name="buy_bracelet_desc">Kupite Mi Band.</string>
   <string name="cal">kal</string>
   <string name="cancel">Odustani</string>
-  <string name="change_current_weight_report">"当前体重不是\"%1$s\"的?
-点击列表为该体重设置新的主人"</string>
-  <string name="change_weight_for_visitor">"访客称重纪录
-点击列表为该体重设置新的主人"</string>
+  <string name="change_current_weight_report">"Trenutna težina nije \"%1$s\"?
+Kliknite na popis da postavite težinu za novog korisnika"</string>
+  <string name="change_weight_for_visitor">"Težina gosta,
+Kliknite na popis da postavite težinu za novog korisnika"</string>
   <string name="check_upgrade">Provjeri za ažuriranja</string>
   <string name="checking_new_apk">Provjeravam ažuriranja…</string>
   <string name="choose_tag_item">Koju vježbu želite ?</string>
@@ -158,7 +158,7 @@ Adresa: %2$s"</string>
   <string name="clock_closed">Isključeno</string>
   <string name="closed">Zatvoreno</string>
   <string name="cm">cm</string>
-  <string name="come_from_xiaomi_bracelet">Mi Fit</string>
+  <string name="come_from_xiaomi_bracelet">Mi Band</string>
   <string name="complete">Dovršeno</string>
   <string name="confirm">U redu</string>
   <string name="confirm_abort_tag">Jeste li sigurni da želite prekinuti ovaj zadatak?</string>
@@ -208,15 +208,15 @@ ušteđeno %2$s litara benzina"</string>
   <string name="date_yesterday">Jučer</string>
   <string name="day">Dana</string>
   <string name="day_active_detail">Detalji</string>
+  <string name="day_ri">Dan</string>
   <string name="debug_host_label">Dodaj test host adresu:</string>
-  <string name="day_ri">日</string>
   <string name="del_family_member">Izbrisati člana obitelji?</string>
   <string name="del_family_member_content">Svi podaci o članu obitelji će biti izbrisani</string>
   <string name="delete">Izbriši</string>
   <string name="delete_family_member">Izbriši člana obitelji</string>
   <string name="device_list">Dostupni uređaji</string>
   <string name="device_not_found">Uređaj nije pronađen</string>
-  <string name="device_not_found_not_knocked">"Ne mogu pronaći Mi Fit. Za uparivanje, dodirnite metalni dio Mi Fita kada zatreperi."</string>
+  <string name="device_not_found_not_knocked">"Ne mogu pronaći Mi Band. Za uparivanje, dodirnite metalni dio Mi Banda kada zatreperi."</string>
   <string name="device_not_response">"Svjetla ne trepere?"</string>
   <string name="disable_debug_log">Zapis ispravljanja grešaka isključen</string>
   <string name="disable_hidden_feature">Skrivena aktivnost onemogućena</string>
@@ -228,9 +228,9 @@ Dosegli ste svoj cilj."</string>
   <string name="done_with_lose_weight_goal">"Čestitamo!
 Dosegli ste svoj cilj."</string>
   <string name="donot_bind">Upari kasnije</string>
-  <string name="donot_have_band">Nemate Mi Fit?</string>
+  <string name="donot_have_band">Nemate Mi Band?</string>
   <string name="download_failed">"Ne mogu preuzeti aplikaciju"</string>
-  <string name="downloading_apk">Mi Fit</string>
+  <string name="downloading_apk">Mi Band</string>
   <string name="dynamic_detail_modify_sleep_end_time">Prilagodi vrijeme buđenja</string>
   <string name="dynamic_detail_modify_sleep_start_time">Prilagodi vrijeme spavanja</string>
   <string name="dynamic_detail_sleep_title">%s</string>
@@ -240,7 +240,7 @@ Dosegli ste svoj cilj."</string>
   <string name="dynamic_detail_step_title_today">Danas</string>
   <string name="dynamic_detail_weight_title">%s</string>
   <string name="dynamic_pull_connect_failed">"Ne mogu povezati, povucite dolje za ponovni pokušaj."</string>
-  <string name="dynamic_pull_connect_failed_hint">Provjerite da li baterija vašeg Mi Fita ima dovoljno energije</string>
+  <string name="dynamic_pull_connect_failed_hint">Provjerite da li baterija vašeg Mi Banda ima dovoljno energije</string>
   <string name="dynamic_pull_connecting_bracelet">Povezivanje…</string>
   <string name="dynamic_pull_last_sync_time">Zadnja sinkr.  %s</string>
   <string name="dynamic_pull_not_sync_today">Danas nema sinkr.</string>
@@ -265,7 +265,7 @@ ustajanje</string>
   <string name="dynamic_tip_step_unsynced">Nije ažurirano</string>
   <string name="dynamic_tip_sync_progress">Sinkr. podataka %d%%</string>
   <string name="dynamic_tip_sync_time">Zadnja sinkro. %s</string>
-  <string name="dynamic_tip_unweared">Bez Mi Fita</string>
+  <string name="dynamic_tip_unweared">Bez Mi Banda</string>
   <string name="dynamic_title_bracelet_unbind">Mi Band nije uparen</string>
   <string name="dynamic_title_sleep">Prethodna noć</string>
   <string name="dynamic_title_step">Danas</string>
@@ -274,8 +274,8 @@ ustajanje</string>
   <string name="dynamic_title_weight_unbind">Raspari vagu</string>
   <string name="enable_debug_log">Zapis ispr. greš. uključen</string>
   <string name="enable_hidden_feature">Skrivena aktivnost omogućena</string>
-  <string name="equal_last_time">"和上次
-体重持平"</string>
+  <string name="equal_last_time">"Zadnja težina
+je jednaka prethodnoj težini"</string>
   <string name="equals_fat">"Jednako sagorijevanju
 %1$s grama masti."</string>
   <string name="error_code">Pogreška</string>
@@ -381,10 +381,10 @@ u jednom pogledu!"</string>
 cilj za danas."</string>
   <string name="instruction_tip_2_5">Preko cilja</string>
   <string name="instruction_tip_3">Slaba baterija</string>
-  <string name="instruction_title">Saznajte više o Mi Fitu</string>
+  <string name="instruction_title">Saznajte više o Mi Bandu</string>
   <string name="invalid_name">Pogrešno ime</string>
   <string name="join_improvement_plan_detial">Pomozite nam poboljšati Mi Band slanjem podataka o upotrebi na Huami Inc.</string>
-  <string name="keep_goal_succ">成功保持体重</string>
+  <string name="keep_goal_succ">Uspješno održavana težina</string>
   <string name="kg">kg</string>
   <string name="km">km</string>
   <string name="lab_factory_cheat_toast">"Nemojte varati!"</string>
@@ -419,13 +419,13 @@ cilj za danas."</string>
   <string name="lab_factory_sport_group_finish_desc">%s završena</string>
   <string name="lab_factory_sport_group_record">"Rekord grupe: "</string>
   <string name="lab_factory_sport_group_time_cost" formatted="false">%s završena, trajanje aktivnosti %s.</string>
-  <string name="lab_factory_sport_hour">%dh</string>
-  <string name="lab_factory_sport_hour_min" formatted="false">%dh %dmin</string>
-  <string name="lab_factory_sport_hour_min_sec" formatted="false">%dh %dmin %ds</string>
-  <string name="lab_factory_sport_hour_sec" formatted="false">%dh %ds</string>
+  <string name="lab_factory_sport_hour">%ds</string>
+  <string name="lab_factory_sport_hour_min" formatted="false">%ds %dmin</string>
+  <string name="lab_factory_sport_hour_min_sec" formatted="false">%ds %dmin %ds</string>
+  <string name="lab_factory_sport_hour_sec" formatted="false">%ds %ds</string>
   <string name="lab_factory_sport_min">%dmin</string>
   <string name="lab_factory_sport_min_sec" formatted="false">%dmin %ds</string>
-  <string name="lab_factory_sport_monitor_bracelet_offline">"Band nije povezan"</string>
+  <string name="lab_factory_sport_monitor_bracelet_offline">"Mi Band nije povezan"</string>
   <string name="lab_factory_sport_monitor_bracelet_offline_notice">Povežite svoj Mi Band prije nego što započnete %s.</string>
   <string name="lab_factory_sport_monitor_cancelled_notice">Senzor će pratiti %s automatski.</string>
   <string name="lab_factory_sport_monitor_timeout_notice">Nema otkrivenih aktivnosti.</string>
@@ -455,7 +455,7 @@ cilj za danas."</string>
   <string name="lab_factory_sport_type_riding">Jahanje</string>
   <string name="lab_factory_sport_type_ropeskipping">Preskakanje užeta</string>
   <string name="lab_factory_sport_type_running">Trčanje</string>
-  <string name="lab_factory_sport_type_situp">Čučnjevi</string>
+  <string name="lab_factory_sport_type_situp">Trbušnjaci</string>
   <string name="lab_factory_sport_type_skidding">Klizanje</string>
   <string name="lab_factory_sport_type_sliding">Skateboarding</string>
   <string name="lab_factory_sport_type_swimming">Plivanje</string>
@@ -488,7 +488,7 @@ cilj za danas."</string>
   <string name="label_message">Poruka</string>
   <string name="label_message_empty">Prazna poruka</string>
   <string name="label_message_too_busy">Poslali ste previše znački, pokušajte kasnije!</string>
-  <string name="label_mileage">Kilometraža (Km)</string>
+  <string name="label_mileage">Kilometara (Km)</string>
   <string name="label_more">Više</string>
   <string name="label_my_qrcode">Moj QR kod</string>
   <string name="label_no_care_time_by_me">Nikada mu nemoj poslati gurkanje</string>
@@ -515,7 +515,7 @@ cilj za danas."</string>
   <string name="label_sleep_data">Podaci spavanja</string>
   <string name="label_sleep_record">%1$s/%2$s Povijest spavanja</string>
   <string name="label_sleep_start_time">Zaspao</string>
-  <string name="label_sleep_time">%1$sh%2$sm</string>
+  <string name="label_sleep_time">%1$ss%2$sm</string>
   <string name="label_sport_data">Podaci aktivnosti</string>
   <string name="label_step">Koraci</string>
   <string name="label_step_with_unit">%s korak</string>
@@ -523,24 +523,23 @@ cilj za danas."</string>
   <string name="label_update_time">Ažurirano %s</string>
   <string name="label_weight">Trenutna težina</string>
   <string name="lable_qrcode_is_myself">"Ne možete sebe dodati kao prijatelja!"</string>
-  <string name="larger_than_normal_with_value">超出标准%1$s</string>
+  <string name="larger_than_normal_with_value">%1$s je veće od standardne vrijednosti</string>
   <string name="left_hand">Lijeva ruka</string>
-  <string name="less_than_6">未满6岁，只测量体重。</string>
-  <string name="less_than_last_time">"比上次
-瘦了%1$s"</string>  
+  <string name="less_than_6">Djeci do 6 godina će se mjeriti samo težina.</string>
+  <string name="less_than_last_time">"Tanje od prošle %1$s"</string>
   <string name="light_color">Boja LED-a</string>
   <string name="light_color_title">Boja LED-a koja pokazuje napredak vježbanja</string>
-  <string name="lighter_than_goal">比目标轻%1$s</string>
+  <string name="lighter_than_goal">Lakše od cilja od %1$s</string>
   <string name="local_app_failed">"Ne mogu dobiti detalje trenutne verzije."</string>
   <string name="login">Prijavite se</string>
   <string name="login_failed">"Ne mogu se prijaviti"</string>
   <string name="login_failed_check_sys_time">"Ne mogu se prijaviti. Postavite vrijeme sustava vašeg uređaja na vrijeme koje pruža mreža."</string>
   <string name="logining">Prijava…</string>
-  <string name="look_device_list">Otkrij Mi Fit u blizini</string>
+  <string name="look_device_list">Otkrij Mi Band u blizini</string>
   <string name="look_weight_device_list">Prikaži vage u blizini</string>
-  <string name="lose_weight_succ">减肥成功</string>
-  <string name="lose_weight_succ_with_value">"减肥成功
-比目标轻%1$s"</string>
+  <string name="lose_weight_succ">Uspješno ste smršavili</string>
+  <string name="lose_weight_succ_with_value">"Lakše od
+ciljanog gubitka težine od %1$s"</string>
   <string name="losegoal_child_fat">"Vi ste preko svoje željene težine."</string>
   <string name="losegoal_child_heavy">"Vi ste preko svoje željene težine"</string>
   <string name="losegoal_child_normal">"Čestitamo! Vi ste na svojoj na željenoj težini."</string>
@@ -549,7 +548,7 @@ cilj za danas."</string>
   <string name="losegoal_light_female">"Vi ste ispod svoje željene težine"</string>
   <string name="losegoal_light_male">"Vi ste ispod svoje željene težine"</string>
   <string name="losegoal_normal">"Čestitamo! Vi ste na svojoj na željenoj težini."</string>
-  <string name="lost_weight_fail_with_value">还需减肥%1$s</string>
+  <string name="lost_weight_fail_with_value">Morate izgubiti %1$s na težini</string>
   <string name="main_ui_share_tips">"Vježbao sam %1$s%2$s danas.
 %3$s"</string>
   <string name="main_ui_sleep_share_tips">"Lagani san: %1$s%2$s
@@ -565,15 +564,15 @@ Zaspao u %3$s |Probudio se u %4$s"</string>
   <string name="mili_exit_login_info_continue">"Vaš najnoviji fitness podaci nisu sinkronizirani s vašim Mi Računom. Ako se odjavite sada, ti podaci će biti izgubljeni. "</string>
   <string name="mili_exit_login_info_continue_tip">Odjaviti se s Mi Računa?</string>
   <string name="mili_exit_login_info_exiting">Odjava…</string>
-  <string name="mili_exit_login_info_unbind">Odjava će odpariti Mi Fit s ovim uređajem</string>
-  <string name="mili_exit_login_info_unlock">"Nećete moći otključati ovaj uređaj koristeći svoj Mi Fit nakon znak odjave."</string>
-  <string name="mili_name">Naziv Mi Fita</string>
+  <string name="mili_exit_login_info_unbind">Odjava će odpariti Mi Band s ovim uređajem</string>
+  <string name="mili_exit_login_info_unlock">"Nećete moći otključati ovaj uređaj koristeći svoj Mi Band nakon znak odjave."</string>
+  <string name="mili_name">Naziv Mi Banda</string>
   <string name="mili_name_too_long">Naziv je predugačak.</string>
-  <string name="mili_rename_fail">"Ne mogu promijeniti ime Mi Fita."</string>
-  <string name="mili_reset_info">Resetirati Mi Fit na tvorničke postavke?</string>
-  <string name="mili_unbind_question">"Nakon što rasparite, vaš Mi Fit neće biti u mogućnosti snimati sport ili san."</string>
-  <string name="mili_unbind_question_content">Nakon rasparivanja, možete se upariti s novim Mi Fitom.</string>
-  <string name="mili_unbind_question_content_1">Funkcija otključavanja zaslona nije valjana nakon rasparivanja.</string>
+  <string name="mili_rename_fail">"Ne mogu promijeniti ime Mi Banda."</string>
+  <string name="mili_reset_info">Resetirati Mi Band na tvorničke postavke?</string>
+  <string name="mili_unbind_question">"Nakon što rasparite, vaš Mi Band neće biti u mogućnosti snimati sport ili san."</string>
+  <string name="mili_unbind_question_content">Nakon rasparivanja, možete se upariti s novim Mi Bandom.</string>
+  <string name="mili_unbind_question_content_1"/>
   <string name="mili_weight_unbind_info">"Vaš telefon se ne može povezati s vagom nakon rasparivanja, možete povezati druge vage kasnije."</string>
   <string name="minute"/>
   <string name="modify_gender">Spol</string>
@@ -586,10 +585,11 @@ Zaspao u %3$s |Probudio se u %4$s"</string>
   <string name="mon_sat">Pon. - Ned.</string>
   <string name="month"/>
   <string name="move_and_capture">Premjesti i snimi</string>
-  <string name="multi_devices_info">"Pobrinite se da ste barem 10 metara od ostalih Mi Fitova i pokušajte ponovno."</string>
-  <string name="multi_devices_title">Previše Mi Fitova u blizini</string>
+  <string name="multi_devices_info">"Pobrinite se da ste barem 10 metara od ostalih Mi Bandova i pokušajte ponovno."</string>
+  <string name="multi_devices_title">Previše Mi Bandova u blizini</string>
   <string name="multi_devices_weight_title">Uparivanje nije uspjelo</string>
   <string name="multi_weight_devices_info">Isklj./Uklj. Bluetooth i pokušajte ponovo.</string>
+  <string name="name">Ime</string>
   <string name="network_error">"Ne mogu se povezati s mrežom."</string>
   <string name="new_friend_accept">Prihvati</string>
   <string name="new_friend_cancel">Odbij</string>
@@ -614,13 +614,13 @@ Odlično!"</string>
   <string name="nogoal_light_female">Postavite cilj da vam pomogne u upravljanju vaše težine.</string>
   <string name="nogoal_light_male">Postavite cilj da vam pomogne u upravljanju vaše težine.</string>
   <string name="nogoal_normal">"Vi ste na svojoj željenoj težini."</string>
-  <string name="normal_figure">标准体型</string>
+  <string name="normal_figure">Normalno tijelo</string>
   <string name="not_fount_available_userinfo">"Ne mogu pronaći profil"</string>
   <string name="not_reach_goal">"Niste još postigli svoj cilj
-Nastavite tako"</string>
+Nastavite tako!"</string>
   <string name="noti_bracelet_low_battery_content">Baterija je na manje od 5%, priključite je na punjač</string>
-  <string name="noti_bracelet_low_battery_content_low">Morate napuniti bateriju vašeg Mi Fita.</string>
-  <string name="noti_bracelet_low_battery_content_mid">Morate napuniti bateriju vašeg Mi Fita</string>
+  <string name="noti_bracelet_low_battery_content_low">Morate napuniti bateriju vašeg Mi Banda.</string>
+  <string name="noti_bracelet_low_battery_content_mid">Morate napuniti bateriju vašeg Mi Banda</string>
   <string name="noti_bracelet_low_battery_title">Slaba baterija</string>
   <string name="noti_bracelet_low_battery_title_low">Mi Band je isključen.</string>
   <string name="noti_weight_low_battery_content">"Morate zamijeniti bateriju vage. Morat ćete ponovno upariti vage nakon promjene baterije."</string>
@@ -654,7 +654,7 @@ ili oko 8.000 koraka dnevno za aktivan, zdrav stil života. "</string>
 ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="personal_info">Profil</string>
   <string name="picker_menu_done">Dovršeno</string>
-  <string name="please_connect_internet">请联网操作</string>
+  <string name="please_connect_internet">Povežite se na mrežu</string>
   <string name="please_input_age">Dob</string>
   <string name="please_input_birthday">Rođendan</string>
   <string name="please_input_gender">Odaberite ​​spol</string>
@@ -688,7 +688,7 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="running_short_track_desc">Upravo ste se pomaknuli %d m. Jeste li sigurni da želite otkazati?</string>
   <string name="running_stop_sport_confirm">Sigurno želite završiti?</string>
   <string name="s_mili">Mi Band</string>
-  <string name="scan_label">将二维码放入框内，即可自动扫描</string>
+  <string name="scan_label">Skenirajte QR kod</string>
   <string name="search_again">Pokušaj ponovo</string>
   <string name="search_bracelet">Traženje...</string>
   <string name="search_bracelet_ok">Mi Band pronađen!</string>
@@ -711,21 +711,22 @@ učitan na poslužitelj."</string>
   <string name="set_goal_step">8000 koraka/dnevno</string>
   <string name="set_goal_weight_tips">Na temelju vaših podataka, vaša normalna težina je %1$s-%2$s%3$s.</string>
   <string name="set_length_unit">Postavite jedinicu duljine</string>
-  <string name="set_mili_name">Naziv Mi Fita</string>
-  <string name="set_mili_name_fail">"Ne mogu dati naziv Mi Fitu."</string>
-  <string name="set_mili_name_ok">Naziv Mi Fita prihvaćen!</string>
+  <string name="set_mili_name">Naziv Mi Banda</string>
+  <string name="set_mili_name_fail">"Ne mogu dati naziv Mi Bandu."</string>
+  <string name="set_mili_name_ok">Naziv Mi Banda prihvaćen!</string>
   <string name="set_person_goal">Postavite cilj</string>
   <string name="set_sport_goal">Postavite cilj</string>
   <string name="set_unit">Jedinice</string>
-  <string name="set_user_suc_tips">有了第一条称重记录，以后系统会自动识别属于你的称重记录，而且可以设置自己的体重控制目标哦。</string>
-  <string name="set_user_succ">创建成功</string>
+  <string name="set_user_suc_tips">Prva zabilježena težina će biti automatski identificirana kojem korisniku pripada, uključujući evidencije težine i visine, tako da možete držati provjeravati svoje ciljeve.</string>
+  <string name="set_user_succ">Uspješno postavljeno</string>
   <string name="set_weight_goal">Postavite cilj</string>
   <string name="set_weight_goal_no">"Nemoj postavljati"</string>
-  <string name="set_weight_goal_tips">%1$s，快来设置体重目标吧</string>
+  <string name="set_weight_goal_tips">%1$s, postavite ciljeve mršavljenja</string>
   <string name="set_weight_goal_yes">Postavite cilj težine</string>
   <string name="set_weight_unit">Postavite jedinicu težine</string>
   <string name="setgoalafterweight">Postavite vaš cilj nakon vaganja.</string>
   <string name="setting_about_app">Verzija </string>  
+  <string name="setting_about_fw">Verzija</string>
   <string name="setting_daily_sport_notify">Obavijest dnevnih sportskih rezultata</string>
   <string name="setting_daily_sport_notify_info">Podsjeti me u 9:30PM.</string>
   <string name="setting_feedback_address">Kontakt</string>
@@ -760,10 +761,10 @@ učitan na poslužitelj."</string>
   <string name="share_play_ground_format">" ili oko %1$s krugova oko igrališta."</string>
   <string name="share_qq_label">QQ</string>
   <string name="share_qq_zone_label">QZone</string>
-  <string name="share_sleep_description">"Dubok san: %1$sh %2$sm | Lagan san: %3$sh %4$sm.
+  <string name="share_sleep_description">"Dubok san: %1$ss %2$sm | Lagan san: %3$ss %4$sm.
 Zaspao u %5$s | Probudio se u %6$s"</string>
   <string name="share_sleep_description_average">"Prosjeci sna
-Dubok san: %1$sh %2$sm | Lagan san: %3$sh %4$sm.
+Dubok san: %1$ss %2$sm | Lagan san: %3$ss %4$sm.
 Zaspao u %5$s | Probudio se u %6$s"</string>
   <string name="share_sleep_title">Prošla noć</string>
   <string name="share_sleep_title_average">Pros. sna</string>
@@ -793,8 +794,8 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="share_to_miliao_target_feeds">Grupe</string>
   <string name="share_to_miliao_target_friends">Prijatelji</string>
   <string name="share_to_miliao_target_union">Prijatelji s vježbanja</string>
-  <string name="share_to_title">Mi Fit</string>
-  <string name="share_to_topic">\#Mi Fit</string>
+  <string name="share_to_title">Mi Band</string>
+  <string name="share_to_topic">\#Mi Band</string>
   <string name="share_uninstall_client">"Ova aplikacija nije instalirana."</string>
   <string name="share_weibo_label">Weibo</string>
   <string name="share_weixin_label">WeChat</string>
@@ -802,7 +803,7 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="signal_strength">Jačina signala: </string>
   <string name="signal_strong">Jak</string>
   <string name="signal_weak">Slab</string>
-  <string name="smaller_than_normal_with_value">低于标准%1$s</string>
+  <string name="smaller_than_normal_with_value">Ispod standarda %1$s</string>
   <string name="smart_alarm_clock">Alarm</string>
   <string name="smart_alarm_notify">Alarm</string>
   <string name="smart_wake_up">Alarm</string>
@@ -810,7 +811,7 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="sport_coming_soon">Dolazi uskoro!</string>
   <string name="sport_new_record_ropeskipping">Novi rekord</string>
   <string name="sport_ranking_desc_great">WOW, sada si nepobjediv!</string>
-  <string name="sport_ranking_desc_normal" formatted="false">Pobijedio &lt;b&gt;%s%&lt;/b&gt; si %s korisnika.</string>
+  <string name="sport_ranking_desc_normal" formatted="false">Pobijedili ste &lt;b&gt;%s&lt;/b&gt; od %s korisnika.</string>
   <string name="sport_ranking_desc_poor">Svaki %s korisnik te može pobijediti, zapni malo jače!</string>
   <string name="sport_running_altitude">Visina</string>
   <string name="sport_running_auto_pause">Auto Otkrivanje odmora</string>
@@ -947,10 +948,10 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="stop">Kraj</string>
   <string name="sure_to_delete_weight">Sigurno želite izbrisati zapise vaganja?</string>
   <string name="sync_to_server">Sink…</string>
-  <string name="system_low_info">Ažurirajte vaš uređaj na Android 4.4 verziju i višu za podršku Mi Fita.</string>
+  <string name="system_low_info">Ažurirajte vaš uređaj na Android 4.4 verziju i višu za podršku Mi Banda.</string>
   <string name="system_low_title">Ažurirajte vaš ​​sustav urađaja.</string>
   <string name="system_not_support_info">Morate ažurirati vaš uređaj na Android 4.4 verziju i višu.</string>
-  <string name="system_not_support_title">Android verzija ne podržava Mi Fit</string>
+  <string name="system_not_support_title">Android verzija ne podržava Mi Band</string>
   <string name="tag_action_tips">U %s procesu, držite MiBand i telefon udaljenim najmanje 5m.</string>
   <string name="tag_connection">Povezivanje MiBanda</string>
   <string name="tag_connection_f">Povezivanje nije uspjelo, pokušajte ponovo</string>
@@ -961,7 +962,7 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
 Držite MiBand i telefon udaljenim najmanje 5m."</string>
   <string name="tag_reconnect_notice">MiBand je ponovno povezan, pokušajte ponovo!</string>
   <string name="tag_waiting">Pričekajte molim...</string>
-  <string name="time_format_hour_min">%1$sh %2$sm</string>
+  <string name="time_format_hour_min">%1$ss %2$sm</string>
   <string name="time_format_min">%s min</string>
   <string name="tips">PODSJETNIK</string>
   <string name="title_action_tag_agreement">Uvjeti pružanja usluge</string>
@@ -996,7 +997,7 @@ Držite MiBand i telefon udaljenim najmanje 5m."</string>
   <string name="total_distance_format">Ukupna udaljenost: %s</string>
   <string name="ull_to_refresh_pull_label">Povucite za osvježiti</string>
   <string name="unbind">Raspari</string>
-  <string name="unbind_mili">Raspari Mi Fit</string>
+  <string name="unbind_mili">Raspari Mi Band</string>
   <string name="unbind_short">Raspari</string>
   <string name="unbind_weight_scale">Raspariti vage ?</string>
   <string name="unbinding">Rasparivanje…</string>
@@ -1004,7 +1005,7 @@ Držite MiBand i telefon udaljenim najmanje 5m."</string>
   <string name="unit_british_detail">Engleski (inča, milja)</string>
   <string name="unit_calorie">kal</string>
   <string name="unit_foot">Stopa</string>
-  <string name="unit_hour">h</string>
+  <string name="unit_hour">s</string>
   <string name="unit_inch">inch</string>
   <string name="unit_kilometer">km</string>
   <string name="unit_meter">m</string>
@@ -1012,25 +1013,25 @@ Držite MiBand i telefon udaljenim najmanje 5m."</string>
   <string name="unit_metric_detail">Metar (Metara, kilometara)</string>
   <string name="unit_mile">Milja</string>
   <string name="unit_min">min</string>
-  <string name="unit_min_short">min</string>
+  <string name="unit_min_short">m</string>
   <string name="unit_sec_short">s</string>
   <string name="unit_step">koraka</string>
   <string name="unit_weight">kg</string>
   <string name="unlock_for_smartlock_pair_fail_tip">"Ne mogu upariti"</string>
   <string name="unlock_for_smartlock_pair_start_tip">Uparivanje…</string>
-  <string name="unlock_for_smartlock_pair_success_tip">Mi Fit uparen, podesite sada Smart Lock</string>
+  <string name="unlock_for_smartlock_pair_success_tip">Mi Band uparen, podesite sada Smart Lock</string>
   <string name="unlock_for_smartlock_start_setting">Start</string>
   <string name="unlock_for_smartlock_tip">Za korištenje otključavanja, vaša aplikacija bi se trebala izvoditi u pozadini</string>
   <string name="unlock_for_smartlock_tip_step1">1. Idite na &lt;b&gt;Postavke&lt;/b&gt; - &lt;b&gt;Sigurnost&lt;/b&gt;</string>
   <string name="unlock_for_smartlock_tip_step2">2. Podesite &lt;b&gt;Zaklj. zaslona&lt;/b&gt; uzorak, PIN, ili zaporka</string>
   <string name="unlock_for_smartlock_tip_step3">3. Set &lt;b&gt;Smart&amp;#160;Lock&lt;/b&gt; to &lt;b&gt;Pouzdani uređaji&lt;/b&gt;</string>
   <string name="unlock_screen">Otključavanje zaslona</string>
-  <string name="unlock_screen_help_info0">Uvjerite se da se Mi Fit nalazi u blizini vašeg uređaja tijekom cijelog procesa uparivanja.</string>
+  <string name="unlock_screen_help_info0">Uvjerite se da se Mi Band nalazi u blizini vašeg uređaja tijekom cijelog procesa uparivanja.</string>
   <string name="unlock_screen_help_info1">Ponovno pokrenite Bluetooth isključivanjem/uključivanjem u Postavkama.</string>
-  <string name="unlock_screen_help_info2">Da resetirate otključavanje zaslona, idite u Postavke &gt; Bluetooth, zatim odaberite Zaboravi. Vratite se u Mi Fit aplikaciju i pokušajte podesiti ponovo otključavanje zaslona.</string>
+  <string name="unlock_screen_help_info2">Da resetirate otključavanje zaslona, idite u Postavke &gt; Bluetooth, zatim odaberite Zaboravi. Vratite se u Mi Band aplikaciju i pokušajte podesiti ponovo otključavanje zaslona.</string>
   <string name="unlock_screen_help_info3">Nakon ponovnog pokretanja uređaja, pokušajte koristiti svoj Mi Band da ga otključate.</string>
-  <string name="unlock_screen_help_tips">Otključaj uređaj putem Mi Fita.</string>
-  <string name="unlock_screen_help_title0">Je li vaš Mi Fit predaleko?</string>
+  <string name="unlock_screen_help_tips">Otključaj uređaj putem Mi Banda.</string>
+  <string name="unlock_screen_help_title0">Je li vaš Mi Band predaleko?</string>
   <string name="unlock_screen_help_title1">Ponovno pokrenite Bluetooth</string>
   <string name="unlock_screen_help_title2">Resetirajte otključavanje zaslona</string>
   <string name="unlock_screen_help_title3">Ponovno pokrenite i pokušajte onovo</string>
@@ -1052,13 +1053,13 @@ Držite MiBand i telefon udaljenim najmanje 5m."</string>
   <string name="upload_log">Pošalji dnevnik</string>
   <string name="upload_log_fail">Slanje dnevnika nije uspjelo, pokušajte ponovo.</string>
   <string name="upload_log_info">Pobrinite se šaljete dnevnik putem WiFi veze, potvrđujte?</string>
-  <string name="upload_log_ok">Dnevnik uspješno poslan, hvala！</string>
+  <string name="upload_log_ok">Dnevnik uspješno poslan, hvala!</string>
   <string name="uploaded">Poslano:</string>
   <string name="user_agreement">Uvjeti korištenja usluge i Pravila o privatnosti</string>
   <string name="user_agreement_play">Uvjeti korištenja usluge i Pravila o privatnosti</string>
-  <string name="user_agreement_prefix">"Da biste koristili ovaj proizvod, morate pristati na naše
+  <string name="user_agreement_prefix">"Za korištenje ovog proizvoda, morate se složiti s našim
 "</string>
-  <string name="user_agreement_ux">Pridružite se UX Improvement Program</string>
+  <string name="user_agreement_ux">Program iskustava korisnika</string>
   <string name="user_set_succ_info">请打开%1$sAPP完成第一次称重</string>
   <string name="user_staron_me">Sljedbenici</string>
   <string name="vibrate_notify">Vibriracija kod obavijesti</string>
@@ -1068,7 +1069,7 @@ Držite MiBand i telefon udaljenim najmanje 5m."</string>
   <string name="visitor_weight">Težina</string>
   <string name="wait">Pričekajte trenutak…</string>
   <string name="walked">Prohodano </string>
-  <string name="watermark_btn_confirm">Potvrdi</string>
+  <string name="watermark_btn_confirm">U redu</string>
   <string name="watermark_guide_tips">Pritisni za premještanje</string>
   <string name="watermark_search_location">\#Učitavanje vaše lokacije#</string>
   <string name="wear_hand">Zglob</string>
@@ -1120,9 +1121,9 @@ Držite MiBand i telefon udaljenim najmanje 5m."</string>
   <string name="weight_low_battery">Slaba baterija, promijenite je.</string>
   <string name="weight_measure">Vaganje</string>
   <string name="weight_not_found_info">Ostanite u blizini vage</string>
-  <string name="weight_not_found_title">Vaga nije pronađena</string>
+  <string name="weight_not_found_title">Mi Vaga nije pronađena</string>
   <string name="weight_not_response">Vaga ne odgovara</string>
-  <string name="weight_overload_confirm">OK</string>
+  <string name="weight_overload_confirm">U redu</string>
   <string name="weight_overload_content">"Težina na vagi ne može premašivati 150kg"</string>
   <string name="weight_overload_title">Težina premašena na vagi</string>
   <string name="weight_report_suggest">Komentari:</string>
@@ -1138,7 +1139,7 @@ Držite MiBand i telefon udaljenim najmanje 5m."</string>
   <string name="weight_unbind_question">"Vaš Mi Band neće moći snimiti podatke vaše težine."</string>
   <string name="weight_unbinded">Raspari vagu</string>
   <string name="weight_unit_british">British(Pounds)</string>
-  <string name="weight_unit_metric">Metric (kilogrami, kg)</string>
+  <string name="weight_unit_metric">Metrički (kilogrami, kg)</string>
   <string name="weight_unit_shijin">Pola kilograma (1/2 kg = 500 grama)</string>
   <string name="weight_unit_text_info">Vage su uparene, koristiti će se jedinica težine podešena na vagi. Otvorite poklopac pretinca za baterije na stražnjoj ploči za resetiranje ili podesite jedinicu težine.</string>
   <string name="weight_weighting_now">Vaganje...</string>

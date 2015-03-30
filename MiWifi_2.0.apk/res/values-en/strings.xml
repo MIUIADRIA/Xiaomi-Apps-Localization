@@ -491,7 +491,7 @@ have already opened 2.4GHz WiFi or click "Reconnect" "</string>
     <string name="download_downloaded">Downloads</string>
     <string name="download_downloaded_item_menu_download">Download to phone</string>
     <string name="download_downloaded_item_menu_open">Open</string>
-    <string name="download_downloading">Downloading</string>
+    <string name="download_downloading">Download</string>
     <string name="download_downloading_item_menu_pause">Paused</string>
     <string name="download_downloading_item_menu_restart">Restart</string>
     <string name="download_downloading_item_menu_resume">Resume</string>

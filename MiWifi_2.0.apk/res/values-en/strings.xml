@@ -764,7 +764,7 @@ other functions are the same as the Administrator"</string>
     <string name="login_account_prompt">Account name</string>
     <string name="login_auto_bind_failed">Automatic pairing failed</string>
     <string name="login_auto_bind_waiting">Waiting to pair automatically</string>
-    <string name="login_bootstrap">Setting up new Mi router</string>
+    <string name="login_bootstrap">Set up new Mi router</string>
     <string name="login_captcha_code_fail">Please enter valid verification code</string>
     <string name="login_captcha_code_hint">Please input verification code</string>
     <string name="login_captcha_code_prompt">Verification code</string>

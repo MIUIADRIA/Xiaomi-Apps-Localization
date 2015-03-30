@@ -55,7 +55,7 @@
     <string name="backup_directories_changed">Backup directories updated successfully</string>
     <string name="backup_disabled_for_low_battery">Low battery, please connect to power to allow backup to start automatically</string>
     <string name="backup_empty_backup_directories">Backup range is empty</string>
-    <string name="backup_empty_backup_range">Empty</string>
+    <string name="backup_empty_backup_range">Nothing selected</string>
     <string name="backup_enable_auto_on_new_storage_confirm_message">Storage device changed, do you want to backup to this new disk?</string>
     <string name="backup_error_no_router_space">Insufficient storage space on router</string>
     <string name="backup_error_x">Backup failed with error code: %d, please try again</string>
@@ -764,7 +764,7 @@ other functions are the same as the Administrator"</string>
     <string name="login_account_prompt">Account name</string>
     <string name="login_auto_bind_failed">Automatic pairing failed</string>
     <string name="login_auto_bind_waiting">Waiting to pair automatically</string>
-    <string name="login_bootstrap">Set up new Mi router</string>
+    <string name="login_bootstrap">Setup new Mi router</string>
     <string name="login_captcha_code_fail">Please enter valid verification code</string>
     <string name="login_captcha_code_hint">Please input verification code</string>
     <string name="login_captcha_code_prompt">Verification code</string>
@@ -803,7 +803,7 @@ other functions are the same as the Administrator"</string>
     <string name="main_handle_account_exception">An execption has occurred, please sign in again</string>
     <string name="main_invitation_text">Mi router has been shared by %s</string>
     <string name="main_invitation_view">View</string>
-    <string name="main_personal_center">Personal center</string>
+    <string name="main_personal_center">Mi profile</string>
     <string name="main_rom_incompatible">Mi WiFi 2.0 ROM is required</string>
     <string name="main_router_offline">(Offline)</string>
     <string name="main_router_setting">Advanced settings</string>
@@ -987,7 +987,7 @@ are you sure you want to shutdown?"</string>
     <string name="tool_detail_install">Add to toolbox</string>
     <string name="tool_detail_title">Tool details</string>
     <string name="tool_download_barcoe">Scan QR code to download</string>
-    <string name="tool_goto_market">Open plug-ins market</string>
+    <string name="tool_goto_market">Open tools market</string>
     <string name="tool_has_update_title">Update tips</string>
     <string name="tool_info_intro">Features</string>
     <string name="tool_info_intro_detail">"%1$s
@@ -1004,7 +1004,7 @@ Updated: %3$s"</string>
     <string name="tool_market_install">Install</string>
     <string name="tool_market_installed_title">Installed</string>
     <string name="tool_market_installing">Installing...</string>
-    <string name="tool_market_not_installed_title">Nothing installed</string>
+    <string name="tool_market_not_installed_title">Not installed</string>
     <string name="tool_market_title_resource">Resources list</string>
     <string name="tool_market_title_tool">Tools list</string>
     <string name="tool_market_uninstall">Remove</string>
@@ -1019,11 +1019,11 @@ Updated: %3$s"</string>
     <string name="tool_qos">QoS</string>
     <string name="tool_qos_description">According to the set mode, bandwidth will be automatically assigned to all devices</string>
     <string name="tool_router_reboot_timer">Restart timer</string>
-    <string name="tool_router_reboot_timer_desc">Automatically power on Mi router when required, helps to keep in good working condition</string>
-    <string name="tool_router_reboot_timer_switch_hint">Time to restart the Mi router</string>
+    <string name="tool_router_reboot_timer_desc">Automatically power on Mi router when required</string>
+    <string name="tool_router_reboot_timer_switch_hint">Mi router reboot timer</string>
     <string name="tool_router_shutdown_timer">Shutdown timer</string>
     <string name="tool_router_shutdown_timer_desc">Automatically power off Mi router when not in use. Also helps to recude power consumption</string>
-    <string name="tool_router_shutdown_timer_switch_hint">Router auto shutdown timer</string>
+    <string name="tool_router_shutdown_timer_switch_hint">Auto shutdown timer</string>
     <string name="tool_time_setting">Timer settings</string>
     <string name="tool_time_setting_end">End time</string>
     <string name="tool_time_setting_end_shutdown">End time</string>
@@ -1041,7 +1041,7 @@ Updated: %3$s"</string>
     <string name="tool_timer_saving">Saving settings</string>
     <string name="tool_timer_saving_fail">Failed to save settings</string>
     <string name="tool_timer_time_not_setting">Not set</string>
-    <string name="tool_timer_time_setting">Time settings</string>
+    <string name="tool_timer_time_setting">Timer settings</string>
     <string name="tool_timer_workday">Working day</string>
     <string name="tool_uninstall_preinstalled">The plug-in is a system plug-in, uninstalling it will result in possible system problems. Unable to uninstall</string>
     <string name="tool_update_1click_update">One click update</string>
@@ -1071,7 +1071,7 @@ app and Mi router functions remain compatible"</string>
     <string name="tool_update_select_time">Select time</string>
     <string name="tool_update_setting">Update settings</string>
     <string name="tool_update_success">Update successful</string>
-    <string name="tool_update_time_setting">Time settings</string>
+    <string name="tool_update_time_setting">Timer settings</string>
     <string name="tool_update_week_report">Weekly router report</string>
     <string name="tool_update_week_report_desc">Weekly Mi router statistics every Friday</string>
     <string name="tool_uploading">Uploading installation package...</string>

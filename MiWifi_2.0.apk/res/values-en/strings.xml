@@ -156,7 +156,7 @@
     <string name="block_enable_no_disturb_mode">Open DND mode</string>
     <string name="block_enable_no_disturb_mode_failed_for_hitch_hiker_not_enabled">Please enable the anti-leech function in Advanced settings</string>
     <string name="block_enable_wifi_access_forbid_wifi">Open WiFi access blocklist</string>
-    <string name="block_feature_disabled_for_working_under_white_list_mode">当前路由器设置为白名单模式，防蹭网不生效，请在网页管理后台设置修改后使用。</string>
+    <string name="block_feature_disabled_for_working_under_white_list_mode">Router is currently set to whitelist mode, anti-leech mode will not take effect.</string>
     <string name="block_hitch_hiker">Block device</string>
     <string name="block_hitch_hiker_description">Notification for unidentified device, one key block function, never worry again</string>
     <string name="block_hitch_hiker_device_list">Blocked device list</string>

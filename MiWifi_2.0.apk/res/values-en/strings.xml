@@ -32,9 +32,9 @@
     <string name="admin_new_password">New password</string>
     <string name="admin_new_password_confirm">Confirm new password</string>
     <string name="admin_new_password_confirm_hint">Input the new password to confirm</string>
-    <string name="admin_new_password_hint">Please input at least 8 characters or more for password</string>
+    <string name="admin_new_password_hint">Input 8 characters or more for password</string>
     <string name="admin_old_password">Old password</string>
-    <string name="admin_old_password_hint">Enter current password</string>
+    <string name="admin_old_password_hint">Input current password</string>
     <string name="application_feedback">Feedback</string>
     <string name="application_storage_low">Lack of storage space, and some functions are not available, please clean up as soon as possible</string>
     <string name="auto_switch_prompt">Automatically switch to router under %1$s network</string>
@@ -489,7 +489,7 @@ have already opened 2.4GHz WiFi or click "Reconnect" "</string>
     <string name="download_delete_reminder">Are you sure you want to delete the selected task?</string>
     <string name="download_delete_success">Deleted successfully</string>
     <string name="download_delete_task_error">Failed to delete task, please check network and try again</string>
-    <string name="download_downloaded">Downloaded</string>
+    <string name="download_downloaded">Downloads</string>
     <string name="download_downloaded_item_menu_download">Download to phone</string>
     <string name="download_downloaded_item_menu_open">Open</string>
     <string name="download_downloading">Downloading</string>
@@ -705,7 +705,7 @@ search online to find new movies"</string>
     <string name="file_volume_unmount_success">Successfully unmounted</string>
     <string name="file_volume_usb">USB storage</string>
     <string name="file_width_height">Size: %s</string>
-    <string name="guideview_block_wifi_hitchhiker_description1">Network speed becomes slow for no reason，the whole family network becomes unsafe</string>
+    <string name="guideview_block_wifi_hitchhiker_description1">Keep your network and family safe when using the Internet</string>
 	<string name="guideview_block_wifi_hitchhiker_description2">Block unwanted WiFi users from accessing network</string>
     <string name="guideview_block_wifi_hitchhiker_title">Prevent unwanted network users</string>
     <string name="guideview_download_description1">Find Movies or TV series</string>
@@ -800,7 +800,7 @@ other functions are the same as the Administrator"</string>
     <string name="main_auto_switch_after_unbind">Unpaired successfully, channel changed to %s automatically</string>
     <string name="main_client">Routing</string>
     <string name="main_download">Download</string>
-    <string name="main_file">File</string>
+    <string name="main_file">Folders</string>
     <string name="main_handle_account_exception">An execption has occurred, please sign in again</string>
     <string name="main_invitation_text">Mi router has been shared by %s</string>
     <string name="main_invitation_view">View</string>
@@ -987,7 +987,7 @@ are you sure you want to shutdown?"</string>
     <string name="tool_detail_install">Add to toolbox</string>
     <string name="tool_detail_title">Tool details</string>
     <string name="tool_download_barcoe">Scan QR code to download</string>
-    <string name="tool_goto_market">Open market</string>
+    <string name="tool_goto_market">Open Mi router plug-ins market</string>
     <string name="tool_has_update_title">Update tips</string>
     <string name="tool_info_intro">Features</string>
     <string name="tool_info_intro_detail">"%1$s
@@ -1046,7 +1046,7 @@ Updated: %3$s"</string>
     <string name="tool_update_assistant">Update assistant</string>
     <string name="tool_update_assistant_desc">Check version information</string>
     <string name="tool_update_auto">Automatic update</string>
-    <string name="tool_update_auto_hint">Select check time for automatic updates</string>
+    <string name="tool_update_auto_hint">Select automatic update time</string>
     <string name="tool_update_auto_time">%1$s %2$d:00 automatic update</string>
     <string name="tool_update_check_fail">Failed to check for update, please try again</string>
     <string name="tool_update_check_update">Check for update</string>

@@ -24,6 +24,8 @@
   <string name="buzzer_volume_mute">Utišaj</string>
   <string name="camera_firmware_upgrade">Ažuriranje upravljačkog softvera</string>
   <string name="camera_firmware_v">Verzija upravlj. soft. Kamere</string>
+  <string name="camera_start_fw_update">Firmware Kamere se ažurira</string>
+  <string name="camera_start_usb_storage_mode">Kamera spojena na USB</string>
   <string name="can_not_piv">Snimanje se može koristiti samo za vrijeme snimanja.</string>
   <string name="can_not_piv_in_current_resolution">Trenutna rezolucija nije podržana.</string>
   <string name="cancel">Odustani</string>
@@ -100,7 +102,7 @@
   <string name="googleplus">Google+</string>
   <string name="high_definition">HD</string>
   <string name="hint_password">Nova zaporka</string>
-  <string name="hint_ssid">uNESITE Wi-Fi SSID</string>
+  <string name="hint_ssid">Unesite Wi-Fi SSID</string>
   <string name="ib_back_contentdescription">Gumb Natrag</string>
   <string name="ib_back_photo_show_contentdescription">Natrag</string>
   <string name="ib_back_video_show_contentdescription">Natrag</string>
@@ -200,18 +202,18 @@
   <string name="open_camera">Uključi kameru</string>
   <string name="open_camera_message">Pritisni Uklj./Isklj. gumb za start</string>
   <string name="open_wifi">Uključi WiFi</string>
-  <string name="open_wifi_message">Dugo pritisnite WiFi gumb sa strane sve dok ne zasvijetli plavo svjetlo.</string>
+  <string name="open_wifi_message">Dugi pritisak WiFi gumb sa strane sve dok ne zasvijetli plavo svjetlo.</string>
   <string name="operation_failed">Radnja nije uspjela</string>
   <string name="password_format_error">Zaporka mora biti između 8-64 znamenaka s brojevima i znakovima, bez razmaka.</string>
   <string name="password_is_empty">Unesite zaporku</string>
-  <string name="pic_second">fotog. po sek..</string>
-  <string name="pic_two_second">fotog. svake 2 sek..</string>
+  <string name="pic_second">fotog. po sek.</string>
+  <string name="pic_two_second">fotog. svake 2 sek.</string>
   <string name="pinterest">Pinterest</string>
   <string name="pinterest_client_inavailable">Pinterest klijent nije instaliran ili je verzija prestara</string>
   <string name="piv_complete">Uspješno snimljeno!</string>
   <string name="piv_issue">Ne mogu snimiti.</string>
   <string name="piv_not_allowed">Snimanje nije uspjelo.</string>
-  <string name="please_disconnect_camera">Isključite s vaše kamere.</string>
+  <string name="please_disconnect_camera">Isključite vezu s vašom kamerom.</string>
   <string name="please_input_contact">Vaše kontakt informacije</string>
   <string name="please_input_feedback">Kako vam možemo pomoći?</string>
   <string name="please_insert_sdcard">Umetnite SD karticu.</string>
@@ -315,6 +317,7 @@
   <string name="setting_camera">Kamera</string>
   <string name="setting_camera_clock">Sat kamere</string>
   <string name="setting_capture_default_mode">Zadani način snimanja</string>
+  <string name="setting_cloud_album">Cloud albumi</string>
   <string name="setting_common_problem">P &amp; O</string>
   <string name="setting_device">Uređaji</string>
   <string name="setting_failed">Ažuriranje postavki nije uspjelo.</string>
@@ -334,6 +337,7 @@
   <string name="setting_start_wifi_while_booted">Automatski pokrenui WiFi kod uključivanja</string>
   <string name="setting_sw_version">Verzija upravlj. softvera</string>
   <string name="setting_system_default_mode">Zadani način pokretanja kamere</string>
+  <string name="setting_timeout">Isteklo je vrijeme za ažuriranje postavki</string>
   <string name="setting_unsupported_resolution">Trenutna rezolucija ne ispunjava uvjete za autom. slabijem osvjetljenjem.</string>
   <string name="setting_user_guide">Korisnički priručnik</string>
   <string name="setting_video">Video</string>
@@ -386,7 +390,7 @@
   <string name="take_photo_failed">Nije uspjelo snimanje slike.</string>
   <string name="template">Predložak</string>
   <string name="tencentweibo">Tencent Weibo</string>
-  <string name="text_password">WiFi zaporks</string>
+  <string name="text_password">WiFi zaporka</string>
   <string name="text_ssid">WiFi SSID</string>
   <string name="this_app_not_installed">Ova aplikacija ne postoji.</string>
   <string name="time">Vrijeme</string>
@@ -510,6 +514,7 @@ telefona"</string>
   <string name="weibo_upload_content">Podijeli sliku</string>
   <string name="whatsapp">WhatsApp</string>
   <string name="whatsapp_client_inavailable">WhatsApp klijent ne postoji ili je verzija prestara</string>
+  <string name="wifi_authenticate_failed">WiFi Autentikacija nije uspjela, provjerite zaporku i pokušajte ponovo.</string>
   <string name="wifi_connect_failed">Nije povezano</string>
   <string name="wifi_connect_failed_solution">Provjerite je li vaš telefon je povezan s kamerom. Svjetlo WiFi-ja će zasvijetliti kada su povezani.</string>
   <string name="wifi_invalidate_password">WiFi zaporka nije točna.</string>
@@ -521,7 +526,7 @@ telefona"</string>
   <string name="wifi_set_title">WiFi postavke</string>
   <string name="wrap_enable">Ispravljanje objektiva</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_external_storage_unavailable">Vanjska memorija nedostupna, provjerite SD karticu</string>
+  <string name="xiaomi_external_storage_unavailable">Vanjska memorija nije dostupna, provjerite SD karticu</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_login">Prijava u Mi Račun</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>

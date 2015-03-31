@@ -28,7 +28,7 @@
   <string name="abs__searchview_description_submit">Pošalji upit</string>
   <string name="abs__searchview_description_voice">Glasovna pretraga</string>
   <string name="abs__shareactionprovider_share_with">Podijeli s</string>
-  <string name="abs__shareactionprovider_share_with_application">Share with %s</string>
+  <string name="abs__shareactionprovider_share_with_application">Podijeli s %s</string>
   <string name="account_format_err">Format E-pošte nije valjani</string>
   <string name="account_length_err">Duljina naziva računa nije valjan (1-40 brojeva)</string>
   <string name="account_must_email">Račun mora koristiti adresu e-pošte</string>
@@ -51,13 +51,20 @@
   <string name="app_slogan">Ponesite Yo SmallAnts kameru sa sobom gdje god krenuli</string>
   <string name="app_upgrade">Ažuriraj aplik.</string>
   <string name="back_start_upload_share">Početak učitavanja u pozadini...</string>
+  <string name="baike">XiaoYi baza znanja</string>
   <string name="barcode_add">Dodaj koristeći QR code</string>
   <string name="best_music_software">Najbolji glazbeni program na Androidu</string>
   <string name="best_recommend">Preporučeno</string>
   <string name="bind">Poveži</string>
   <string name="bind_failed">Povezivanje nije uspjelo!</string>
   <string name="bind_success">Uspješno povezano!</string>
+  <string name="blue_1">Mirno plava boja LED-a pokazuje da je kamera uspješno je povezana na WiFi</string>
+  <string name="blue_2">Kada čujete \"Uspješno povezano\", kamera je uspješno povezana na poslužitelj</string>
+  <string name="blue_shan">Trepćeća plava boja LED-a pokazuje da se kamera pokušava povezati na WiFi</string>
   <string name="bluetooth_add">Dodaj Bluetooth</string>
+  <string name="btnCheckError">Provjeri pogreške</string>
+  <string name="btnHearConnectSuccess">Heard je uspješno povezan</string>
+  <string name="btnHearWifiPasswordError">Heard WiFi zaporka nije točna</string>
   <string name="btn_gotofaq">FAQ</string>
   <string name="button_back">Natrag</string>
   <string name="button_camera_upgrade">Ažuriraj</string>
@@ -66,6 +73,9 @@
   <string name="button_prev">Preth.</string>
   <string name="button_reconfig">Traži ponovo</string>
   <string name="button_start_camera">Start</string>
+  <string name="button_voice_no">Nema glasovnih uputa</string>
+  <string name="button_voice_no_count_down">"Niste čuli glasovne upute (15s)"</string>
+  <string name="button_voice_yes">Već ste čuli glasovne upute</string>
   <string name="by_device">Po uređaju</string>
   <string name="by_time">Po vremenu</string>
   <string name="camer_offline">Izvanmrežno</string>
@@ -163,8 +173,8 @@
   <string name="checknet_internet_category">Internet kategorija:</string>
   <string name="checknet_internetcheck_packet_loss_rate">Packet loss rate:</string>
   <string name="checknet_internetcheck_packet_loss_rate1">Packet loss rate1:</string>
-  <string name="checknet_intranetCheck_deputy_stream_loss_rate">Normal video —— packet loss rate:</string>
-  <string name="checknet_intranetCheck_main_stream_loss_rate">High-definition video —— packet loss rate:</string>
+  <string name="checknet_intranetCheck_deputy_stream_loss_rate">Normalni video —— packet loss rate:</string>
+  <string name="checknet_intranetCheck_main_stream_loss_rate">HD Video —— packet loss rate:</string>
   <string name="checknet_intranetCheck_statistical_internet_info">Internet statistika</string>
   <string name="checknet_intranetCheck_time_delaied">Odgoda:</string>
   <string name="checknet_intranetCheck_time_delay">Odgoda:</string>
@@ -183,6 +193,7 @@
   <string name="company_telephone">Telefon: 400-920-6788</string>
   <string name="company_website">Web stranica: http://www.360ants.com</string>
   <string name="configing_camera">Konfiguracija kamere...</string>
+  <string name="confirm_exit_camera_config">Jeste li sigurni da želite izaći konfiguracije Kamere?</string>
   <string name="connect_to_wifi_msg">Povežite telefon na WiFi mrežu</string>
   <string name="connect_to_wifi_title">Povežite na WiFi mrežu</string>
   <string name="connecting">Povezivanje</string>
@@ -329,13 +340,15 @@ Provjerite mrežnu vezu i pokušajte ponovno"</string>
   <string name="msg_default_status">Stavite QR kod sa stražnje kamere u vaš okvir gledanja da ga skenirate</string>
   <string name="multi_share">Dijeljenje fotografija</string>
   <string name="my_ap_not_found">"Ne mogu pronaći kameru, provjerite je li LED kamere narančaste boje i duže vrijeme svijetli
-	1. Ako da, dodajte UI kamere, i potvrdite ponovno 
-	2. Ako ne,isključite kameru iz el. energije i pričekajte ponovno podizanje sustava dok LED ne promijeni boju u narančastu, i duže vrijeme svijetli"</string>
+	1. Ako je da, dodajte UI kamere, i potvrdite ponovno 
+	2. Ako je ne, isključite kameru iz el. energije i pričekajte ponovno podizanje sustava dok LED ne promijeni boju u narančastu, i duže vrijeme svijetli"</string>
   <string name="my_camera">Yi SmallAnts kamera</string>
   <string name="my_camera_description">Detalji kamere</string>
   <string name="name_drift_bottle">Ime: boca loze</string>
   <string name="neteasemicroblog">Netease Weibo</string>
   <string name="network_error">Mreža nije dostupna, pokušajte ponovo</string>
+  <string name="network_invaid_msg">Nije moguće povezivanje s poslužiteljem, provjerite mrežnu vezu</string>
+  <string name="network_invaid_title">Mreža nije dostupna</string>
   <string name="new_alarm_setting">Novo vrijeme alarma</string>
   <string name="new_version_no">Nova verzija</string>
   <string name="nickname">Nadimak</string>
@@ -344,6 +357,7 @@ Provjerite mrežnu vezu i pokušajte ponovno"</string>
   <string name="no_camera_found">Nema pronađenih kamera!</string>
   <string name="no_device_found">Nema otkrivenih kamera!</string>
   <string name="no_event_found">Nema pronađenih povijesti videozapisa!</string>
+  <string name="no_network">Nema mrežne veze</string>
   <string name="no_photo">Nema fotografija</string>
   <string name="no_share_user">Kamera se ne dijeli s drugima</string>
   <string name="no_video">Nema videozapisa...</string>
@@ -409,7 +423,9 @@ Provjerite mrežnu vezu i pokušajte ponovno"</string>
   <string name="repassword">Potrvdite zaporku</string>
   <string name="replay_failed">Emitiranje nije uspjelo</string>
   <string name="research">Traži ponovo</string>
-  <string name="reset_wait_relax">"Resetirajte umetanjem klina u otvor za resetiranje.
+  <string name="reset_camera">"Resetirajte kameru umetanjem igle u otvor za resetiranje,
+pritisnite i držite dok boja LED-a ne promijeni boju u žutu"</string>
+  <string name="reset_wait_relax">"Resetirajte umetanjem igle u otvor za resetiranje.
 Otpustite nakon čekanja da svjetlo promijeni boju u narančastu"</string>
   <string name="resolution_auto">Auto</string>
   <string name="resolution_high">Visoko</string>
@@ -417,6 +433,7 @@ Otpustite nakon čekanja da svjetlo promijeni boju u narančastu"</string>
   <string name="resolution_normal">Normalno</string>
   <string name="rightnow_connect">Poveži sada</string>
   <string name="room">Soba</string>
+  <string name="run_score">Pokreni rezultat</string>
   <string name="save">Spremi</string>
   <string name="scan_the_qr_code">"Skenirajte QR kod stražnjom stranom kamere"</string>
   <string name="sdcard_free_size">Dostupan prostor za pohranu</string>
@@ -563,6 +580,7 @@ Molimo vas da se uvjerite da ne podijelite video sadržaj bez povrede nečije pr
   <string name="tips_wifi_disconnect">Veza prekinuta</string>
   <string name="tips_wifi_name">Unesite naziv WiFi-ja</string>
   <string name="tips_wifi_password">Unesite zaporku WiFi-ja</string>
+  <string name="tips_wifi_password_incorrect">Small Ants camera ne prepoznaje trenutnu WiFi zaporku</string>
   <string name="title">Naslov</string>
   <string name="title_add_device">Dodaj novu kameru</string>
   <string name="title_camera_config">Konfiguracija kamere</string>
@@ -642,6 +660,7 @@ Molimo vas da se uvjerite da ne podijelite video sadržaj bez povrede nečije pr
   <string name="user_feedback">Povratne informacije</string>
   <string name="user_input_uid">&lt;a href="#"&gt;Što učiniti ako skeniranje nije uspjelo?&lt;/a&gt;</string>
   <string name="user_login_in_other_device">Trenutni račun je prijavljen negdje drugdje</string>
+  <string name="user_login_in_session_time">Trenutno vrijeme sesije je isteklo, prijavite se ponovno</string>
   <string name="user_tips">Kliknite ovdje za dodavanje kamere</string>
   <string name="user_tips2">Doživljaj Yi SmallAnts kamere</string>
   <string name="userinfo_account_qq">QQ Zone</string>
@@ -680,6 +699,7 @@ Molimo vas da se uvjerite da ne podijelite video sadržaj bez povrede nečije pr
   <string name="wifi_name">WiFi SSID</string>
   <string name="wifi_password">WiFi zaporka</string>
   <string name="wifi_reconfig">Postavke WiFi kamere</string>
+  <string name="wifi_wrong">Glasovna WiFi zaporka nije točna?</string>
   <string name="winexperience_activity_title">Provjeri aktivnost</string>
   <string name="winexperience_cannot_check_in_connecting">Ne mogu povezati s kamerom, pokušajte ponovo</string>
   <string name="winexperience_connecting_btntxt">Poveži</string>
@@ -728,6 +748,8 @@ Molimo vas da se uvjerite da ne podijelite video sadržaj bez povrede nečije pr
   <string name="winexperience_tfcardstate_title">Status TF kartice</string>
   <string name="winexperience_waiting_check">Čekanje...</string>
   <string name="work_day">Dani</string>
+  <string name="wrong_wifi_ssid_msg">Small Ants camera podržava samo engleske nazive s brojevima za WiFi naziv</string>
+  <string name="wrong_wifi_ssid_title">Format WiFi naziva nije valjani</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_external_storage_unavailable">Pohrana trenutno nije dostupna</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>

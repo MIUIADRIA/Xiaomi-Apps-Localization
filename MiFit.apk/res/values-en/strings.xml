@@ -800,7 +800,6 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="share_weibo_label">Weibo</string>
   <string name="share_weixin_label">WeChat</string>
   <string name="signal_none">Off</string>
-  <string name="signal_none">None</string>
   <string name="signal_strength">"Signal strength: "</string>
   <string name="signal_strong">Strong</string>
   <string name="signal_weak">Weak</string>

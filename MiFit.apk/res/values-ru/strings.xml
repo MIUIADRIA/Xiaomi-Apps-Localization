@@ -276,7 +276,7 @@
      <string name="dynamic_title_step">Сегодня</string>
      <string name="dynamic_title_weight">Вес</string>
      <string name="dynamic_title_weight_not_nearby">Весы не рядом</string>
-     <string name="dynamic_title_weight_unbind">Отменить сопряжение</string>
+     <string name="dynamic_title_weight_unbind">Весы не подключены</string>
      <string name="enable_debug_log">Включен режим разработчика</string>
      <string name="enable_hidden_feature">Скрытие активности включено</string>
      <string name="equal_last_time">То же, что в прошлом взвешивание</string>

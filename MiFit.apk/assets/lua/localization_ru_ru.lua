@@ -242,7 +242,7 @@ localization_ru_rRU_table = {
     not_binded_hint="Браслет не подключен к этому аккаунту",
 	not_binded_hint_info="Вы также можете выбрать весы в меню",
     new_record_info="Новый рекорд!",
-    new_record_format="%d шаг., %s %d",
+    new_record_format="%d шагов, %s %d",
     today_goal_reached="Сегодня Вы достигли свою цель!",
 	today_goal_reached_click_info="Нажмите, чтобы посмотреть",
     week_continue_reach_goal="Вы",
@@ -304,6 +304,7 @@ localization_ru_rRU_table = {
 	
 	--------------- Весы -------------------
     welcome_use_weight_scale = "Привет!",
+	welcome_use_weight_scale_info = "Узнайте больше о весах",
     welcome_use_weight_scale_not_bind = "Нажмите для добавления весов",
     welcome_use_mi_health="Привет!",
 	

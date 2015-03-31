@@ -1,10 +1,10 @@
 -------------------------
 -- Russian Localization String resources
--- MIUIpro, ltd. (2014 - 2015)
--- malchik-solnce
--- 20140808
+-- Huami Co, ltd. (2014)
+-- Herbert dai
+-- 20140731
 -------------------------
-localization_English_table = {
+localization_ru_rRU_table = {
     calories_table={
         {str="≈ Огурец грунт. (100г)",	calories=14},
 		{str="≈ Бульон куриный (100г)",	calories=15},

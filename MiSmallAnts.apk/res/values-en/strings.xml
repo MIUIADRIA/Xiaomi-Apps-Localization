@@ -9,7 +9,7 @@
   <string name="UMNewVersion">Latest version:</string>
   <string name="UMNotNow">Remind later</string>
   <string name="UMTargetSize">New version size:</string>
-  <string name="UMToast_IsUpdating">Updating....</string>
+  <string name="UMToast_IsUpdating">Updating...</string>
   <string name="UMUpdateContent">Update details</string>
   <string name="UMUpdateNow">Update</string>
   <string name="UMUpdateSize">Update size:</string>
@@ -30,7 +30,7 @@
   <string name="abs__shareactionprovider_share_with">Share with</string>
   <string name="abs__shareactionprovider_share_with_application">Share with %s</string>
   <string name="account_format_err">E-mail format is invalid</string>
-  <string name="account_length_err">Account name length invalid （1-40 digits）</string>
+  <string name="account_length_err">Account name length invalid (1-40 digits)</string>
   <string name="account_must_email">Account must use an e-mail address</string>
   <string name="account_not_exists">Account does not exist</string>
   <string name="account_null">Username cannot be blank</string>
@@ -82,7 +82,7 @@
   <string name="camer_online">Online</string>
   <string name="camera">Camera</string>
   <string name="camera_add">Add camera</string>
-  <string name="camera_added_by_other_user">Yi SmallAnts camera already added by another user!</string>
+  <string name="camera_added_by_other_user">Yi Small Ants camera already added by another user!</string>
   <string name="camera_alarm_closed">Alarm closed</string>
   <string name="camera_alarm_endtime">End time</string>
   <string name="camera_alarm_opened">Alarm opened</string>
@@ -94,10 +94,10 @@
   <string name="camera_config_success">Camera configuration successful</string>
   <string name="camera_description">Camera description</string>
   <string name="camera_finish_wifi_setting_content">"1. Please wait for the camera LED light to turn blue, you may need to wait up to 1 minute. Once completed the camera setup has been successful.
-2. If you are unsure please refer to the user manual for assistance.</string>
+2. If you are unsure please refer to the user manual for assistance."</string>
   <string name="camera_finish_wifi_setting_title">Camera is configured to use WiFi</string>
   <string name="camera_id">Camera ID:</string>
-  <string name="camera_init_settting">1st time camera configuration</string>
+  <string name="camera_init_settting">First time camera configuration</string>
   <string name="camera_initing">Initializing camera...</string>
   <string name="camera_is_in_connecting">Connecting to camera...</string>
   <string name="camera_name">Camera name</string>
@@ -126,15 +126,15 @@
   <string name="camera_wifi_config_message_failed_config">"Network connection failed, please check the following:
 	1. Check DHCP settings
 	2. Check WiFi password is correct;
-	3. If the light has turned blue and in long time bright status, please choose "more-&gt;connect camera (scanning QR code)"
-	4. Encryption of WiFi is WEP; ( WEP is not currently supported)</string>
+	3. If the light has turned blue and in long time bright status, please choose \"more-&gt;connect camera (Scan QR code)\"
+	4. Encryption type of WiFi is WEP; (WEP is not currently supported)"</string>
   <string name="camera_wifi_config_message_prompt">Please check the camera LED light is orange and powered on</string>
   <string name="camera_wifi_config_message_read_wifi_list">Refreshing WiFi list...</string>
   <string name="camera_wifi_config_message_read_wifi_list_finished">Data read successful, configure the camera using WiFi</string>
   <string name="camera_wifi_config_message_releate_device">Connecting to camera...</string>
   <string name="camera_wifi_config_message_search_wifi">Searching for camera via WiFi...</string>
   <string name="camera_wifi_config_message_start_confi_camera_wifi">Configuring camera...</string>
-  <string name="camera_wifi_config_message_wait_finish_config">Waiting for camera configuration to complete...</string>
+  <string name="camera_wifi_config_message_wait_finish_config">Waiting for camera configuration to finish...</string>
   <string name="camera_wifi_next_config">Next step</string>
   <string name="camera_wifi_start_config">Open WiFi configuration</string>
   <string name="camere_offline_view_history">Camera is not online, view video history?</string>
@@ -147,8 +147,8 @@
   <string name="cant_set_shared_device_to_public">Camera has been shared with friends, please cancel before setting publicly</string>
   <string name="cant_share_public_device_other">Camera has been set to public, you dont need to add friends!</string>
   <string name="capture_picture">Screenshots</string>
-  <string name="checking_camera">Searching for camera...</string>
-  <string name="checking_camera_zero">Searching for camera... 0%</string>
+  <string name="checking_camera_zero">Searching for camera...</string>
+  <string name="checking_network">Detecting network...</string>
   <string name="checknet_encryption_type">Encryption method</string>
   <string name="checknet_error_all_stream_blocking">Streaming video may experience blocking</string>
   <string name="checknet_error_connect_error">No network connection available!</string>
@@ -267,7 +267,7 @@ please check network connection and try again"</string>
   <string name="finish">Finish</string>
   <string name="firmware_upgrade">Camera firmware update</string>
   <string name="firmware_version">Firmware version</string>
-  <string name="firmware_version_number">FW version:</string>
+  <string name="firmware_version_number">Firmware version:</string>
   <string name="first_config_message">Please make sure the camera is powered on!</string>
   <string name="first_config_title">1st time configuration</string>
   <string name="first_config_title2">Camera WiFi configuration</string>
@@ -279,7 +279,7 @@ please check network connection and try again"</string>
   <string name="found_a_camera">New camera found</string>
   <string name="foursquare">FourSquare</string>
   <string name="from">From</string>
-  <string name="google_plus_client_inavailable">Google+ is not installed or requires updating</string>
+  <string name="google_plus_client_inavailable">Google+ is not installed or requires an update</string>
   <string name="googleplus">Google+</string>
   <string name="goon_check">Keep checking</string>
   <string name="happy_listen">Happy listening</string>
@@ -324,7 +324,7 @@ please check network connection and try again"</string>
   <string name="menu_event">History</string>
   <string name="menu_faq">FAQ</string>
   <string name="menu_more">More</string>
-  <string name="menu_my_camera">Yi SmallAnts camera</string>
+  <string name="menu_my_camera">Yi Small Ants camera</string>
   <string name="menu_new_camera">Add camera</string>
   <string name="menu_photo">Photos</string>
   <string name="menu_public_camera">Public camera</string>
@@ -336,14 +336,14 @@ please check network connection and try again"</string>
   <string name="more_recommend">More recommendations</string>
   <string name="more_try_failed">Failed to load more</string>
   <string name="msg_bulk_mode_scanned">Batch scanning: found barcode, saved.</string>
-  <string name="msg_camera_framework_bug">Unfortunately the camera has stopped working, please restart the camera!</string>
-  <string name="msg_default_status">Put QR code from the back of camera into your viewing frame to scan it</string>
+  <string name="msg_camera_framework_bug">Unfortunately, camera has stopped working, please restart the camera!</string>
+  <string name="msg_default_status">Put QR code from rear of camera into viewing frame to scan it</string>
   <string name="multi_share">Photo sharing</string>
   <string name="my_ap_not_found">"Unable to find camera, please check if the camera LED is orange and in long time bright status
 	1. If yes, pleass add camera UI again, and confirm again 
 	2. If no, please cut off power and wait for reboot until the LED turns orange color and in long time bright status"</string>
-  <string name="my_camera">Yi SmallAnts camera</string>
-  <string name="my_camera_description">Camera info</string>
+  <string name="my_camera">Yi Small Ants camera</string>
+  <string name="my_camera_description">Camera description</string>
   <string name="name_drift_bottle">Name: drift bottle</string>
   <string name="neteasemicroblog">Netease Weibo</string>
   <string name="network_error">Network unavailable, please try again</string>
@@ -383,10 +383,10 @@ please check network connection and try again"</string>
   <string name="password">Password</string>
   <string name="password_format_err">Password length is invalid (6-24)</string>
   <string name="password_is_invaild">Password incorrect, please try again!</string>
-  <string name="password_must_true">(Password must be 6-24 characters)</string>
+  <string name="password_must_true">(Password must be between 6-24 characters)</string>
   <string name="pick_up">Pick up</string>
   <string name="pinterest">Pinterest</string>
-  <string name="pinterest_client_inavailable">Pinterest is not installed or requires updating</string>
+  <string name="pinterest_client_inavailable">Pinterest is not installed or requires update</string>
   <string name="please_choose">Please select</string>
   <string name="please_confirm_password_is_right">Tip: Please ensure that the password is correct</string>
   <string name="please_input_location">Input location!</string>
@@ -397,22 +397,22 @@ please check network connection and try again"</string>
   <string name="please_select_camera_alarm_type">Select alarm type!</string>
   <string name="please_select_camera_prompt">Select camera</string>
   <string name="please_select_my_ap_first">"Please connect phone to camera using WiFi
-(e.g. WiFi SSID: MyAP)"</string>
+(e.g. WiFi SSID: Mi_WiFi)"</string>
   <string name="please_select_wifi">Select WiFi network</string>
   <string name="privacy_config">Privacy settings</string>
   <string name="prompt">Alert</string>
   <string name="public_to_all">Publicly available</string>
   <string name="pull_to_refresh">Pull to refresh</string>
   <string name="qq">QQ</string>
-  <string name="qq_client_inavailable">QQ is not installed or requires updating</string>
+  <string name="qq_client_inavailable">QQ is not installed or requires update</string>
   <string name="qq_login">QQ login</string>
   <string name="qzone">QQ Zone</string>
   <string name="ready_receiver">Ready to receive</string>
   <string name="reboot_message_send_fail">Failed to reboot the camera!</string>
-  <string name="reboot_message_send_success">Camera is rebooting to apply update. 请Please open the player UI and wait for reconnection</string>
+  <string name="reboot_message_send_success">Camera is rebooting to apply update. Please open the viewer UI and wait for reconnection</string>
   <string name="rec">REC</string>
   <string name="recommend_to_user_message">Ants was produced by Shanghai ants science and technology company, it is using for home care and enterprise management.</string>
-  <string name="recommend_to_user_title">Small ants</string>
+  <string name="recommend_to_user_title">Small Ants</string>
   <string name="record_time_too_short">Video length too short, unable to create file!</string>
   <string name="record_video">Record</string>
   <string name="refreshing">Refreshing...</string>
@@ -435,7 +435,8 @@ Release after waiting for the light to turn orange"</string>
   <string name="room">Room</string>
   <string name="run_score">Run score</string>
   <string name="save">Save</string>
-  <string name="scan_the_qr_code">"Please scan the QR code at the rear of the camera"</string>
+  <string name="scan_the_qr_code">"Please scan the QR code on 
+the rear of the camera"</string>
   <string name="sdcard_free_size">Available free space</string>
   <string name="sdcard_not_mounted">SD card not mounted!</string>
   <string name="sdcard_state">SD card</string>
@@ -449,9 +450,9 @@ Release after waiting for the light to turn orange"</string>
   <string name="set_wifi_fail">Camera connection failed, please try restarting the camera</string>
   <string name="set_wifi_success">Camera WiFi configuration successful</string>
   <string name="setting_alarm_history">Alarm history</string>
-  <string name="setting_ants_introduce">What is SmallAnts?</string>
+  <string name="setting_ants_introduce">What is Small Ants?</string>
   <string name="setting_app_suggest">Feedback</string>
-  <string name="setting_app_upgrade">App upgrade</string>
+  <string name="setting_app_upgrade">App update</string>
   <string name="setting_buy">Buy</string>
   <string name="setting_camera_manage">Camera management</string>
   <string name="setting_camera_upgrad">Version update</string>
@@ -468,16 +469,16 @@ Release after waiting for the light to turn orange"</string>
   <string name="share_faild">Sharing failed!</string>
   <string name="share_failed">Sharing failed</string>
   <string name="share_file_cant_be_empty">Please select video file!</string>
-  <string name="share_image_one_key_text">I just shared a SmallAnts camera photo</string>
+  <string name="share_image_one_key_text">I just shared a Small Ants camera photo</string>
   <string name="share_image_one_key_title">Photo sharing</string>
   <string name="share_success">Shared successfully!</string>
   <string name="share_title">Sharing</string>
-  <string name="share_title_cant_be_empty">Please input a title</string>
+  <string name="share_title_cant_be_empty">Please input title</string>
   <string name="share_to">Share to</string>
   <string name="share_to_friend">Share with friends</string>
   <string name="share_to_qzone">Share to QQ Zone</string>
   <string name="share_user_manage">Shared user management</string>
-  <string name="share_video_one_key_text">I shared a small ants video, you can watch it here:</string>
+  <string name="share_video_one_key_text">I shared a Small Ants video, you can watch it here:</string>
   <string name="share_video_one_key_title">Video sharing</string>
   <string name="sharing">Sharing in background...</string>
   <string name="shortmessage">SMS</string>
@@ -513,7 +514,7 @@ please confirm keeping power and network on whilst updating!"</string>
   <string name="sure_to_delete_video">Are you sure you want to delete the video?</string>
   <string name="sure_to_exit">Exit application?</string>
   <string name="sure_to_format_sdcard">Formatting SD card will remove all video data, are you sure you want to continue?</string>
-  <string name="sure_to_logout">Are you sure you want to logout?</string>
+  <string name="sure_to_logout">Are you sure you want to sign out?</string>
   <string name="sure_to_reboot">Are you sure you want to restart the camera?</string>
   <string name="sure_to_reboot_upgrade">Are you sure you want to reboot to complete the update?</string>
   <string name="sure_to_share_to_all">"After setting your camera to public everyone will be able to view it!
@@ -541,30 +542,30 @@ Please make sure you share the video content ensuring no personal privacy leak, 
   <string name="text_cut">Cut</string>
   <string name="text_delete">Delete</string>
   <string name="text_edit">Edit</string>
-  <string name="text_first_config">1st time configuration</string>
+  <string name="text_first_config">First time configuration</string>
   <string name="text_forget_pwd">Forgot password</string>
-  <string name="text_login">Login</string>
-  <string name="text_login_and_reg">Account login</string>
+  <string name="text_login">Sign in</string>
+  <string name="text_login_and_reg">Account sign in</string>
   <string name="text_photo_view">View photo</string>
   <string name="text_register">Register</string>
   <string name="text_share">Share</string>
   <string name="text_try">Hangout</string>
-  <string name="text_unbinding">Unbound</string>
-  <string name="text_unlogin">Not logged in</string>
+  <string name="text_unbinding">Unpaired</string>
+  <string name="text_unlogin">Not signed in</string>
   <string name="text_upload_finished">Upload completed</string>
   <string name="text_uploading">Uploading:</string>
   <string name="this_account_is_existed">Account has already been registered!</string>
   <string name="through_power_orange_light">"Power on.
   Wait for LED to flash orange"</string>
   <string name="timeout">Timeout</string>
-  <string name="tips_add_camera_duplicated">Another camera was detected, please enter another number</string>
+  <string name="tips_add_camera_duplicated">Another camera was detected, please input another number</string>
   <string name="tips_add_camera_ok">Camera successfully added.</string>
-  <string name="tips_camera_name">Input the camera name</string>
-  <string name="tips_dev_location">Description: Optional</string>
+  <string name="tips_camera_name">Input camera name</string>
+  <string name="tips_dev_location">Description (optional):</string>
   <string name="tips_dev_security_code">Please input password</string>
   <string name="tips_dev_uid">Please input the camera serial number</string>
   <string name="tips_dev_uid_character">QR code does not conform to specification!</string>
-  <string name="tips_edit_camera_ok">Successfully modified camera.</string>
+  <string name="tips_edit_camera_ok">Successfully edited camera.</string>
   <string name="tips_export_video">Export video</string>
   <string name="tips_no_sdcard">No SD card was detected, please try again</string>
   <string name="tips_play_record_end">Playback complete!</string>
@@ -597,9 +598,9 @@ Please make sure you share the video content ensuring no personal privacy leak, 
   <string name="title_user_info">Account info</string>
   <string name="title_wifi_available">WiFi network available</string>
   <string name="to">To</string>
-  <string name="toast_cannot_use_hight_quilty_cause_mode_error">Cannot use HD video in fast-mode</string>
+  <string name="toast_cannot_use_hight_quilty_cause_mode_error">Can not use HD video in fast-mode</string>
   <string name="toast_do_not_support_sdk">Android version is not supported on your device</string>
-  <string name="toast_out_of_memory">Out of memory</string>
+  <string name="toast_out_of_memory">No memory available</string>
   <string name="tumblr">Tumblr</string>
   <string name="tw_language">Taiwanese</string>
   <string name="twenty_second">20 secs</string>
@@ -647,7 +648,7 @@ Please make sure you share the video content ensuring no personal privacy leak, 
   <string name="umeng_xp_tip_download_pre">Start download</string>
   <string name="umeng_xp_title_info">Recommended</string>
   <string name="unbind_success">Successfully removed binding!</string>
-  <string name="unlogin">Logged in</string>
+  <string name="unlogin">Signed in</string>
   <string name="unsupport_phone">Android version is not supported on your device</string>
   <string name="update_token">Update token</string>
   <string name="upload">Upload</string>
@@ -668,7 +669,7 @@ Please make sure you share the video content ensuring no personal privacy leak, 
   <string name="userinfo_account_weibo">Weibo</string>
   <string name="userinfo_account_xiaomi">Xiaomi</string>
   <string name="userinfo_icon">User avatar</string>
-  <string name="userinfo_nickname">User nickname</string>
+  <string name="userinfo_nickname">Nickname</string>
   <string name="username">Username</string>
   <string name="valid_code">Verification code</string>
   <string name="ver_code_null">Input verification code</string>
@@ -708,9 +709,9 @@ Please make sure you share the video content ensuring no personal privacy leak, 
   <string name="winexperience_devicenetcheck_info_relay">Relay mode</string>
   <string name="winexperience_devicenetcheck_info_unknown">Unknown error</string>
   <string name="winexperience_devicenetcheck_title">Network type</string>
-  <string name="winexperience_ensure_format_tfcard_info">"Are you sure you want to format the TF card?
-（Camera will reboot）"</string>
-  <string name="winexperience_format_tfcard_when_update_info">Updating camera , please try again later</string>
+  <string name="winexperience_ensure_format_tfcard_info">"Are you sure you want to format the SD card?
+(Camera will be rebooted)"</string>
+  <string name="winexperience_format_tfcard_when_update_info">Updating camera, please try again later</string>
   <string name="winexperience_info_ignore">Ignore check</string>
   <string name="winexperience_info_old_version">Old version cannot support this test, please upgrade to the latest firmware</string>
   <string name="winexperience_info_timeout">Timed out, please try again</string>
@@ -729,7 +730,7 @@ Please make sure you share the video content ensuring no personal privacy leak, 
   <string name="winexperience_intranetcheck_info_lossscore_normal">Slow</string>
   <string name="winexperience_intranetcheck_info_lossscore_perfect">Excellent</string>
   <string name="winexperience_intranetcheck_info_lossscore_pre_perfect">Good</string>
-  <string name="winexperience_intranetcheck_title"> SmallAnts speed check</string>
+  <string name="winexperience_intranetcheck_title">Check Internet speed</string>
   <string name="winexperience_recheck_btntxt">Check</string>
   <string name="winexperience_recheck_checking_btntxt">Checking...</string>
   <string name="winexperience_rotatecircle_scoreunit">score</string>
@@ -738,25 +739,25 @@ Please make sure you share the video content ensuring no personal privacy leak, 
   <string name="winexperience_shouldupdate_info_downloading">Downloading, please wait...</string>
   <string name="winexperience_shouldupdate_info_needupdate">New version available for download</string>
   <string name="winexperience_shouldupdate_info_ok">You are using latest version!</string>
-  <string name="winexperience_shouldupdate_info_tf_formating">Formatting TF card, can\'t update, try again?</string>
+  <string name="winexperience_shouldupdate_info_tf_formating">"Formatting SD card, can't update, try again?"</string>
   <string name="winexperience_shouldupdate_info_timeout">@string/winexperience_info_timeout</string>
   <string name="winexperience_shouldupdate_info_update">Updating, please wait...</string>
-  <string name="winexperience_shouldupdate_title">SmallAnts update check</string>
+  <string name="winexperience_shouldupdate_title">Small Ants update check</string>
   <string name="winexperience_tfcardstate_format_immediately">@string/format</string>
   <string name="winexperience_tfcardstate_format_wait">Formating, please wait for camera to reboot</string>
   <string name="winexperience_tfcardstate_gotofaq">@string/btn_gotofaq</string>
-  <string name="winexperience_tfcardstate_info_formatunuse">Please use  another TF card</string>
-  <string name="winexperience_tfcardstate_info_lower">TF size is too small</string>
-  <string name="winexperience_tfcardstate_info_lowerspeed">TF card too slow, would you like to format?</string>
-  <string name="winexperience_tfcardstate_info_needformat">TF card error, would you like to format?</string>
+  <string name="winexperience_tfcardstate_info_formatunuse">Please use another SD card</string>
+  <string name="winexperience_tfcardstate_info_lower">SD card size is too low</string>
+  <string name="winexperience_tfcardstate_info_lowerspeed">SD card too slow, would you like to format?</string>
+  <string name="winexperience_tfcardstate_info_needformat">SD card error, would you like to format?</string>
   <string name="winexperience_tfcardstate_info_timeout">@string/winexperience_info_timeout</string>
-  <string name="winexperience_tfcardstate_info_total_0">No TF card,  can\'t view history video</string>
-  <string name="winexperience_tfcardstate_info_total_0_dlg">No TF card</string>
+  <string name="winexperience_tfcardstate_info_total_0">"No SD card,  can't view history video"</string>
+  <string name="winexperience_tfcardstate_info_total_0_dlg">No SD card</string>
   <string name="winexperience_tfcardstate_info_total_16g">16GB</string>
-  <string name="winexperience_tfcardstate_info_total_32g">32G B</string>
-  <string name="winexperience_tfcardstate_info_total_4g">4G B</string>
-  <string name="winexperience_tfcardstate_info_total_8g">8G B</string>
-  <string name="winexperience_tfcardstate_title">TF card status</string>
+  <string name="winexperience_tfcardstate_info_total_32g">32GB</string>
+  <string name="winexperience_tfcardstate_info_total_4g">4GB</string>
+  <string name="winexperience_tfcardstate_info_total_8g">8GB</string>
+  <string name="winexperience_tfcardstate_title">SD card status</string>
   <string name="winexperience_waiting_check">Waiting...</string>
   <string name="work_day">Days</string>
   <string name="wrong_wifi_ssid_msg">Small Ants camera only supports English names with numbers for WiFi name</string>
@@ -766,7 +767,7 @@ Please make sure you share the video content ensuring no personal privacy leak, 
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_login">Mi login</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
-  <string name="xiaomi_update_dialog_message">"It is recommended to update to %1$s version
+  <string name="xiaomi_update_dialog_message">"Recommended to update to %1$s version
 Download size: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Update to the latest version %1$s
 Incremental update: %2$s"</string>
@@ -778,7 +779,7 @@ Incremental update: %2$s"</string>
   <string name="xlistview_header_hint_ready">Release to refresh data</string>
   <string name="xlistview_header_last_time">Last updated:</string>
   <string name="yixin">Yixin</string>
-  <string name="yixin_client_inavailable">Yixin is not installed or requires updating</string>
+  <string name="yixin_client_inavailable">Yixin is not installed or requires update</string>
   <string name="yixinmoments">Yixin moments</string>
   <string name="you_dont_have_camera">No camera was found!</string>
   <string name="you_dont_have_right_to_add_camera">Account does not have permissions to add this camera!</string>

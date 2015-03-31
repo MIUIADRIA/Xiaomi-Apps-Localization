@@ -1,7 +1,7 @@
 -------------------------
 -- Russian Localization String resources
--- Huami Co, ltd. (2014)
--- Herbert dai
+-- MIUIpro Team (2014-2015)
+-- malchik-solnce
 -- 20140731
 -------------------------
 localization_ru_rRU_table = {

@@ -1224,6 +1224,7 @@ Click the button below, is there any volume increase?"</string>
   <string name="kuailian_cancel">Cancel</string>
   <string name="kuailian_check_reset">Reset</string>
   <string name="kuailian_complete">Finished</string>
+  <string name="kuailian_conn_error_router">Not Mi router, are you sure you want to continue?</string>
   <string name="kuailian_connectting_cloud">Router is attempting to connect to cloud service</string>
   <string name="kuailian_connectting_router">Phone is trying to connect to router</string>
   <string name="kuailian_fail_auth">Authentication failed, please check password and encryption type is correct (e.g. WPA/WPA2 encryption)</string>
@@ -1365,6 +1366,8 @@ Click the button below, is there any volume increase?"</string>
   <string name="loing_helper_title">You need to be signed in to use this feature, sign in now?</string>
   <string name="m_s">MB/s</string>
   <string name="mac_address">MAC address</string>
+  <string name="main_page_ad_main_title">Welcome to the world of Mi Smart home</string>
+  <string name="main_page_ad_sub_title">Open Mi Smart home and make life more intelligent</string>
   <string name="mall_icon_address">Address management</string>
   <string name="mall_icon_aftermarket">Aftersales</string>
   <string name="mall_icon_collect">My favorites</string>
@@ -1865,8 +1868,13 @@ Click the button below, is there any volume increase?"</string>
   <string name="sh_share_request_success">Share invitation has been sent</string>
   <string name="sh_share_tile">Share with %s</string>
   <string name="sh_user_not_exist">User does not exist or was not found!</string>
+  <string name="share_device_account_find">Account to share with</string>
+  <string name="share_device_content_line1">Share %s</string>
+  <string name="share_device_content_line2">You can share with your friends</string>
+  <string name="share_device_family_share">Share with family</string>
   <string name="share_device_title">"Share devices,
 enjoy an intelligent life!"</string>
+  <string name="share_device_title_text">Share device with account</string>
   <string name="share_no_device">No devices shared</string>
   <string name="share_no_user">No shared user devices</string>
   <string name="share_score_action_scores">"Active score: %1$d"</string>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="health_link_title">
-        <item>1. 24 часовая помощь</item>
-        <item>2. Emergency proposal</item>
-        <item>3. Организация автомобилей</item>
-        <item>4. Assist the dangerous condition report</item>
-        <item>5. Связь с семьей</item>
-        <item>6. Доступные больницы</item>
+        <item>1. Круглосуточный сервис</item>
+        <item>2. Полезные советы</item>
+        <item>3. Экстренный вызов транспорта</item>
+        <item>4. Помощь при авариях</item>
+        <item>5. Помощь в семейных отношениях</item>
+        <item>6. Вызов скорой помощи</item>
         <item>7. Руководство госпитализации</item>
     </string-array>
     <string-array name="health_link_content">
-        <item>Оказание неотложной помощи 24x7, 365 дней в году</item>
-        <item>In the user informed of the real situation, the AU will provide far Platinum ten minutes of "self" or "mutual aid" emergency proposal by telephone.</item>
-        <item>Far League call center call and immediately call the local emergency center telephone ("120" or "999"), the establishment of three-way calling, by the user to the emergency center readme Chuxian location tracking ambulance rescue process.</item>
-        <item>Assist the user in the event of an accident report to the authorities.</item>
-        <item>Notify family members or emergency contact person according to the user wishes and provide contact information.</item>
-        <item>Without prejudice to the "anxious, nearby, on the condition on patients and their families will" under the principles of first aid, first aid can be implemented far-Union Medical Hospital to user referrals, ultimately decided by the user, or according to the actual situation by emergency vehicles the doctor ordered.</item>
-        <item>Руководство процедуры госпитализации, советы по мерам предосторожности</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
     </string-array>
     <string-array name="weeks">
         <item>Пн.</item>

@@ -339,7 +339,7 @@
      <string name="half_marathon_format_1">" более полу-марафона"</string>
      <string name="health_care_country_limit">Регион: Китай</string>
      <string name="health_care_date_limit">Срок: неограничен</string>
-     <string name="health_link">Добавить iHealth</string>
+     <string name="health_link">Медицинские услуги</string>
      <string name="health_provider_desc">Медицинские услуги</string>
      <string name="heavier_than_goal">Больше цели %1$s</string>
      <string name="height_less_than_100">Нельзя измерить младенца менее 100 см</string>
@@ -710,7 +710,7 @@
      <string name="remain_days_today_format">Последняя зарядка менее одного дня</string>
      <string name="rename_mili">Имя</string>
      <string name="reset_mili">Сбросить настройки</string>
-     <string name="reset_weight_goal">Сбросить</string>
+     <string name="reset_weight_goal">Сохранить</string>
      <string name="restart_bluetooth_tips">Перезапустите Bluetooth</string>
      <string name="retry">Повторить</string>
      <string name="right_hand">Правая рука</string>
@@ -745,7 +745,7 @@
      <string name="set_alarm_time">ВЫБЕРИТЕ ВРЕМЯ БУДИЛЬНИКА</string>
      <string name="set_family_member">Члены семьи</string>
      <string name="set_goal_step">8.000 шагов/день</string>
-     <string name="set_goal_weight_tips">По предоставленной Вами иинформации, Ваш нормальный вес %1$s-%2$s%3$s</string>
+     <string name="set_goal_weight_tips">По предоставленной Вами информации, Ваш нормальный вес %1$s-%2$s%3$s</string>
      <string name="set_length_unit">Расстояние</string>
      <string name="set_mili_name">Название браслета</string>
      <string name="set_mili_name_fail">Не удалось переименовать</string>
@@ -1014,7 +1014,7 @@
      <string name="title_add_friend">Добавить в контакты</string>
      <string name="title_friend_detail">Подробнее</string>
      <string name="title_friend_list">Семья и друзья</string>
-     <string name="title_health_link_service">Здравоохранение</string>
+     <string name="title_health_link_service">Медицинские услуги</string>
      <string name="title_message">Сообщение</string>
      <string name="toast_add_friend_failed">Ошибка отправки запроса</string>
      <string name="toast_add_friend_success">Invitation is already send!</string>

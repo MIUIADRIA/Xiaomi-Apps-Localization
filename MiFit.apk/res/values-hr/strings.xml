@@ -32,7 +32,7 @@
   <string name="action_walk">Šetnja</string>
   <string name="add_family_member">Dodaj korisnika</string>
   <string name="add_than_last_time">"Povećano
-za %1$s"</string>
+za %1$s od zadnjeg vaganja"</string>
   <string name="add_weight_fail_with_value">Još uvijek trebate dobiti %1$s više težine</string>
   <string name="add_weight_succ">Težina uspješno dodana</string>
   <string name="add_weight_succ_with_value">"Težina uspješno dobivena,
@@ -70,6 +70,7 @@ Uvjeti pružanja usluge: %2$s"</string>
   <string name="baby_weight_equal">Isto kao i zadnje vaganje</string>
   <string name="baby_weight_less">Više od zadnjeg vaganja (%1$s)</string>
   <string name="baby_weight_more">Manje od zadnjeg vaganja (%1$s)</string>
+  <string name="baby_weight_tips">Dojenčad i djeca ne bi trebala provoditi pretjeranu kontrolu težine, tako da ne utječe na normalan rast i razvoj</string>
   <string name="back">Natrag</string>
   <string name="band">Mi Band</string>
   <string name="battery">Baterija</string>
@@ -83,9 +84,10 @@ Uvjeti pružanja usluge: %2$s"</string>
   <string name="bind_devices">Upari uređaje</string>
   <string name="bind_mi_band">Upari Mi Band</string>
   <string name="bind_mi_band_about">&lt;Data&gt;&amp;lt;a href=http://www.mi.com&amp;gt;Mi Band Web stranica&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
-  <string name="bind_mi_weight">Upari vagu</string>
+  <string name="bind_mi_weight">Upari Mi Vagu</string>
   <string name="bind_mi_weight_about">&lt;Data&gt;&amp;lt;a href=http://www.mi.com&amp;gt; Web stranica vage&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
   <string name="bind_mi_weight_howto">Saznajte više</string>
+  <string name="bind_mi_weight_howto_tips">Kako koristiti Mi Vagu</string>
   <string name="bind_new_mili">Dodaj novi Mi Band</string>
   <string name="bind_qq">Dodaj QQ</string>
   <string name="bind_qq_health">Sink. s QQ Health Center</string>
@@ -100,6 +102,7 @@ trebate dostupnu mrežu."</string>
 potrebna vam je dostupna mreža."</string>
   <string name="bind_weibo_health_tip_init">Prijavite se u Weibo Health.</string>
   <string name="bind_weibo_health_title">Dodaj Weibo Račun</string>
+  <string name="bind_weibo_token_invalid">Prijava je istekla, povežite ponovno</string>
   <string name="bind_weight_fail">"Ne mogu dodati vagu"</string>
   <string name="bind_weight_ok">Vage uparene OK</string>
   <string name="bind_weight_scale">Dodaj vagu</string>
@@ -119,6 +122,7 @@ zatim dodirnite Slijedi."</string>
   <string name="birthday">Rođendan</string>
   <string name="blue">Plava</string>
   <string name="bluetooth">Bluetooth </string>
+  <string name="bmi_item_tips">BMI index %1$s, visina %2$s</string>
   <string name="body">Vrat</string>
   <string name="body_figure">Tip</string>
   <string name="bracelet_info_battery">%s%%</string>
@@ -146,6 +150,7 @@ Adresa: %2$s"</string>
   <string name="button_send_care">Pošalji gurkanje</string>
   <string name="buy_bracelet_desc">Kupite Mi Band.</string>
   <string name="cal">kal</string>
+  <string name="can_not_del_last_weight_info">Ne mogu izbrisati posljednje informacije težine</string>
   <string name="cancel">Odustani</string>
   <string name="change_current_weight_report">"Trenutna težina nije \"%1$s\"?
 Kliknite na popis da postavite težinu za novog korisnika"</string>
@@ -155,6 +160,7 @@ Kliknite na popis da postavite težinu za novog korisnika"</string>
   <string name="checking_new_apk">Provjeravam ažuriranja…</string>
   <string name="choose_tag_item">Koju vježbu želite ?</string>
   <string name="choose_userinfo_for_weight">Odaberi profil</string>
+  <string name="clear_weight_goal">Izbriši cilj</string>
   <string name="clock_closed">Isključeno</string>
   <string name="closed">Zatvoreno</string>
   <string name="cm">cm</string>
@@ -382,6 +388,26 @@ cilj za danas."</string>
   <string name="instruction_tip_2_5">Preko cilja</string>
   <string name="instruction_tip_3">Slaba baterija</string>
   <string name="instruction_title">Saznajte više o Mi Bandu</string>
+  <string name="instruction_weight_page6_t1">Nosite laganu odjeću</string>
+  <string name="instruction_weight_page6_t2">"Stavite obje noge
+čvrsto na sredinu vage"</string>
+  <string name="instruction_weight_page6_t3">Stavite na ravnu površinu</string>
+  <string name="instruction_weight_tips1_1">Vašu Mi Vagu možete upariti s više uređaja</string>
+  <string name="instruction_weight_tips1_2">Nakon što uparite uređaj, Mi Vaga će sinkronizirati vašu povijest automatski</string>
+  <string name="instruction_weight_tips1_3">Odaberite jedinicu težine koja će se koristiti za izračunavanje vaše težine</string>
+  <string name="instruction_weight_tips1_4">"Kad LED treperi kao na obrascu ispod, zamijenite bateriju Mi Vage"</string>
+  <string name="instruction_weight_tips1_5">"Kad LED treperi kao na obrascu ispod, maksimalna težina Mi Vage je premašena."</string>
+  <string name="instruction_weight_tips1_6">Stavite Mi Vagu na suhu površinu</string>
+  <string name="instruction_weight_tips2_2">Otvorite Mi Fit aplikaciju i ostanite unutar 10 metara od Mi Vage za sinkronizaciju</string>
+  <string name="instruction_weight_tips2_4">Nakon zamjene baterije, Mi Vaga će se automatski ponovno pokrenuti.</string>
+  <string name="instruction_weight_tips2_5">Maks. opterećenje Mi Vage je 150kg</string>
+  <string name="instruction_weight_tips2_6">Pobrinite se da stanete u centar Mi Vage.</string>
+  <string name="instruction_weight_title_1">Uparite više uređaja</string>
+  <string name="instruction_weight_title_2">Nema potrebe da koristite svoj telefon kada provjeravate težinu</string>
+  <string name="instruction_weight_title_3">Odaberite jedinicu</string>
+  <string name="instruction_weight_title_4">Zamjenite bateriju</string>
+  <string name="instruction_weight_title_5">Prekoračena maks. težina</string>
+  <string name="instruction_weight_title_6">Vaganje</string>
   <string name="invalid_name">Pogrešno ime</string>
   <string name="join_improvement_plan_detial">Pomozite nam poboljšati Mi Band slanjem podataka o upotrebi na Huami Inc.</string>
   <string name="keep_goal_succ">Uspješno održavana težina</string>
@@ -401,7 +427,7 @@ cilj za danas."</string>
   <string name="lab_factory_item_group_social">Društveno</string>
   <string name="lab_factory_item_group_sport">Sport</string>
   <string name="lab_factory_share_photo">Fotografija</string>
-  <string name="lab_factory_share_photo_menu_camera">Fotoaparat</string>
+  <string name="lab_factory_share_photo_menu_camera">Kamera</string>
   <string name="lab_factory_share_photo_menu_gallery">Galerija</string>
   <string name="lab_factory_share_photo_menu_title">Odaberi fotografiju iz</string>
   <string name="lab_factory_sport_accumulate">%d ukupno stavaka</string>
@@ -574,7 +600,8 @@ Zaspao u %3$s |Probudio se u %4$s"</string>
   <string name="mili_unbind_question_content">Nakon rasparivanja, možete se upariti s novim Mi Bandom.</string>
   <string name="mili_unbind_question_content_1"/>
   <string name="mili_weight_unbind_info">"Vaš telefon se ne može povezati s vagom nakon rasparivanja, možete povezati druge vage kasnije."</string>
-  <string name="minute"/>
+  <string name="mili_weight_unbind_info_1">Možete povezati druge Mi Vage kasnije.</string>
+  <string name="minute">" "</string>
   <string name="modify_gender">Spol</string>
   <string name="modify_height">Visina</string>
   <string name="modify_nickname">Uredi ime</string>
@@ -600,6 +627,7 @@ Odlično!"</string>
   <string name="new_version_available">Dostupna nova verzija</string>
   <string name="next_step">Dalje</string>
   <string name="no_bracelet_tips">(dostupno samo kada je Mi Band povezan)</string>
+  <string name="no_need_weight_goal">"Ne postavljati cilj težine?"</string>
   <string name="no_network_connection">"Ne mogu se povezati na mrežu"</string>
   <string name="no_network_connection_retry">Dodirnite za ponovni pokušaj.</string>
   <string name="no_steps">Nema detalja o današnjim koracima.</string>
@@ -618,6 +646,7 @@ Odlično!"</string>
   <string name="not_fount_available_userinfo">"Ne mogu pronaći profil"</string>
   <string name="not_reach_goal">"Niste još postigli svoj cilj
 Nastavite tako!"</string>
+  <string name="not_set">Nije postavljeno</string>
   <string name="noti_bracelet_low_battery_content">Baterija je na manje od 5%, priključite je na punjač</string>
   <string name="noti_bracelet_low_battery_content_low">Morate napuniti bateriju vašeg Mi Banda.</string>
   <string name="noti_bracelet_low_battery_content_mid">Morate napuniti bateriju vašeg Mi Banda</string>
@@ -653,6 +682,7 @@ ili oko 8.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="person_info_goal_info_young">"Stručnjaci preporučuju 60 minuta vježbanja 
 ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="personal_info">Profil</string>
+  <string name="pick_family_member">Odaberite članove obitelji</string>
   <string name="picker_menu_done">Dovršeno</string>
   <string name="please_connect_internet">Povežite se na mrežu</string>
   <string name="please_input_age">Dob</string>
@@ -671,12 +701,15 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="pull_to_refresh_refreshing_label">Osvježavanje…</string>
   <string name="pull_to_refresh_release_label">Otpustite za osvježiti</string>
   <string name="ran">"trčano "</string>
+  <string name="read_useragreement">Slažem se s Uvjetima pružanja usluge i Pravila o privatnosti</string>
+  <string name="rebind_weibo_health">Upari ponovo</string>
   <string name="red">Crvena</string>
   <string name="register">Napravite Mi Račun</string>
   <string name="remain_days_format">Dana od zadnjeg punjenja: %s</string>
   <string name="remain_days_today_format">Napunjeno u protekla 24 sata</string>
   <string name="rename_mili">Naziv</string>
   <string name="reset_mili">Resetiraj Mi Band</string>
+  <string name="reset_weight_goal">Reset</string>
   <string name="restart_bluetooth_tips">Restartajte Bluetooth.</string>
   <string name="retry">Pokušaj ponovo</string>
   <string name="right_hand">Desni</string>
@@ -700,14 +733,16 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="second">" sek."</string>
   <string name="select_devices">Odaberi uređaj</string>
   <string name="select_devices_info">Odaberi Xiaomi uređaje</string>
-  <string name="select_from_camera">Fotoaparat</string>
+  <string name="select_from_camera">Kamera</string>
   <string name="select_from_local">Odaberite iz Galerije</string>
   <string name="select_image">Promijeni sliku profila</string>
   <string name="sensor_hub_tip">"Korak broj je pohranjen lokalno
 na ovom uređaju, i neće biti
 učitan na poslužitelj."</string>
   <string name="service_call_notice">24-satna usluga</string>
-  <string name="set_alarm_time">POSTAVI VRIJEME ALARMA</string>
+  <string name="set">Postavi</string>
+  <string name="set_alarm_time">Postavi vrijeme alarma</string>
+  <string name="set_family_member">Postavi člana obitelji</string>
   <string name="set_goal_step">8000 koraka/dnevno</string>
   <string name="set_goal_weight_tips">Na temelju vaših podataka, vaša normalna težina je %1$s-%2$s%3$s.</string>
   <string name="set_length_unit">Postavite jedinicu duljine</string>
@@ -794,8 +829,11 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="share_to_miliao_target_feeds">Grupe</string>
   <string name="share_to_miliao_target_friends">Prijatelji</string>
   <string name="share_to_miliao_target_union">Prijatelji s vježbanja</string>
+  <string name="share_to_mypace">Moj ritam</string>
+  <string name="share_to_sport_trace">Moj sport</string>
   <string name="share_to_title">Mi Band</string>
   <string name="share_to_topic">\#Mi Band</string>
+  <string name="share_to_watermark">My watermark photo</string>
   <string name="share_uninstall_client">"Ova aplikacija nije instalirana."</string>
   <string name="share_weibo_label">Weibo</string>
   <string name="share_weixin_label">WeChat</string>
@@ -842,7 +880,7 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="sport_running_history_no_data">Nema podataka</string>
   <string name="sport_running_history_no_data_refresh">Dodirni za osvježiti.</string>
   <string name="sport_running_history_no_data_refreshing">Osvježavanje…</string>
-  <string name="sport_running_history_no_more_data">No more data</string>
+  <string name="sport_running_history_no_more_data">Nema više podataka</string>
   <string name="sport_running_history_title">Povijest</string>
   <string name="sport_running_kilometers">km</string>
   <string name="sport_running_kilometers_per_hour">km/h</string>
@@ -871,7 +909,7 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="sport_running_slider_prompt">&gt;&gt;&gt;Povucite desno za otključavanje</string>
   <string name="sport_running_speed">Brzina</string>
   <string name="sport_running_speed_detail">%.2fkm/h</string>
-  <string name="sport_running_speed_with_unit">(km/h)</string>
+  <string name="sport_running_speed_with_unit">km/h</string>
   <string name="sport_running_sport_state_sr_tips">Autom. odmor, prebaci na nastavak kod trčanja</string>
   <string name="sport_running_start">Start</string>
   <string name="sport_running_start_time">Start</string>
@@ -1060,7 +1098,7 @@ Držite MiBand i telefon udaljenim najmanje 5m."</string>
   <string name="user_agreement_prefix">"Za korištenje ovog proizvoda, morate se složiti s našim
 "</string>
   <string name="user_agreement_ux">Program iskustava korisnika</string>
-  <string name="user_set_succ_info">请打开%1$sAPP完成第一次称重</string>
+  <string name="user_set_succ_info">Otvori %1$s da završite prvu provjeru težine</string>
   <string name="user_staron_me">Sljedbenici</string>
   <string name="vibrate_notify">Vibriracija kod obavijesti</string>
   <string name="vibrate_notify_tips">Zavibriraj Mi Band kad primite obavijest</string>
@@ -1090,10 +1128,12 @@ Držite MiBand i telefon udaljenim najmanje 5m."</string>
   <string name="week_total_distance_miles">"Ukupno tjedno 
 (milja)"</string>
   <string name="weibosdk_toast_auth_canceled_f">Greška poništavanja autorizacije</string>
+  <string name="weibosdk_toast_unbind_failed">Nemogu prekinuti vezu</string>
   <string name="weight_bmi_tips">BMI %1$s %2$s</string>
-  <string name="weight_connect_failed_title">Povezivanje s vagom nije uspjelo.</string>
+  <string name="weight_connect_failed_title">Povezivanje s Mi Vagom nije uspjelo.</string>
   <string name="weight_delete_confirm_msg">%s ovaj unos</string>
   <string name="weight_delete_confirm_title">Izbrisati ovaj unos?</string>
+  <string name="weight_device_battery_tips">Kad je razina napunjenosti baterije niska, zamijenite bateriju. Ravnoteža povezivanja će biti automatski inicijalizirana</string>
   <string name="weight_device_list">Vage u blizini</string>
   <string name="weight_dynamic_detail">%1$s</string>
   <string name="weight_dynamic_list_visit_tips">Odaberite svoj profil</string>
@@ -1104,6 +1144,7 @@ Držite MiBand i telefon udaljenim najmanje 5m."</string>
   <string name="weight_edit_move">Ukloni</string>
   <string name="weight_fw_upgrade_tips">Ostanite blizu vage tijekom ažuriranja</string>
   <string name="weight_fw_upgrade_title">Dostupno je ažuriranje za vagu</string>
+  <string name="weight_goal_height_100">"Održavajte zdravu tjelesnu težinu, nemojte postati previše mršavi"</string>
   <string name="weight_guest">Gost</string>
   <string name="weight_help_info_0">Pobrinite se da je vaga u neposrednoj blizini vašeg uređaja tijekom cijelog procesa uparivanja.</string>
   <string name="weight_help_info_1">"Pobrinite se da je baterija vage napunjena i ne ostane bez energije."</string>
@@ -1118,6 +1159,7 @@ Držite MiBand i telefon udaljenim najmanje 5m."</string>
   <string name="weight_history_dynamic_detail">Sinkr. podatke iz %1$s u %2$s</string>
   <string name="weight_history_dynamic_detail_oneday">Sink. podatke s %1$s</string>
   <string name="weight_history_dynamic_title">Ažuriranje: %1$s</string>
+  <string name="weight_less_than_tips">Prema dobivenim informacijama, vaša težina bi trebala biti %1$ s prema BMI</string>
   <string name="weight_low_battery">Slaba baterija, promijenite je.</string>
   <string name="weight_measure">Vaganje</string>
   <string name="weight_not_found_info">Ostanite u blizini vage</string>
@@ -1126,6 +1168,7 @@ Držite MiBand i telefon udaljenim najmanje 5m."</string>
   <string name="weight_overload_confirm">U redu</string>
   <string name="weight_overload_content">"Težina na vagi ne može premašivati 150kg"</string>
   <string name="weight_overload_title">Težina premašena na vagi</string>
+  <string name="weight_reach_goal">"Čestitamo! Postigli ste svoj cilj!"</string>
   <string name="weight_report_suggest">Komentari:</string>
   <string name="weight_report_user_info_header">%1$s</string>
   <string name="weight_scale">Mi Vaga</string>

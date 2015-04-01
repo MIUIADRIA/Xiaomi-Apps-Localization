@@ -981,7 +981,7 @@ are you sure you want to shutdown?"</string>
     <string name="title_activity_weixin_device_qrticket">WeixinDeviceQRTicketActivity</string>
 	<string name="tool_backup">Album backups</string>
 	<string name="tool_backup_desc">When connected to Mi router, photos from phone will be backed up automatically</string>
-    <string name="tool_channel_select">WiFi channel optimisation</string>
+    <string name="tool_channel_select">WiFi optimisation</string>
     <string name="tool_channel_select_desc">Select the best WiFi channel for performance</string>
     <string name="tool_close">Close</string>
     <string name="tool_detail_install">Install plug-in</string>
@@ -999,8 +999,8 @@ Updated: %3$s"</string>
     <string name="tool_install_plugin_title">Install new plugin</string>
     <string name="tool_install_success">Installation successful</string>
     <string name="tool_invitation_router">Share Mi router</string>
-    <string name="tool_invitation_router_desc">Let friends or family manage the Mi router</string>
-    <string name="tool_manual_install">Install manually</string>
+    <string name="tool_invitation_router_desc">Let friends or family manage Mi router functions</string>
+    <string name="tool_manual_install">Manually install</string>
     <string name="tool_market_install">Install</string>
     <string name="tool_market_installed_title">Installed</string>
     <string name="tool_market_installing">Installing...</string>
@@ -1017,7 +1017,7 @@ Updated: %3$s"</string>
     <string name="tool_not_support_relay">Relay mode does not support this feature</string>
     <string name="tool_not_support_share">Family member sharing does not support this feature</string>
     <string name="tool_qos">QoS (Speed limit)</string>
-    <string name="tool_qos_description">According to the set mode, bandwidth will be automatically assigned to all devices</string>
+    <string name="tool_qos_description">Bandwidth automatically assigned to all devices depending on priority</string>
     <string name="tool_router_reboot_timer">Restart timer</string>
     <string name="tool_router_reboot_timer_desc">Automatically power on Mi router when required</string>
     <string name="tool_router_reboot_timer_switch_hint">Reboot timer</string>

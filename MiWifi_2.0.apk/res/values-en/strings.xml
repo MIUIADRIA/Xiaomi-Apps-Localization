@@ -39,7 +39,7 @@
     <string name="application_storage_low">Lack of storage space, and some functions are not available, please clean up as soon as possible</string>
     <string name="auto_switch_prompt">Automatically switched to Mi router %1$s network</string>
     <string name="backup_auto_backup_this_device">Automatic backup</string>
-    <string name="backup_auto_backup_when_router_wifi_connected">Automatically backup when Mi router is connected to WiFi</string>
+    <string name="backup_auto_backup_when_router_wifi_connected">Automatically backup when connected to WiFi</string>
     <string name="backup_auto_rebackup_for_router_directory_deleted">"Can't find Mi router backup directory, it may have been deleted, moved or renamed. Please backup again."</string>
     <string name="backup_backing_up_x">Backing up: %s</string>
     <string name="backup_cancel_backup">" Cancel backup "</string>
@@ -158,7 +158,7 @@
     <string name="block_enable_wifi_access_forbid_wifi">Open WiFi access blocklist</string>
     <string name="block_feature_disabled_for_working_under_white_list_mode">Mi router is currently set to whitelist mode, anti-leech mode will not take effect.</string>
     <string name="block_hitch_hiker">Block devices</string>
-    <string name="block_hitch_hiker_description">Notification for unidentified devices, easily blocked with one key</string>
+    <string name="block_hitch_hiker_description">Easily block unwanted WiFi users with one button click</string>
     <string name="block_hitch_hiker_device_list">Devices list</string>
     <string name="block_hitch_hiker_feature_guide_description">Reminder when unidentified new device is connected for the first time</string>
     <string name="block_hitch_hiker_feature_guide_title">Anti-leech</string>

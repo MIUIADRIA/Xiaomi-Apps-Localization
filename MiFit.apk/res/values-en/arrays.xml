@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="health_link_title">
+        <item>1. 24-hour emergency response</item>
+        <item>2. Emergency proposal</item>
+        <item>3. Help arrange emergency vehicles</item>
+        <item>4. Assist the dangerous condition report</item>
+        <item>5. Contact the families</item>
+        <item>6. Emergency Hospital Available</item>
+        <item>7. Hospitalization guide</item>
+    </string-array>
+    <string-array name="health_link_content">
+        <item>Health care professionals 24 hours, the bilingual provision of emergency assistance, 7x24 hours, 365 days year round.</item>
+        <item>In the user informed of the real situation, the AU will provide far Platinum ten minutes of "self" or "mutual aid" emergency proposal by telephone.</item>
+        <item>Far League call center call and immediately call the local emergency center telephone ("120" or "999"), the establishment of three-way calling, by the user to the emergency center readme Chuxian location tracking ambulance rescue process.</item>
+        <item>Assist the user in the event of an accident report to the authorities.</item>
+        <item>Notify family members or emergency contact person according to the user wishes and provide contact information.</item>
+        <item>Without prejudice to the "anxious, nearby, on the condition on patients and their families will" under the principles of first aid, first aid can be implemented far-Union Medical Hospital to user referrals, ultimately decided by the user, or according to the actual situation by emergency vehicles the doctor ordered.</item>
+        <item>Guidance hospitalization procedure, hospitalization precautions advice.</item>
+    </string-array>
     <string-array name="weeks">
         <item>Mon.</item>
         <item>Tues.</item>
@@ -43,7 +61,7 @@
         <item>Strive for progress, not perfection.</item>
         <item>Repetition is the father of success.</item>
         <item>Energy and persistence conquer all things.</item>
-        <item>"The world wasn't formed in a day, and neither were we. Set small goals and build upon them."</item>
+        <item>Set small goals and build upon them.</item>
         <item>Every journey begins with a single step.</item>
         <item>Achieve one goal a day.</item>
         <item>"No matter how slow you go, you're still lapping everybody on the couch."</item>
@@ -77,16 +95,16 @@
         <item>BMI Category: Obese</item>
     </string-array>
     <string-array name="weight_report_suggestions_boy">
-        <item>身体是革命的本钱，况且你还要保护心爱的人。建议加大无氧运动增加蛋白质摄入，让自己变成一个肌肉猛男吧。</item>
-        <item>身材非常标准，建议保持目前的生活饮食习惯，一定要将好身材保持下去哦。</item>
-        <item>建议减少脂肪摄入，保持蛋白质的摄入。在现有运动基础上加大有氧运动，每次有氧运动前先进行30分钟无氧运动，有利于提高减肥效果。</item>
-        <item>建议减少脂肪摄入，保持蛋白质的摄入。在现有运动基础上加大有氧运动，每次有氧运动前先进行30分钟无氧运动，有利于提高减肥效果。</item>
+        <item>Set a goal to help manage your weight.</item>
+        <item>"Congratulations! You're at your at your target weight."</item>
+        <item>"You're under your target weight"</item>
+        <item>"You're over your target weight"</item>
     </string-array>
     <string-array name="weight_report_suggestions_girl">
-        <item>爱美也要注意健康哦，平时要多观察体重避免继续下降。建议多增加无氧运动，增加体重的同时也可以保持较好的身材。</item>
-        <item>身材非常标准，建议保持目前的生活饮食习惯，一定要将好身材保持下去哦。</item>
-        <item>建议减少脂肪摄入，保持蛋白质的摄入。在现有运动基础上加大有氧运动，每次有氧运动前先进行30分钟无氧运动，有利于提高减肥效果。</item>
-        <item>建议减少脂肪摄入，保持蛋白质的摄入。在现有运动基础上加大有氧运动，每次有氧运动前先进行30分钟无氧运动，有利于提高减肥效果。</item>
+        <item>Set a goal to help manage your weight.</item>
+        <item>"Congratulations! You're at your at your target weight."</item>
+        <item>"You're under your target weight"</item>
+        <item>"You're over your target weight"</item>
     </string-array>
     <string-array name="weight_report_result_without_goal">
         <item>Surpassed goal</item>
@@ -104,23 +122,5 @@
         <item>"You haven't reached your goal yet"</item>
         <item>"You haven't reached your goal yet"</item>
         <item>You reached your goal (%1$s%2$s)!</item>
-    </string-array>
-    <string-array name="health_link_title">
-        <item>1. 24-hour emergency response</item>
-        <item>2. Emergency proposal</item>
-        <item>3. Help arrange emergency vehicles</item>
-        <item>4. Assist the dangerous condition report</item>
-        <item>5. Contact the families</item>
-        <item>6. Emergency Hospital Available</item>
-        <item>7. Hospitalization guide</item>
-    </string-array>
-    <string-array name="health_link_content">
-        <item>Health care professionals 24 hours, the bilingual provision of emergency assistance, 7x24 hours, 365 days year round.</item>
-        <item>In the user informed of the real situation, the AU will provide far Platinum ten minutes of "self" or "mutual aid" emergency proposal by telephone.</item>
-        <item>Far League call center call and immediately call the local emergency center telephone ("120" or "999"), the establishment of three-way calling, by the user to the emergency center readme Chuxian location tracking ambulance rescue process.</item>
-        <item>Assist the user in the event of an accident report to the authorities.</item>
-        <item>Notify family members or emergency contact person according to the user wishes and provide contact information.</item>
-        <item>Without prejudice to the "anxious, nearby, on the condition on patients and their families will" under the principles of first aid, first aid can be implemented far-Union Medical Hospital to user referrals, ultimately decided by the user, or according to the actual situation by emergency vehicles the doctor ordered.</item>
-        <item>Guidance hospitalization procedure, hospitalization precautions advice.</item>
     </string-array>
 </resources>

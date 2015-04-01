@@ -136,7 +136,7 @@
     <string name="block_cannot_block_lan_device">"Connected using LAN so can't use WiFi network"</string>
     <string name="block_device_caption">Blocked device detected</string>
     <string name="block_device_description">Device has been blocked for multiple connection attempts</string>
-    <string name="block_device_do">Blocklist</string>
+    <string name="block_device_do">Blocked</string>
     <string name="block_device_failed_for_hitch_hiker_not_enabled">Please enable anti-leech function from plug-ins to block device</string>
     <string name="block_device_mac">MAC address</string>
     <string name="block_device_message">Device will be refused connection every time. You can permit access from the blocklist</string>
@@ -157,7 +157,7 @@
     <string name="block_enable_no_disturb_mode_failed_for_hitch_hiker_not_enabled">Please enable the anti-leech function in plug-ins</string>
     <string name="block_enable_wifi_access_forbid_wifi">Open WiFi access blocklist</string>
     <string name="block_feature_disabled_for_working_under_white_list_mode">Mi router is currently set to whitelist mode, anti-leech mode will not take effect.</string>
-    <string name="block_hitch_hiker">Block devices</string>
+    <string name="block_hitch_hiker">Blocklist</string>
     <string name="block_hitch_hiker_description">Easily block unwanted WiFi users with one button click</string>
     <string name="block_hitch_hiker_device_list">Devices list</string>
     <string name="block_hitch_hiker_feature_guide_description">Reminder when unidentified new device is connected for the first time</string>
@@ -174,13 +174,13 @@
     <string name="block_plz_enable_hitch_hiker_mechanism">Please enable anti-leech function</string>
     <string name="block_save_device_name">Device name saved</string>
     <string name="block_unblock_device_succeeded">Device unblocked successfully</string>
-    <string name="block_unblock_wifi_access">Unblock WiFi access</string>
+    <string name="block_unblock_wifi_access">Unblocking WiFi access...</string>
     <string name="block_whether_block_device">Do you want to block the selected device?</string>
     <string name="block_whether_block_device_message">Device will be refused connection every time. You can permit access from the blocklist</string>
-    <string name="block_whether_block_device_x">Block device (%s)?</string>
+    <string name="block_whether_block_device_x">Are you sure you want to block %s?</string>
     <string name="block_whether_unblock_device">Remove device from blocklist?</string>
-    <string name="block_whether_unblock_device_x">Are you sure you want to remove device(%s) from the blocklist?</string>
-    <string name="block_wifi_access">Restrict WiFi access</string>
+    <string name="block_whether_unblock_device_x">Are you sure you want to remove %s from the blocklist?</string>
+    <string name="block_wifi_access">Blocking WiFi access...</string>
     <string name="bootstrap_admin_password_hint">Please input password</string>
     <string name="bootstrap_admin_password_prompt">Administrator password</string>
     <string name="bootstrap_admin_password_tip">Set the Mi routers management password (can be modified later)</string>
@@ -195,7 +195,7 @@
     <string name="bootstrap_get_relay_wifi_failed">Failed to get WiFi relay</string>
     <string name="bootstrap_name_prompt">Name</string>
     <string name="bootstrap_name_tip">Used to distinguish between different Mi routers</string>
-    <string name="bootstrap_name_too_long">Name cannot be longer than %d chacters</string>
+    <string name="bootstrap_name_too_long">Name cannot be more than %d chacters</string>
     <string name="bootstrap_need_dial">Dial up</string>
     <string name="bootstrap_need_not_dial">"Don't dial"</string>
     <string name="bootstrap_other_mode">Other access method</string>
@@ -231,7 +231,7 @@
     <string name="bootstrap_wan_not_connect">WAN connection is disconnected or unavailable</string>
     <string name="bootstrap_wifi_name_hint">Please input WiFi name (SSID)</string>
     <string name="bootstrap_wifi_name_prompt">WiFi name (SSID)</string>
-    <string name="bootstrap_wifi_name_too_long">WiFi name (SSID) cannot be longer than %d</string>
+    <string name="bootstrap_wifi_name_too_long">WiFi name (SSID) cannot be more than %d</string>
     <string name="bootstrap_wifi_password_hint">Input WiFi password</string>
     <string name="bootstrap_wifi_password_prompt">WiFi password</string>
     <string name="bootstrap_wired_relay_mode">LAN repeater</string>
@@ -382,8 +382,8 @@ have already opened 2.4GHz WiFi or click "Reconnect" "</string>
     <string name="common_just_now">Just now</string>
     <string name="common_know_button">Accept</string>
     <string name="common_last_week">Last week</string>
-    <string name="common_load_data">Loading data</string>
-    <string name="common_loading_settting">Loading settings</string>
+    <string name="common_load_data">Loading data...</string>
+    <string name="common_loading_settting">Loading settings...</string>
     <string name="common_loading_settting_fail">Failed to load settings</string>
     <string name="common_mbps">Mbps</string>
     <string name="common_menu_cancel">Cancel</string>
@@ -728,7 +728,7 @@ search online to find new movies"</string>
     <string name="invitation_associate_account">Mi account to add: %s</string>
     <string name="invitation_delete_button">Delete</string>
     <string name="invitation_delete_failed">Failed to delete, please try again</string>
-    <string name="invitation_delete_tip">"Removing user means they can no longer access Mi router.
+    <string name="invitation_delete_tip">"Removing user means they can no longer access this Mi router.
 Are you sure you want to continue?"</string>
     <string name="invitation_delete_waiting">Deleting user, please wait...</string>
     <string name="invitation_demote_self_failed">Failed to remove, please try again</string>

@@ -82,9 +82,9 @@
         <item>" lb"</item>
     </string-array>
     <string-array name="weight_body_figures">
-        <item>Низкий вес</item>
-        <item>Нормальный вес</item>
-        <item>Лишний вес</item>
+        <item>Низкий</item>
+        <item>Нормальный</item>
+        <item>Лишний</item>
         <item>Ожирение</item>
         <item>Ожирение</item>
     </string-array>

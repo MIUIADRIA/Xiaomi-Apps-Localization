@@ -185,6 +185,7 @@
      <string name="continue_reach_goal_new_record">Новый рекорд</string>
      <string name="continue_tips_format">Лучший рекорд достижения цели: %1$s дн.</string>
      <string name="contour_track_failed_to_create">Failed to share, please check storage left.</string>
+     <string name="current_weight">Текущий вес</string>
      <string name="daily_consume">Сожжено сегодня (ккал)</string>
      <string name="daily_sport_report">Ежедневный отчет активности</string>
      <string name="daily_sport_report_contintue_info">"Дней отдыха: %1$s
@@ -285,6 +286,7 @@
      <string name="error_code">Ошибка</string>
      <string name="everyday">Каждый день</string>
      <string name="exceed_user">Обошли пользователей</string>
+     <string name="exceed_user_percentage">Обошли %1$s пользователей</string>
      <string name="exit_app">Выход</string>
      <string name="exit_app_continue">Продолжить</string>
      <string name="exit_app_tips">Текущий браслет был отвязан</string>
@@ -576,7 +578,7 @@
      <string name="losegoal_light_male">Вы ниже своей цели</string>
      <string name="losegoal_normal">"Поздравляем! Вы достигли заданного веса."</string>
      <string name="lost_weight_fail_with_value">Необходимо скинуть %1$s для достижения цели</string>
-     <string name="main_ui_share_tips">"Тренировка сегодня %1$s %2$s.
+     <string name="main_ui_share_tips">"Тренировка сегодня %1$s %2$s
 %3$s"</string>
      <string name="main_ui_sleep_share_tips">"Легкий сон: %1$s %2$s
 Время засыпания %3$s | Время пробуждения %4$s"</string>
@@ -586,7 +588,7 @@
      <string name="message_title_care">Care Message</string>
      <string name="message_title_friend">Сообщение от друга</string>
      <string name="metre">" м"</string>
-     <string name="mi_band">Mi Band</string>
+     <string name="mi_band">Браслет</string>
      <string name="mili_exit_login_info">Вы собираетесь выйти из текущего Mi аккаунта. Продолжить?</string>
      <string name="mili_exit_login_info_continue">Не удалось синхронизировать. Проверьте подключение к сети. Если Вы выйдите сейчас, будут потеряны все не синхронизированные раннее данные. Продолжить?</string>
      <string name="mili_exit_login_info_continue_tip">Выйти из аккаунта?</string>
@@ -672,8 +674,9 @@
      <string name="odo_british">Всего миль</string>
      <string name="ok">OK</string>
      <string name="one_min">1 мин. назад</string>
-     <string name="one_week">Эта неделя </string>
+     <string name="one_week">"Эта неделя "</string>
      <string name="orange">Оранжевый</string>
+     <string name="over_the_max_user_count">Максимальное количество пользоателей 16</string>
      <string name="pairing">Подготовка…</string>
      <string name="parse_data_failed">Не удалось проанализировать данные</string>
      <string name="percent_mark">%</string>
@@ -795,6 +798,7 @@
      <string name="share_miliao_too_old">Версия MiTalk слишком старая</string>
      <string name="share_pengyouquan_label">Моменты</string>
      <string name="share_play_ground_format">" (около %1$s кр.)"</string>
+     <string name="share_prepare_tips">Подготовка к отправке…</string>
      <string name="share_qq_label">QQ</string>
      <string name="share_qq_zone_label">QZone</string>
      <string name="share_sleep_description">"Глубокий сон %1$s ч. %2$s мин. | Легкий сон %3$s ч. %4$s мин.
@@ -825,6 +829,7 @@
      <string name="share_to_content">Делюсь результатами</string>
      <string name="share_to_content_sleep">Информация о моем сне</string>
      <string name="share_to_content_step">Моя спортивная активность</string>
+     <string name="share_to_content_weight">Мои данные веса</string>
      <string name="share_to_miliao_path">Поделиться</string>
      <string name="share_to_miliao_target_feeds">Круги</string>
      <string name="share_to_miliao_target_friends">Друзья</string>
@@ -834,13 +839,14 @@
      <string name="share_to_title">Mi Band</string>
      <string name="share_to_topic">\#Mi Fit#</string>
      <string name="share_to_watermark">Мое фото</string>
+     <string name="share_twitter_label">Twitter</string>
      <string name="share_uninstall_client">Приложение не установлено</string>
      <string name="share_weibo_label">Weibo</string>
      <string name="share_weixin_label">WeChat</string>
      <string name="signal_none">Нет</string>
      <string name="signal_strength">"Уровень сигнала: "</string>
-     <string name="signal_strong">Сильный</string>
-     <string name="signal_weak">Слабый</string>
+     <string name="signal_strong">сильный</string>
+     <string name="signal_weak">слабый</string>
      <string name="smaller_than_normal_with_value">%1$s ниже среднего</string>
      <string name="smart_alarm_clock">Будильник</string>
      <string name="smart_alarm_notify">Умный будильник</string>
@@ -984,6 +990,7 @@
      <string name="step2">Шаг 2) </string>
      <string name="step_per_day">" шагов/день"</string>
      <string name="stop">конец</string>
+     <string name="stop_on_bed_time">Время пробуждения</string>
      <string name="sure_to_delete_weight">Удалить записи веса?</string>
      <string name="sync_to_server">Синхронизация…</string>
      <string name="system_low_info">Обновите устройство до Android 4.4 или выше</string>
@@ -1126,7 +1133,9 @@
      <string name="week_total_distance">Дистанция за неделю (км)</string>
      <string name="week_total_distance_miles">"За неделю 
 (миль)"</string>
-     <string name="weibosdk_toast_auth_canceled_f">Deauthorize failure</string>
+     <string name="weibosdk_toast_auth_canceled">Отмена, подождите</string>
+     <string name="weibosdk_toast_auth_canceled_f">Отмена не удалась</string>
+     <string name="weibosdk_toast_auth_failed">Сопряжение не удалось</string>
      <string name="weibosdk_toast_unbind_failed">Не удалось отвязать</string>
      <string name="weight_bmi_tips">ИМТ %1$s %2$s</string>
      <string name="weight_connect_failed_title">Не удалось подключиться к весам</string>

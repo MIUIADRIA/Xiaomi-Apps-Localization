@@ -152,9 +152,9 @@ Address: %2$s"</string>
   <string name="can_not_del_last_weight_info">Can not delete last weight information</string>
   <string name="cancel">Cancel</string>
   <string name="change_current_weight_report">"Current weight is not \"%1$s\"?
-Click on the list to set weight for new user"</string>
+Touch to add a new user to the scale."</string>
   <string name="change_weight_for_visitor">"Guest weight,
-Click on the list to set weight for new user"</string>
+Touch to add a new user to the scale."</string>
   <string name="check_upgrade">Check for updates</string>
   <string name="checking_new_apk">Checking for updates...</string>
   <string name="choose_tag_item">Select an activity</string>
@@ -177,14 +177,15 @@ Click on the list to set weight for new user"</string>
   <string name="connected_broadcast_disconnect_tips">Pair Mi Band first and try again</string>
   <string name="connected_broadcast_tips">Make Mi Band visible to other devices, it may use more power.</string>
   <string name="connecting">Connecting...</string>
-  <string name="content_too_short">Enter your message</string>
+  <string name="content_too_short">Input your message</string>
   <string name="continue_reach_goal"> goals</string>
   <string name="continue_reach_goal_days">"Longest 
 streak"</string>
   <string name="continue_reach_goal_new_record">Set a new record</string>
   <string name="continue_tips_format">Longest streak: %1$s days</string>
   <string name="contour_track_failed_to_create">Failed to share, please check storage left.</string>
-  <string name="daily_consume">Consumed today (Cal)</string>
+  <string name="current_weight">Current weight</string>
+  <string name="daily_consume">Consumed today (cal)</string>
   <string name="daily_sport_report">Daily sport result</string>
   <string name="daily_sport_report_contintue_info">"%1$s lazy days left,
  personal record is %2$s days"</string>
@@ -285,6 +286,7 @@ wake up"</string>
   <string name="error_code">Error</string>
   <string name="everyday">Everyday</string>
   <string name="exceed_user">User limit exceeded</string>
+  <string name="exceed_user_percentage">Exceeded by %1$s users</string>
   <string name="exit_app">Exit</string>
   <string name="exit_app_continue">Continue</string>
   <string name="exit_app_tips">Current Mi Band will be unpaired.</string>
@@ -563,7 +565,7 @@ firmly in the center of the scale"</string>
   <string name="look_weight_device_list">Discover Mi Scales nearby</string>
   <string name="lose_weight_succ">You reached your weight loss goal!</string>
   <string name="lose_weight_succ_with_value">"You passed your goal
-  a total of %1$s"</string>
+by %1$s"</string>
   <string name="losegoal_child_fat">"You're over your target weight"</string>
   <string name="losegoal_child_heavy">"You're over your target weight"</string>
   <string name="losegoal_child_normal">"Congratulations! You're at your at your target weight."</string>
@@ -671,6 +673,7 @@ Keep at it!"</string>
   <string name="one_min">1 min ago</string>
   <string name="one_week">This week </string>
   <string name="orange">Orange</string>
+  <string name="over_the_max_user_count">Maximum of 16 family members.</string>
   <string name="pairing">Pairing ...</string>
   <string name="parse_data_failed">Failed to parse data!</string>
   <string name="percent_mark">%</string>
@@ -690,7 +693,7 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="please_knock_bracelet">To pair, tap Mi Band.</string>
   <string name="please_set_sport_goal">Set a goal</string>
   <string name="pm">PM</string>
-  <string name="prepare_log">Prepare log ...</string>
+  <string name="prepare_log">Preparing log ...</string>
   <string name="prev_step">Back</string>
   <string name="pull_to_refresh_from_bottom_pull_label">Load more</string>
   <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
@@ -792,6 +795,7 @@ uploaded to the server."</string>
   <string name="share_miliao_too_old">"The version of Mi Talk you're using is too old."</string>
   <string name="share_pengyouquan_label">Moments</string>
   <string name="share_play_ground_format">" or about %1$s laps around the track"</string>
+  <string name="share_prepare_tips">Preparing data for sharing...</string>
   <string name="share_qq_label">QQ</string>
   <string name="share_qq_zone_label">QZone</string>
   <string name="share_sleep_description">"Deep sleep: %1$sh %2$sm | Light sleep: %3$sh %4$sm
@@ -823,6 +827,7 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="share_to_content">Share your progress</string>
   <string name="share_to_content_sleep">My sleep data</string>
   <string name="share_to_content_step">My fitness data</string>
+  <string name="share_to_content_weight">My weight data</string>
   <string name="share_to_miliao_path">Share with</string>
   <string name="share_to_miliao_target_feeds">Groups</string>
   <string name="share_to_miliao_target_friends">Friends</string>
@@ -832,6 +837,7 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="share_to_title">Mi Band</string>
   <string name="share_to_topic">\#Mi Fit#</string>
   <string name="share_to_watermark">My watermark photo</string>
+  <string name="share_twitter_label">Twitter</string>
   <string name="share_uninstall_client">"This app hasn't been installed."</string>
   <string name="share_weibo_label">Weibo</string>
   <string name="share_weixin_label">WeChat</string>
@@ -982,6 +988,7 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="step2">Step 2) </string>
   <string name="step_per_day"> steps/day</string>
   <string name="stop">End</string>
+  <string name="stop_on_bed_time">Wakeup time</string>
   <string name="sure_to_delete_weight">Sure to delete weight record?</string>
   <string name="sync_to_server">Syncing...</string>
   <string name="system_low_info">You need to update your device to Android 4.4 or higher.</string>
@@ -1125,7 +1132,9 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
 (km)"</string>
   <string name="week_total_distance_miles">"Week total 
 (miles)"</string>
+  <string name="weibosdk_toast_auth_canceled">Deauthorize</string>
   <string name="weibosdk_toast_auth_canceled_f">Deauthorize failure</string>
+  <string name="weibosdk_toast_auth_failed">Pairing failed</string>
   <string name="weibosdk_toast_unbind_failed">Failed to unpair</string>
   <string name="weight_bmi_tips">BMI %1$s %2$s</string>
   <string name="weight_connect_failed_title">Failed to connect to Mi Scales</string>

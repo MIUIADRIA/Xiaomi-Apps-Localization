@@ -114,7 +114,7 @@
   <string name="camera_sdcard_manage">SD card management</string>
   <string name="camera_set_image">Set camera avatar</string>
   <string name="camera_setting">Camera settings</string>
-  <string name="camera_state_incorrect">&lt;a href="#"&gt;Camera state incorrect&lt;/a&gt;</string>
+  <string name="camera_state_incorrect"><a href="#">Camera not responding?</a></string>
   <string name="camera_uid_config">Camera number</string>
   <string name="camera_upgrade">Update camera</string>
   <string name="camera_upgrade_send_success">Camera firmware updated successfully!</string>
@@ -168,9 +168,9 @@
   <string name="checknet_error_internet_response_result_ok">OK</string>
   <string name="checknet_error_internet_response_result_unknown">Unknown error</string>
   <string name="checknet_error_main_stream_blocking">Streaming high-definition video may experience blocking</string>
-  <string name="checknet_error_msg_format" formatted="false">&lt;Data&gt;"&amp;lt;font color='#373737'&amp;gt;%s&amp;lt;/font&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#262626'&amp;gt;%s&amp;lt;/font&amp;gt;"&lt;/Data&gt;</string>
+  <string name="checknet_error_msg_format" formatted="false"><Data>"&lt;font color='#373737'>%s&lt;/font>&lt;br/>&lt;br/>&lt;font color='#262626'>%s&lt;/font>"</Data></string>
   <string name="checknet_error_unknown_wifi_info">Unknown WiFi info, please use another WiFi network</string>
-  <string name="checknet_gateway">Geteway:</string>
+  <string name="checknet_gateway">Gateway:</string>
   <string name="checknet_internet_category">Internet category:</string>
   <string name="checknet_internetcheck_packet_loss_rate">Packet loss rate:</string>
   <string name="checknet_internetcheck_packet_loss_rate1">Packet loss rate1:</string>
@@ -199,7 +199,7 @@
   <string name="connect_to_wifi_title">Connect to WiFi</string>
   <string name="connecting">Connecting</string>
   <string name="content_description">description</string>
-  <string name="continue_search">&lt;a href="#"&gt;Continue search?&lt;/a&gt;</string>
+  <string name="continue_search">Continue search?</string>
   <string name="create_upload_success">Upload created successfully</string>
   <string name="current_is_the_newest_version">You already have the latest version</string>
   <string name="current_version_no">Current version</string>
@@ -300,7 +300,7 @@ please check network connection and try again"</string>
   <string name="init_failed">Initialization failed</string>
   <string name="instagram">Instagram</string>
   <string name="instagram_client_inavailable">Instagram is not installed or requires updating</string>
-  <string name="into_look">Take a look&gt;&gt;</string>
+  <string name="into_look">Take a look >></string>
   <string name="item_winexperience_ignore_btntxt">Ignore</string>
   <string name="kaixin">Kaixin</string>
   <string name="landscape">Select landscape</string>
@@ -458,7 +458,7 @@ the rear of the camera"</string>
   <string name="setting_buy">Buy</string>
   <string name="setting_camera_manage">Camera management</string>
   <string name="setting_camera_upgrad">Version update</string>
-  <string name="setting_camera_upgrade">Camera updates</string>
+  <string name="setting_camera_upgrade">Camera update</string>
   <string name="setting_new_camera">New camera</string>
   <string name="setting_star_app">Start</string>
   <string name="setting_view_only_in_wifi">View using WiFi only</string>
@@ -492,7 +492,7 @@ the rear of the camera"</string>
   <string name="software_describe">Android is a powerful mobile phone operating system. It provides a comprehensive set of functions including file management, account and contact sync and many more features.</string>
   <string name="sohumicroblog">Sohu Weibo</string>
   <string name="sohusuishenkan">Sohu carry-on watch</string>
-  <string name="splash_skip">Skip &gt;&gt;</string>
+  <string name="splash_skip">Skip >></string>
   <string name="start_speaking_too_frequently">Talk more slowly, unable to process!</string>
   <string name="start_upload">Start uploading</string>
   <string name="start_upload_share">Start uploading</string>

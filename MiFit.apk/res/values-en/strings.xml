@@ -178,25 +178,15 @@ Touch to add a new user to the scale."</string>
   <string name="connected_broadcast_tips">Make Mi Band visible to other devices (may use more power).</string>
   <string name="connecting">Connecting...</string>
   <string name="content_too_short">Input your message</string>
-<<<<<<< HEAD
   <string name="continue_reach_goal"> goals</string>
-=======
-  <string name="continue_reach_goal">goals</string>
->>>>>>> origin/master
   <string name="continue_reach_goal_days">"Longest 
 streak"</string>
   <string name="continue_reach_goal_new_record">Set a new record</string>
   <string name="continue_tips_format">Longest streak: %1$s days</string>
-<<<<<<< HEAD
   <string name="contour_track_failed_to_create">Failed to share, please check storage left.</string>
   <string name="current_weight">Current weight</string>
   <string name="daily_consume">Consumed today (cal)</string>
   <string name="daily_sport_report">Daily sport result</string>
-=======
-  <string name="contour_track_failed_to_create">Failed to share</string>
-  <string name="daily_consume">Consumed today (Cal)</string>
-  <string name="daily_sport_report">Daily sports result</string>
->>>>>>> origin/master
   <string name="daily_sport_report_contintue_info">"%1$s lazy days left,
  personal record is %2$s days"</string>
   <string name="daily_sport_report_notify">Walked a total of %s today!</string>
@@ -701,15 +691,9 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="please_input_gender">Select gender</string>
   <string name="please_input_name">Input name</string>
   <string name="please_knock_bracelet">To pair, tap Mi Band.</string>
-<<<<<<< HEAD
   <string name="please_set_sport_goal">Set a goal</string>
   <string name="pm">PM</string>
   <string name="prepare_log">Preparing log ...</string>
-=======
-  <string name="please_set_sport_goal">Set goal</string>
-  <string name="pm">pm</string>
-  <string name="prepare_log">Preparing log...</string>
->>>>>>> origin/master
   <string name="prev_step">Back</string>
   <string name="pull_to_refresh_from_bottom_pull_label">Load more</string>
   <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
@@ -852,12 +836,8 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="share_to_title">Mi Band</string>
   <string name="share_to_topic">\#Mi Fit#</string>
   <string name="share_to_watermark">My watermark photo</string>
-<<<<<<< HEAD
   <string name="share_twitter_label">Twitter</string>
   <string name="share_uninstall_client">"This app hasn't been installed."</string>
-=======
-  <string name="share_uninstall_client">"This app is not installed."</string>
->>>>>>> origin/master
   <string name="share_weibo_label">Weibo</string>
   <string name="share_weixin_label">WeChat</string>
   <string name="signal_none">Off</string>
@@ -1007,16 +987,10 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="step2">Step 2) </string>
   <string name="step_per_day"> steps/day</string>
   <string name="stop">End</string>
-<<<<<<< HEAD
   <string name="stop_on_bed_time">Wakeup time</string>
   <string name="sure_to_delete_weight">Sure to delete weight record?</string>
   <string name="sync_to_server">Syncing...</string>
   <string name="system_low_info">You need to update your device to Android 4.4 or higher.</string>
-=======
-  <string name="sure_to_delete_weight">Are you sure you want to delete weight records?</string>
-  <string name="sync_to_server">Updating data...</string>
-  <string name="system_low_info">Android 4.4 or higher is required</string>
->>>>>>> origin/master
   <string name="system_low_title">Android version is too old</string>
   <string name="system_not_support_info">Android 4.4 or higher is required</string>
   <string name="system_not_support_title">Android version not supported</string>
@@ -1125,7 +1099,7 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="uploaded">Uploaded:</string>
   <string name="user_agreement">Terms of Service &amp; Privacy Policy</string>
   <string name="user_agreement_play">Terms of Service &amp; Privacy Policy</string>
-  <string name="user_agreement_prefix">"By using this prooduct you agree to our "</string>
+  <string name="user_agreement_prefix">"By using this product you agree to our "</string>
   <string name="user_agreement_ux">User Experience Program</string>
   <string name="user_set_succ_info">Open %1$s to finish first weight check</string>
   <string name="user_staron_me">Followers</string>
@@ -1156,13 +1130,9 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
 (km)"</string>
   <string name="week_total_distance_miles">"Weekly total 
 (miles)"</string>
-<<<<<<< HEAD
   <string name="weibosdk_toast_auth_canceled">Deauthorize</string>
   <string name="weibosdk_toast_auth_canceled_f">Deauthorize failure</string>
   <string name="weibosdk_toast_auth_failed">Pairing failed</string>
-=======
-  <string name="weibosdk_toast_auth_canceled_f">Deauthorization failure</string>
->>>>>>> origin/master
   <string name="weibosdk_toast_unbind_failed">Failed to unpair</string>
   <string name="weight_bmi_tips">BMI %1$s %2$s</string>
   <string name="weight_connect_failed_title">Failed to connect Mi Scales</string>

@@ -264,7 +264,7 @@ localization_hr_rHR_table = {
     welcome_use_mi_health="Dobrodošli u korištenje Mi Banda",
 
     select_devices="Odaberite uređaje za uparivanje",
-    daily_steps_not_comlete = "%s preostalo koraka"
+    daily_steps_not_comlete = "%s preostalo koraka",
     am_format="%sAM",
     pm_format="%sPM",
  }

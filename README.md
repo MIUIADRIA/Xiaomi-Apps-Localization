@@ -1,36 +1,31 @@
-# Xiaomi-Apps-Localization
-Localization Project For Xiaomi Gadgets Android Applications
+# Open Mi App Project
+i18n project to localise Xiaomi (Mi) Android applications
+
+- Xiaomi, based in Beijing, China has a wide range of products to its name, including MIUI, Smart Home products; Yi Camera, Mi Band and many other cool tech gadgets. Besides the hardware Xiaomi also have MIUI, an Android based custom ROM which has been in development now for over almost 5 years (August 2015). As a result of a fusion of Hardware and Software Xiaomi have developed many new applications to control our way of life, as such there is a need to translate these apps into as many languages for users round the word to benefit from and enjoy the experience in their native language.
+
+# About the Project...
+- The scope of this project is to fully localise Xiaomi android apps into as many languages as possible. With the help of voluntary community contributions
+- This is an open project where anyone is free to contribute and improve to make better translations for Xiaomi apps
+- Each contributor will be credited for their work here and on other web sites promoting this project
+- Contributors who excel in supporting the community wil be added to the MGS Team (MIUI Geeks Squad) which has various benefits in the MIUI community
+- To contribute to this multi language i18n project please email mgs.devs@gmail.com or markhedley1980@gmail.com
 
 
-- Xiaomi Is Great China Tech Company With Quality & Valuable Smart Products.
-- Beside Mobile Devices Powered By Xiaomi Created MIUI OS(Customized Android Based OS), Xiaomi Manufacturing Wide Range Of Smart Gadgets & Home Appliances.
-- In Order To Provide The Best User Experience Xiaomi Developers Created Various Android Apps With Main Purpose Of Handling Mentioned Gadgets Via Android Devices.
+# Apps list (Original sources) 
 
-
-- Probably Because Main Xiaomi Market Is Asia, Many Upper Mentioned Apps Dont Have Multilanguage Or Even English Localization But Our Mission Is To Change That Situation.
-- Main Idea Behind This Project Is Localization Of Xiaomi Apps To As Many Languages As Voluntary Developers Will Provide Us. 
-- Priority Is Localization Of Chinese Strings/Images On English Language Which Will Be Used As Base For Multilanguage Project And Strings/Images Will Be Updated Monthly Or Upon New Apps Version Is Released.
-- This Project Is Open Source & Voluntary So Everybody Can Join And Help To Bring Better User Experience To Worldwide Xiaomi Fans.
-- Work Of Every Contributor Will Be Credited On This GitHub Page As Same As In Every App Promotion Content We Create.
-- If Participant / Contributor Done Satisfying Amount Of Job, He/She Will Be Added To MGS Team (MIUI Geeks Squad) Which Have Various Benefits On MIUI International Community.
- 
-- If You Want To : Contribute To This Project/Provide Already Existing Multilanguage Strings/Obtain Help For Translation Progress - Please Send Email To : mgs.devs@gmail.com
-
-
-
-# List Of Xiaomi Apps & Their SW Version - English Base Translation Status 100%
+* Note: English translations on this repo are fully up to date and may be in some cases include better translations so please use the Git repo as your translation template.
 
 - AntiFake_10301 - https://jd.mi.com/
 - CoolWallpaper_2.3.1 - http://app.mi.com/detail/41245
 - MiAuthenticator_2.27 - http://app.mi.com/detail/62091
 - MiClick_3.0.1 - http://app.mi.com/detail/59090
-- MiFit_1.3.912 - http://app.mi.com/detail/68548
+- MiFit_1.4.152 - http://app.mi.com/detail/68548
 - MiHealth_1.3.3 - http://app.mi.com/detail/73250
 - MiRemote_4.3 - http://app.mi.com/detail/31067
 - MiRouter_1.0.60 - http://app.mi.com/detail/53711
 - MiScreenCast_1.1.9 - http://app.mi.com/detail/82348
-- MiSmallAnts_1.4.0 - http://app.mi.com/detail/75646
-- MiSmartHome_2.4.6 - http://app.mi.com/detail/75542
+- MiSmallAnts_1.4.1 - http://app.mi.com/detail/75646
+- MiSmartHome_2.4.8 - http://app.mi.com/detail/75542
 - MiSportCamera_1.3 - http://app.mi.com/detail/87320
 - MiSoundBar_1.1.1 - http://app.mi.com/detail/64097
 - MiTag_2.0.4 - http://app.mi.com/detail/56946
@@ -40,17 +35,14 @@ Localization Project For Xiaomi Gadgets Android Applications
 - SuperMarket_R.1.4.2 - http://app.mi.com/detail/34346
 - MiWifi_2.0.apk - http://bigota.miwifi.com/xiaoqiang/client/xqapp_preview.apk
 
+# Multilanguage app translation status
+
+- In progress...
 
 
-# Per App Multilanguage Translation Status
+# Contributors per Language
 
- - Pending .... -
-
-
-
-# List Of Contributors / Translators Per Language
-
-- English (miui.com, xiaomi.eu, MarkH-UK, FD-ghost, hpro, hong.weichyi, kin-cheng)
+- English (MarkH-UK, miui.com, xiaomi.eu, FD-ghost, hpro, hong.weichyi, kin-cheng)
 - Chinese (Xiaomi, miui.com)
 - Polish (Acid, miuipolska.pl)
 - Slovak (ingbrzy, miuios.cz)
@@ -78,16 +70,15 @@ Localization Project For Xiaomi Gadgets Android Applications
 - .......... More To Come ..........
 
 
-
-
-# Credits
+# Other credits
 
 - Xiaomi : http://www.xiaomi.com
 - Xiaomi Unofficial Multilang Project & Support: http://xiaomi.eu
 - MIUI International Community : http://en.miui.com/forum
+- MarkH (original Smali hacker and English MIUI translator 2010 to 2015)
 - BalcanGSM & MIUI Adria Group : http://adria.mobiledevs.net
 - MGS (MIUI Geeks Squad) Team : mgs.devs@gmail.com
 - Andrei Zhukouski AKA BurgerZ : http://burgerz.pro
 - All Past, Present And Future Contributors
 
-Please Give Appropriate Credits If You Use Content Of This GitHub Branch For End User Or Development Purpose.
+Please give appropriate credits when using content from this Git repository if you use for end user or development purposes publically or commercially.

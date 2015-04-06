@@ -15,7 +15,7 @@
   <string name="UMUpdateSize">Update size:</string>
   <string name="UMUpdateTitle">New version found</string>
   <string name="Vertical">Select vertical</string>
-  <string name="about">About Yi SmallAnts camera</string>
+  <string name="about">About</string>
   <string name="abs__action_bar_home_description">Navigate home</string>
   <string name="abs__action_bar_up_description">Navigate up</string>
   <string name="abs__action_menu_overflow_description">More options</string>
@@ -29,8 +29,8 @@
   <string name="abs__searchview_description_voice">Voice search</string>
   <string name="abs__shareactionprovider_share_with">Share with</string>
   <string name="abs__shareactionprovider_share_with_application">Share with %s</string>
-  <string name="account_format_err">E-mail format is invalid</string>
-  <string name="account_length_err">Account name length invalid (1-40 digits)</string>
+  <string name="account_format_err">E-mail is invalid</string>
+  <string name="account_length_err">Account name length invalid (1-40 characters)</string>
   <string name="account_must_email">Account must use an e-mail address</string>
   <string name="account_not_exists">Account does not exist</string>
   <string name="account_null">Username cannot be blank</string>
@@ -101,6 +101,7 @@
   <string name="camera_initing">Initializing camera...</string>
   <string name="camera_is_in_connecting">Connecting to camera...</string>
   <string name="camera_name">Camera name</string>
+  <string name="camera_name_cant_be_null">Camera name can not be empty!</string>
   <string name="camera_name_config">Camera name</string>
   <string name="camera_no">Camera number:</string>
   <string name="camera_not_found">Camera not found, please try again!</string>
@@ -389,6 +390,7 @@ please check network connection and try again"</string>
   <string name="pinterest_client_inavailable">Pinterest is not installed or requires update</string>
   <string name="please_choose">Please select</string>
   <string name="please_confirm_password_is_right">Tip: Please ensure that the password is correct</string>
+  <string name="please_input_device_password">Please input password</string>
   <string name="please_input_location">Input location!</string>
   <string name="please_input_username_and_password">Please input username and password</string>
   <string name="please_insert_sdcard">Please insert SD card</string>
@@ -490,6 +492,7 @@ the rear of the camera"</string>
   <string name="software_describe">Android is a powerful mobile phone operating system. It provides a comprehensive set of functions including file management, account and contact sync and many more features.</string>
   <string name="sohumicroblog">Sohu Weibo</string>
   <string name="sohusuishenkan">Sohu carry-on watch</string>
+  <string name="splash_skip">Skip &gt;&gt;</string>
   <string name="start_speaking_too_frequently">Talk more slowly, unable to process!</string>
   <string name="start_upload">Start uploading</string>
   <string name="start_upload_share">Start uploading</string>

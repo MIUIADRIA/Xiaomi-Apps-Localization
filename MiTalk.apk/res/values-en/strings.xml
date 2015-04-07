@@ -87,11 +87,11 @@ Remember that you can only log in and restore password after you confirm your e-
   <string name="add_friend_char_limit_tips">"Can't exceed 9 characters"</string>
   <string name="add_friend_confirm">Accept friend request from %s?</string>
   <string name="add_friend_denied">Friend request was rejected by the other user</string>
-  <string name="add_friend_hint">Input a message (Optional)</string>
+  <string name="add_friend_hint">Input a message (optional)</string>
   <string name="add_friend_in_bubble">Add</string>
   <string name="add_friend_phone">Contacts</string>
-  <string name="add_friend_send_request_successful">Request sent</string>
-  <string name="add_friend_sending_verification">Sending request...</string>
+  <string name="add_friend_send_request_successful">Friend request sent</string>
+  <string name="add_friend_sending_verification">Sending friend request...</string>
   <string name="add_friend_succeeded">Congratulations! You are now friends on Mi Talk!</string>
   <string name="add_friend_title">Send a message to %s</string>
   <string name="add_friend_too_many">Sorry, you have reached the maximum amount of friends.</string>
@@ -103,9 +103,9 @@ Remember that you can only log in and restore password after you confirm your e-
   <string name="add_new_friend">Add new friend</string>
   <string name="add_new_group">Add new group</string>
   <string name="add_new_school">Add school</string>
-  <string name="add_phone_contact">Phone Contacts</string>
+  <string name="add_phone_contact">Phone contacts</string>
   <string name="add_phone_failed">Failed to add</string>
-  <string name="add_phone_succeeded">"Updated! You'll receive a notification SMS shortly."</string>
+  <string name="add_phone_succeeded">"You'll receive a notification SMS shortly."</string>
   <string name="add_private_mail_box">Add</string>
   <string name="add_reading_account">Subscription</string>
   <string name="add_renren">RenRen</string>
@@ -139,7 +139,7 @@ Remember that you can only log in and restore password after you confirm your e-
   <string name="all_people_visible">Show to all</string>
   <string name="alread_friend">Mi Talk friends</string>
   <string name="already_download_all">Download complete</string>
-  <string name="already_in_blacklist">in blocklist</string>
+  <string name="already_in_blacklist">Already in blocklist</string>
   <string name="anim_emoji_mall_paid">Paid</string>
   <string name="anim_emoji_mall_pay">Pay</string>
   <string name="anim_emoji_mall_title">Sticker store</string>
@@ -161,7 +161,7 @@ Remember that you can only log in and restore password after you confirm your e-
   <string name="animemoji_btn_in_use">In use</string>
   <string name="animemoji_delete_confirm">Continue to delete this emoticon?</string>
   <string name="animemoji_detail_title">Details</string>
-  <string name="animemoji_entrance_title">表情</string>
+  <string name="animemoji_entrance_title">Emoticons</string>
   <string name="animemoji_pay_free">Getting download link</string>
   <string name="animemoji_store_title">Sticker store</string>
   <string name="animemoji_unzip_fail">Network error, please try again</string>
@@ -170,7 +170,7 @@ Remember that you can only log in and restore password after you confirm your e-
   <string name="app_anzhuang">Install</string>
   <string name="app_building">Plug-in coming soon!</string>
   <string name="app_center">Plug-in center</string>
-  <string name="app_center_lottery_tips">Win a Mi Phone, F code, or Mi Credits</string>
+  <string name="app_center_lottery_tips">Win a Mi Phone, F-code, or Mi Credits</string>
   <string name="app_center_miba_tips">Mi Ba</string>
   <string name="app_center_more">More</string>
   <string name="app_center_remind_tips">Send notification</string>
@@ -193,7 +193,7 @@ Remember that you can only log in and restore password after you confirm your e-
   <string name="app_shortcut_created">Shortcut added</string>
   <string name="app_shortcut_error">Failed to add shortcut, please try again.</string>
   <string name="app_size">Size:</string>
-  <string name="app_uninstalling_please_wait">Uninstalling...</string>
+  <string name="app_uninstalling_please_wait">Uninstalling, please wait...</string>
   <string name="app_unziping">Unzipping...</string>
   <string name="app_update">Update</string>
   <string name="app_upgradeDetail">A new version of Mi Talk is available, do you want to update now?</string>
@@ -205,7 +205,7 @@ Remember that you can only log in and restore password after you confirm your e-
   <string name="app_upgrade_additional_size">[Update] Install size: %.2fMB</string>
   <string name="app_xiezai">Uninstall</string>
   <string name="apply_reason">Send request</string>
-  <string name="apply_reason_key">Request to be added</string>
+  <string name="apply_reason_key">Request to join</string>
   <string name="apply_theme">Apply</string>
   <string name="archive_management_title">Archived chats</string>
   <string name="archive_robot_displayname">Archived chats</string>
@@ -261,14 +261,14 @@ Remember that you can only log in and restore password after you confirm your e-
  inside the frame to scan"</string>
   <string name="barcode_not_found">QR code not found</string>
   <string name="base_test_recommend">You might be interested in</string>
-  <string name="base_test_tips">Top groups you might be interested</string>
+  <string name="base_test_tips">Groups you might be interested</string>
   <string name="baseshareactivity_email">E-mail:</string>
   <string name="baseshareactivity_name">Name:</string>
   <string name="baseshareactivity_phone">Phone:</string>
   <string name="basic_info">Basic info</string>
   <string name="batch">Batch</string>
   <string name="batch_cancel_select">Cancel</string>
-  <string name="batch_cancel_select_all">Deselect</string>
+  <string name="batch_cancel_select_all">Deselect all</string>
   <string name="batch_delete_all_sms_msg_alert">Delete this conversation?</string>
   <string name="batch_delete_n">Delete(%d selected)</string>
   <string name="batch_delete_n_conversation">Delete %d?</string>
@@ -286,7 +286,7 @@ Remember that you can only log in and restore password after you confirm your e-
   <string name="bbs_detail_next_page">Next</string>
   <string name="bbs_detail_page_number">Page %d</string>
   <string name="bbs_detail_pre_page">Previous</string>
-  <string name="bbs_detail_process">Loading</string>
+  <string name="bbs_detail_process">Loading...</string>
   <string name="bbs_detail_pull_pre_page">Pull down to load previous page</string>
   <string name="bbs_detail_pull_release_pre_page">Release to load previous page</string>
   <string name="bbs_detail_size_largen">Increase font size</string>
@@ -297,8 +297,8 @@ Remember that you can only log in and restore password after you confirm your e-
   <string name="bbs_favor_title">Most viewed</string>
   <string name="bbs_floor_index">%d index</string>
   <string name="bbs_publish_btn">Post</string>
-  <string name="bbs_publish_category">Select a category</string>
-  <string name="bbs_publish_category_text">Select a category</string>
+  <string name="bbs_publish_category">Select category</string>
+  <string name="bbs_publish_category_text">Select category</string>
   <string name="bbs_publish_content_hint">Say something</string>
   <string name="bbs_publish_not_allow">Unable to post</string>
   <string name="bbs_publish_send_category_limit">Category can not be empty</string>
@@ -312,7 +312,7 @@ Remember that you can only log in and restore password after you confirm your e-
   <string name="bbs_publish_send_title_limit">Title can not be empty</string>
   <string name="bbs_publish_title">Post</string>
   <string name="bbs_publish_title_hint">Input a title</string>
-  <string name="bbs_register_empty">Nickname cannot be empty</string>
+  <string name="bbs_register_empty">Nickname can not be empty</string>
   <string name="bbs_register_succeed">Registration successful</string>
   <string name="bbs_reply_count">Replies: %d</string>
   <string name="bbs_reply_from">Quotes: %s</string>
@@ -334,12 +334,12 @@ Remember that you can only log in and restore password after you confirm your e-
   <string name="big_group_find_group_filter_all">All</string>
   <string name="big_group_find_group_filter_create_time">Time created</string>
   <string name="big_group_find_group_filter_member_num">Member</string>
-  <string name="big_group_find_group_filter_msg_num">posts</string>
+  <string name="big_group_find_group_filter_msg_num">Posts</string>
   <string name="big_group_find_group_filter_nearby">Nearby</string>
   <string name="big_group_list_guide_tips">Need a group contact for a group up to 100 people? Well, you can have one now!</string>
   <string name="big_group_load_more">View more</string>
   <string name="big_group_member_album_title">Group album</string>
-  <string name="big_group_member_cannot_add_more">This group has reached the maximum limit</string>
+  <string name="big_group_member_cannot_add_more">This group has reached the maximum user limit</string>
   <string name="big_group_member_edit">Edit</string>
   <string name="big_group_member_list_admin">Manager (%s)</string>
   <string name="big_group_member_list_creator">Creator</string>
@@ -389,7 +389,7 @@ Remember that you can only log in and restore password after you confirm your e-
   <string name="blacklist_remove_succeed">Block list updated!</string>
   <string name="blacklist_unblock_succeed">Unblocked successfully</string>
   <string name="block_alarm">Block notifications</string>
-  <string name="block_notify_detail">You account has been block due to irregular activity. Please contact mishu@xiaomi.com for more info</string>
+  <string name="block_notify_detail">You account has been blocked due to irregular activity. Please contact mishu@xiaomi.com for more info</string>
   <string name="block_notify_summary">Your account has been blocked</string>
   <string name="blue_gem_is_enough_message" formatted="false">Whether to redeem %s that need to consumed %s blue gems?</string>
   <string name="blue_gem_not_enough_message" formatted="false">Whether to buy blue gems that is not enough? To redeem %s that need to consumed %s blue gems.</string>
@@ -404,9 +404,9 @@ Remember that you can only log in and restore password after you confirm your e-
   <string name="buddy_message_search_account">Mi account:</string>
   <string name="buddy_message_search_buddy_title">Search contacts</string>
   <string name="buddy_message_search_message_title">Local message history</string>
-  <string name="buddy_message_search_muc_account">Union ID:</string>
+  <string name="buddy_message_search_muc_account">Group ID:</string>
   <string name="buddy_message_search_muc_member">Member:</string>
-  <string name="buddy_message_search_muc_member_title">Search Union/Group chats</string>
+  <string name="buddy_message_search_muc_member_title">Search group chats</string>
   <string name="buddy_message_search_mutil_message">%1$d records found related to “%2$s“</string>
   <string name="buddy_message_search_mutil_message_header">records related to</string>
   <string name="buddy_message_search_mutil_message_tail">“</string>
@@ -417,7 +417,7 @@ Remember that you can only log in and restore password after you confirm your e-
   <string name="buddy_search_header_blocked">Blocklist</string>
   <string name="buddy_search_header_friend_types">Search from contacts on Mi Talk</string>
   <string name="buddy_search_header_groups">More</string>
-  <string name="buddy_search_header_i_added">Sent request</string>
+  <string name="buddy_search_header_i_added">Request sent</string>
   <string name="buddy_search_header_private_letter">Inbox</string>
   <string name="buddy_type_company_workmate">Colleague</string>
   <string name="buddy_type_ik">"You have this user's contact info"</string>
@@ -472,21 +472,21 @@ Remember that you can only log in and restore password after you confirm your e-
   <string name="channel_group_publisher">Posted by: %s</string>
   <string name="channel_new_post_count">%d new posts today</string>
   <string name="channel_owner">Owner:%s</string>
-  <string name="channel_publish">Post something crazy</string>
+  <string name="channel_publish">Post something</string>
   <string name="channel_publish_book_author">Author: %s</string>
-  <string name="channel_publish_book_hint">Write something about the book</string>
+  <string name="channel_publish_book_hint">Write something about this book</string>
   <string name="channel_publish_image_hint">Say something</string>
   <string name="channel_publish_movie_hint">Write something about this movie</string>
   <string name="channel_publish_movie_info">"Director: %1$s
  Leading roles: %2$s"</string>
   <string name="channel_publish_music_artist">"%1$s | From: %2$s's theme song"</string>
-  <string name="channel_publish_music_hint">Write something about the song</string>
+  <string name="channel_publish_music_hint">Write something about this song</string>
   <string name="channel_publish_text_hint">Input text</string>
   <string name="channel_publish_title">Go crazy</string>
   <string name="channel_publish_vote_hint">Add your vote</string>
   <string name="channel_publish_vote_option1_hint">Option 1 (max 16 characters)</string>
   <string name="channel_publish_vote_option2_hint">Option 2</string>
-  <string name="channel_publish_vote_option3_hint">Options 3</string>
+  <string name="channel_publish_vote_option3_hint">Option 3</string>
   <string name="channel_publish_vote_option4_hint">Option 4</string>
   <string name="channel_publish_vote_option_add">Add option</string>
   <string name="channel_vote_count">%d voters</string>
@@ -520,7 +520,7 @@ Remember that you can only log in and restore password after you confirm your e-
   <string name="choose_group_member">Select group members</string>
   <string name="choose_groups">Select group</string>
   <string name="choose_location_address">Select your location</string>
-  <string name="choose_muc_member">Select Union members</string>
+  <string name="choose_muc_member">Select group members</string>
   <string name="choose_muc_poi">Select location</string>
   <string name="choose_mutil_talk">Select group chats</string>
   <string name="choose_nearby_position">Select location</string>
@@ -729,7 +729,7 @@ Remember that you can only log in and restore password after you confirm your e-
   <string name="compose_message_menu_group_conversation">Manage group members</string>
   <string name="compose_tab_browser">Browse</string>
   <string name="compose_tab_conversation">Conversation</string>
-  <string name="compose_tab_group">Union</string>
+  <string name="compose_tab_group">Groups</string>
   <string name="compose_tab_group_conversation">Chat room</string>
   <string name="compose_tab_group_forum">Forum</string>
   <string name="compose_tab_vip">VIP</string>
@@ -770,7 +770,7 @@ Please note that you'll not be able to search friends and log in with a deleted 
   <string name="contact_bottom_common_add_group">Add groups</string>
   <string name="contact_bottom_common_barcode">Scan QR code</string>
   <string name="contact_bottom_common_group">Group chat</string>
-  <string name="contact_bottom_common_muc">Create Union</string>
+  <string name="contact_bottom_common_muc">Create group</string>
   <string name="contact_bottom_common_post_music">New music</string>
   <string name="contact_bottom_common_post_share">New post</string>
   <string name="contact_bottom_common_post_vote">New poll</string>
@@ -812,7 +812,7 @@ Please note that you'll not be able to search friends and log in with a deleted 
   <string name="conversation_normal_mode">View all</string>
   <string name="conversation_tag_corp">Official</string>
   <string name="conversation_tag_person">Personal</string>
-  <string name="conversation_tag_group">Union</string>
+  <string name="conversation_tag_group">Group</string>
   <string name="conversation_tag_vip">VIP</string>
   <string name="conversation_title">Mi Talk (%s)</string>
   <string name="conversation_unarchive">Move</string>
@@ -870,7 +870,7 @@ Please note that you'll not be able to search friends and log in with a deleted 
   <string name="create_muc_add_info_input_des_0">Contact group creator</string>
   <string name="create_muc_add_info_title">Group profile</string>
   <string name="create_muc_add_info_tuijian">Select type</string>
-  <string name="create_muc_choose_poi_message">"Location can't be edited after the Union is created"</string>
+  <string name="create_muc_choose_poi_message">"Location can't be edited after the group is created"</string>
   <string name="create_muc_chose_classmate_tips">Only recommend to colleagues</string>
   <string name="create_muc_chose_colleage_tips">Only recommend to colleagues</string>
   <string name="create_muc_chose_company">Select a company</string>
@@ -1050,10 +1050,10 @@ Living in Guomao"</string>
   <string name="discovery_recommend_load_failed">Failed to load suggestions</string>
   <string name="discovery_recommend_loading">Loading...</string>
   <string name="discovery_recommend_mf">%d mutual friends</string>
-  <string name="discovery_recommend_muc">Union</string>
+  <string name="discovery_recommend_muc">Group</string>
   <string name="discovery_recommend_mutual_company">Recommended colleagues</string>
   <string name="discovery_recommend_mutual_friend">Sharing mutual friends</string>
-  <string name="discovery_recommend_mutual_group">Recommended Union members</string>
+  <string name="discovery_recommend_mutual_group">Recommended group members</string>
   <string name="discovery_recommend_mutual_hometown">From the same hometown</string>
   <string name="discovery_recommend_mutual_school">Recommended alumni</string>
   <string name="discovery_recommend_nearby">Nearby</string>
@@ -1173,7 +1173,7 @@ If you wish to turn it off, you can do so via Phone book contacts in Account pri
   <string name="evaluation_commodities">Comment</string>
   <string name="exceed_local_gif_picture_size_hint">"Can't upload GIF files larger than %dMb"</string>
   <string name="exit_group">Leave</string>
-  <string name="exit_group_group">Leave the Union</string>
+  <string name="exit_group_group">Leave group</string>
   <string name="exiting_group">Exiting...</string>
   <string name="export_avatars_succeeded">Complete!</string>
   <string name="export_chat_record_audio_remind_msg">Notice: %s</string>
@@ -1711,12 +1711,12 @@ groups and subscriptions etc."</string>
   <string name="group_setting_get_info_failed">Failed</string>
   <string name="group_setting_group_creator_key">Creator</string>
   <string name="group_setting_group_name_cannot_empty">Input group name</string>
-  <string name="group_setting_group_name_key">Union name</string>
+  <string name="group_setting_group_name_key">Group name</string>
   <string name="group_setting_group_nick_key">Nickname</string>
   <string name="group_setting_head_createtime_info">Created on %s</string>
   <string name="group_setting_head_creator_info">Creator %s</string>
   <string name="group_setting_head_group_description">About this group %s</string>
-  <string name="group_setting_head_group_id">Union ID:</string>
+  <string name="group_setting_head_group_id">Group ID:</string>
   <string name="group_setting_isrecommend">Recommended groups</string>
   <string name="group_setting_join">Join this group</string>
   <string name="group_setting_join_level">Join group and update</string>
@@ -1742,7 +1742,7 @@ groups and subscriptions etc."</string>
   <string name="group_setting_request_to_join">I want to join</string>
   <string name="group_setting_set_background">Background setting</string>
   <string name="group_setting_set_msg_notiry">Chat notification</string>
-  <string name="group_setting_tag_key">Union tag</string>
+  <string name="group_setting_tag_key">Group tag</string>
   <string name="group_setting_title">Profile and settings</string>
   <string name="group_setting_transfer_condition">Change group admin</string>
   <string name="group_setting_transfer_condition_content">"1.The new admin has to be in the group.
@@ -1761,14 +1761,14 @@ groups and subscriptions etc."</string>
   <string name="group_sms_status">Delivery status</string>
   <string name="group_upgrade_failure">Failed to upgrade, please check your network or try again later</string>
   <string name="group_upgrade_ok_button">Continue?</string>
-  <string name="group_upgrade_set_avatar">Union image</string>
+  <string name="group_upgrade_set_avatar">Group photo</string>
   <string name="group_upgrade_set_poi">Location</string>
-  <string name="group_upgrade_set_tag">Union tags</string>
-  <string name="group_upgrade_success">Upgraded</string>
-  <string name="group_upgrade_text">Complete your information and upgrade to Union</string>
-  <string name="group_upgrade_to_group_content">Upgrade to Union is not irreversible. A Union number will be generated and become searchable to anyone</string>
+  <string name="group_upgrade_set_tag">Group tags</string>
+  <string name="group_upgrade_success">Updated successfully</string>
+  <string name="group_upgrade_text">Complete your information and upgrade to group</string>
+  <string name="group_upgrade_to_group_content">Upgrade to group is not able to be changed. A group number will be generated and become searchable to all users</string>
   <string name="group_upgrade_to_group_tips">A group number will be generated after upgrade and become searchable by anyone</string>
-  <string name="group_upgrade_to_uniun">Upgrade to Union</string>
+  <string name="group_upgrade_to_uniun">Upgrade to group</string>
   <string name="group_upgrade_unset">Not set</string>
   <string name="group_upgrading">Upgrading...</string>
   <string name="group_upload_picture_failed">Failed to upload photos, please check your connections or try again later</string>
@@ -1826,7 +1826,7 @@ groups and subscriptions etc."</string>
   <string name="guider_begin_test">Test</string>
   <string name="guider_next_test">Next test &gt;</string>
   <string name="guider_test_title">Test</string>
-  <string name="guild_member">Union members</string>
+  <string name="guild_member">Group members</string>
   <string name="gvoip_launch_confirm">Are you sure to start a group call?</string>
   <string name="gvoip_resume_one_one_call">You are in the middle of a call right now, would you like to hang up?</string>
   <string name="gvoip_toggle_voip_mode">【I started a group call, join me】</string>
@@ -2158,7 +2158,7 @@ groups and subscriptions etc."</string>
   <string name="man">Male</string>
   <string name="man_verify_tips">Currently under review</string>
   <string name="man_verify_title">Review</string>
-  <string name="manage_guild">Manage Union</string>
+  <string name="manage_guild">Manage group</string>
   <string name="management">Manage</string>
   <string name="map_go_there">Go there</string>
   <string name="map_my_position">My location</string>
@@ -2281,8 +2281,8 @@ groups and subscriptions etc."</string>
   <string name="miliao_job_first_vote_tip">Vote</string>
   <string name="miliao_job_sign">Gentle reminder: Earn a sign-up reward of 50 points. Go and get your reward!</string>
   <string name="miliao_job_sign_tip">Sign up</string>
-  <string name="miliao_job_group">Gentle reminder: First joining into any Union earns you 100 points, hurry and see which interesting groups are near you!</string>
-  <string name="miliao_job_group_tip">Join a Union</string>
+  <string name="miliao_job_group">Gentle reminder: First joining into any group earns you 100 points, hurry and see which interesting groups are near you!</string>
+  <string name="miliao_job_group_tip">Join a group</string>
   <string name="miliao_job_vote">Gentle reminder: Vote three times a day and earn 20 points. Hurry up and vote for your friends!</string>
   <string name="miliao_job_vote_tip">Vote</string>
   <string name="miliao_joke">Mi Talk Jokes</string>
@@ -2374,14 +2374,14 @@ groups and subscriptions etc."</string>
   <string name="muc_cancel_error">Sorry, you have been removed or this group no longer exists.</string>
   <string name="muc_cancel_like_failed">Cancel like failed</string>
   <string name="muc_cancel_verify">Cancel</string>
-  <string name="muc_card">Union profile</string>
+  <string name="muc_card">Group profile</string>
   <string name="muc_card_vote">Vote</string>
   <string name="muc_category_title">Category</string>
   <string name="muc_chose_org_error">Select an option</string>
-  <string name="muc_compose_add_member">Add Member</string>
+  <string name="muc_compose_add_member">Add member</string>
   <string name="muc_compose_at_him">this person</string>
-  <string name="muc_compose_at_tips">location@message</string>
-  <string name="muc_compose_atmsg_deleted">this@message has already been deleted</string>
+  <string name="muc_compose_at_tips">location @message</string>
+  <string name="muc_compose_atmsg_deleted">this @message has already been deleted</string>
   <string name="muc_compose_dianming">Name</string>
   <string name="muc_compose_dont_send_spam">"Don't refresh"</string>
   <string name="muc_compose_group_setting">Group settings</string>
@@ -2485,7 +2485,7 @@ groups and subscriptions etc."</string>
   <string name="muc_msg_deleted_success">Message deleted</string>
   <string name="muc_msg_receive_setting">Receive messages</string>
   <string name="muc_my_group_list_header">Created by me</string>
-  <string name="muc_name_can_not_digits_only">"Union name can't be all numbers"</string>
+  <string name="muc_name_can_not_digits_only">"Group name can't be all numbers"</string>
   <string name="muc_name_valid_tip">Input a title between 2-20 characters</string>
   <string name="muc_namecard_member_count">Members: %d</string>
   <string name="muc_need_check_hint">Require confirmation</string>
@@ -2541,7 +2541,7 @@ groups and subscriptions etc."</string>
   <string name="muc_setting_add_admin">Add manager</string>
   <string name="muc_setting_add_member">Add Mi Talk %s to group</string>
   <string name="muc_setting_announce_input_tips">Post messages for the whole group to view</string>
-  <string name="muc_setting_bar_code">Union QR Code</string>
+  <string name="muc_setting_bar_code">Group QR code</string>
   <string name="muc_setting_be_removed">"You've been removed from this group"</string>
   <string name="muc_setting_ear_mode">Listening mode</string>
   <string name="muc_setting_goto_chat">Start to chat</string>
@@ -3656,8 +3656,8 @@ Tap arrow to switch between video and audio message mode."</string>
   <string name="report_input_default_hint"/>
   <string name="report_input_other_hint">Please descript your problems</string>
   <string name="report_input_suggestion_hint">Please give your suggestions</string>
-  <string name="report_mall">Mi store</string>
-  <string name="report_migroup">Union</string>
+  <string name="report_mall">Store</string>
+  <string name="report_migroup">Group</string>
   <string name="report_miworld">MiWorld</string>
   <string name="report_miworld_pro_content">Please describe the problem.</string>
   <string name="report_miyu_pro_content">Please describe the problem</string>
@@ -3900,7 +3900,7 @@ Mi ID: %2$s
   <string name="service_subscribe_vip">Subscriptions</string>
   <string name="service_system">System</string>
   <string name="service_system_subscribe">Services</string>
-  <string name="service_group">Union</string>
+  <string name="service_group">Group</string>
   <string name="service_vip_editor">VIP editors</string>
   <string name="service_xm_community">Mi community</string>
   <string name="service_zone">Services</string>
@@ -3908,7 +3908,7 @@ Mi ID: %2$s
   <string name="service_zone_discovery">Discovery</string>
   <string name="service_zone_gift">Benefits</string>
   <string name="service_zone_share">Private e-mail</string>
-  <string name="set_bbs_nickname">You need a nickname</string>
+  <string name="set_bbs_nickname">You need to add a nickname</string>
   <string name="set_bbs_nickname_failed">Failed to set nickname, please try again</string>
   <string name="set_bbs_nickname_hint">English or Chinese not more than 15 characters or 5 Chinese characters</string>
   <string name="set_bbs_nickname_title">Beginner</string>

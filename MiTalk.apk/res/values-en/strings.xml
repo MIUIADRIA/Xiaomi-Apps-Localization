@@ -33,12 +33,12 @@
   <string name="SINA">Sina Weibo</string>
   <string name="TT">Twitter</string>
   <string name="about">About</string>
-  <string name="about_copyright">www.mitalk.com, All Rights Reserved 2014</string>
+  <string name="about_copyright">www.mitalk.com, All rights reserved 2014-2015</string>
   <string name="about_faq">FAQ</string>
   <string name="about_function">Functions</string>
   <string name="about_honor">Mi Talk beta testers</string>
   <string name="about_message1">Version %1$s%2$s</string>
-  <string name="about_message2">Copyright © 2014 www.mitalk.com</string>
+  <string name="about_message2">Copyright © 2014-2015 www.mitalk.com</string>
   <string name="about_message3">All Rights Reserved</string>
   <string name="about_network">Network diagnostics</string>
   <string name="about_new">New version guide</string>
@@ -69,13 +69,13 @@
   <string name="action_button_scan">Scan</string>
   <string name="action_button_send_msg">New message</string>
   <string name="action_button_vip_edit">Edit</string>
-  <string name="activiate_email_sent">"Please check for a confirmation e-mail we've just sent you. 
+  <string name="activiate_email_sent">"Please check for a confirmation e-mail in your inbox. 
 
-Remember that you can only log in and restore password after you confirm your e-mail info."</string>
+Remember that you can only log in and restore password after you verify your e-mail address."</string>
   <string name="add_a_pic">Add photo</string>
   <string name="add_avatar">Add profile photo</string>
   <string name="add_batch_friends">Add friends</string>
-  <string name="add_contact_hint">Input request</string>
+  <string name="add_contact_hint">Input a message</string>
   <string name="add_contact_title">Friend request</string>
   <string name="add_contacts">Add contact</string>
   <string name="add_desc">Add description</string>
@@ -384,7 +384,7 @@ Remember that you can only log in and restore password after you confirm your e-
   <string name="blacklist">Blocklist</string>
   <string name="blacklist_block_succeed">Added to blocklist</string>
   <string name="blacklist_management">Blocklist</string>
-  <string name="blacklist_remove_cancelled">Canceled</string>
+  <string name="blacklist_remove_cancelled">Cancelled</string>
   <string name="blacklist_remove_failed">Failed to update, please check network connection.</string>
   <string name="blacklist_remove_succeed">Block list updated!</string>
   <string name="blacklist_unblock_succeed">Unblocked successfully</string>
@@ -2567,7 +2567,7 @@ Add contacts to this group"</string>
   <string name="muc_update_tips">Build a group and connect with your colleagues</string>
   <string name="muc_verify_add_new_domain">Add more company e-mail options</string>
   <string name="muc_verify_close">Cancel protection</string>
-  <string name="muc_verify_close_tips">"We will not verify people's e-mail information after privacy protection is canceled."</string>
+  <string name="muc_verify_close_tips">"We will not verify people's e-mail information after privacy protection is cancelled."</string>
   <string name="muc_verify_confirm_delete_domain">Remove this e-mail account?</string>
   <string name="muc_verify_email_in_black">Please verify via your company e-mail.</string>
   <string name="muc_verify_failed">Failed certification</string>
@@ -3669,7 +3669,7 @@ Tap arrow to switch between video and audio message mode."</string>
   <string name="report_others_pro">Please describe the problem.</string>
   <string name="report_pro_suggestion">Provide us with feedback!</string>
   <string name="report_prosuggestion">Suggestion</string>
-  <string name="report_quick_feedback">Sample feedbacks</string>
+  <string name="report_quick_feedback">Feedback</string>
   <string name="report_recordPro">Voice</string>
   <string name="report_record_pro_content">Please describe the problem</string>
   <string name="report_talk">Chats</string>
@@ -3736,7 +3736,7 @@ Tap arrow to switch between video and audio message mode."</string>
   <string name="say_hi_sending">Sending...</string>
   <string name="say_hi_sent">Sent!</string>
   <string name="say_sth">Say something?</string>
-  <string name="sayhi_tips">Want to make new friends? Go say hi!</string>
+  <string name="sayhi_tips">Want to make new friends? Go and say hi!</string>
   <string name="sb_create_topic">%1$s created topic %2$s</string>
   <string name="sb_create_topic_at_sp">"%1$s created %3$s 
  at %2$s"</string>
@@ -3744,7 +3744,7 @@ Tap arrow to switch between video and audio message mode."</string>
   <string name="scan_barcode_info">Place and scan a Mi ID barcode inside of this view finder.</string>
   <string name="scan_barcode_join_muc">Scan group QR code to join</string>
   <string name="scan_barcode_to_add_service">Scan QR code</string>
-  <string name="scan_my_barcode">To add friend, scan QR code</string>
+  <string name="scan_my_barcode">Scan QR code to add me</string>
   <string name="scan_namecard">Scan</string>
   <string name="scan_near">Scan nearby</string>
   <string name="scanning">Shake hands</string>
@@ -3753,20 +3753,20 @@ Tap arrow to switch between video and audio message mode."</string>
   <string name="school_info">School</string>
   <string name="school_info_exist">School information already exists.</string>
   <string name="school_name">School</string>
-  <string name="school_name_invalid">Please input a 5–40 char. name includes only characters, space and numbers.</string>
-  <string name="school_num_invalid">Max. 5 schools</string>
+  <string name="school_name_invalid">Please input a 5–40 character name including valid spaces, letters and numbers.</string>
+  <string name="school_num_invalid">Maximum of 5 schools allowed</string>
   <string name="screenshot_remind_msg">The recipient of your snap message took a screenshot</string>
   <string name="sd_absent">SD card not found, please check and try again.</string>
-  <string name="sdcard_clean_begin">Loading...</string>
+  <string name="sdcard_clean_begin">Deleting SD card files...</string>
   <string name="sdcard_clean_begin_toast_tip">View progress in notification shade</string>
   <string name="sdcard_clean_is_running_toast_tip">View progress in notification shade.</string>
-  <string name="sdcard_clean_progress">Clearing %1$d files (%2$s total)</string>
-  <string name="sdcard_clean_result">%1$d files cleared, %2$s saved.</string>
+  <string name="sdcard_clean_progress">Deleting %1$d files (%2$s total)</string>
+  <string name="sdcard_clean_result">%1$d files deleted, %2$s saved.</string>
   <string name="sdcard_is_absent">SD card not found</string>
   <string name="sdcard_is_full">SD card is full</string>
   <string name="sdcard_unavailable">No SD card detected.</string>
-  <string name="sdcard_unmounted">Unable to display rich media when SD card is not in use due to connection with another device.</string>
-  <string name="sdcard_unmounted_download_disabled">SD card is being used, please load SD card and try again.</string>
+  <string name="sdcard_unmounted">SD card is in use, unable to display media</string>
+  <string name="sdcard_unmounted_download_disabled">SD card is in use, please load SD card and try again.</string>
   <string name="sdcard_unmounted_no_avatar">SD card is in use, unable to display profile photos</string>
   <string name="search">Search</string>
   <string name="search_account">Search by Mi ID</string>

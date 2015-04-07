@@ -5,7 +5,7 @@
   <string name="Cancel">Cancel</string>
   <string name="Data">Data</string>
   <string name="V1_3WHOTITLE">World Health Organization definition of the measurement results</string>
-  <string name="V1_4beta_bpresult_analysis_title">Analysis results</string>
+  <string name="V1_4beta_bpresult_analysis_title">Analysis</string>
   <string name="V1_4beta_bpresult_detail_title">Measurement details</string>
   <string name="V1_4beta_bpresult_eatmedicine_has">Have</string>
   <string name="V1_4beta_bpresult_eatmedicine_nohas">"Haven't"</string>
@@ -27,7 +27,7 @@
 Buy online at:"</string>
   <string name="act_menu_care">Results</string>
   <string name="act_menu_dynamic">Your Family</string>
-  <string name="act_menu_dynamic_guest">"You are not logged in, 
+  <string name="act_menu_dynamic_guest">"You are not signed in, 
   you not able to add family, measurement data will be cleared after switching accounts"</string>
   <string name="act_menu_dynamic_guest_register">Guest registration</string>
   <string name="act_menu_newDynamic">New developments</string>
@@ -36,7 +36,7 @@ Buy online at:"</string>
   <string name="addperson_nickname">Nickname</string>
   <string name="addperson_nickname_default">Friend</string>
   <string name="addperson_title">Add family member</string>
-  <string name="app_name">Mi Health</string>
+  <string name="app_name">iHealth</string>
   <string name="ball_Normal_txt">Normotensive</string>
   <string name="bangwantext">Evening</string>
   <string name="bperr0">Unable to find suitable zero point within 20 secs</string>
@@ -150,7 +150,7 @@ Buy online at:"</string>
   <string name="googleplus">Google+</string>
   <string name="guest">Guest</string>
   <string name="guest_has_account">Do you have an account?</string>
-  <string name="guest_login_rightnow">Login now</string>
+  <string name="guest_login_rightnow">Sign in now</string>
   <string name="guesttesttishi">Guests can see the results after the measurement is saved</string>
   <string name="guesttesttishititle">Tips</string>
   <string name="homesetting_delete">Delete family</string>
@@ -339,7 +339,7 @@ measurement result announced, parents can receive your message"</string>
   <string name="unsubscribe_topic_fail">Unsubscribing from topic failed for %1$s.</string>
   <string name="unsubscribe_topic_success">Unsubscribing from topic \"%1$s\" successful.</string>
   <string name="updating">Updated:</string>
-  <string name="use_login_button">Please login</string>
+  <string name="use_login_button">Please sign in</string>
   <string name="user_addfriend_add_phone">Add phone contact</string>
   <string name="user_addfriend_dia_title">Adding friend, please wait...</string>
   <string name="user_addfriend_search">Search by phone number or iHealth account ID</string>
@@ -361,7 +361,7 @@ measurement result announced, parents can receive your message"</string>
   <string name="user_bind_text_write_all">Please complete all information to continue</string>
   <string name="user_bind_xiaomi_input_passwd">Input password</string>
   <string name="user_bind_xiaomi_input_phone">Input phone number</string>
-  <string name="user_login_button_txt">Login</string>
+  <string name="user_login_button_txt">Sign in</string>
   <string name="user_login_checkpassword">Password must be between 6-128 characters</string>
   <string name="user_login_checkpassword_null">Password cannot be left blank</string>
   <string name="user_login_checkphone">Please input a valid phone number</string>
@@ -369,8 +369,8 @@ measurement result announced, parents can receive your message"</string>
   <string name="user_login_checkuser_null">Phone number cannot be left blank</string>
   <string name="user_login_forgot_dialog_txt">Please input the phone number you want to retrieve your password</string>
   <string name="user_login_forgot_txt">Forgot password?</string>
-  <string name="user_login_guest_txt">Guest login</string>
-  <string name="user_login_or_txt">You can login with the following methods</string>
+  <string name="user_login_guest_txt">Guest sign in</string>
+  <string name="user_login_or_txt">You can sign in using</string>
   <string name="user_login_password_txt">Password</string>
   <string name="user_login_proDia_message_forgotpwd">New password is being sent to your registered phone number...</string>
   <string name="user_login_proDia_title">Error</string>
@@ -381,7 +381,7 @@ measurement result announced, parents can receive your message"</string>
   <string name="user_login_signin_toast_207">Account has been locked</string>
   <string name="user_login_signin_toast_209">User does not exist</string>
   <string name="user_login_signin_toast_222">New password has been sent to your registered phone number</string>
-  <string name="user_login_signin_toast_404">Login failed</string>
+  <string name="user_login_signin_toast_404">Sign in failed</string>
   <string name="user_login_signin_toast_444">Failed to retreive, please try again later</string>
   <string name="user_login_signin_toast_901">Network operation timed out</string>
   <string name="user_login_signin_toast_902">Not connected to network</string>
@@ -417,12 +417,12 @@ measurement result announced, parents can receive your message"</string>
   <string name="user_third_login_qq">QQ</string>
   <string name="user_third_login_sina">Sina Weibo</string>
   <string name="user_third_login_wx">WeChat</string>
-  <string name="user_userinfo_autologin">Login automatically</string>
+  <string name="user_userinfo_autologin">Sign in automatically</string>
   <string name="user_userinfo_birthday">Birthday</string>
   <string name="user_userinfo_changecancel">Cancel password changes</string>
   <string name="user_userinfo_changefailed">Failed to change password</string>
   <string name="user_userinfo_changepasswd">Change password</string>
-  <string name="user_userinfo_changesuccess">Password successfully updated, please login again</string>
+  <string name="user_userinfo_changesuccess">Password successfully updated, please sign in again</string>
   <string name="user_userinfo_confirmpasswd">Confirm new password</string>
   <string name="user_userinfo_delete_failed">Deleting failed</string>
   <string name="user_userinfo_delete_success">Deleted successfully</string>

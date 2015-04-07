@@ -28,13 +28,13 @@
         <item>春节4</item>
     </string-array>
     <string-array name="chose_festival">
-        <item>春节</item>
-        <item>情人节</item>
-        <item>元宵节</item>
+        <item>Chinese New Year</item>
+        <item>"Valentine's Day"</item>
+        <item>Lantern festival</item>
     </string-array>
     <string-array name="chose_group_kind_content">
         <item>This group will be recommended to your colleagues.</item>
-        <item>This group will be recommended to your schoolmates.</item>
+        <item>This group will be recommended to your friends.</item>
         <item>This group will be recommended to people have same interest.</item>
         <item>We will not recommend this group to anyone.</item>
     </string-array>
@@ -430,8 +430,8 @@
         <item>Choose existing</item>
     </string-array>
     <string-array name="picture_quick_choices">
-        <item>Take a photo</item>
-        <item>Choose existing</item>
+        <item>Take photo</item>
+        <item>Select existing</item>
         <item>GIF</item>
     </string-array>
     <string-array name="pref_color_name">
@@ -461,22 +461,22 @@
     </string-array>
     <string-array name="pref_locale_name_choices">
         <item>English</item>
-        <item>简体中文</item>
+        <item>Simplified Chinese</item>
         <item>System language</item>
     </string-array>
     <string-array name="pref_muc_notification_choices">
-        <item>NOT NOTIFY</item>
-        <item>NOTIFY</item>
-        <item>ONE MINUTE</item>
-        <item>TEN MINUTES</item>
-        <item>ONE HOUR</item>
+        <item>"Don't notify"</item>
+        <item>Notify</item>
+        <item>1 minute</item>
+        <item>10 minutes</item>
+        <item>1 hour</item>
     </string-array>
     <string-array name="pref_muc_notification_values">
-        <item>NOT NOTIFY</item>
-        <item>NOTIFY</item>
-        <item>ONE MINUTE</item>
-        <item>TEN MINUTES</item>
-        <item>ONE HOUR</item>
+        <item>"Don't notify"</item>
+        <item>Notify</item>
+        <item>1 minute</item>
+        <item>10 minutes</item>
+        <item>1 hour</item>
     </string-array>
     <string-array name="pref_notification_choices">
         <item>Off</item>
@@ -486,15 +486,15 @@
         <item>Ring and Vibrate</item>
     </string-array>
     <string-array name="pref_notification_values">
-        <item>NONE</item>
-        <item>BUBBLE</item>
-        <item>SOUND</item>
-        <item>VIBRATE</item>
+        <item>None</item>
+        <item>Bubble</item>
+        <item>Sound</item>
+        <item>Vibrate</item>
         <item>SOUND_VIBRATE</item>
     </string-array>
     <string-array name="pref_privacy_fri_verify_choices">
         <item>No confirmation required</item>
-        <item>Require confirmation</item>
+        <item>Requires confirmation</item>
         <item>Disable add me</item>
     </string-array>
     <string-array name="pref_privacy_fri_verify_values">
@@ -512,7 +512,7 @@
     </string-array>
     <string-array name="pref_video_recording_choices">
         <item>Low data use mode</item>
-        <item>Data save mode</item>
+        <item>Data saving mode</item>
         <item>High quality mode</item>
     </string-array>
     <string-array name="property_choices">
@@ -521,22 +521,22 @@
         <item>Interests</item>
     </string-array>
     <string-array name="remind_repeat_mode_week_days">
-        <item>Mon.</item>
-        <item>Tues.</item>
-        <item>Wed.</item>
-        <item>Thurs.</item>
-        <item>Fri.</item>
-        <item>Sat.</item>
-        <item>Sun.</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+        <item>Sun</item>
     </string-array>
     <string-array name="remind_week_days">
-        <item>Sun.</item>
-        <item>Mon.</item>
-        <item>Tues.</item>
-        <item>Wed.</item>
-        <item>Thurs.</item>
-        <item>Fri.</item>
-        <item>Sat.</item>
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
     </string-array>
     <string-array name="report_account_array">
         <item>我的米聊号是（），无法登录</item>
@@ -635,16 +635,16 @@
     </string-array>
     <string-array name="send_photo_types_for_muc">
         <item>Take photo</item>
-        <item>Choose existing</item>
+        <item>Select existing</item>
         <item>Doodle</item>
     </string-array>
     <string-array name="send_video_types">
         <item>Take video</item>
-        <item>Choose existing</item>
+        <item>Select existing</item>
     </string-array>
     <string-array name="send_voip_types">
-        <item>Audio call</item>
-        <item>Video call</item>
+        <item>Audio</item>
+        <item>Video</item>
     </string-array>
     <string-array name="sixin_remind_choices">
         <item>@string/sixin_sound_remind</item>
@@ -714,7 +714,7 @@
         <item>【sign】</item>
         <item>【salon】</item>
         <item>【hot】</item>
-        <item>【Japanese flags】</item>
+        <item>【Japanese flag】</item>
         <item>【Japan】</item>
         <item>【Korea】</item>
         <item>【USA】</item>

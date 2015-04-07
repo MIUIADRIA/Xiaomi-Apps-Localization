@@ -518,7 +518,6 @@ Remember that you can only log in and restore password after you confirm your e-
   <string name="choose_friends_and_create_a_group">Select friends</string>
   <string name="choose_from_email_list">E-mail</string>
   <string name="choose_group_member">Select group members</string>
-  <string name="choose_groups">Select group</string>
   <string name="choose_location_address">Select your location</string>
   <string name="choose_muc_member">Select group members</string>
   <string name="choose_muc_poi">Select location</string>
@@ -1699,7 +1698,6 @@ groups and subscriptions etc."</string>
   <string name="group_setting_clearing">Clearing chat history...</string>
   <string name="group_setting_confirm_exit_admin">Downgrade yourself from manager status?</string>
   <string name="group_setting_confirm_exit_group">Leave this group?</string>
-  <string name="group_setting_confirm_exit_group">Leave this group？</string>
   <string name="group_setting_creaotr">Creator</string>
   <string name="group_setting_creator">Creator</string>
   <string name="group_setting_delete_confirm">Delete this group?</string>
@@ -4484,7 +4482,6 @@ Mi ID: %2$s
   <string name="unenable">Not enabled</string>
   <string name="unfollow">Unfollow</string>
   <string name="unfollow_confirm">Are you sure to not follow “%1$s”?</string>
-  <string name="group_setting_delete_confirm">Delete this group and disband all members? Be careful! You cant reverse this action!</string>
   <string name="university">University</string>
   <string name="university_empty_hits">No results for %s</string>
   <string name="unknowerror">An unknown error occurred</string>

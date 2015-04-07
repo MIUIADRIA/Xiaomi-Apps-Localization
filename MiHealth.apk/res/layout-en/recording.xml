@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/recording_layout" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/recording_bt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="77.0dip" android:text="Record" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+    <TextView android:id="@id/recording_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="138.0dip" android:text="TextViewTextViewTextViewTextView" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+    <TextView android:id="@id/recording_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TextView" android:layout_below="@id/recording_tv" android:layout_centerHorizontal="true" />
+    <ProgressBar android:id="@id/recording_bar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="38.0dip" android:layout_above="@id/recording_bt" android:layout_centerHorizontal="true" style="?android:attr/progressBarStyleLarge" />
+</RelativeLayout>

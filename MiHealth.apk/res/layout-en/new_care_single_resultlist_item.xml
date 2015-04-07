@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="17.0sp" android:textColor="#ff000000" android:id="@id/new_bp_date" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="15.0dip" android:layout_marginRight="15.0dip" android:text="2014-5-7 14:28" />
+        <View android:background="#ffcccccc" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="15.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="15.0dip" />
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="210.0dip">
+            <ImageView android:id="@id/newcolour_circle" android:layout_width="fill_parent" android:layout_height="85.0dip" android:layout_marginTop="21.0dip" android:src="@null" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="10.0dip" android:layout_below="@id/newcolour_circle" android:layout_centerHorizontal="true">
+                <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="0.1">
+                    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                        <TextView android:textColor="#ff686868" android:id="@id/newsys" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="High pressure (mmHg)" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+                        <TextView android:textSize="40.0sp" android:textColor="#ff97cb07" android:id="@id/newsys_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="113" android:layout_below="@id/newsys" android:layout_centerHorizontal="true" />
+                    </RelativeLayout>
+                    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                        <TextView android:textColor="#ff686868" android:id="@id/newdia" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Low pressure (mmHg)" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+                        <TextView android:textSize="40.0sp" android:textColor="#ff97cb07" android:id="@id/newdia_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="82" android:layout_below="@id/newdia" android:layout_centerHorizontal="true" />
+                    </RelativeLayout>
+                    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                        <TextView android:textColor="#ff686868" android:id="@id/newpus" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Heart rate (beats/min)" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+                        <TextView android:textSize="40.0sp" android:textColor="#ff999999" android:id="@id/newpus_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="87" android:layout_below="@id/newpus" android:layout_centerHorizontal="true" />
+                    </RelativeLayout>
+                </LinearLayout>
+                <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

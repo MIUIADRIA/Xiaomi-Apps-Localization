@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="20.0sp" android:textColor="#ff999999" android:id="@id/translationdialog_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Loading..." android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+    <ImageView android:id="@id/translationdialog_loading" android:layout_width="80.0dip" android:layout_height="80.0dip" android:src="@drawable/loading_grey_pic" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+</RelativeLayout>

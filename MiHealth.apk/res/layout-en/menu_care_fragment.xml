@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/main_listview" android:background="#ffededed" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.handmark.pulltorefresh.library.PullToRefreshListView android:id="@id/listview" android:background="#ffededed" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:cacheColorHint="#00000000" android:divider="#ffededed" android:dividerHeight="15.0dip" android:fastScrollEnabled="false" android:headerDividersEnabled="false" android:footerDividersEnabled="false" android:smoothScrollbar="true" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/write" android:background="#ffffffff" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <EditText android:id="@id/et" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="3.0" />
+        <Button android:id="@id/btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Send" android:layout_weight="1.0" />
+    </LinearLayout>
+</RelativeLayout>

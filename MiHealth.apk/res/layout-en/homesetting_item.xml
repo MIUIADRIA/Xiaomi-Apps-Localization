@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="fill_parent" android:layout_height="85.0dip" android:minHeight="85.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/homesetting_item_icon" android:layout_width="63.0dip" android:layout_height="63.0dip" android:layout_marginLeft="10.0dip" android:src="@drawable/result_photo" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <ImageView android:id="@id/imageView1" android:layout_width="63.0dip" android:layout_height="63.0dip" android:layout_marginLeft="10.0dip" android:src="@drawable/result_photo_circle_my" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <TextView android:textSize="20.0sp" android:textColor="#ff666666" android:id="@id/homesetting_item_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:text="小坏" android:layout_toRightOf="@id/homesetting_item_icon" android:layout_centerVertical="true" />
+        <ImageView android:id="@id/imageView2" android:layout_width="23.0dip" android:layout_height="23.0dip" android:layout_marginRight="15.0dip" android:src="@drawable/homesetting_jiantou" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+        <View android:background="#ffe2e2e2" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+</LinearLayout>

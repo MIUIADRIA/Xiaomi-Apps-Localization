@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/bp_result" android:background="#ffe5e5e5" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/bp5_title" android:background="#ff303435" android:layout_width="fill_parent" android:layout_height="60.0dip">
+        <RelativeLayout android:id="@id/result_back_rel" android:layout_width="wrap_content" android:layout_height="60.0dip">
+            <ImageView android:id="@id/result_back" android:background="@drawable/back" android:layout_width="40.0dip" android:layout_height="40.0dip" android:layout_marginLeft="5.0dip" android:layout_marginTop="10.0dip" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+            <TextView android:textSize="23.0sp" android:textColor="#ffffffff" android:id="@id/tv_bpresult_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/bpresults_title" android:layout_toRightOf="@id/result_back" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <ImageView android:id="@id/result_share" android:background="@drawable/result_share" android:layout_width="30.0dip" android:layout_height="25.0dip" android:layout_marginRight="10.0dip" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/bp5_title">
+        <ScrollView android:id="@id/myScrollView" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <RelativeLayout android:orientation="vertical" android:id="@id/rel_user" android:background="@drawable/result_view_bg" android:clickable="true" android:layout_width="fill_parent" android:layout_height="100.0dip" android:layout_alignParentTop="true">
+                    <ImageView android:id="@id/img_User" android:background="@drawable/result_photo" android:layout_width="63.0dip" android:layout_height="63.0dip" android:layout_marginLeft="20.0dip" android:layout_centerVertical="true" />
+                    <ImageView android:id="@id/img_User_circle" android:background="@drawable/result_photo_circle_my" android:layout_width="63.0dip" android:layout_height="63.0dip" android:layout_marginLeft="20.0dip" android:layout_centerVertical="true" />
+                    <TextView android:textSize="23.0sp" android:textColor="#ff666666" android:id="@id/tv_username" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="Guest" android:layout_toRightOf="@id/img_User_circle" android:layout_alignTop="@id/img_User_circle" />
+                    <TextView android:textSize="16.0sp" android:textColor="#ff858585" android:id="@id/tv_userdate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" android:text="2014-5-7 14:28" android:layout_below="@id/tv_username" android:layout_alignLeft="@id/tv_username" />
+                </RelativeLayout>
+                <RelativeLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/result1" android:background="@drawable/result_view_bg_1" android:layout_width="fill_parent" android:layout_height="340.0dip" android:layout_below="@id/rel_user">
+                    <com.ihealth.aijiakang.baseview.BPTotalResult_View android:id="@id/bp5_totalresult" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                </RelativeLayout>
+                <RelativeLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/result2" android:background="@drawable/result_view_bg" android:layout_width="fill_parent" android:layout_height="500.0dip" android:layout_below="@id/result1">
+                    <com.ihealth.aijiakang.baseview.V1_3Beta_WHO android:id="@id/bp_result_WHO" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                    <com.ihealth.aijiakang.baseview.V1_3Beta_WHO_rang android:id="@id/bp_result_WHO_rang" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                </RelativeLayout>
+                <RelativeLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/result6" android:background="@drawable/result_view_bg" android:layout_width="fill_parent" android:layout_height="160.0dip" android:layout_below="@id/result2">
+                    <com.ihealth.aijiakang.baseview.V1_3Beta_Mood_View android:id="@id/bp_result_mood" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                </RelativeLayout>
+                <RelativeLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/result3" android:background="@drawable/result_view_bg" android:layout_width="fill_parent" android:layout_height="200.0dip" android:layout_below="@id/result6">
+                    <com.ihealth.aijiakang.baseview.ResultAnalysis_View android:id="@id/bp_result_ResultAnalysis" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                    <TextView android:textSize="16.0sp" android:textColor="#ff626262" android:id="@id/tv_analysis" android:visibility="visible" android:layout_width="350.0dip" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="65.0dip" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+                    <TextView android:textSize="16.0sp" android:textColor="#ff626262" android:id="@id/tv_editPersonalInforReminder" android:visibility="gone" android:layout_width="350.0dip" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="65.0dip" android:text="@string/bpresult_personal_info" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+                    <TextView android:textSize="16.0sp" android:textColor="#ffef702d" android:gravity="center" android:id="@id/tv_editPersonalInfor" android:visibility="gone" android:clickable="true" android:layout_width="100.0dip" android:layout_height="40.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="20.0dip" android:text="@string/bpresult_personal_info_btn" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+                </RelativeLayout>
+                <RelativeLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/result4" android:background="@drawable/result_view_bg" android:layout_width="fill_parent" android:layout_height="330.0dip" android:layout_below="@id/result3">
+                    <com.ihealth.aijiakang.baseview.Wave_View android:id="@id/bp_result_waveView" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                </RelativeLayout>
+                <RelativeLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/result5" android:background="@drawable/result_view_bg" android:layout_width="fill_parent" android:layout_height="700.0dip" android:layout_below="@id/result4">
+                    <com.ihealth.aijiakang.baseview.Trends_MoveView android:id="@id/bp_result_movetrends" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                    <com.ihealth.aijiakang.baseview.Trends_View android:id="@id/bp_result_trends" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                </RelativeLayout>
+                <RelativeLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/result7" android:background="@drawable/result_view_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="120.0dip" android:layout_below="@id/result5">
+                    <TextView android:textSize="14.0sp" android:textColor="#ff666666" android:gravity="center_horizontal" android:id="@id/text_personal_info" android:layout_width="fill_parent" android:layout_height="30.0dip" android:layout_marginTop="15.0dip" android:text="@string/bpresult_personal_info" android:layout_alignParentTop="true" />
+                    <Button android:textSize="18.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/btn_personal_info" android:background="@drawable/user_orange_button" android:layout_width="280.0dip" android:layout_height="40.0dip" android:layout_marginTop="10.0dip" android:text="@string/bpresult_personal_info_btn" android:layout_below="@id/text_personal_info" android:layout_centerHorizontal="true" />
+                </RelativeLayout>
+                <RelativeLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/result8" android:background="@drawable/result_view_bg" android:layout_width="fill_parent" android:layout_height="100.0dip" android:layout_below="@id/result7">
+                    <Button android:textSize="20.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/btn_delete" android:background="@drawable/ok_orange_button" android:layout_width="280.0dip" android:layout_height="48.0dip" android:text="@string/bpresult_delete" android:layout_centerInParent="true" />
+                </RelativeLayout>
+            </RelativeLayout>
+        </ScrollView>
+    </RelativeLayout>
+</RelativeLayout>

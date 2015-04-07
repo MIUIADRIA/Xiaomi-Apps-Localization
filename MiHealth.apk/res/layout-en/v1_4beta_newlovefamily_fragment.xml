@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/lovefamilylayout" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.ihealth.aijiakang.baseview.RTScrollView android:id="@id/lovefamilyscrollview" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:id="@id/lovefamilyuserlinear" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="200.0dip" android:layout_marginTop="1.0dip">
+                <ImageView android:id="@id/new_lovefamily_photo" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@null" />
+                <RelativeLayout android:id="@id/lovefamily_edit_rela" android:background="@drawable/lovefamilytextback" android:layout_width="fill_parent" android:layout_height="36.0dip" android:layout_alignParentBottom="true">
+                    <TextView android:textSize="17.0sp" android:textColor="#ffffffff" android:id="@id/lovefamilyedit" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="123" android:layout_centerInParent="true" />
+                </RelativeLayout>
+                <ProgressBar android:id="@id/newlovefamily_progressbar" android:layout_width="40.0dip" android:layout_height="40.0dip" android:layout_centerInParent="true" />
+            </RelativeLayout>
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="0.05">
+                        <RelativeLayout android:layout_width="fill_parent" android:layout_height="40.0dip">
+                            <View android:background="#ffc2c2c2" android:layout_width="80.0dip" android:layout_height="1.0dip" android:layout_toLeftOf="@id/newlovefamily_familyname" android:layout_centerVertical="true" />
+                            <View android:background="#ffc2c2c2" android:layout_width="80.0dip" android:layout_height="1.0dip" android:layout_toRightOf="@id/newlovefamily_familyname" android:layout_centerVertical="true" />
+                            <TextView android:textSize="17.0sp" android:textStyle="bold" android:textColor="#ffb2b2b2" android:id="@id/newlovefamily_familyname" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="  Family members  " android:layout_centerInParent="true" />
+                        </RelativeLayout>
+                        <GridView android:id="@id/lovefamily_gridview" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="450.0dip" android:horizontalSpacing="10.0dip" android:stretchMode="columnWidth" android:numColumns="4" />
+                        <RelativeLayout android:layout_width="fill_parent" android:layout_height="50.0dip" />
+                    </LinearLayout>
+                    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </com.ihealth.aijiakang.baseview.RTScrollView>
+    <RelativeLayout android:id="@id/lovefamilyguestrela" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentTop="true">
+        <ImageView android:id="@id/rel_dynamic_camera" android:background="@drawable/result_photo" android:layout_width="80.0dip" android:layout_height="80.0dip" android:layout_marginTop="75.0dip" android:layout_centerHorizontal="true" />
+        <Button android:id="@id/rel_dynamic_photo_bg" android:background="@drawable/result_photo_circle_my" android:layout_width="80.0dip" android:layout_height="80.0dip" android:layout_marginTop="75.0dip" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="16.0sp" android:textColor="#ff626262" android:gravity="center" android:id="@id/rel_dynamic_txt" android:layout_width="270.0dip" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="50.0dip" android:layout_marginRight="15.0dip" android:text="@string/act_menu_dynamic_guest" android:layout_below="@id/rel_dynamic_photo_bg" android:layout_centerHorizontal="true" />
+        <Button android:textAppearance="?android:textAppearanceLarge" android:textSize="20.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/rel_dynamic_btn" android:background="@drawable/spring_login_bt_pic" android:layout_width="300.0dip" android:layout_height="40.0dip" android:layout_marginTop="80.0dip" android:text="@string/act_menu_dynamic_guest_register" android:layout_below="@id/rel_dynamic_txt" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="16.0sp" android:id="@id/textView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:text=" " android:layout_below="@id/rel_dynamic_btn" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="16.0sp" android:textColor="#ff777777" android:id="@id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/guest_has_account" android:layout_toLeftOf="@id/textView2" android:layout_alignTop="@id/textView2" />
+        <TextView android:textSize="16.0sp" android:textColor="#ffd53b39" android:id="@id/guest_login_rightnow" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/guest_login_rightnow" android:layout_toRightOf="@id/textView2" android:layout_alignTop="@id/textView2" />
+    </RelativeLayout>
+    <ImageView android:id="@id/newfamily_me_icon" android:visibility="gone" android:layout_width="63.0dip" android:layout_height="63.0dip" android:layout_marginLeft="17.0dip" android:src="@null" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+    <RelativeLayout android:id="@id/lovefamily_loading" android:background="#ffffffff" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="16.0sp" android:textColor="#ff666666" android:id="@id/textView3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Loading.." android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/recorder_mengban" android:background="@drawable/recorder_background" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/imageView1" android:layout_width="63.0dip" android:layout_height="63.0dip" android:src="@drawable/maikefeng" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+        <TextView android:textSize="20.0sp" android:textColor="#ffffffff" android:id="@id/recorder_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="30.0dip" android:text="What would you like to say to Family?" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="17.0sp" android:textColor="#ffffffff" android:id="@id/recorder_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="For example: Dad, remember to measure blood pressure and do more exercise" android:layout_below="@id/recorder_tv" android:layout_centerHorizontal="true" />
+        <ImageView android:id="@id/maikequan" android:layout_width="120.0dip" android:layout_height="120.0dip" android:src="@drawable/maikequan" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+        <ImageView android:id="@id/maikequan1" android:layout_width="120.0dip" android:layout_height="120.0dip" android:src="@drawable/maikequan" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <Button android:id="@id/lovefamily_record_bt" android:background="@drawable/anzhu_record" android:layout_width="260.0dip" android:layout_height="40.0dip" android:layout_marginBottom="5.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</RelativeLayout>

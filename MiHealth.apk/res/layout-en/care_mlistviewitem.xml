@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/mitem" android:background="#ffededed" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:id="@id/user_container" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_alignParentTop="true">
+        <ImageView android:id="@id/img_User" android:background="@null" android:visibility="gone" android:layout_width="63.0dip" android:layout_height="63.0dip" android:layout_marginLeft="20.0dip" android:layout_centerVertical="true" />
+        <ImageView android:id="@id/img_User_circle" android:background="@null" android:visibility="gone" android:layout_width="63.0dip" android:layout_height="63.0dip" android:layout_marginLeft="20.0dip" android:layout_centerVertical="true" />
+        <TextView android:textSize="23.0sp" android:textColor="#ff666666" android:id="@id/name" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="Guest" android:singleLine="true" android:layout_toRightOf="@id/img_User_circle" android:layout_alignTop="@id/img_User_circle" />
+        <ImageView android:id="@id/share" android:background="@drawable/share" android:layout_width="25.0dip" android:layout_height="25.0dip" android:layout_marginRight="25.0dip" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+        <TextView android:textSize="17.0sp" android:textColor="#ff777777" android:id="@id/bp_date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:text="2014-5-7 14:28" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/BP_show" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="190.0dip">
+                <ImageView android:id="@id/bp_circle" android:layout_width="fill_parent" android:layout_height="85.0dip" android:layout_marginTop="21.0dip" android:src="@null" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+                <LinearLayout android:orientation="horizontal" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="15.0dip" android:layout_below="@id/bp_circle">
+                    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                        <TextView android:textColor="#ff686868" android:id="@id/sys" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sys_txt" android:layout_centerHorizontal="true" />
+                        <TextView android:textSize="40.0sp" android:textColor="#ff97cb07" android:id="@id/sys_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="113" android:layout_below="@id/sys" android:layout_centerHorizontal="true" />
+                    </RelativeLayout>
+                    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                        <TextView android:textColor="#ff686868" android:id="@id/dia" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/dia_txt" android:layout_centerHorizontal="true" />
+                        <TextView android:textSize="40.0sp" android:textColor="#ff97cb07" android:id="@id/dia_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="82" android:layout_below="@id/dia" android:layout_centerHorizontal="true" />
+                    </RelativeLayout>
+                    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                        <TextView android:textColor="#ff686868" android:id="@id/pus" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pus_txt" android:layout_centerHorizontal="true" />
+                        <TextView android:textSize="40.0sp" android:textColor="#ff999999" android:id="@id/pus_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="87" android:layout_below="@id/pus" android:layout_centerHorizontal="true" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="15.0dip" android:layout_marginBottom="10.0dip">
+            <LinearLayout android:orientation="vertical" android:id="@id/care_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <View android:background="#ffcccccc" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip">
+                    <ImageView android:id="@id/care_img" android:padding="3.0dip" android:layout_width="20.0dip" android:layout_height="20.0dip" android:layout_marginRight="5.0dip" android:src="@drawable/care" />
+                    <TextView android:textColor="#ff87ceff" android:id="@id/care" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/chat_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:id="@id/chat_img" android:padding="3.0dip" android:layout_width="20.0dip" android:layout_height="20.0dip" android:layout_marginTop="5.0dip" android:src="@drawable/chat" />
+                <ListView android:id="@id/llistview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:footerDividersEnabled="false" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <View android:background="#ffcccccc" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/btn" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="50.0dip">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <ImageView android:id="@id/new_care_remind" android:layout_width="90.0dip" android:layout_height="40.0dip" android:src="@null" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="0.5">
+            <ImageView android:id="@id/new_care_more" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginRight="15.0dip" android:src="@drawable/caremorepic" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            <ImageView android:id="@id/new_care_guanxin_talk" android:layout_width="180.0dip" android:layout_height="40.0dip" android:layout_marginRight="3.0dip" android:src="@null" android:layout_toLeftOf="@id/new_care_more" android:layout_centerVertical="true" />
+            <LinearLayout android:layout_width="180.0dip" android:layout_height="40.0dip" android:layout_marginRight="5.0dip" android:layout_toLeftOf="@id/new_care_more" android:layout_centerVertical="true">
+                <RelativeLayout android:id="@id/new_care_guanxin_bt" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <RelativeLayout android:id="@id/new_care_chat_bt" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

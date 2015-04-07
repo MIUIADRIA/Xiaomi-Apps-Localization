@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/imageView1" android:background="@drawable/spring_act_bp3m_start_bottom_pic" android:layout_width="fill_parent" android:layout_height="212.29999dip" android:layout_alignParentBottom="true" />
+    <RelativeLayout android:id="@id/act_bp3m_start_center_rel" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/act_bp3m_start_ball" android:background="@null" android:layout_width="260.0dip" android:layout_height="260.0dip" android:layout_centerInParent="true" />
+        <TextView android:textSize="20.0sp" android:textColor="#fff27522" android:id="@id/act_bp3m_start_current_test_person" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:text="Test: + " android:layout_below="@id/act_bp3m_start_ball" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/act_bp3m_start_center_nodate" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/act_bp3m_start_center_nodata_img" android:background="@null" android:layout_width="280.0dip" android:layout_height="260.0dip" android:layout_centerInParent="true" />
+        <TextView android:textSize="22.0sp" android:textColor="#ffd53b39" android:gravity="center" android:id="@id/act_bp3m_start_center_nodata_txt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/menu_care_fragment_nodata_txt" android:layout_below="@id/act_bp3m_start_center_nodata_img" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="16.0sp" android:textColor="#fff27522" android:gravity="center|left|top" android:id="@id/textView1" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/act_bpm3_start_weburl_tv" android:layout_below="@id/act_bp3m_start_center_nodata_txt" android:layout_alignLeft="@id/act_bp3m_start_center_nodata_txt" />
+        <TextView android:textSize="16.0sp" android:textColor="#ff0000ff" android:gravity="center|left|top" android:id="@id/act_bpm3_start_weburl" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TextView" android:layout_toRightOf="@id/textView1" android:layout_alignBottom="@id/textView1" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/act_bp3m_start_select_linear" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <ImageView android:id="@id/act_bp3m_start_select_dad" android:layout_width="120.0dip" android:layout_height="120.0dip" android:src="@drawable/selectdadoff" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <ImageView android:id="@id/act_bp3m_start_select_mom" android:layout_width="120.0dip" android:layout_height="120.0dip" android:src="@drawable/selectmomoff" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+            <TextView android:textSize="19.0sp" android:textColor="#fff27522" android:id="@id/act_bp3m_start_select_me" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/act_bpm3_start_noselect" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.5" />
+    </LinearLayout>
+</RelativeLayout>

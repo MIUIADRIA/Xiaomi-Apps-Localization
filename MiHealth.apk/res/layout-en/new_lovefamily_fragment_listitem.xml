@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="100.0dip" android:minHeight="100.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="2.0">
+            <ImageView android:id="@id/lovefamilyitem_img" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_marginBottom="7.0dip" android:src="@null" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+            <ImageView android:id="@id/lovefamily_usercircle" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_marginBottom="7.0dip" android:src="@null" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+            <TextView android:textSize="12.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/lovefamily_userpoint" android:background="@drawable/lovefamily_push_point" android:layout_width="10.0dip" android:layout_height="10.0dip" android:layout_alignTop="@id/lovefamilyitem_img" android:layout_alignRight="@id/lovefamilyitem_img" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="4.0">
+            <TextView android:textSize="11.0sp" android:textColor="#ff000000" android:id="@id/lovefamilyitem_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Self" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

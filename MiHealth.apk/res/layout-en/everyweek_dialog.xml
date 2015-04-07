@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/everyweek_dialog_linearlayout" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:visibility="gone" android:layout_width="fill_parent" android:layout_height="50.0dip">
+            <ImageView android:id="@id/every_week_share" android:layout_width="25.0dip" android:layout_height="25.0dip" android:layout_marginRight="25.0dip" android:src="@drawable/share" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            <TextView android:textSize="17.0sp" android:textColor="#ff777777" android:id="@id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:text="Nearly seven times the measurement statistics" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <LinearLayout android:background="@drawable/everyweekdialog_ideal" android:layout_width="fill_parent" android:layout_height="200.0dip">
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.9" />
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.05">
+                <TextView android:textSize="45.0sp" android:textColor="#ff888888" android:id="@id/everyweek_test_times" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="90.0dip" android:text="24" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+            </RelativeLayout>
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="0.95">
+                <TextView android:textSize="30.0sp" android:textColor="#ffff0000" android:id="@id/everyweek_hp_lp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="186/90" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+                <ImageView android:id="@id/everyweek_tanhao" android:layout_width="15.0dip" android:layout_height="15.0dip" android:layout_marginBottom="3.0dip" android:src="@drawable/everyweekdialog_tanhao" android:layout_above="@id/everyweek_hp_lp" android:layout_centerHorizontal="true" />
+                <TextView android:id="@id/textView3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="  " android:layout_below="@id/everyweek_hp_lp" android:layout_centerHorizontal="true" />
+                <ImageView android:id="@id/everyweek_heart" android:layout_width="20.0dip" android:layout_height="20.0dip" android:src="@drawable/everyweek_heartpic" android:layout_toLeftOf="@id/textView3" android:layout_alignTop="@id/textView3" />
+                <TextView android:textSize="28.0sp" android:textColor="#ff999999" android:id="@id/everyweek_hr" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="77" android:layout_toRightOf="@id/textView3" android:layout_below="@id/everyweek_hp_lp" />
+                <ImageView android:id="@id/everyweek_close" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginRight="20.0dip" android:src="@drawable/everyweekdialog_close" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

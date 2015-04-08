@@ -45,13 +45,13 @@
   <string name="ap_wifi_settting">WiFi camera settings</string>
   <string name="app_description">Cloud based intelligent camera with video and mobile functionality. Convenient and easy to use. Keep in touch with friends and loved ones.</string>
   <string name="app_introduce">Welcome</string>
-  <string name="app_name">SmallAnts</string>
+  <string name="app_name">Yi Small Ants</string>
   <string name="app_recommend">Recommend app</string>
   <string name="app_recommend_to_user">Recommend to friends</string>
   <string name="app_slogan">Take Yi Small Ants camera with you where ever you go</string>
   <string name="app_upgrade">Update app</string>
   <string name="back_start_upload_share">Start uploading in background...</string>
-  <string name="baike">XiaoYi Knowledge base</string>
+  <string name="baike">XiaoYi knowledge base</string>
   <string name="barcode_add">Add using QR code</string>
   <string name="best_music_software">Best music software in Android</string>
   <string name="best_recommend">Recommended</string>
@@ -319,7 +319,7 @@ please check network connection and try again"</string>
   <string name="manual_input_camera_id">Please manually input camera ID</string>
   <string name="meida_manager_center">Media center manager</string>
   <string name="menu_buy">Buy</string>
-  <string name="menu_camera_manage">Camera manager</string>
+  <string name="menu_camera_manage">Camera settings</string>
   <string name="menu_cloud_video">Cloud video</string>
   <string name="menu_delete">Delete</string>
   <string name="menu_event">History</string>
@@ -460,7 +460,7 @@ the rear of the camera"</string>
   <string name="setting_camera_upgrad">Version update</string>
   <string name="setting_camera_upgrade">Camera update</string>
   <string name="setting_new_camera">New camera</string>
-  <string name="setting_star_app">Start</string>
+  <string name="setting_star_app">Rate app</string>
   <string name="setting_view_only_in_wifi">View using WiFi only</string>
   <string name="settings">Settings</string>
   <string name="share">Share</string>

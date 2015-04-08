@@ -535,7 +535,7 @@
   <string name="camera_set_error_timeout">Timed out processing!</string>
   <string name="camera_set_passcode_protect">Password protection</string>
   <string name="camera_set_passcode_set">Set password</string>
-  <string name="camera_set_passcode_tips">To open password protection, inout a four-digit password</string>
+  <string name="camera_set_passcode_tips">To open password protection, input a four-digit password</string>
   <string name="camera_set_passcode_verify">Set password</string>
   <string name="camera_set_passcode_verify_change">Change password</string>
   <string name="camera_set_passcode_verify_close">Turn off password</string>

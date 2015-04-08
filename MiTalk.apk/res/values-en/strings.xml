@@ -528,7 +528,6 @@ Remember that you can only log in and restore password after you verify your e-m
   <string name="choose_phone_contact">Choose contacts</string>
   <string name="choose_service_account">Choose service accounts</string>
   <string name="choose_group">Choose groups</string>
-  <string name="choose_groups">Choose group</string>
   <string name="choosertitle_sharevia">Share with</string>
   <string name="chose_buddy_already_exist_private_mailbox">Already exists in private mailbox</string>
   <string name="chose_muc_category">Interests</string>

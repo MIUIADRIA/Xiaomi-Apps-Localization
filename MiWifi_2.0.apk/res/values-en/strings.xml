@@ -88,7 +88,7 @@
 	<string name="backup_skip_backup">Skip</string>
 	<string name="backup_start_backup">Start backup</string>
 	<string name="backup_switcher_is_off">Backups can only be created when the backup function is enabled</string>
-	<string name="backup_whether_rebackup_on_router_directory_deleted">Backup folder can not be found, it may have been deleted, moved or renamed. Would you like to backup again now?</string>
+	<string name="backup_whether_rebackup_on_router_directory_deleted">Backup folder cannot be found, it may have been deleted, moved or renamed. Would you like to backup again now?</string>
 	<string name="barcodescanner_gif_not_support_camera_msg">Device does not support camera functions</string>
 	<string name="barcodescanner_not_valid_url">Download URL is invalid, please check and try again</string>
 	<string name="barcodescanner_open_camera_exception_dialog_content">Problem with system camera, please check system privileges.</string>
@@ -166,7 +166,7 @@
 	<string name="block_hitch_hiker_feature_sub1">Notification reminders</string>
 	<string name="block_hitch_hiker_feature_sub2">App notifications displayed on home screen</string>
 	<string name="block_hitch_hiker_mechanism">WiFi blocklist</string>
-	<string name="block_hitch_hiker_mechanism_detail">Block unauthorised devices and get automatic notifications</string>
+	<string name="block_hitch_hiker_mechanism_detail">Block unauthorized devices and get automatic notifications</string>
 	<string name="block_hitch_hiker_title">WiFi blocklist</string>
 	<string name="block_load_blocked_devices_list">Loading WiFi blocklist...</string>
 	<string name="block_no_disturb_mode">DND mode</string>
@@ -187,7 +187,7 @@
 	<string name="bootstrap_check_dhcp_tip">After detection, current network does not require dial up</string>
 	<string name="bootstrap_check_wan_mode_failed">Automatic WAN detection failed</string>
 	<string name="bootstrap_check_wan_mode_loading">Detecting WAN type, please wait...</string>
-	<string name="bootstrap_check_wan_mode_tip">Detech WAN type automatically</string>
+	<string name="bootstrap_check_wan_mode_tip">Detect WAN type automatically</string>
 	<string name="bootstrap_default_mode">Default mode</string>
 	<string name="bootstrap_default_mode_tip">Connect to the Internet manually</string>
 	<string name="bootstrap_dhcp_failed">DHCP failure, please try again</string>
@@ -195,7 +195,7 @@
 	<string name="bootstrap_get_relay_wifi_failed">Failed to get WiFi relay</string>
 	<string name="bootstrap_name_prompt">Name</string>
 	<string name="bootstrap_name_tip">Used to distinguish between different Mi routers</string>
-	<string name="bootstrap_name_too_long">Name cannot be more than %d chacters</string>
+	<string name="bootstrap_name_too_long">Name cannot be more than %d characters</string>
 	<string name="bootstrap_need_dial">Dial up</string>
 	<string name="bootstrap_need_not_dial">"Don't dial"</string>
 	<string name="bootstrap_other_mode">Other access method</string>
@@ -268,7 +268,7 @@
 	<string name="choose_folders">Please select a folder</string>
 	<string name="choose_question">Please select a question</string>
 	<string name="choosertitle_sharevia">Share with</string>
-	<string name="client_account_inconsistent_with_current_login">Current device has been paired with another Mi account, please login to smart home to unpair before trying again</string>
+	<string name="client_account_inconsistent_with_current_login">Current device has been paired with another Mi account, please login to smart home to remove before trying again</string>
 	<string name="client_detail_bar_more">More</string>
 	<string name="client_detail_info_connection_24g">WiFi 2.4GHz</string>
 	<string name="client_detail_info_connection_5g">WiFi 5GHz</string>
@@ -338,7 +338,7 @@
 	<string name="client_qos_prompt_on_speed_inaccurate">If speed value is not accurate, please set it manually</string>
 	<string name="client_qos_requires_enable_qos">Before using QoS speed limit, you need to open the function in plug-ins</string>
 	<string name="client_qos_smartly_adjust_speed">QoS (Speed mode)</string>
-	<string name="client_qos_smartly_adjust_speed_description">"Prioritise device's network speed depending on QoS speed mode"</string>
+	<string name="client_qos_smartly_adjust_speed_description">"Prioritize device's network speed depending on QoS speed mode"</string>
 	<string name="client_qos_speed_mode">QoS speed mode</string>
 	<string name="client_qos_speed_mode_off">QoS speed mode off</string>
 	<string name="client_qos_speed_mode_unknown">QoS speed mode unknown</string>
@@ -451,7 +451,7 @@
 	<string name="diskbackup_choose_target_sub_no_udisk">Please insert USB storage device</string>
 	<string name="diskbackup_choose_target_sub_please_choose">Please select target</string>
 	<string name="diskbackup_choose_target_sub_please_choose_subtitle">Backup Mi router hard disk data to the following removable storage partition</string>
-	<string name="diskbackup_description">Backup important data from Mi router hard disk, dont worry about losing important data</string>
+	<string name="diskbackup_description">"Backup important data from Mi router hard disk, don't worry about losing important data"</string>
 	<string name="diskbackup_error">Backup failed</string>
 	<string name="diskbackup_error_disk_change">Removable disk has been removed, backup terminated</string>
 	<string name="diskbackup_error_no_space">Insufficient free storage space available</string>
@@ -530,12 +530,12 @@
 	<string name="download_status_waiting">Waiting</string>
 	<string name="download_tools_resourcesearch_title">Search for more resources</string>
 	<string name="download_xunlei_accelearate_title">Xunlei download accelerator</string>
-	<string name="download_xunlei_bind_error">Error occurred pairing Xunlei with Mi router</string>
-	<string name="download_xunlei_bind_fail">Failed to pair Xunlei</string>
-	<string name="download_xunlei_bind_success">Xunlei paired successfully</string>
+	<string name="download_xunlei_bind_error">Error occurred adding Xunlei with Mi router</string>
+	<string name="download_xunlei_bind_fail">Failed to add Xunlei</string>
+	<string name="download_xunlei_bind_success">Xunlei added successfully</string>
 	<string name="download_xunlei_bind_timeout">Timed out pairing Xunlei with Mi router</string>
 	<string name="download_xunlei_bind_xiaomi_account">Mi ID %s</string>
-	<string name="download_xunlei_binding_device">Xunlei paired</string>
+	<string name="download_xunlei_binding_device">Xunlei added</string>
 	<string name="download_xunlei_bint_desc1">Xunlei members can enjoy smooth acceleration with unlimited downloads</string>
 	<string name="download_xunlei_check_error">Failed to get Xunlei account information</string>
 	<string name="download_xunlei_checking_account_bind_status">Checking Xunlei account pairing status</string>
@@ -553,13 +553,13 @@
 	<string name="download_xunlei_download_title">Xunlei accelerator</string>
 	<string name="download_xunlei_expire_date_format">yyyy-MM-dd</string>
 	<string name="download_xunlei_get_account_info">Obtaining Xunlei account information</string>
-	<string name="download_xunlei_has_binded">Xunlei acclerator has been paired with another Mi router</string>
+	<string name="download_xunlei_has_binded">Xunlei accelerator has been added to another Mi router</string>
 	<string name="download_xunlei_id_for_vendor_error">Failed to obtain device information</string>
 	<string name="download_xunlei_infinite_times">Unlimited</string>
 	<string name="download_xunlei_initlizing_device">Initializing device, please wait...</string>
 	<string name="download_xunlei_pay">Pay</string>
-	<string name="download_xunlei_unbind_fail">Failed to unpair Xunlei accelerator</string>
-	<string name="download_xunlei_unbind_success">Successfully unpaired Xunlei accelerator</string>
+	<string name="download_xunlei_unbind_fail">Failed to remove Xunlei accelerator</string>
+	<string name="download_xunlei_unbind_success">Successfully removed Xunlei accelerator</string>
 	<string name="download_xunlei_unknow">Unknown</string>
 	<string name="download_xunlei_vip">Xunlei VIP</string>
 	<string name="download_xunlei_vip_expire_date">Xunlei VIP expiry date</string>
@@ -569,7 +569,7 @@
 	<string name="exit_press_back_again">Press again to exit Mi WiFi</string>
 	<string name="feedback">Feedback</string>
 	<string name="feedback_advise">Problem description</string>
-	<string name="feedback_app_succ_router_fail">Sucessfully uploaded user app log</string>
+	<string name="feedback_app_succ_router_fail">Successfully uploaded user app log</string>
 	<string name="feedback_contact">Contact e-mail (optional)</string>
 	<string name="feedback_contact_max_length">Please use 100 words or less in your feedback</string>
 	<string name="feedback_contact_tips">Input an e-mail address so we can contact you if required</string>
@@ -661,12 +661,12 @@
 	<string name="file_no_external_disk_checked_description">Please insert removable storage device to Mi routers USB port</string>
 	<string name="file_open_ready_loading">Loading file...</string>
 	<string name="file_save_image_failed">Failed to save photo to album</string>
-	<string name="file_save_image_succeeded">Succesfully saved photo to album</string>
+	<string name="file_save_image_succeeded">Successfully saved photo to album</string>
 	<string name="file_save_multimedia">Save</string>
 	<string name="file_select_media_reach_max_count">Can only select %s items</string>
 	<string name="file_select_photo_reach_max_count">Can only select %s photos</string>
 	<string name="file_select_video_reach_max_count">Can only select %s videos</string>
-	<string name="file_share_cancel_share_folder_loading">Cancelling folder sharing...</string>
+	<string name="file_share_cancel_share_folder_loading">Canceling folder sharing...</string>
 	<string name="file_share_cancel_share_folder_tip">Cancel sharing %s?</string>
 	<string name="file_share_set_share_folder_loading">Preparing to share folder...</string>
 	<string name="file_share_set_share_folder_tip">Set %s sharing?</string>
@@ -722,7 +722,7 @@
 	<string name="file_transfer_status_pause">Paused</string>
 	<string name="file_transfer_status_running">Running</string>
 	<string name="file_transfer_status_stoped">Stopped</string>
-	<string name="file_transfer_status_success">Sucessful</string>
+	<string name="file_transfer_status_success">Successful</string>
 	<string name="file_transfer_status_unknown_error">Unknown error</string>
 	<string name="file_transfer_status_waiting">Waiting</string>
 	<string name="file_transfer_status_waiting_retry">Waiting to retry</string>
@@ -758,7 +758,7 @@
 	<string name="guideview_download_description2">Download and keep on your hard drive</string>
 	<string name="guideview_download_title">Find great content and store on your hard drive</string>
 	<string name="guideview_end_show">End demo</string>
-	<string name="guideview_share_router_description1">Share administrative priviledges</string>
+	<string name="guideview_share_router_description1">Share administrative privileges</string>
 	<string name="guideview_share_router_description2">Easy to share and have fun</string>
 	<string name="guideview_share_router_title">Share Mi router with friends or family</string>
 	<string name="guideview_skip">Skip</string>
@@ -847,7 +847,7 @@
 	<string name="main_client">Devices</string>
 	<string name="main_download">Download</string>
 	<string name="main_file">Folders</string>
-	<string name="main_handle_account_exception">An execption has occurred, please sign in again</string>
+	<string name="main_handle_account_exception">An exception has occurred, please sign in again</string>
 	<string name="main_invitation_text">Mi router has been shared by %s</string>
 	<string name="main_invitation_view">View</string>
 	<string name="main_personal_center">Mi profile</string>
@@ -941,23 +941,23 @@
 	<string name="resourcesearch_task_adding">Adding download task...</string>
 	<string name="router_setting_current_password_error_empty">Administrator password can not be empty</string>
 	<string name="router_setting_new_password_error_too_long">Password is too long, use a shorter password</string>
-	<string name="router_setting_new_password_error_too_short">Password must be at leastr 8 characters in length</string>
+	<string name="router_setting_new_password_error_too_short">Password must be at least 8 characters in length</string>
 	<string name="router_setting_new_password_inconsistent">Passwords do not match, please check and try again</string>
 	<string name="router_setting_new_password_same_to_origin">New password can not be the same as previous password</string>
 	<string name="router_setting_password_loading">Updating Mi router admin password...</string>
-	<string name="router_setting_password_success">Mi router admin password updated sucessfully</string>
+	<string name="router_setting_password_success">Mi router admin password updated successfully</string>
 	<string name="routing_feedback">Connect to Mi router</string>
 	<string name="send_log">Upload error logs to help us improve our products and services</string>
 	<string name="setting_about">About Mi router</string>
 	<string name="setting_about_title">About Mi router</string>
 	<string name="setting_admin">Admin settings</string>
 	<string name="setting_demote_self">Cancel sharing</string>
-	<string name="setting_format_confirm_hint">Begin formtting the hard drive immediately?</string>
+	<string name="setting_format_confirm_hint">Begin formatting the hard drive immediately?</string>
 	<string name="setting_know_button">Agree</string>
 	<string name="setting_plugin_fangke_save">Save settings</string>
 	<string name="setting_prompt_router_get_wifi_fail">Getting WiFi information from Mi router failed</string>
 	<string name="setting_prompt_router_name_invalid">Please input standard characters, e.g. Xiaomi.Luyouqi</string>
-	<string name="setting_prompt_router_name_should_not_empty">Mi router name can not be emtpy</string>
+	<string name="setting_prompt_router_name_should_not_empty">Mi router name can not be empty</string>
 	<string name="setting_prompt_router_name_too_long">Mi router name is too long, please shorten the name</string>
 	<string name="setting_prompt_router_pwd_invalid">Password can not contain Chinese characters</string>
 	<string name="setting_prompt_wifi_psw_at_least_8">WiFi password should be a minimum of 8 characters</string>
@@ -970,10 +970,10 @@
 	<string name="setting_shutdown">Shutdown</string>
 	<string name="setting_storgae">Storage settings</string>
 	<string name="setting_title">Advanced settings</string>
-	<string name="setting_unbind">Unpair Mi router</string>
-	<string name="setting_unbind_failed">Failed to unpair Mi router</string>
-	<string name="setting_unbind_message">Unpair from %s, are you sure you want to continue?</string>
-	<string name="setting_unbind_waiting">Unpairing, please wait...</string>
+	<string name="setting_unbind">Remove Mi router</string>
+	<string name="setting_unbind_failed">Failed to remove Mi router</string>
+	<string name="setting_unbind_message">Remove from %s, are you sure you want to continue?</string>
+	<string name="setting_unbind_waiting">Removing, please wait...</string>
 	<string name="setting_update">Update settings</string>
 	<string name="setting_wifi_2_4_switch">2.4GHz</string>
 	<string name="setting_wifi_5_0_switch">5GHz</string>
@@ -1004,7 +1004,7 @@
 	<string name="setting_wifi_turnoff_prompt">This operation will restart WiFi and cause all connected devices to lose connection with the Mi router. Are you sure you want to continue?</string>
 	<string name="setting_wifi_turnoff_prompt_guest_wifi">This operation will restart WiFi and cause all connected devices to lose connection with the Mi router. After switching off, guest WiFi will be unavailable, are you sure you want to continue?</string>
 	<string name="share">Share</string>
-	<string name="shutdown_desc">In order to protect data security of hard disk it is recommended that you shut down the Mi router before turnong off power. After shut down the Mi router will restart when you connect the power.</string>
+	<string name="shutdown_desc">In order to protect data security of hard disk it is recommended that you shut down the Mi router before turning off power. After shut down the Mi router will restart when you connect the power.</string>
 	<string name="shutdown_now">Shutdown now</string>
 	<string name="shutdown_router_closing_message">When the LED is off you can unplug the power</string>
 	<string name="shutdown_router_closing_title">Shutting down</string>
@@ -1035,7 +1035,7 @@
 	<string name="storage_feedback">Mi router storage</string>
 	<string name="storage_format_disk">Format disk</string>
 	<string name="storage_format_fail">Failed to format disk</string>
-	<string name="storage_format_succ">Sucessfully formatted disk</string>
+	<string name="storage_format_succ">Successfully formatted disk</string>
 	<string name="storage_formatting">Formatting drive, please wait...</string>
 	<string name="storage_save_fail">Failed to save</string>
 	<string name="storage_save_success">Successfully saved</string>
@@ -1089,7 +1089,7 @@
 	<string name="tool_router_reboot_timer_desc">Automatically power on Mi router when required</string>
 	<string name="tool_router_reboot_timer_switch_hint">Reboot timer</string>
 	<string name="tool_router_shutdown_timer">Shutdown timer</string>
-	<string name="tool_router_shutdown_timer_desc">Automatically power off Mi router when not in use. Also helps to recude power consumption</string>
+	<string name="tool_router_shutdown_timer_desc">Automatically power off Mi router when not in use. Also helps to reduce power consumption</string>
 	<string name="tool_router_shutdown_timer_switch_hint">Shutdown timer</string>
 	<string name="tool_time_setting">Timer settings</string>
 	<string name="tool_time_setting_end">End time</string>
@@ -1103,7 +1103,7 @@
 	<string name="tool_timer_custom">Custom</string>
 	<string name="tool_timer_everyday">Every day</string>
 	<string name="tool_timer_loading_config">Loading configuration information...</string>
-	<string name="tool_timer_loading_config_fail">Failed to load cofiguration information!</string>
+	<string name="tool_timer_loading_config_fail">Failed to load configuration information!</string>
 	<string name="tool_timer_once">Once</string>
 	<string name="tool_timer_saving">Saving settings</string>
 	<string name="tool_timer_saving_fail">Failed to save settings</string>
@@ -1191,7 +1191,7 @@
 	<string name="user_experience_improve_joined_hint">Joining, please wait...</string>
 	<string name="user_experience_improve_license">"Mi Router User Experience Improvement Program
 	
-	Xiaomi Communication Technology Co Ltd (hereinafter referred to as the "xiaomi" or "we") sincerely invite you to join the "Mi router User Experience Improvement Program". In order to better provide you with a new generation of intelligent devices. We will need to use your statistics collected from the mobile app, then through using this statistical data improve the Mi WiFi phone app and give a better user experience to everyone.
+	Xiaomi Communication Technology Co Ltd (hereinafter referred to as the "Xiaomi" or "we") sincerely invite you to join the "Mi router User Experience Improvement Program". In order to better provide you with a new generation of intelligent devices. We will need to use your statistics collected from the mobile app, then through using this statistical data improve the Mi WiFi phone app and give a better user experience to everyone.
 	
 	Please be assured, we will keep all of your data private, statistics only include the frequency of using when using the Mi router app. Anonymous data is collected to improve Xiaomi products and services. SMS and Phone records are not collected.
 	
@@ -1202,7 +1202,7 @@
 	Provided you allow use to collect statistical data to help us improve the Mi router app, phone compatibility, stability and ease of use, including:
 	（1）The latest version of the Mi WiFi operating system ROM, more timely fixes to all kinds of problems, further improving the stability of the system to make a better product;
 	（2）A better fit for your Internet service provider (ISP), providing different types of network service (ADSL, Fibre optic etc);
-	（3）Help you better understand the number of devices connected, duration, disk usage. Ensure also that the Mi router can ensure compatibility and stabilty for all attached devices;
+	（3）Help you better understand the number of devices connected, duration, disk usage. Ensure also that the Mi router can ensure compatibility and stability for all attached devices;
 	（4）Use the Mi router to intelligently control your surroundings. Also improve relevant functions for devices and Mi router connectivity;
 	（5）Mi router plugins system (Games, Download speed, Ad blocking) providing anonymous statistical information to the developer. Help improve the platform and plugins available to make a better user experience.
 	

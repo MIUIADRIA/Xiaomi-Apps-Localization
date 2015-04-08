@@ -472,7 +472,7 @@ Remember that you can only log in and restore password after you verify your e-m
   <string name="channel_group_publisher">Posted by: %s</string>
   <string name="channel_new_post_count">%d new posts today</string>
   <string name="channel_owner">Owner:%s</string>
-  <string name="channel_publish"Add post</string>
+  <string name="channel_publish">Add post</string>
   <string name="channel_publish_book_author">Author: %s</string>
   <string name="channel_publish_book_hint">Write something about this book</string>
   <string name="channel_publish_image_hint">Say something</string>

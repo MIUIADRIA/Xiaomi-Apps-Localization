@@ -16,16 +16,11 @@
         <item>Enlarge text</item>
         <item>Follow thread starter</item>
         <item>Copy link</item>
-        <item>Full article</item>
+        <item>Full thread</item>
     </string-array>
     <string-array name="channel_edit_menu">
         <item>Edit name</item>
         <item>Delete channel</item>
-    </string-array>
-    <string-array name="chose_chunjie">
-        <item>春节2</item>
-        <item>春节3</item>
-        <item>春节4</item>
     </string-array>
     <string-array name="chose_festival">
         <item>Chinese New Year</item>
@@ -181,7 +176,7 @@
         <item>Copy</item>
     </string-array>
     <string-array name="correlation">
-        <item>Schoolmate</item>
+        <item>School friend</item>
         <item>Colleague</item>
         <item>Company</item>
         <item>新浪微博好友</item>
@@ -228,15 +223,15 @@
         <item>smoke~</item>
     </string-array>
     <string-array name="discovery_filter">
-        <item>Girls nearby</item>
-        <item>Boys nearby</item>
-        <item>Nearby unions</item>
-        <item>Common friends</item>
+        <item>Women nearby</item>
+        <item>Men nearby</item>
+        <item>Nearby groups</item>
+        <item>Mutual friends</item>
         <item>Nearby venues</item>
     </string-array>
     <string-array name="dynamic_send_wall">
         <item>Take a photo</item>
-        <item>Choose existing</item>
+        <item>Select existing</item>
         <item>Text</item>
     </string-array>
     <string-array name="edit_image">
@@ -259,95 +254,85 @@
         <item>Vibrant</item>
         <item>Transfer</item>
     </string-array>
-    <string-array name="effect_str">
-        <item>effect=xiaomi_skinsoft</item>
-        <item>effect=xiaomi_retro_night</item>
-        <item>effect=xiaomi_skin_sunshine</item>
-        <item>effect=xiaomi_skin_greenish</item>
-        <item>effect=xiaomi_lomo_film</item>
-        <item>effect=xiaomi_lomo_greenish</item>
-        <item>effect=xiaomi_lomo_red</item>
-        <item>effect=xiaomi_lomo_fengye</item>
-    </string-array>
     <string-array name="find_friend_operations">
         <item>Delete</item>
     </string-array>
     <string-array name="find_group_title_filter">
         <item>All</item>
-        <item>Schoolmates</item>
+        <item>School friends</item>
         <item>Colleagues</item>
     </string-array>
     <string-array name="find_muc_selected">
         <item>All</item>
-        <item>Schoolmates</item>
+        <item>School friends</item>
         <item>Colleague</item>
         <item>Interests</item>
-        <item>Newest</item>
+        <item>New</item>
     </string-array>
     <string-array name="get_password">
         <item>Reset password</item>
-        <item>Reset password through mobile</item>
-        <item>Reset password through email</item>
+        <item>Reset password using phone</item>
+        <item>Reset password using e-mail</item>
     </string-array>
     <string-array name="get_password_no_phone">
         <item>Reset password</item>
-        <item>Reset password through email</item>
+        <item>Reset password using e-mail</item>
     </string-array>
     <string-array name="industries">
         <item>Student</item>
         <item>IT</item>
         <item>Industry</item>
-        <item>Medical</item>
+        <item>Medicine</item>
         <item>Business</item>
-        <item>Civil Servant</item>
+        <item>Civil servant</item>
         <item>Law</item>
-        <item>Education</item>
+        <item>Teacher</item>
         <item>Art</item>
         <item>Media</item>
         <item>Finance</item>
         <item>Service</item>
         <item>Freelancer</item>
         <item>Agriculture</item>
-        <item>Real Estate</item>
+        <item>Real estate</item>
         <item>Transportation</item>
         <item>Other</item>
     </string-array>
     <string-array name="invite">
         <item>Add friends from Mi talk</item>
         <item>Invite using SMS</item>
-        <item>Invite using email</item>
+        <item>Invite using e-mail</item>
     </string-array>
     <string-array name="midschool">
-        <item>Junior High</item>
-        <item>High School</item>
+        <item>Junior high</item>
+        <item>High school</item>
     </string-array>
     <string-array name="ml_webview_long_click">
-        <item>View large picture</item>
-        <item>Send to contacts</item>
-        <item>Share with Union</item>
-        <item>Share on Newsfeed</item>
+        <item>View large photo</item>
+        <item>Share with friends</item>
+        <item>Share with group</item>
+        <item>Share on wall</item>
     </string-array>
     <string-array name="ml_webview_more">
-        <item>Send to contacts</item>
-        <item>Share with Union</item>
-        <item>Share on Newsfeed</item>
+        <item>Share with friends</item>
+        <item>Share with group</item>
+        <item>Share on wall</item>
         <item>Copy link</item>
-        <item>Open in Browser</item>
+        <item>Open in browser</item>
         <item>Font settings</item>
     </string-array>
     <string-array name="ml_webview_more_withnamecard">
-        <item>Send to contacts</item>
-        <item>Share with Union</item>
-        <item>Share on Newsfeed</item>
+        <item>Share with friends</item>
+        <item>Share with group</item>
+        <item>Share on wall</item>
         <item>Copy link</item>
-        <item>Open in Browser</item>
+        <item>Open in browser</item>
         <item>Font settings</item>
         <item>Name card</item>
     </string-array>
     <string-array name="ml_webview_share">
-        <item>Send to contacts</item>
-        <item>Share with Union</item>
-        <item>Share on Newsfeed</item>
+        <item>Share with friends</item>
+        <item>Share with group</item>
+        <item>Share on wall</item>
     </string-array>
     <string-array name="month">
         <item>January</item>
@@ -365,8 +350,8 @@
     </string-array>
     <string-array name="muc_member_manager">
         <item>Remove a member</item>
-        <item>Add an administrator</item>
-        <item>Unselect an administrator</item>
+        <item>Add administrator</item>
+        <item>Remove administrator</item>
         <item>Mute member</item>
         <item>Unmute member</item>
     </string-array>
@@ -383,29 +368,29 @@
     <string-array name="namecard_first_photo_choices">
         <item>Enlarge</item>
         <item>Retake</item>
-        <item>Photo Gallery</item>
+        <item>Photo gallery</item>
         <item>Delete</item>
     </string-array>
     <string-array name="namecard_inform_choices">
-        <item>Personal Attact</item>
+        <item>Harassement</item>
         <item>Scam</item>
         <item>Other</item>
     </string-array>
     <string-array name="namecard_photo_choices">
         <item>Enlarge</item>
-        <item>Make this default</item>
+        <item>Make default</item>
         <item>Retake</item>
-        <item>Photo Gallery</item>
+        <item>Photo gallery</item>
         <item>Delete</item>
     </string-array>
     <string-array name="namecard_remain_one_photo_choices">
         <item>Enlarge</item>
         <item>Retake</item>
-        <item>Photo Gallery</item>
+        <item>Photo gallery</item>
     </string-array>
     <string-array name="namecard_school_choices">
         <item>University</item>
-        <item>High School</item>
+        <item>High school</item>
     </string-array>
     <string-array name="namecard_sex_choices">
         <item>Male</item>
@@ -419,15 +404,15 @@
     </string-array>
     <string-array name="notification_center_operation_items">
         <item>Show all friend requests</item>
-        <item>Clear the list</item>
+        <item>Clear list</item>
     </string-array>
     <string-array name="pick_image">
         <item>Take a photo</item>
-        <item>Choose existing</item>
+        <item>Select existing</item>
     </string-array>
     <string-array name="pickture_choices">
         <item>Take a photo</item>
-        <item>Choose existing</item>
+        <item>Select existing</item>
     </string-array>
     <string-array name="picture_quick_choices">
         <item>Take photo</item>
@@ -443,16 +428,6 @@
         <item>Cyan</item>
         <item>White</item>
         <item>Purple</item>
-    </string-array>
-    <string-array name="pref_color_value">
-        <item>0</item>
-        <item>0000ff</item>
-        <item>ff0000</item>
-        <item>ffff00</item>
-        <item>00ff00</item>
-        <item>00ffff</item>
-        <item>ffffff</item>
-        <item>ff00ff</item>
     </string-array>
     <string-array name="pref_locale_choices">
         <item>en</item>
@@ -497,21 +472,12 @@
         <item>Requires confirmation</item>
         <item>Disable add me</item>
     </string-array>
-    <string-array name="pref_privacy_fri_verify_values">
-        <item>NO_VERIFY</item>
-        <item>VERIFY</item>
-        <item>NO_ADD</item>
-    </string-array>
-    <string-array name="pref_privacy_search_type">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="pref_privacy_search_type_name">
-        <item>Use Mi ID/name/school/company</item>
+        <item>Use Mi ID/Name/School/Company</item>
         <item>Use Mi ID</item>
     </string-array>
     <string-array name="pref_video_recording_choices">
-        <item>Low data use mode</item>
+        <item>Low quality mode</item>
         <item>Data saving mode</item>
         <item>High quality mode</item>
     </string-array>
@@ -659,7 +625,7 @@
     <string-array name="sixin_setting_choices">
         <item>Select to delete</item>
         <item>Clear all</item>
-        <item>Setting</item>
+        <item>Settings</item>
     </string-array>
     <string-array name="smiley_car_texts">
         <item>【house】</item>
@@ -725,70 +691,6 @@
         <item>【England】</item>
         <item>【Germany】</item>
     </string-array>
-    <integer-array name="smiley_car_texts_global">
-        <item>0xe036</item>
-        <item>0xe157</item>
-        <item>0xe038</item>
-        <item>0xe153</item>
-        <item>0xe155</item>
-        <item>0xe14d</item>
-        <item>0xe156</item>
-        <item>0xe501</item>
-        <item>0xe158</item>
-        <item>0xe43d</item>
-        <item>0xe037</item>
-        <item>0xe504</item>
-        <item>0xe44a</item>
-        <item>0xe146</item>
-        <item>0xe50a</item>
-        <item>0xe505</item>
-        <item>0xe506</item>
-        <item>0xe122</item>
-        <item>0xe508</item>
-        <item>0xe509</item>
-        <item>0xe03b</item>
-        <item>0xe04d</item>
-        <item>0xe449</item>
-        <item>0xe44b</item>
-        <item>0xe51d</item>
-        <item>0xe44c</item>
-        <item>0xe124</item>
-        <item>0xe121</item>
-        <item>0xe433</item>
-        <item>0xe202</item>
-        <item>0xe135</item>
-        <item>0xe01c</item>
-        <item>0xe42e</item>
-        <item>0xe01b</item>
-        <item>0xe15a</item>
-        <item>0xe432</item>
-        <item>0xe430</item>
-        <item>0xe431</item>
-        <item>0xe42f</item>
-        <item>0xe01e</item>
-        <item>0xe039</item>
-        <item>0xe01f</item>
-        <item>0xe125</item>
-        <item>0xe03a</item>
-        <item>0xe14e</item>
-        <item>0xe252</item>
-        <item>0xe137</item>
-        <item>0xe209</item>
-        <item>0xe133</item>
-        <item>0xe150</item>
-        <item>0xe320</item>
-        <item>0xe123</item>
-        <item>0xe143</item>
-        <item>0xe50b</item>
-        <item>0xe514</item>
-        <item>0xe50c</item>
-        <item>0xe50d</item>
-        <item>0xe511</item>
-        <item>0xe50f</item>
-        <item>0xe512</item>
-        <item>0xe510</item>
-        <item>0xe50e</item>
-    </integer-array>
     <string-array name="smiley_life_texts">
         <item>【bamboo plant】</item>
         <item>【just got married】</item>
@@ -871,88 +773,6 @@
         <item>【eggplant】</item>
         <item>【tomato】</item>
     </string-array>
-    <integer-array name="smiley_life_texts_global">
-        <item>0xe436</item>
-        <item>0xe438</item>
-        <item>0xe43a</item>
-        <item>0xe439</item>
-        <item>0xe43b</item>
-        <item>0xe117</item>
-        <item>0xe440</item>
-        <item>0xe442</item>
-        <item>0xe446</item>
-        <item>0xe127</item>
-        <item>0xe00a</item>
-        <item>0xe00b</item>
-        <item>0xe316</item>
-        <item>0xe129</item>
-        <item>0xe141</item>
-        <item>0xe142</item>
-        <item>0xe317</item>
-        <item>0xe128</item>
-        <item>0xe14b</item>
-        <item>0xe211</item>
-        <item>0xe114</item>
-        <item>0xe313</item>
-        <item>0xe116</item>
-        <item>0xe104</item>
-        <item>0xe103</item>
-        <item>0xe102</item>
-        <item>0xe140</item>
-        <item>0xe11f</item>
-        <item>0xe031</item>
-        <item>0xe016</item>
-        <item>0xe015</item>
-        <item>0xe014</item>
-        <item>0xe42c</item>
-        <item>0xe42d</item>
-        <item>0xe017</item>
-        <item>0xe013</item>
-        <item>0xe20e</item>
-        <item>0xe20c</item>
-        <item>0xe20f</item>
-        <item>0xe20d</item>
-        <item>0xe130</item>
-        <item>0xe324</item>
-        <item>0xe301</item>
-        <item>0xe148</item>
-        <item>0xe502</item>
-        <item>0xe30a</item>
-        <item>0xe042</item>
-        <item>0xe040</item>
-        <item>0xe12c</item>
-        <item>0xe007</item>
-        <item>0xe31a</item>
-        <item>0xe31b</item>
-        <item>0xe006</item>
-        <item>0xe302</item>
-        <item>0xe319</item>
-        <item>0xe321</item>
-        <item>0xe314</item>
-        <item>0xe503</item>
-        <item>0xe318</item>
-        <item>0xe11e</item>
-        <item>0xe338</item>
-        <item>0xe30b</item>
-        <item>0xe043</item>
-        <item>0xe341</item>
-        <item>0xe34c</item>
-        <item>0xe342</item>
-        <item>0xe33d</item>
-        <item>0xe33e</item>
-        <item>0xe34d</item>
-        <item>0xe339</item>
-        <item>0xe147</item>
-        <item>0xe343</item>
-        <item>0xe33c</item>
-        <item>0xe43f</item>
-        <item>0xe046</item>
-        <item>0xe346</item>
-        <item>0xe348</item>
-        <item>0xe347</item>
-        <item>0xe34a</item>
-        <item>0xe349</item>
-    </integer-array>
     <string-array name="smiley_nature_texts">
         <item>【tornado】</item>
         <item>【baby monkey】</item>
@@ -973,26 +793,6 @@
         <item>【rice field】</item>
         <item>【scallop】</item>
     </string-array>
-    <integer-array name="smiley_nature_texts_global">
-        <item>0xe443</item>
-        <item>0xe528</item>
-        <item>0xe134</item>
-        <item>0xe530</item>
-        <item>0xe529</item>
-        <item>0xe526</item>
-        <item>0xe523</item>
-        <item>0xe019</item>
-        <item>0xe306</item>
-        <item>0xe030</item>
-        <item>0xe304</item>
-        <item>0xe110</item>
-        <item>0xe305</item>
-        <item>0xe118</item>
-        <item>0xe447</item>
-        <item>0xe119</item>
-        <item>0xe444</item>
-        <item>0xe441</item>
-    </integer-array>
     <string-array name="smiley_normal_texts">
         <item>【kitty】</item>
         <item>【mole】</item>
@@ -1250,105 +1050,6 @@
         <item>【registered】</item>
         <item>【trademark】</item>
     </string-array>
-    <integer-array name="smiley_sign_texts_global">
-        <item>0xe21c</item>
-        <item>0xe21d</item>
-        <item>0xe21e</item>
-        <item>0xe21f</item>
-        <item>0xe220</item>
-        <item>0xe221</item>
-        <item>0xe222</item>
-        <item>0xe223</item>
-        <item>0xe224</item>
-        <item>0xe225</item>
-        <item>0xe210</item>
-        <item>0xe232</item>
-        <item>0xe233</item>
-        <item>0xe235</item>
-        <item>0xe234</item>
-        <item>0xe236</item>
-        <item>0xe237</item>
-        <item>0xe238</item>
-        <item>0xe239</item>
-        <item>0xe23b</item>
-        <item>0xe23a</item>
-        <item>0xe23d</item>
-        <item>0xe23c</item>
-        <item>0xe24d</item>
-        <item>0xe212</item>
-        <item>0xe24c</item>
-        <item>0xe213</item>
-        <item>0xe214</item>
-        <item>0xe507</item>
-        <item>0xe203</item>
-        <item>0xe20b</item>
-        <item>0xe22a</item>
-        <item>0xe22b</item>
-        <item>0xe226</item>
-        <item>0xe227</item>
-        <item>0xe22c</item>
-        <item>0xe22d</item>
-        <item>0xe215</item>
-        <item>0xe216</item>
-        <item>0xe217</item>
-        <item>0xe218</item>
-        <item>0xe228</item>
-        <item>0xe151</item>
-        <item>0xe13a</item>
-        <item>0xe208</item>
-        <item>0xe14f</item>
-        <item>0xe20a</item>
-        <item>0xe434</item>
-        <item>0xe309</item>
-        <item>0xe315</item>
-        <item>0xe30d</item>
-        <item>0xe207</item>
-        <item>0xe229</item>
-        <item>0xe206</item>
-        <item>0xe205</item>
-        <item>0xe204</item>
-        <item>0xe12e</item>
-        <item>0xe250</item>
-        <item>0xe251</item>
-        <item>0xe14a</item>
-        <item>0xe149</item>
-        <item>0xe23f</item>
-        <item>0xe240</item>
-        <item>0xe241</item>
-        <item>0xe242</item>
-        <item>0xe243</item>
-        <item>0xe244</item>
-        <item>0xe245</item>
-        <item>0xe246</item>
-        <item>0xe247</item>
-        <item>0xe248</item>
-        <item>0xe249</item>
-        <item>0xe24a</item>
-        <item>0xe24b</item>
-        <item>0xe23e</item>
-        <item>0xe532</item>
-        <item>0xe533</item>
-        <item>0xe534</item>
-        <item>0xe535</item>
-        <item>0xe21a</item>
-        <item>0xe219</item>
-        <item>0xe21b</item>
-        <item>0xe02f</item>
-        <item>0xe024</item>
-        <item>0xe025</item>
-        <item>0xe026</item>
-        <item>0xe027</item>
-        <item>0xe028</item>
-        <item>0xe029</item>
-        <item>0xe02a</item>
-        <item>0xe02b</item>
-        <item>0xe02c</item>
-        <item>0xe02d</item>
-        <item>0xe02e</item>
-        <item>0xe24e</item>
-        <item>0xe24f</item>
-        <item>0xe537</item>
-    </integer-array>
     <string-array name="smiley_v6_texts">
         <item>【smile】</item>
         <item>【crying】</item>
@@ -1769,10 +1470,6 @@
         <item>[生病]</item>
         <item>0xe058</item>
     </string-array>
-    <string-array name="sns_list">
-        <item>SINA_WEIBO</item>
-        <item>OPEN_QQ</item>
-    </string-array>
     <string-array name="supported_emails">
         <item>gmail.com</item>
         <item>hotmail.com</item>
@@ -1791,15 +1488,6 @@
         <item>Show to contacts</item>
         <item>Hide</item>
     </string-array>
-    <string-array name="vote_color_value">
-        <item>e36a6a</item>
-        <item>8397e6</item>
-        <item>90b939</item>
-        <item>c3a459</item>
-        <item>d083de</item>
-        <item>c7b93b</item>
-        <item>6fc1ca</item>
-    </string-array>
     <string-array name="wall_operations">
         <item>Report</item>
         <item>Block</item>
@@ -1815,13 +1503,5 @@
         <item>\#米聊2015#新增我的主题曲！打开好友名片就能听到Ta的主题曲，不用交流就能知道Ta的Bigger啦，快升级你的米聊，寻找你的小苹果吧。关注@米聊 以#米聊2015#为话题发微博，或者转发此微博参与话题活动，抢15个小米手环，150个F码 http://www.miliao.com</item>
         <item>\#米聊2015#新增附近场所！打开附近，设置好扫描条件，附近15-20岁的小鲜肉一下子全部都出来了呢，还有附近的饭店，KTV，宾馆……关注@米聊 以#米聊2015#为话题发微博，或者转发此微博参与话题活动，抢15个小米手环，150个F码 http://www.miliao.com</item>
         <item>\#米聊2015#新增表情商店！全新的表情，萌翻你，乐疯你，贱死你！彰显个（shen）性（jing）的时候到了，我先去下载几个表情包尝尝鲜！关注@米聊 以#米聊2015#为话题发微博，或者转发此微博参与话题活动，抢15个小米手环，150个F码 http://www.miliao.com</item>
-    </string-array>
-    <string-array name="who_can_send_me_choices">
-        <item>@string/sixin_private_all</item>
-        <item>@string/sixin_i_add</item>
-    </string-array>
-    <string-array name="who_can_send_me_values">
-        <item>4</item>
-        <item>2</item>
     </string-array>
 </resources>

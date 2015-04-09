@@ -181,7 +181,7 @@
 	<string name="block_whether_unblock_device">Remove device from blocklist?</string>
 	<string name="block_whether_unblock_device_x">Are you sure you want to remove %s from the blocklist?</string>
 	<string name="block_wifi_access">Blocking WiFi access...</string>
-	<string name="bootstrap_admin_password_hint">Please input password</string>
+	<string name="bootstrap_admin_password_hint">Input password</string>
 	<string name="bootstrap_admin_password_prompt">Administrator password</string>
 	<string name="bootstrap_admin_password_tip">Set the Mi routers management password (can be modified later)</string>
 	<string name="bootstrap_check_dhcp_tip">After detection, current network does not require dial up</string>
@@ -438,7 +438,7 @@
 	<string name="diskbackup_cancel">Cancel backup</string>
 	<string name="diskbackup_cancel_confirm_msg">Are you sure you want to cancel the current backup?</string>
 	<string name="diskbackup_cancel_error">Cancelling backup failed, please check network connection and try again</string>
-	<string name="diskbackup_check_config">Checking configuration information...</string>
+	<string name="diskbackup_check_config">Disk backup configuration</string>
 	<string name="diskbackup_choose_source">Select backup source</string>
 	<string name="diskbackup_choose_source_calculating">Calculating size...</string>
 	<string name="diskbackup_choose_source_sub_all">All files</string>
@@ -480,7 +480,7 @@
 	<string name="diskbackup_timer_start">Start time</string>
 	<string name="diskbackup_timer_time">Backup time</string>
 	<string name="diskbackup_title">Backup Mi router hard disk</string>
-	<string name="diskbackup_title_tips">Create scheduled backups to Mi router, keep important data safe and secure</string>
+	<string name="diskbackup_title_tips">Keep important data safe and secure</string>
 	<string name="download_accelerate_count">Downloads accelerated</string>
 	<string name="download_accelerate_month_count">Available months</string>
 	<string name="download_add_task_error">Failed to add task, please check network and try again</string>
@@ -754,9 +754,9 @@
 	<string name="guideview_block_wifi_hitchhiker_description1">When network speed becomes slow for no reason</string>
 	<string name="guideview_block_wifi_hitchhiker_description2">Block unwanted WiFi users from accessing network</string>
 	<string name="guideview_block_wifi_hitchhiker_title">Prevent unwanted network users</string>
-	<string name="guideview_download_description1">Find Movies or TV series</string>
-	<string name="guideview_download_description2">Download and keep on your hard drive</string>
-	<string name="guideview_download_title">Find great content and store on your hard drive</string>
+	<string name="guideview_download_description1">Movies or TV shows</string>
+	<string name="guideview_download_description2">Download and store on your hard drive</string>
+	<string name="guideview_download_title">Discover great content</string>
 	<string name="guideview_end_show">End demo</string>
 	<string name="guideview_share_router_description1">Share administrative privileges</string>
 	<string name="guideview_share_router_description2">Easy to share and have fun</string>
@@ -805,7 +805,7 @@
 	<string name="invitation_status_pending">Pending</string>
 	<string name="invitation_title">Share Mi router</string>
 	<string name="k_s">KB/s</string>
-	<string name="login_account_hint">Please input E-mail/Phone or Mi account id</string>
+	<string name="login_account_hint">Input E-mail/Phone or Mi ID</string>
 	<string name="login_account_login">Sign in</string>
 	<string name="login_account_password_title">Mi account sign in</string>
 	<string name="login_account_prompt">Account name</string>
@@ -828,16 +828,16 @@
 	<string name="login_new_user_register">Register</string>
 	<string name="login_passport_input_fail">Mi account username or password incorrect</string>
 	<string name="login_passport_login_fail">Mi account sign in failed!</string>
-	<string name="login_password_hint">Please input password</string>
+	<string name="login_password_hint">Input password</string>
 	<string name="login_password_prompt">Password</string>
 	<string name="login_register">Register</string>
 	<string name="login_switch_account">Switch account</string>
 	<string name="login_system_login">Direct sign in</string>
-	<string name="login_system_login_prompt_prefix">Using Mi account</string>
-	<string name="login_system_login_prompt_suffix">Sign in</string>
-	<string name="login_system_login_title">Found Mi account</string>
-	<string name="login_username_input_fail">Mi Account was not found or invalid</string>
-	<string name="login_waiting">Signing in</string>
+	<string name="login_system_login_prompt_prefix">"Using Mi ID "</string>
+	<string name="login_system_login_prompt_suffix">" Sign in"</string>
+	<string name="login_system_login_title">Mi account</string>
+	<string name="login_username_input_fail">Mi account was not found or invalid</string>
+	<string name="login_waiting">Signing in...</string>
 	<string name="m_s">MB/s</string>
 	<string name="main_add_router">Add Mi router</string>
 	<string name="main_auto_switch_after_accept_invitation">Invitation accepted, channel changed to %s automatically</string>
@@ -1083,7 +1083,7 @@
 	<string name="tool_mpk_updating">Updating plug-ins...</string>
 	<string name="tool_not_support_relay">Relay mode does not support this feature</string>
 	<string name="tool_not_support_share">Family member sharing does not support this feature</string>
-	<string name="tool_qos">QoS (Speed limit)</string>
+	<string name="tool_qos">QoS (Speed mode)</string>
 	<string name="tool_qos_description">Bandwidth automatically assigned to all devices depending on priority</string>
 	<string name="tool_router_reboot_timer">Reboot timer</string>
 	<string name="tool_router_reboot_timer_desc">Automatically power on Mi router when required</string>
@@ -1179,7 +1179,7 @@
 	<string name="udriver_please_insert_usb">Insert USB storage device</string>
 	<string name="udriver_upgrade_new_rom">Please update to the latest ROM</string>
 	<string name="udriver_upgrade_ok">Update successful</string>
-	<string name="udriver_usb_can_use_dot">Insert USB storage device to use plug-ins</string>
+	<string name="udriver_usb_can_use_dot">Install and manage plug-ins</string>
 	<string name="upgrade_check">Checking for updates...</string>
 	<string name="upgrade_click_to_check">Check for updates</string>
 	<string name="upgrade_has_update_title">Updated version</string>
@@ -1191,7 +1191,7 @@
 	<string name="user_experience_improve_joined_hint">Joining, please wait...</string>
 	<string name="user_experience_improve_license">"Mi Router User Experience Improvement Program
 	
-	Xiaomi Communication Technology Co Ltd (hereinafter referred to as the "Xiaomi" or "we") sincerely invite you to join the "Mi router User Experience Improvement Program". In order to better provide you with a new generation of intelligent devices. We will need to use your statistics collected from the mobile app, then through using this statistical data improve the Mi WiFi phone app and give a better user experience to everyone.
+	Xiaomi Communication Technology Co Ltd (hereinafter referred to as "Xiaomi" or "we") sincerely invite you to join the "Mi router User Experience Improvement Program". In order to better provide you with a new generation of intelligent devices. We will need to use your statistics collected from the mobile app, then through using this statistical data improve the Mi WiFi phone app and give a better user experience to everyone.
 	
 	Please be assured, we will keep all of your data private, statistics only include the frequency of using when using the Mi router app. Anonymous data is collected to improve Xiaomi products and services. SMS and Phone records are not collected.
 	

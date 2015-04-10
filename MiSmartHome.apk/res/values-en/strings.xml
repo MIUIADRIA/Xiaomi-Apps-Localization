@@ -1296,7 +1296,7 @@ Model: Button battery CR2032"</string>
 	You can set the type of aircon brand manually"</string>
   <string name="irv2_controller_study_hint_title">Press the center button of the remote control</string>
   <string name="irv2_controller_switch_advance">Advanced</string>
-  <string name="irv2_controller_switch_traditional"Traditional</string>
+  <string name="irv2_controller_switch_traditional">Traditional</string>
   <string name="irv2_controller_temp_text">Adjust temp</string>
   <string name="irv2_controller_touch_hint">"Slide up and down
 Click for 

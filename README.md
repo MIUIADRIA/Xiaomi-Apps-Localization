@@ -13,7 +13,7 @@ i18n project to localise Xiaomi (Mi) Android applications
 
 # Apps list (Original sources) 
 
-* Note: English translations on this repo are fully up to date and may be in some cases include better translations so please use the Git repo as your translation template.
+Note: English translations on this repo are fully up to date and may be in some cases include better translations so please use the Git repo as your translation template.
 
 - AntiFake_10301 - https://jd.mi.com/
 - CoolWallpaper_2.3.1 - http://app.mi.com/detail/41245
@@ -25,7 +25,7 @@ i18n project to localise Xiaomi (Mi) Android applications
 - MiRouter_1.0.60 - http://app.mi.com/detail/53711
 - MiScreenCast_1.1.9 - http://app.mi.com/detail/82348
 - MiSmallAnts_1.4.1 - http://app.mi.com/detail/75646
-- MiSmartHome_2.4.8 - http://app.mi.com/detail/75542
+- MiSmartHome_2.5.3 - http://app.mi.com/detail/75542
 - MiSportCamera_1.3 - http://app.mi.com/detail/87320
 - MiSoundBar_1.1.1 - http://app.mi.com/detail/64097
 - MiTag_2.0.4 - http://app.mi.com/detail/56946
@@ -33,7 +33,7 @@ i18n project to localise Xiaomi (Mi) Android applications
 - MiTransfer_1.0.131029 - http://app.mi.com/detail/64390
 - MiWifiPortable_1.1.755 - http://app.mi.com/detail/65299
 - SuperMarket_R.1.4.2 - http://app.mi.com/detail/34346
-- MiWifi_2.0.apk - http://bigota.miwifi.com/xiaoqiang/client/xqapp_preview.apk
+- Mi WiFi 2.0 2.0.23 - http://xiaomi.eu/MiWiFi_2.0.23.apk
 
 # Multilanguage app translation status
 

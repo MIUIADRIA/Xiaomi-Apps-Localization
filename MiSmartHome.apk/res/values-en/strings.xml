@@ -902,7 +902,7 @@
   <string name="device_shop_order_remain_count_fmt">%d left</string>
   <string name="device_shop_order_total_money">"Total amount: "</string>
   <string name="device_shop_order_trace_id">Tracking number</string>
-  <string name="device_shop_order_trace_info"Tracking information</string>
+  <string name="device_shop_order_trace_info">Tracking information</string>
   <string name="device_shop_pay_btn_name">Pay</string>
   <string name="device_shop_pay_failed_title">The system is busy, please try again later</string>
   <string name="device_shop_pay_selected_title">Select payment method</string>

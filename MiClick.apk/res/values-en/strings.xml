@@ -61,8 +61,6 @@
   <string name="category_0">App</string>
   <string name="category_1">System settings</string>
   <string name="category_2">Keys</string>
-  <string name="category_app">Application</string>
-  <string name="category_system_settings">System settings</string>
   <string name="chooser_dust_cap">Mi Key (dust plug mode)</string>
   <string name="clean_memory">Memory cleared</string>
   <string name="click_count_union">Times</string>
@@ -168,7 +166,6 @@ you cant using other functions of Mi Key when you using Mi Key..."</string>
   <string name="key_direction_right">Right</string>
   <string name="key_direction_up">Up</string>
   <string name="know_it">OK</string>
-  <string name="long_click">Long press</string>
   <string name="message_photo_end">Photo saved</string>
   <string name="mikey_sprite_toggle_title">Mi Key wizard</string>
   <string name="name">Name:</string>
@@ -249,24 +246,14 @@ From the top of the screen slide downwards to use"</string>
   <string name="setting_vibrate_desc">Phone will vibrate as notification the function was executed</string>
   <string name="setting_vibrate_text">Vibration response</string>
   <string name="settings">Settings</string>
-  <string name="short_click_1">1x</string>
-  <string name="short_click_10">10x</string>
-  <string name="short_click_2">2x</string>
-  <string name="short_click_3">3x</string>
-  <string name="short_click_4">4x</string>
-  <string name="short_click_5">5x</string>
-  <string name="short_click_6">6x</string>
-  <string name="short_click_7">7x</string>
-  <string name="short_click_8">8x</string>
-  <string name="short_click_9">9x</string>
   <string name="showSlip">Show in popup</string>
   <string name="silent_mode_tip_main">Silent mode activated</string>
   <string name="silent_mode_tip_sub"/>
   <string name="sms_sent_done">SMS sent</string>
   <string name="sms_template">Message text</string>
   <string name="sms_to">SMS</string>
-  <string name="splash_mikey_sprite">"可以拖动小白点儿到屏幕的任何地方
-点击米键就是点击小白点儿下的屏幕"</string>
+  <string name="splash_mikey_sprite">"Drag the white point to anywhere on the screen
+clicking using Mi Key is the same as clicking the screen area with white point"</string>
   <string name="splash_tip">Connect Mi Key</string>
   <string name="super_difficult_click">Click difficulty</string>
   <string name="tab_combo">Combo</string>
@@ -290,7 +277,8 @@ From the top of the screen slide downwards to use"</string>
   <string name="toggle_shake">Vibreate</string>
   <string name="toggle_sleep">Sleep</string>
   <string name="toggle_wifi">WiFi</string>
-  <string name="toolbox_outer_desc">Select plus or existing function</string>
+  <string name="toolbox_outer_desc">Select plus or 
+existing function</string>
   <string name="unsupport_content">Please upgrade to the latest official release of the "development version of MIUI" to use this feature</string>
   <string name="unsupport_title">This feature is not supported</string>
   <string name="update_message">Update!</string>

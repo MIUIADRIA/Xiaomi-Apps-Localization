@@ -11,21 +11,21 @@
 	5. Publiczna sieć WAN nie może się połączyć
 	6. Sieć bezprzewodowa 5G nie może się połączyć
 	"</string>
-  <string name="about_faq_link">(View FAQ)</string>
-  <string name="about_hight_light">Highlighted</string>
-  <string name="about_normal">Normal</string>
-  <string name="about_smarthome_bbs">Xiaomi Smart home forum</string>
-  <string name="about_test">Test environment</string>
-  <string name="account_login">Sign in</string>
-  <string name="action_settings">Settings</string>
-  <string name="add_back_device_error">"Can't add device"</string>
-  <string name="add_btn_text">Add</string>
-  <string name="add_device">Add device</string>
-  <string name="add_failed">Failed to add device, please try again</string>
-  <string name="add_family_member">Add family member</string>
-  <string name="add_family_success">Family member added successfully</string>
-  <string name="add_or_kick_device_failed">Something went wrong</string>
-  <string name="add_other_family">Add more family members</string>
+  <string name="about_faq_link">(Zobacz FAQ)</string>
+  <string name="about_hight_light">Uwydatnione</string>
+  <string name="about_normal">Zwykły</string>
+  <string name="about_smarthome_bbs">Forum Xiaomi Smart Home</string>
+  <string name="about_test">Środowisko testowe</string>
+  <string name="account_login">Zaloguj się</string>
+  <string name="action_settings">Ustawienia</string>
+  <string name="add_back_device_error">"Nie można dodać urządzenia"</string>
+  <string name="add_btn_text">Dodaj</string>
+  <string name="add_device">Dodaj urządzenie</string>
+  <string name="add_failed">Błąd przy dodawaniu urządzenia, spróbuj ponownie</string>
+  <string name="add_family_member">Dodaj członka rodziny</string>
+  <string name="add_family_success">Członek rodziny został poprawnie dodany</string>
+  <string name="add_or_kick_device_failed">Coś poszło nie tak</string>
+  <string name="add_other_family">Dodaj więcej członków rodziny</string>
   <string name="add_scene">Add scene</string>
   <string name="air_error_page_text">When phone is connected to air purifier for the first time or cant connect, please press "mode" and "light" button for 5 secs then reset WiFi</string>
   <string name="air_pufifier_outdoor_city">City</string>

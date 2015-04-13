@@ -15,7 +15,7 @@
 	<string name="abc_searchview_description_voice">Voice search</string>
 	<string name="abc_shareactionprovider_share_with">Share with</string>
 	<string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-	<string name="about_change_name_hint">Please input content</string>
+	<string name="about_change_name_hint">Mi router name</string>
 	<string name="about_change_router_location">Change Mi router location</string>
 	<string name="about_change_router_name">Change Mi router name</string>
 	<string name="about_load_fail">Failed to load Mi router information!</string>
@@ -422,7 +422,7 @@
 	<string name="common_select_n">Selected %d items</string>
 	<string name="common_select_none">Clear all</string>
 	<string name="common_times">%1$s times</string>
-	<string name="content_description">Please input your e-mail address so we can contact you about your feedback</string>
+	<string name="content_description">Input your e-mail address</string>
 	<string name="cube_ptr_hours_ago">" hours ago"</string>
 	<string name="cube_ptr_last_update">"last update: "</string>
 	<string name="cube_ptr_minutes_ago">" minutes ago"</string>
@@ -433,10 +433,10 @@
 	<string name="cube_ptr_release_to_refresh">Release to refresh</string>
 	<string name="cube_ptr_seconds_ago">" seconds ago"</string>
 	<string name="diskbackup_backuping_complete">Successfully backed up to "%s"</string>
-	<string name="diskbackup_backuping_info">Left to backup %1$s (%2$d%%)</string>
+	<string name="diskbackup_backuping_info">%1$s (%2$d%%) remaining</string>
 	<string name="diskbackup_backupstart_error">Opening hard disk backup failed, please check the network and try again</string>
 	<string name="diskbackup_cancel">Cancel backup</string>
-	<string name="diskbackup_cancel_confirm_msg">Are you sure you want to cancel the current backup?</string>
+	<string name="diskbackup_cancel_confirm_msg">Are you sure you want to cancel current backup?</string>
 	<string name="diskbackup_cancel_error">Cancelling backup failed, please check network connection and try again</string>
 	<string name="diskbackup_check_config">Disk backup configuration</string>
 	<string name="diskbackup_choose_source">Select backup source</string>
@@ -485,7 +485,7 @@
 	<string name="download_accelerate_month_count">Available months</string>
 	<string name="download_add_task_error">Failed to add task, please check network and try again</string>
 	<string name="download_bar_code">Scan QR code to add download link</string>
-	<string name="download_become_vip">VIP member</string>
+	<string name="download_become_vip">Sign up for Xunlei</string>
 	<string name="download_bind_account">Xunlei</string>
 	<string name="download_complete_empty_message">No files downloaded</string>
 	<string name="download_create_download_link">Create download link</string>
@@ -588,8 +588,8 @@
 	<string name="file_btn_import">Import</string>
 	<string name="file_category_empty">Directory is empty</string>
 	<string name="file_create_time">Created: %s</string>
-	<string name="file_date_full_format">%1$s year %2$s month %3$s day</string>
-	<string name="file_date_short_format">%1$s month %2$s day</string>
+        <string name="file_date_full_format">%3$s/%2$s/%1$s</string>
+        <string name="file_date_short_format">%2$s/%1$s</string>
 	<string name="file_date_today_format">Today</string>
 	<string name="file_date_yestoday_format">Yesterday</string>
 	<string name="file_delete_confirm_message">Are you sure you want to delete the selected file?</string>
@@ -618,7 +618,7 @@
 	<string name="file_file_download_select_save_directory">Select download folder</string>
 	<string name="file_folder_children">%s items</string>
 	<string name="file_image_empty">Empty folder</string>
-	<string name="file_image_explorer_save_progress">Saving  %s%%</string>
+	<string name="file_image_explorer_save_progress">Saving %s%%</string>
 	<string name="file_image_menu_original">View original</string>
 	<string name="file_import_progress_message">Importing to Mi router, remaining file size %s</string>
 	<string name="file_list_header_return">Back</string>
@@ -651,8 +651,7 @@
 	<string name="file_menu_upload_to_router">Upload to Mi router</string>
 	<string name="file_mobile_backup_desc">Backup phone photos to Mi router</string>
 	<string name="file_movie_collection_count">%s total</string>
-	<string name="file_movie_empty">"No movies found,
-	search online to find new movies"</string>
+	<string name="file_movie_empty">No movies</string>
 	<string name="file_need_miwifi_description1">Remote viewing is not supported</string>
 	<string name="file_need_miwifi_description2">Connect to Mi router in order to view file</string>
 	<string name="file_no_disk_checked">No storage disk found on Mi router</string>
@@ -701,7 +700,7 @@
 	<string name="file_transfer_bar_state">Currently %s files:</string>
 	<string name="file_transfer_clear_record">Clear history</string>
 	<string name="file_transfer_copy">Copy</string>
-	<string name="file_transfer_copy_label">Copy file to [%s]</string>
+	<string name="file_transfer_copy_label">Copy file to %s</string>
 	<string name="file_transfer_download">Download</string>
 	<string name="file_transfer_menu_delete_with_file">Delete files</string>
 	<string name="file_transfer_message_add_success">Added new tasks successfully</string>
@@ -741,7 +740,7 @@
 	<string name="file_usb_import_message_video">%d new videos</string>
 	<string name="file_usb_import_success">New files successfully imported to Mi router</string>
 	<string name="file_video_empty">No videos</string>
-	<string name="file_volume_internal">Mi router storage</string>
+	<string name="file_volume_internal">Internal storage</string>
 	<string name="file_volume_local_external">SD card</string>
 	<string name="file_volume_local_internal">Internal memory</string>
 	<string name="file_volume_privace">Private storage</string>
@@ -1211,7 +1210,7 @@
 	
 	Xiaomi Corporation, Beijing, China. Last updated: October 2014
 	"</string>
-	<string name="user_experience_improve_not_agree">Decline"</string>
+	<string name="user_experience_improve_not_agree">Decline</string>
 	<string name="user_experience_improve_plan">User Experience Program</string>
 	<string name="user_experience_improve_plan_details_title">View details</string>
 	<string name="user_experience_improve_quit">Leave</string>
@@ -1220,5 +1219,5 @@
 	<string name="xunlei_kankan_authorize_error">Authorization failed, check the network and try again</string>
 	<string name="xunlei_kankan_authorize_loading">Authorizing, please wait...</string>
 	<string name="xunlei_kankan_authorize_title">Xunlei authorisation</string>
-	<string name="xunlei_kankan_not_install">Failed to play, to play xvx format please install Xunlei player</string>
+	<string name="xunlei_kankan_not_install">Failed to play video, please install Xunlei player</string>
 </resources>

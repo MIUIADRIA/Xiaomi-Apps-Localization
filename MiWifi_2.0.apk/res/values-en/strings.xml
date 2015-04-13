@@ -421,17 +421,17 @@
 	<string name="common_select_all">Select all</string>
 	<string name="common_select_n">Selected %d items</string>
 	<string name="common_select_none">Clear all</string>
-	<string name="common_times">%1$s次</string>
+	<string name="common_times">%1$s times</string>
 	<string name="content_description">Please input your e-mail address so we can contact you about your feedback</string>
-	<string name="cube_ptr_hours_ago">" hours ago"</string>
-	<string name="cube_ptr_last_update">"last update: "</string>
-	<string name="cube_ptr_minutes_ago">" minutes ago"</string>
+	<string name="cube_ptr_hours_ago">" hours ago"</string>
+	<string name="cube_ptr_last_update">"last update: "</string>
+	<string name="cube_ptr_minutes_ago">" minutes ago"</string>
 	<string name="cube_ptr_pull_down">Pull down</string>
 	<string name="cube_ptr_pull_down_to_refresh">Pull down to refresh</string>
 	<string name="cube_ptr_refresh_complete">Updated.</string>
 	<string name="cube_ptr_refreshing">Updating...</string>
 	<string name="cube_ptr_release_to_refresh">Release to refresh</string>
-	<string name="cube_ptr_seconds_ago">" seconds ago"</string>
+	<string name="cube_ptr_seconds_ago">" seconds ago"</string>
 	<string name="diskbackup_backuping_complete">Successfully backed up to "%s"</string>
 	<string name="diskbackup_backuping_info">Left to backup %1$s (%2$d%%)</string>
 	<string name="diskbackup_backupstart_error">Opening hard disk backup failed, please check the network and try again</string>
@@ -808,7 +808,7 @@
 	<string name="login_account_hint">Input E-mail/Phone or Mi ID</string>
 	<string name="login_account_login">Sign in</string>
 	<string name="login_account_password_title">Mi account sign in</string>
-	<string name="login_account_prompt">Account name</string>
+	<string name="login_account_prompt">Account</string>
 	<string name="login_auto_bind_failed">Automatic pairing failed!</string>
 	<string name="login_auto_bind_waiting">Waiting to pair automatically</string>
 	<string name="login_bootstrap">Setup new Mi router</string>
@@ -818,7 +818,7 @@
 	<string name="login_declaration_content_and">" and "</string>
 	<string name="login_declaration_content_privacy_protocol">"Privacy agreement"</string>
 	<string name="login_declaration_content_user_protocol">"User agreement"</string>
-	<string name="login_declaration_prefix">"By signing in you agree to abide by Mi routers "</string>
+	<string name="login_declaration_prefix">"By signing in you agree to the "</string>
 	<string name="login_dynamic_token_fail">Dynamic token failed</string>
 	<string name="login_dynamic_token_hint">Please input the 6 digit dynamic token</string>
 	<string name="login_dynamic_token_title">Dynamic password login</string>
@@ -1179,7 +1179,7 @@
 	<string name="udriver_please_insert_usb">Insert USB storage device</string>
 	<string name="udriver_upgrade_new_rom">Please update to the latest ROM</string>
 	<string name="udriver_upgrade_ok">Update successful</string>
-	<string name="udriver_usb_can_use_dot">Install and manage plug-ins</string>
+	<string name="udriver_usb_can_use_dot">To manage and install plug-ins</string>
 	<string name="upgrade_check">Checking for updates...</string>
 	<string name="upgrade_click_to_check">Check for updates</string>
 	<string name="upgrade_has_update_title">Updated version</string>
@@ -1187,9 +1187,9 @@
 	<string name="upgrade_update">Update</string>
 	<string name="uploading_log_error">Failed to upload log, please try again</string>
 	<string name="user_experience_improve_agree">Agree</string>
-	<string name="user_experience_improve_join">Joined User Experience Program</string>
-	<string name="user_experience_improve_joined_hint">You are part of the </string>
-	<string name="user_experience_improve_license">"Mi Router User Experience Program
+	<string name="user_experience_improve_join">Join</string>
+	<string name="user_experience_improve_joined_hint">You are taking part in the User Experience Program</string>
+	<string name="user_experience_improve_license">"User Experience Program
 	
 	Xiaomi Communication Technology Co Ltd (hereinafter referred to as "Xiaomi" or "we") sincerely invite you to join the "Mi router User Experience Improvement Program". In order to better provide you with a new generation of intelligent devices. We will need to use your statistics collected from the mobile app, then through using this statistical data improve the Mi WiFi phone app and give a better user experience to everyone.
 	
@@ -1215,7 +1215,7 @@
 	<string name="user_experience_improve_plan">User Experience Program</string>
 	<string name="user_experience_improve_plan_details_title">View details</string>
 	<string name="user_experience_improve_quit">Leave</string>
-	<string name="user_experience_improve_short_desc">Join the User Experience Program to help us improve our products. [View details]</string>
+	<string name="user_experience_improve_short_desc">Join the User Experience Program to help improve our products. [View details]</string>
 	<string name="videos_group_name_x_num_x">%1$s | %2$d months</string>
 	<string name="xunlei_kankan_authorize_error">Authorization failed, check the network and try again</string>
 	<string name="xunlei_kankan_authorize_loading">Authorizing, please wait...</string>

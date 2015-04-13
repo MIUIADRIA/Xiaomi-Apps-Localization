@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weekday">
+        <item>Poniedziałek</item>
+        <item>Wtorek</item>
+        <item>Środa</item>
+        <item>Czwartek</item>
+        <item>Piątek</item>
+        <item>Sobota</item>
+        <item>Niedziela</item>
+    </string-array>
+    <string-array name="weekday_short">
+        <item>Pn.</item>
+        <item>Wt.</item>
+        <item>Śr.</item>
+        <item>Czw.</item>
+        <item>Pt.</item>
+        <item>Sob.</item>
+        <item>Niedz.</item>
+    </string-array>
+    <string-array name="family_memeber_names">
+        <item>Najbliżsi</item>
+        <item>Ojciec</item>
+        <item>Matka</item>
+        <item>Syn</item>
+        <item>Córka</item>
+        <item>Współmałżonek</item>
+        <item>Pozostali</item>
+    </string-array>
+    <string-array name="device_shop_detail_webview_title">
+        <item>Funkcje</item>
+        <item>Specyfikacja techniczna</item>
+        <item>Koszyk</item>
+    </string-array>
+</resources>

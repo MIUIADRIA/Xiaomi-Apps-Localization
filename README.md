@@ -1,7 +1,7 @@
 # Open Mi App Project
 i18n project to localise Xiaomi (Mi) Android applications
 
-- Xiaomi, based in Beijing, China has a wide range of products to its name, including MIUI, Smart Home products; Yi Camera, Mi Band and many other cool tech gadgets. Besides the hardware Xiaomi also have MIUI, an Android based custom ROM which has been in development now for over almost 5 years (August 2015). As a result of a fusion of Hardware and Software Xiaomi have developed many new applications to control our way of life, as such there is a need to translate these apps into as many languages for users round the word to benefit from and enjoy the experience in their native language.
+Xiaomi, based in Beijing, China has a wide range of products to its name, including MIUI, Smart Home products; Yi Camera, Mi Band and many other cool tech gadgets. Besides the hardware Xiaomi also have MIUI, an Android based custom ROM which has been in development now for over almost 5 years (August 2015). As a result of a fusion of Hardware and Software Xiaomi have developed many new applications to control our way of life, as such there is a need to translate these apps into as many languages for users round the word to benefit from and enjoy the experience in their native language.
 
 # About the Project...
 - The scope of this project is to fully localise Xiaomi android apps into as many languages as possible. With the help of voluntary community contributions
@@ -20,7 +20,7 @@ Note: English translations on this repo are fully up to date and may be in some 
 - MiAuthenticator_2.27 - http://app.mi.com/detail/62091
 - MiClick_3.0.1 - http://app.mi.com/detail/59090
 - MiFit_1.4.152 - http://app.mi.com/detail/68548
-- MiHealth_1.3.3 - http://app.mi.com/detail/73250
+- iHealth_1.3.3 - http://app.mi.com/detail/73250
 - MiRemote_4.3 - http://app.mi.com/detail/31067
 - MiRouter_1.0.60 - http://app.mi.com/detail/53711
 - MiScreenCast_1.1.9 - http://app.mi.com/detail/82348
@@ -33,7 +33,7 @@ Note: English translations on this repo are fully up to date and may be in some 
 - MiTransfer_1.0.131029 - http://app.mi.com/detail/64390
 - MiWifiPortable_1.1.755 - http://app.mi.com/detail/65299
 - SuperMarket_R.1.4.2 - http://app.mi.com/detail/34346
-- Mi WiFi 2.0 2.0.23 - http://xiaomi.eu/MiWiFi_2.0.23.apk
+- Mi WiFi 2.0 2.0.24 - http://xiaomi.eu/MiWiFi_2.0.23.apk
 
 # Multilanguage app translation status
 
@@ -67,15 +67,13 @@ Note: English translations on this repo are fully up to date and may be in some 
 - Romanian (gtiu)
 - Indonesian (kennyanthony)
 - India / Hindi (fksgs2)
-- .......... More To Come ..........
-
 
 # Other credits
 
 - Xiaomi : http://www.xiaomi.com
 - Xiaomi Unofficial Multilang Project & Support: http://xiaomi.eu
 - MIUI International Community : http://en.miui.com/forum
-- MarkH (original Smali hacker and English MIUI translator 2010 to 2015)
+- MarkH (original MIUI Smali hacker and English MIUI translator 2010 to 2015)
 - BalcanGSM & MIUI Adria Group : http://adria.mobiledevs.net
 - MGS (MIUI Geeks Squad) Team : mgs.devs@gmail.com
 - Andrei Zhukouski AKA BurgerZ : http://burgerz.pro

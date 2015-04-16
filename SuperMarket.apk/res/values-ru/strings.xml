@@ -381,9 +381,9 @@
     <string name="my_favorites">Избранные</string>
     <string name="download_history">История</string>
     <string name="settings">Настройки</string>
-    <string name="user_agreement_content1">Используя этот продукт, Вы соглашаетесь с</string>
+    <string name="user_agreement_content1">"Используя этот продукт, Вы соглашаетесь с "</string>
     <string name="user_agreement_content2">пользовательским соглашением</string>
-    <string name="user_agreement_content3">и</string>
+    <string name="user_agreement_content3">" и "</string>
     <string name="user_agreement_content4">политикой конфиденциальности</string>
     <string name="user_agreement_content5">.</string>
     <string name="user_agreement_title">Условия использования</string>

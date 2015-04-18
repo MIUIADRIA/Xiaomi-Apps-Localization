@@ -31,7 +31,7 @@
   <string name="action_type_error">Vrsta pogreške</string>
   <string name="action_walk">Šetnja</string>
   <string name="add_family_member">Dodaj korisnika</string>
-  <string name="add_than_last_time">"Povećano
+  <string name="add_than_last_time">"Dodano
 za %1$s od zadnjeg vaganja"</string>
   <string name="add_weight_fail_with_value">Još uvijek trebate dobiti %1$s više težine</string>
   <string name="add_weight_succ">Težina uspješno dodana</string>
@@ -185,6 +185,7 @@ niz"</string>
   <string name="continue_reach_goal_new_record">Postignut novi rekord</string>
   <string name="continue_tips_format">Najdulje: %1$s dana.</string>
   <string name="contour_track_failed_to_create">Ne mogu podijeliti, provjerite preostali prostor za pohranu.</string>
+  <string name="current_weight">Trenutna težina</string>
   <string name="daily_consume">Konzumirano danas(Cal)</string>
   <string name="daily_sport_report">Dnevni sportski rezultat</string>
   <string name="daily_sport_report_contintue_info">"%1$s preostalo ljenih dana,
@@ -287,6 +288,7 @@ je jednaka prethodnoj težini"</string>
   <string name="error_code">Pogreška</string>
   <string name="everyday">Svaki dan</string>
   <string name="exceed_user">Ograničenje korisnika premašeno</string>
+  <string name="exceed_user_percentage">Premašeno od %1$s korisnika</string>
   <string name="exit_app">Izlaz</string>
   <string name="exit_app_continue">Nastavi</string>
   <string name="exit_app_tips">Vaš trenutni Mi Band će biti neuparen.</string>
@@ -673,6 +675,7 @@ Nastavite tako!"</string>
   <string name="one_min">1 minutu ranije</string>
   <string name="one_week">Ovaj tjedan </string>
   <string name="orange">Narančasta</string>
+  <string name="over_the_max_user_count">Najviše 16 članova obitelji.</string>
   <string name="pairing">Uparivanje ...</string>
   <string name="parse_data_failed">Nije uspjela analiza podataka</string>
   <string name="percent_mark">%</string>
@@ -736,7 +739,7 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="select_from_camera">Kamera</string>
   <string name="select_from_local">Odaberite iz Galerije</string>
   <string name="select_image">Promijeni sliku profila</string>
-  <string name="sensor_hub_tip">"Korak broj je pohranjen lokalno
+  <string name="sensor_hub_tip">"Broj koraka je pohranjen lokalno
 na ovom uređaju, i neće biti
 učitan na poslužitelj."</string>
   <string name="service_call_notice">24-satna usluga</string>
@@ -794,6 +797,7 @@ učitan na poslužitelj."</string>
   <string name="share_miliao_too_old">"MiTalk verzija koju koristite je prestara."</string>
   <string name="share_pengyouquan_label">Trenuci</string>
   <string name="share_play_ground_format">" ili oko %1$s krugova oko igrališta."</string>
+  <string name="share_prepare_tips">Priprema podataka za dijeljenje...</string>
   <string name="share_qq_label">QQ</string>
   <string name="share_qq_zone_label">QZone</string>
   <string name="share_sleep_description">"Dubok san: %1$ss %2$sm | Lagan san: %3$ss %4$sm.
@@ -823,8 +827,9 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="share_step_ranking">Pobijedili ste &lt;b&gt;%s&lt;/b&gt; korisnika.</string>
   <string name="share_step_walk">" "</string>
   <string name="share_to_content">Podijelite svoj napredak</string>
-  <string name="share_to_content_sleep">Detalji mog spavanja</string>
-  <string name="share_to_content_step">Detalji mog fitnessa</string>
+  <string name="share_to_content_sleep">Podaci mog spavanja</string>
+  <string name="share_to_content_step">Podaci mog fitnessa</string>
+  <string name="share_to_content_weight">Podaci moje težine</string>
   <string name="share_to_miliao_path">Dijeli sa</string>
   <string name="share_to_miliao_target_feeds">Grupe</string>
   <string name="share_to_miliao_target_friends">Prijatelji</string>
@@ -834,6 +839,7 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="share_to_title">Mi Band</string>
   <string name="share_to_topic">\#Mi Band</string>
   <string name="share_to_watermark">My watermark photo</string>
+  <string name="share_twitter_label">Twitter</string>
   <string name="share_uninstall_client">"Ova aplikacija nije instalirana."</string>
   <string name="share_weibo_label">Weibo</string>
   <string name="share_weixin_label">WeChat</string>
@@ -984,6 +990,7 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="step2">Korak 2) </string>
   <string name="step_per_day"> koraka/dan</string>
   <string name="stop">Kraj</string>
+  <string name="stop_on_bed_time">Vrijeme buđenja</string>
   <string name="sure_to_delete_weight">Sigurno želite izbrisati zapise vaganja?</string>
   <string name="sync_to_server">Sink…</string>
   <string name="system_low_info">Ažurirajte vaš uređaj na Android 4.4 verziju i višu za podršku Mi Banda.</string>
@@ -1042,7 +1049,7 @@ Držite MiBand i telefon udaljenim najmanje 5m."</string>
   <string name="unit_british">Engleski</string>
   <string name="unit_british_detail">Engleski (inča, milja)</string>
   <string name="unit_calorie">kal</string>
-  <string name="unit_foot">Stopa</string>
+  <string name="unit_foot">" Stopa"</string>
   <string name="unit_hour">s</string>
   <string name="unit_inch">inch</string>
   <string name="unit_kilometer">km</string>
@@ -1127,8 +1134,10 @@ Držite MiBand i telefon udaljenim najmanje 5m."</string>
 (km)"</string>
   <string name="week_total_distance_miles">"Ukupno tjedno 
 (milja)"</string>
+  <string name="weibosdk_toast_auth_canceled">Poništavanje autorizacije</string>
   <string name="weibosdk_toast_auth_canceled_f">Greška poništavanja autorizacije</string>
-  <string name="weibosdk_toast_unbind_failed">Nemogu prekinuti vezu</string>
+  <string name="weibosdk_toast_auth_failed">Uparivanje nije uspjelo</string>
+  <string name="weibosdk_toast_unbind_failed">Ne mogu prekinuti vezu</string>
   <string name="weight_bmi_tips">BMI %1$s %2$s</string>
   <string name="weight_connect_failed_title">Povezivanje s Mi Vagom nije uspjelo.</string>
   <string name="weight_delete_confirm_msg">%s ovaj unos</string>
@@ -1181,7 +1190,7 @@ Držite MiBand i telefon udaljenim najmanje 5m."</string>
   <string name="weight_tip_fat_name">Izgled može varati</string>
   <string name="weight_unbind_question">"Vaš Mi Band neće moći snimiti podatke vaše težine."</string>
   <string name="weight_unbinded">Raspari vagu</string>
-  <string name="weight_unit_british">British(Pounds)</string>
+  <string name="weight_unit_british">British (Pounds)</string>
   <string name="weight_unit_metric">Metrički (kilogrami, kg)</string>
   <string name="weight_unit_shijin">Pola kilograma (1/2 kg = 500 grama)</string>
   <string name="weight_unit_text_info">Vage su uparene, koristiti će se jedinica težine podešena na vagi. Otvorite poklopac pretinca za baterije na stražnjoj ploči za resetiranje ili podesite jedinicu težine.</string>

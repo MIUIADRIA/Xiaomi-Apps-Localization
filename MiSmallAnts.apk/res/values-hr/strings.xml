@@ -101,6 +101,7 @@
   <string name="camera_initing">Pokretanje kamere...</string>
   <string name="camera_is_in_connecting">Povezivanje na kameru...</string>
   <string name="camera_name">Naziv kamere</string>
+  <string name="camera_name_cant_be_null">Polje naziva ne može biti prazno!</string>
   <string name="camera_name_config">Naziv kamere</string>
   <string name="camera_no">ID Kamere:</string>
   <string name="camera_not_found">Kamera nije pronađena, molimo pokušajte ponovo!</string>
@@ -389,6 +390,7 @@ Provjerite mrežnu vezu i pokušajte ponovno"</string>
   <string name="pinterest_client_inavailable">Pinterest nije instaliran ili je potrebno ažuriranje</string>
   <string name="please_choose">Odaberite</string>
   <string name="please_confirm_password_is_right">Savjet: Pazite da je zaporka ispravna</string>
+  <string name="please_input_device_password">Unesite zaporku</string>
   <string name="please_input_location">Unesite lokaciju!</string>
   <string name="please_input_username_and_password">Unesite korisničko ime i zaporku</string>
   <string name="please_insert_sdcard">Umetnite SD karticu</string>
@@ -435,7 +437,8 @@ Otpustite nakon čekanja da svjetlo promijeni boju u narančastu"</string>
   <string name="room">Soba</string>
   <string name="run_score">Pokreni rezultat</string>
   <string name="save">Spremi</string>
-  <string name="scan_the_qr_code">"Skenirajte QR kod stražnjom stranom kamere"</string>
+  <string name="scan_the_qr_code">"Skenirajte QR kod 
+stražnjom stranom kamere"</string>
   <string name="sdcard_free_size">Dostupan prostor za pohranu</string>
   <string name="sdcard_not_mounted">SD kartica nije umetnuta!</string>
   <string name="sdcard_state">SD kartica</string>
@@ -489,6 +492,7 @@ Otpustite nakon čekanja da svjetlo promijeni boju u narančastu"</string>
   <string name="software_describe">Android je moćan operativni sustav za mobilni telefon. On pruža sveobuhvatan set funkcija, uključujući upravljanje datotekama, sinkronizaciju računa i kontakata i još mnogo mogućnosti.</string>
   <string name="sohumicroblog">Sohu Weibo</string>
   <string name="sohusuishenkan">Sohu carry-on watch</string>
+  <string name="splash_skip">Preskoči >></string>
   <string name="start_speaking_too_frequently">Govorite sporije, ne možemo obraditi!</string>
   <string name="start_upload">Započni učitavanje</string>
   <string name="start_upload_share">Započni učitavanje</string>
@@ -731,21 +735,21 @@ Molimo vas da se uvjerite da ne podijelite video sadržaj bez povrede nečije pr
   <string name="winexperience_shouldupdate_info_downloading">Preuzimanje, pričekajte...</string>
   <string name="winexperience_shouldupdate_info_needupdate">Nova verzija dostupna za preuzimanje</string>
   <string name="winexperience_shouldupdate_info_ok">Već koristite najnoviju verziju!</string>
-  <string name="winexperience_shouldupdate_info_tf_formating">Formatiranje TF kartice, can\'t update, try again?</string>
+  <string name="winexperience_shouldupdate_info_tf_formating">Formatiranje SD kartice, ne mogu ažurirati, pokušati ponovo?</string>
   <string name="winexperience_shouldupdate_info_update">Ažuriram, pričekajte...</string>
   <string name="winexperience_shouldupdate_title">SmallAnts provjera ažuriranja</string>
   <string name="winexperience_tfcardstate_format_wait">Formatiranje, pričekajte ponovno pokretanje kamere</string>
-  <string name="winexperience_tfcardstate_info_formatunuse">Molimo koristite drugu TF karticu</string>
-  <string name="winexperience_tfcardstate_info_lower">TF veličina je premalena</string>
-  <string name="winexperience_tfcardstate_info_lowerspeed">TF kartica je prespora, želite li je formatirati?</string>
-  <string name="winexperience_tfcardstate_info_needformat">Pogreška TF kartice, želite li je formatirati?</string>
-  <string name="winexperience_tfcardstate_info_total_0">Nema TF kartice, ne mogu vidjeti povijest videozapisa</string>
-  <string name="winexperience_tfcardstate_info_total_0_dlg">Nema TF kartice</string>
+  <string name="winexperience_tfcardstate_info_formatunuse">Molimo koristite drugu SD karticu</string>
+  <string name="winexperience_tfcardstate_info_lower">Veličina SD kartice je premalena</string>
+  <string name="winexperience_tfcardstate_info_lowerspeed">SD kartica je prespora, želite li je formatirati?</string>
+  <string name="winexperience_tfcardstate_info_needformat">Pogreška SD kartice, želite li je formatirati?</string>
+  <string name="winexperience_tfcardstate_info_total_0">"Nema SD kartice, ne mogu vidjeti povijest videozapisa"</string>
+  <string name="winexperience_tfcardstate_info_total_0_dlg">Nema SD kartice</string>
   <string name="winexperience_tfcardstate_info_total_16g">16GB</string>
   <string name="winexperience_tfcardstate_info_total_32g">32G B</string>
   <string name="winexperience_tfcardstate_info_total_4g">4G B</string>
   <string name="winexperience_tfcardstate_info_total_8g">8G B</string>
-  <string name="winexperience_tfcardstate_title">Status TF kartice</string>
+  <string name="winexperience_tfcardstate_title">Status SD kartice</string>
   <string name="winexperience_waiting_check">Čekanje...</string>
   <string name="work_day">Dani</string>
   <string name="wrong_wifi_ssid_msg">Small Ants camera podržava samo engleske nazive s brojevima za WiFi naziv</string>

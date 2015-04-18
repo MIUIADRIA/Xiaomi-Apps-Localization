@@ -539,4 +539,14 @@ inkrementalna veličina ažuriranja: %2$s"</string>
   <string name="yixin_client_inavailable">Yixin klijent ne postoji ili je verzija prestara</string>
   <string name="yixinmoments">Yixin Trenuci</string>
   <string name="youdao">Youdao</string>
+  <string name="check_failed">Provjera nije uspjela, provjerite mrežnu vezu</string>
+  <string name="connect_camera_first">Informacije verije Firmware kamere nisu pronađene, priključite kameru</string>
+  <string name="firmware_update_info">Firmware verzija</string>
+  <string name="firmware_version_synchronize_complete">Firmware sinkronizacija završena, najnovija verzija:</string>
+  <string name="get_latest_firmeware_info">Dobivanje informacija o verziji firmware ...</string>
+  <string name="latest_firmware_downloaded">Novi firmware preuzet, ponovno priključite kameru nakon ažuriranja</string>
+  <string name="set_auto">Auto</string>
+  <string name="setting_check_firmware">Provjeri ažuriranje FirmWare</string>
+  <string name="setting_emergency_file_backup">Hitna Sig. kopija</string>
+  <string name="setting_video_rotate">Video rotacija</string>
 </resources>

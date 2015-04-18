@@ -138,8 +138,8 @@
      <string name="bracelet_not_connected_bat_unknown">Браслет не подключен</string>
      <string name="bracelet_not_found_info">Попробуйте выполнить поиск еще раз, когда индикаторы замигают</string>
      <string name="bracelet_not_found_title">Подключите к зарядке</string>
-     <string name="bracelet_notify_text">Зарядите браслет :)</string>
-     <string name="bracelet_notify_title">Браслет разряжен</string>
+     <string name="bracelet_notify_text">Не забудьте надеть браслет :)</string>
+     <string name="bracelet_notify_title">Батарея заряжена</string>
      <string name="bracelet_store_desc">Магазин</string>
      <string name="bt_operation_failed_tips">Bluetooth не работает должным образом. Повторите позже.</string>
      <string name="btn_confirm">Да</string>
@@ -1133,9 +1133,10 @@
      <string name="week_total_distance">Дистанция за неделю (км)</string>
      <string name="week_total_distance_miles">"За неделю 
 (миль)"</string>
-     <string name="weibosdk_toast_auth_canceled">Отмена, подождите</string>
+	 <string name="weibosdk_toast_auth_canceled">Отмена, подождите</string>
      <string name="weibosdk_toast_auth_canceled_f">Отмена не удалась</string>
      <string name="weibosdk_toast_auth_failed">Сопряжение не удалось</string>
+	 <string name="weibosdk_toast_binded">Текущий аккаунт уже привязан</string>
      <string name="weibosdk_toast_unbind_failed">Не удалось отвязать</string>
      <string name="weight_bmi_tips">ИМТ %1$s %2$s</string>
      <string name="weight_connect_failed_title">Не удалось подключиться к весам</string>

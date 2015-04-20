@@ -1,0 +1,111 @@
+{
+    "0": {
+        name: "Режим по умолчанию",
+        desc: "Подходит для повседневного использования или новичкам",
+        speed: 500,
+        actions: {
+            "1": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.ToolboxAction",
+                        subActions: [
+                            {
+                                name: "com.xiaomi.miclick.core.action.TorchAction"
+                            },
+                            {
+                                name: "com.xiaomi.miclick.core.action.AudioRecorderAction"
+                            },
+                            {
+                                name: "com.xiaomi.miclick.core.action.CapturePhotoInstantAction"
+                            },
+                            {
+                                name: "com.xiaomi.miclick.core.action.EmptyAction"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "2": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.WallpaperAction"
+                    }
+                ]
+            },
+            "3": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.ScreenShotAction"
+                    },
+                    {
+                        name: "com.xiaomi.miclick.core.action.WeChatTimeLineShareAction"
+                    }
+                ]
+            }
+        }
+    },
+    "1": {
+        name: "Режим кнопок",
+        desc: "Полностью имитирует действия физических кнопок",
+        speed: 0,
+        actions: {
+            "1": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.key.PowerShortAction"
+                    }
+                ]
+            }
+        }
+    },
+    "2": {
+        name: "Режим камеры",
+        desc: "Предназначен для быстрой съемки фото в необычных ситуациях",
+        speed: 0,
+        actions: {
+            "1": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.CapturePhotoInstantAction"
+                    }
+                ]
+            }
+        }
+    },
+    "3": {
+        name: "Режим комбо",
+        desc: "Самые длинные нажатия уже заняты фонариком, поиском и очисткой памяти",
+        speed: 1000,
+        actions: {
+            "8": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.TorchAction"
+                    }
+                ]
+            },
+            "9": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.SearchAction"
+                    }
+                ]
+            },
+            "10": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.ClearMemoryAction"
+                    }
+                ]
+            }
+        }
+    }
+}

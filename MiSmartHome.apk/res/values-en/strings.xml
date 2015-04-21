@@ -451,6 +451,35 @@
   <string name="air_reset_title_text">Reset air purifier</string>
   <string name="air_serach_no_device_green_1">Flashing green LED, waiting for connection</string>
   <string name="air_serach_no_device_green_2">Solid green LED, The device is busy</string>
+  <string name="aircon_auto_mode">自动模式</string>
+  <string name="aircon_back_home_on">回家后开机</string>
+  <string name="aircon_bracelet_broadcast_dialog_title">需开启手环蓝牙广播功能保证其可被发现，会略微减少续航时间，是否确认开启？</string>
+  <string name="aircon_bracelet_control">手环控制</string>
+  <string name="aircon_bracelet_into_sleep">入睡后空调进入睡眠模式</string>
+  <string name="aircon_cold_mode">制冷模式</string>
+  <string name="aircon_colding">制冷中</string>
+  <string name="aircon_dehumidifier_mode">除湿模式</string>
+  <string name="aircon_hot_mode">制热模式</string>
+  <string name="aircon_hoting">制热中</string>
+  <string name="aircon_indoor_temp">当前室内温度</string>
+  <string name="aircon_joint_mark">|</string>
+  <string name="aircon_left_home_off">离家后关机</string>
+  <string name="aircon_load_timer_failed">加载定时失败</string>
+  <string name="aircon_off">关闭</string>
+  <string name="aircon_on">开启</string>
+  <string name="aircon_only_support_xiaomi_bracelet">仅支持小米手环</string>
+  <string name="aircon_set_temp">设定温度</string>
+  <string name="aircon_shutdown">关机中</string>
+  <string name="aircon_switch">开关</string>
+  <string name="aircon_temp_symbol">°</string>
+  <string name="aircon_timer">预约</string>
+  <string name="aircon_wind_direction">风向</string>
+  <string name="aircon_wind_direction_adjust">风向调节</string>
+  <string name="aircon_wind_direction_left_bottom">左下</string>
+  <string name="aircon_wind_mode">送风模式</string>
+  <string name="aircon_wind_speed">风速</string>
+  <string name="aircon_wind_speed_adjust">风速调节</string>
+  <string name="aircon_wind_sweep">扫 风</string>
   <string name="alarm_is_disenabled">Alarm is disabled</string>
   <string name="alarm_is_enabled">Alarm is enabled</string>
   <string name="app_latest_version_installed">Mi Home is up to date.</string>
@@ -635,9 +664,15 @@
   <string name="cancel">Cancel</string>
   <string name="cardCancle">Cancel</string>
   <string name="cardDefaultuse">Set as default card</string>
-  <string name="cardUnbing">Unpair</string>
+  <string name="cardUnbing">Unpair</string>#
+  <string name="change_account_name">修改名字</string>
   <string name="change_back_name">Edit note name</string>
   <string name="change_back_name_fail">Failed editing note name, please try again</string>
+  <string name="change_head_fail">头像修改失败</string>
+  <string name="change_head_icon">修改头像</string>
+  <string name="change_head_success">头像修改成功</string>
+  <string name="change_nick_fail">昵称修改失败</string>
+  <string name="change_nick_success">昵称修改成功</string>
   <string name="changeing_back_name">Note has been successfully modified</string>
   <string name="channel">CommonChannelInfo</string>
   <string name="check_upgrading_error">"Couldn't check for updates"</string>
@@ -726,7 +761,11 @@
   <string name="content_description">Problem description (required)</string>
   <string name="continue_nextstep">Next</string>
   <string name="control_panel">Remote control panel</string>
+  <string name="copy">复制</string>
   <string name="creating">Creating...</string>
+  <string name="crop_fail_to_load_image">加载图片失败</string>
+  <string name="crop_image_next">确定</string>
+  <string name="crop_image_title">移动和截图</string>
   <string name="current_all_step">"Total steps"</string>
   <string name="current_speed">Current speed</string>
   <string name="day">days</string>
@@ -748,6 +787,7 @@
   <string name="device_detail_save">Saving...</string>
   <string name="device_detail_storage">Public storage</string>
   <string name="device_failed">Device operation failed</string>
+  <string name="device_more_activity_common_setting">通用设置</string>
   <string name="device_more_activity_feedback">Feedback</string>
   <string name="device_more_activity_firmware_update">Firmware update</string>
   <string name="device_more_activity_new_firmware">" new version: %s"</string>
@@ -957,6 +997,7 @@
   <string name="download_info">Download size</string>
   <string name="download_speed">Download speed</string>
   <string name="edit">Edit</string>
+  <string name="error_led_status">指示灯状态</string>
   <string name="exit">Exit</string>
   <string name="family">Add family</string>
   <string name="family_accept">OK</string>
@@ -1033,6 +1074,7 @@ Model: Button battery CR2032"</string>
   <string name="gateway_bodysensor_airpurifier_on">Open air purifer</string>
   <string name="gateway_bodysensor_camera_on">Open camera</string>
   <string name="gateway_bodysensor_night_pass">Anyone passing by at night time</string>
+  <string name="gateway_bodysensor_night_title">感应夜灯</string>
   <string name="gateway_bodysensor_no_motion">No motion detected after 5 minutes</string>
   <string name="gateway_bodysensor_pass">Someone passing by</string>
   <string name="gateway_bodysensor_pass_device">Open device when someone passes by</string>
@@ -1046,6 +1088,7 @@ Model: Button battery CR2032"</string>
   <string name="gateway_color_lamp_setting_title">Light timer</string>
   <string name="gateway_color_light">Light color</string>
   <string name="gateway_continue_add">Continue adding</string>
+  <string name="gateway_corridor_on_time_select">延时选择</string>
   <string name="gateway_corridor_time">Lighting time</string>
   <string name="gateway_del_log">Delete log file</string>
   <string name="gateway_del_log_failed">Failed to delete log file</string>
@@ -1068,6 +1111,7 @@ Model: Button battery CR2032"</string>
   <string name="gateway_guard_setting">Guard settings</string>
   <string name="gateway_guard_setting_subtitle">If alarm is triggered, phone will recieve a notification</string>
   <string name="gateway_intelligent_caution">Intelligent alerts</string>
+  <string name="gateway_lamp_time_list">定时列表</string>
   <string name="gateway_leave_home">Leave home</string>
   <string name="gateway_light_text">Light</string>
   <string name="gateway_light_time_setting">Light timer</string>
@@ -1153,6 +1197,7 @@ Model: Button battery CR2032"</string>
   <string name="gateway_system_color_setting">Color settings</string>
   <string name="gateway_system_setting">System settings</string>
   <string name="gateway_system_volume_setting">System volume</string>
+  <string name="gateway_time_duration_title">%1$d分钟</string>
   <string name="gateway_title">Multifunction gateway</string>
   <string name="gateway_toggle_light">Lights</string>
   <string name="gateway_voice">Music</string>
@@ -1193,6 +1238,7 @@ Model: Button battery CR2032"</string>
   <string name="ignore">Ignore</string>
   <string name="input_account">Input account number</string>
   <string name="input_account_null">Account number cannot be left blank</string>
+  <string name="input_nick_name">填写姓名</string>
   <string name="intelligent_220v_plug">220V</string>
   <string name="intelligent_plug">Mi Smart plug</string>
   <string name="intelligent_plug_dunhao">、</string>
@@ -1239,6 +1285,8 @@ Model: Button battery CR2032"</string>
   <string name="intru_btn_text">Learn more</string>
   <string name="invate_user_by_sms">"Can't find user, invite by SMS instead?"</string>
   <string name="irv2_air_conditioner_controller_title">Air conditioner remote control</string>
+  <string name="irv2_ble_bulb_disconnected">设备已经断开连接</string>
+  <string name="irv2_ble_bulb_reconnect">&lt;u&gt;&amp;#37325;&amp;#26032;&amp;#36830;&amp;#25509;&lt;/u&gt;</string>
   <string name="irv2_bluetooth_delete">Delete</string>
   <string name="irv2_bluetooth_matched_device">Paired devices</string>
   <string name="irv2_bluetooth_matched_device_count_postfix">/4)</string>
@@ -1296,7 +1344,9 @@ Model: Button battery CR2032"</string>
 	You can set the type of aircon brand manually"</string>
   <string name="irv2_controller_study_hint_title">Press the center button of the remote control</string>
   <string name="irv2_controller_switch_advance">Advanced</string>
+  <string name="irv2_controller_switch_advance_u">&lt;u&gt;&amp;#35302;&amp;#25511;&amp;#38754;&amp;#26495;&lt;/u&gt;</string>
   <string name="irv2_controller_switch_traditional">Traditional</string>
+  <string name="irv2_controller_switch_traditional_u">&lt;u&gt;&amp;#20256;&amp;#32479;&amp;#38754;&amp;#26495;&lt;/u&gt;</string>
   <string name="irv2_controller_temp_text">Adjust temp</string>
   <string name="irv2_controller_touch_hint">"Slide up and down
 Click for 
@@ -1462,6 +1512,9 @@ Click on top right corner of the menu to get help"</string>
   <string name="kuailian_wifi_security_type">WiFi security: %s</string>
   <string name="kualian_conn_title">Network connection available</string>
   <string name="kualian_unconn_title">Network connection unavailable</string>
+  <string name="label_account_id">帐号</string>
+  <string name="label_head">头像</string>
+  <string name="label_name">姓名</string>
   <string name="launcher_login">Signing in...</string>
   <string name="launcher_scene_loading">Loading scene...</string>
   <string name="launcher_switch_to_userid">Please switch accounts to create a scene</string>
@@ -1766,6 +1819,8 @@ Click on top right corner of the menu to get help"</string>
   <string name="network_with_low_speed">Current network speed is slow, please check connection and cables!</string>
   <string name="nextVideo">Next video</string>
   <string name="next_button">Next</string>
+  <string name="nick_name_empty">还没填写</string>
+  <string name="nick_too_long">昵称需要在20个字符之内</string>
   <string name="night_light">Nightlight settings</string>
   <string name="night_light_desc">Automatic lighting sensor detects darkness</string>
   <string name="night_light_on_text">Automatic lights after dark</string>
@@ -1777,8 +1832,10 @@ Click on top right corner of the menu to get help"</string>
   <string name="no_invite">No invitations</string>
   <string name="no_location_log">No location data</string>
   <string name="no_network">No network connection</string>
+  <string name="no_storage_card">无存储卡</string>
   <string name="no_wifi_found">No WiFi networks found</string>
   <string name="not_admin">You do not have permission to manage the current router, please exit and sign in again.</string>
+  <string name="not_enough_space">没有足够空间</string>
   <string name="not_found_bracelet_app">Mi Health app is not installed</string>
   <string name="not_found_play_device">"Can't find Mi TV or Mi Box"</string>
   <string name="not_found_router_app">Mi WiFi app is not installed</string>
@@ -1849,6 +1906,7 @@ Click on top right corner of the menu to get help"</string>
   <string name="play_in_mitv">&lt;u&gt;&amp;#25237;&amp;#24433;&amp;#21040;&amp;#30005;&amp;#35270;&lt;/u&gt;</string>
   <string name="playing">Start playing</string>
   <string name="please_inpt_account">Please input account</string>
+  <string name="please_wait">请稍等</string>
   <string name="plug_confirm">Confirm</string>
   <string name="plug_confirm_abort">Discard changes</string>
   <string name="plug_device_closed">Smart plug is off</string>
@@ -1898,6 +1956,7 @@ Click on top right corner of the menu to get help"</string>
   <string name="plugin_install_fail">Failed to install plugin</string>
   <string name="plugin_install_success">Plugin successfully installed</string>
   <string name="plugin_installing">Installing plugin...</string>
+  <string name="preparing_card">正在准备存储卡</string>
   <string name="prevVideo">Prev</string>
   <string name="prev_button">Prev</string>
   <string name="previous_button">Back</string>
@@ -1982,14 +2041,34 @@ Click on top right corner of the menu to get help"</string>
   <string name="rom_upgrade_new_version">Update available for your device</string>
   <string name="rom_upgrade_now">Update now</string>
   <string name="rom_upgrade_title">Update</string>
+  <string name="router_apk_is_downloading">小米路由器App已在下载中，请耐心等待</string>
+  <string name="router_bind_account_title">输入小米路由器管理员密码完成绑定</string>
+  <string name="router_button_to_download">立即体验</string>
+  <string name="router_button_to_install">立即安装</string>
   <string name="router_current_net_speed">Current network speed</string>
   <string name="router_current_speed_format">Network speed: %1$sKB/s</string>
   <string name="router_disk">Router storage space</string>
   <string name="router_disk_info">Remaining space</string>
+  <string name="router_download_des">一个好用的智能路由器App</string>
+  <string name="router_download_progress">下载中 %1$d%%</string>
+  <string name="router_download_title">小米路由器APP</string>
   <string name="router_downloaded">Downloaded</string>
   <string name="router_downloaded_info">Downloaded %1$d items</string>
   <string name="router_downloading">Downloading</string>
   <string name="router_downloading_info">Downloading %1$d</string>
+  <string name="router_guide_tip1_desc">启动防蹭网，风险设备无处遁形</string>
+  <string name="router_guide_tip1_title">不想被蹭?</string>
+  <string name="router_guide_tip2_desc">离线下载蓝光影片，享受正真看片乐趣</string>
+  <string name="router_guide_tip2_title">看片卡顿?</string>
+  <string name="router_guide_tip3_desc">一键网络优化，让你网络立即加速</string>
+  <string name="router_guide_tip3_title">上网变慢?</string>
+  <string name="router_guide_tip4_desc">相册自动备份，释放你的手机存储空间</string>
+  <string name="router_guide_tip4_title">存储不足?</string>
+  <string name="router_guide_title">小米路由器</string>
+  <string name="router_login_account_bind_error">绑定小米路由器失败</string>
+  <string name="router_login_account_get_secret_error">获取小米路由器信息失败</string>
+  <string name="router_login_account_passwd">请输入管理员密码</string>
+  <string name="router_login_account_passwd_error">输入小米路由器管理员密码错误</string>
   <string name="router_moblie_path">Removable disk</string>
   <string name="router_network_speed">Network speed</string>
   <string name="router_no_speed">No network connection</string>
@@ -2006,6 +2085,7 @@ Click on top right corner of the menu to get help"</string>
   <string name="running_time_complete">%1$d hrs %2$d mins</string>
   <string name="sans_serif">sans-serif</string>
   <string name="saturday">Saturday</string>
+  <string name="saving_image">正在保存图片</string>
   <string name="scene_action_no_setting">Scene action not set</string>
   <string name="scene_add_condition">Step one: add start condition</string>
   <string name="scene_add_condition_empty">"You haven't set any start condition"</string>
@@ -2033,6 +2113,8 @@ Click on top right corner of the menu to get help"</string>
   <string name="second">" seconds "</string>
   <string name="select_camera">Select camera</string>
   <string name="select_device_title">Select device to connect</string>
+  <string name="select_from_camera">手机拍照</string>
+  <string name="select_local_picture">本地图片</string>
   <string name="select_mitvs">Select Mi TV</string>
   <string name="send_log">Send log</string>
   <string name="serach_no_device_blue">Blue LED, device is currently being used, reset (see Methods)</string>
@@ -2265,6 +2347,8 @@ enjoy an intelligent life!"</string>
   <string name="terminal_feedback">Smart devices</string>
   <string name="ths_feed">Thank you for your feedback, it will help us to improve our services!</string>
   <string name="thursday">Thursday</string>
+  <string name="timer_title">定时器列表</string>
+  <string name="title_person_info">个人资料</string>
   <string name="tuesday">Tuesday</string>
   <string name="tv_play_camera_not_bind">Mi TV or Mi Box account differs from the intelligent family application</string>
   <string name="tv_play_camera_not_local">Phone and TV are not on the same local network</string>
@@ -2366,6 +2450,7 @@ enjoy an intelligent life!"</string>
   <string name="umtwater">Tap water</string>
   <string name="unauthoried_tip">Authentication failed, please try again</string>
   <string name="unknown_os">Unknown version</string>
+  <string name="unsupported_intent">未找到合适的应用程序</string>
   <string name="update_record_failure">Failed to get update history</string>
   <string name="upgrade_check_fail">Temporarily unable to obtain version information</string>
   <string name="upgrade_has_update">Updates</string>
@@ -2380,7 +2465,9 @@ enjoy an intelligent life!"</string>
   <string name="upgrade_pkg_downloading_title_smarthome">Downloading update...</string>
   <string name="upgrading_error">Update failed, please check network connection and try again</string>
   <string name="upload_type">Upload file type</string>
+  <string name="uploading_head_icon">正在上传头像</string>
   <string name="uploading_log_error">Uploading app log failed, please try again</string>
+  <string name="uploading_nick_name">正在修改昵称</string>
   <string name="useable_space">Router storage space</string>
   <string name="user_license">"[User License Agreement]
 	Welcome to Xiaomi!

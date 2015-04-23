@@ -659,7 +659,7 @@
      <string name="noti_weight_low_battery_title">Низкий заряд</string>
      <string name="notice_for_tag_time">Примечание: число после X означает, что сколько раз Вы отмечали</string>
      <string name="notice_for_users">Mi Fit</string>
-     <string name="notify_status_motor">Вибрация браслета</string>
+     <string name="notify_status_motor">"Вибрация браслета "</string>
      <string name="notify_status_motor_alarm">будильник…</string>
      <string name="notify_status_motor_auth">проверка связи…</string>
      <string name="notify_status_motor_auth_success">успешно проверен</string>
@@ -669,7 +669,7 @@
      <string name="notify_status_motor_notify">поиск…</string>
      <string name="notify_status_motor_shut_down">выключение…</string>
      <string name="notify_status_motor_smart_alarm">умный будильник…</string>
-     <string name="notify_status_motor_test">Тестирование…</string>
+     <string name="notify_status_motor_test">тестирование…</string>
      <string name="odo">Общая дистанция</string>
      <string name="odo_british">Всего миль</string>
      <string name="ok">OK</string>
@@ -766,8 +766,8 @@
      <string name="setgoalafterweight">Установите свою цель после того, как взвеситесь</string>
      <string name="setting_about_app">Версия приложения </string>
      <string name="setting_about_fw">Версия прошивки </string>
-     <string name="setting_daily_sport_notify">Уведомления о результатах</string>
-     <string name="setting_daily_sport_notify_info">Показывать уведомление после 21:30</string>
+     <string name="setting_daily_sport_notify">Результат активности</string>
+     <string name="setting_daily_sport_notify_info">Напоминать мне в 21:30</string>
      <string name="setting_feedback_address">Адрес электронной почты</string>
      <string name="setting_feedback_hint">Спасибо за отзыв. Ваше мнение очень важно для нас.</string>
      <string name="setting_feedback_send">Отправить</string>
@@ -1107,8 +1107,8 @@
      <string name="user_agreement_ux">Принять участие в программе улучшения</string>
      <string name="user_set_succ_info">Откройте %1$s для завершения первого взвешивания</string>
      <string name="user_staron_me">Подписчики</string>
-     <string name="vibrate_notify">Уведомления</string>
-     <string name="vibrate_notify_tips">Вибрировать при получении уведомлений</string>
+     <string name="vibrate_notify">Вибрация для уведомлений</string>
+     <string name="vibrate_notify_tips">Вибрировать при уведомлениях браслета</string>
      <string name="visit_micom">Посетить сайт</string>
      <string name="visitor">Гостей</string>
      <string name="visitor_weight">Вес</string>

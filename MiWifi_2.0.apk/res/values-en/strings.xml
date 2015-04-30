@@ -15,7 +15,8 @@
 	<string name="abc_searchview_description_voice">Voice search</string>
 	<string name="abc_shareactionprovider_share_with">Share with</string>
 	<string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-	<string name="about_change_name_hint">Mi router name</string>
+	<string name="abc_toolbar_collapse_description">Collapse</string>
+        <string name="about_change_name_hint">Mi router name</string>
 	<string name="about_change_router_location">Change Mi router location</string>
 	<string name="about_change_router_name">Change Mi router name</string>
 	<string name="about_load_fail">Failed to load Mi router information!</string>
@@ -131,23 +132,34 @@
 	<string name="block_added_to_blocked_devices_list">Device added to blocklist</string>
 	<string name="block_ask_block_enable_hitch_hiker_mechanism">Before blocking device connection, you need to open the WiFi blocklist function from plug-ins</string>
 	<string name="block_blockable_device_list_empty">No blocked devices</string>
+        <string name="block_blocked_devices_list">Device blocklist</string>
 	<string name="block_blocked_hitch_hiker_list">Blocklist</string>
 	<string name="block_blocked_hitch_hiker_list_empty">No blocked devices</string>
 	<string name="block_cannot_block_lan_device">"Connected using LAN so can't use WiFi network"</string>
 	<string name="block_device_black_list">Device blocklist</string>
 	<string name="block_device_black_list_description">Device will be automatically added to blocklist</string>
+        <string name="block_device_block_device">Block</string>
+        <string name="block_device_block_reason">Block reason</string>
+        <string name="block_device_block_type">Block type</string>
 	<string name="block_device_caption">Blocked device detected</string>
 	<string name="block_device_crack_router_management_password">Trying to crack your Mi router management password</string>
+	<string name="block_device_crack_router_management_password_frequency_x">试图破解路由器管理密码密码%d次/分钟</string>
+	<string name="block_device_crack_wifi_password">试图破解你的WiFi密码</string>	
+	<string name="block_device_crack_wifi_password_frequency_x">试图破解WiFi密码%d次/分钟</string>
+	<string name="block_device_danger_level">危险等级</string>
 	<string name="block_device_dangerous_device">Suspicious device</string>
-	<string name="block_device_dangerous_device_crack_wifi_password">Network connection has been comprimised</string>
+	<string name="block_device_dangerous_device_blocked">已被拦截连接网络</string>
+	<string name="block_device_default_device_type">可能是手机设备</string>
 	<string name="block_device_description">Device has been blocked for multiple connection attempts</string>
 	<string name="block_device_device_type">Device type</string>
+	<string name="block_device_disable_block_wifi_mechanism">Close WiFi blocklist</string>
 	<string name="block_device_do">Blocked</string>
 	<string name="block_device_enable_block_wifi_mechanism">Open WiFi blocklist</string>
 	<string name="block_device_expose_invade_device">Exposure TA</string>
 	<string name="block_device_failed_for_hitch_hiker_not_enabled">Please enable WiFi blocklist function from plug-ins to block device</string>
 	<string name="block_device_invade_frequency">Break in frequency</string>
 	<string name="block_device_invade_frequency_x">%d times/sec</string>
+	<string name="block_device_last_block_time">Last blocked time</string>
 	<string name="block_device_last_invade_time">Last break in time</string>
 	<string name="block_device_mac">MAC address</string>
 	<string name="block_device_message">Device will be refused connection every time. You can permit access from the blocklist</string>
@@ -162,11 +174,18 @@
 	<string name="block_device_router_management_password_security_level_description">"Don't set password the same as WiFi password"</string>
 	<string name="block_device_security_level">Blocklist security level</string>
 	<string name="block_device_security_level_description">Active defense from devices which may cause harm to your network</string>
+	<string name="block_device_security_level_high_description">拉黑黑名单设备，主动拦截风险设备，新设备上线提醒</string>
+	<string name="block_device_security_level_low_description">拦截黑名单设备，风险设备上线提示</string>
+	<string name="block_device_security_level_medium_description">拦截黑名单设备，主动拦截风险设备</string>
 	<string name="block_device_succeeded">Device added to blocklist</string>
 	<string name="block_device_times">Blocked count</string>
 	<string name="block_device_times_unit">times</string>
+	<string name="block_device_tip_for_block_mechanism_disabled_1">检测到防蹭网尚未开启</string>
+	<string name="block_device_tip_for_block_mechanism_disabled_2">可能存在安全隐患哦</string>
 	<string name="block_device_tried_times_title">Connection attempts</string>
 	<string name="block_device_tried_times_x">%d times</string>
+	<string name="block_device_type_auto_blocked">Auto blocklist</string>
+	<string name="block_device_type_manual_blocked">Manual blocklist</string>
 	<string name="block_device_unblock_device">Unblock</string>
 	<string name="block_device_view_black_list">View blocklist</string>
 	<string name="block_device_wifi_password_security_level">WiFi password security level</string>
@@ -203,6 +222,7 @@
 	<string name="block_whether_block_device">Do you want to block the selected device?</string>
 	<string name="block_whether_block_device_message">Device will be refused connection every time. You can permit access from the blocklist</string>
 	<string name="block_whether_block_device_x">Are you sure you want to block %s?</string>
+	<string name="block_whether_block_devices">Are you sure you want to block this device?</string>
 	<string name="block_whether_unblock_device">Remove device from blocklist?</string>
 	<string name="block_whether_unblock_device_x">Are you sure you want to remove %s from the blocklist?</string>
 	<string name="block_wifi_access">Blocking WiFi access...</string>
@@ -299,6 +319,24 @@
 	<string name="client_block_device_read">Read</string>
 	<string name="client_block_device_trust">Trust</string>
 	<string name="client_block_device_try_to_connect_to_router">Attempting to access network</string>
+	<string name="client_camera_auto_import_description">设备连接后会自动导入新照片和视频</string>
+	<string name="client_camera_auto_import_title">Auto import</string>
+	<string name="client_camera_available_space">Available space</string>
+	<string name="client_camera_button_import">Import</string>
+	<string name="client_camera_button_view">View</string>
+	<string name="client_camera_found" formatted="false">Found %d photos and %d videos/string>
+	<string name="client_camera_get_info_failed">Failed to get camera information</string>
+	<string name="client_camera_imported">已全部导入路由器</string>
+	<string name="client_camera_importing_1">正在导入</string>
+	<string name="client_camera_importing_2">正在导入，剩余文件%s</string>
+	<string name="client_camera_importing_other">正在导入其他相机的照片和数据…</string>
+	<string name="client_camera_offline_tip">相机设备已被卸载或强行拔出</string>
+	<string name="client_camera_scanning">正在扫描照片和视频…</string>
+	<string name="client_camera_total_space">总空间</string>
+	<string name="client_camera_unmount">弹出设备</string>
+	<string name="client_camera_unmount_message">确定要卸载%s吗？</string>
+	<string name="client_camera_unmount_waiting">正在卸载，请稍候…</string>
+	<string name="client_camera_view_files">查看文件</string>
 	<string name="client_detail_bar_more">More</string>
 	<string name="client_detail_info_connection_24g">WiFi 2.4GHz</string>
 	<string name="client_detail_info_connection_5g">WiFi 5GHz</string>
@@ -423,10 +461,12 @@
 	<string name="common_loading_settting">Loading settings...</string>
 	<string name="common_loading_settting_fail">Failed to load settings</string>
 	<string name="common_mbps">Mbps</string>
+	<string name="common_menu_add">添加</string>
 	<string name="common_menu_cancel">Cancel</string>
 	<string name="common_menu_copy">Copy</string>
 	<string name="common_menu_delete">Delete</string>
 	<string name="common_menu_download">Download</string>
+	<string name="common_menu_edit">编辑</string>
 	<string name="common_menu_image_info">Image information</string>
 	<string name="common_menu_more">More</string>
 	<string name="common_menu_move">Move</string>
@@ -455,6 +495,12 @@
 	<string name="common_select_all">Select all</string>
 	<string name="common_select_n">Selected %d items</string>
 	<string name="common_select_none">Clear all</string>
+	<string name="common_share_copy">复制下载链接</string>
+	<string name="common_share_miliao">米聊好友</string>
+	<string name="common_share_others">其他</string>
+	<string name="common_share_weibo">微博</string>
+	<string name="common_share_weixin">微信好友</string>
+	<string name="common_share_weixin_friends">微信朋友圈</string>
 	<string name="common_times">%1$s times</string>
 	<string name="common_waiting">Please wait...</string>
 	<string name="content_description">Input e-mail address</string>
@@ -523,6 +569,8 @@
 	<string name="download_become_vip">Sign up for Xunlei</string>
 	<string name="download_bind_account">Xunlei</string>
 	<string name="download_complete_empty_message">No files downloaded</string>
+	<string name="download_convert_short_url">正在获取短链接</string>
+	<string name="download_convert_short_url_fail">获取短链接失败</string>
 	<string name="download_create_download_link">Create download link</string>
 	<string name="download_delete_and_file">Deleted files</string>
 	<string name="download_delete_complete_not_exist">The download task has been deleted</string>
@@ -535,6 +583,7 @@
 	<string name="download_downloaded">Downloads</string>
 	<string name="download_downloaded_item_menu_download">Download to phone</string>
 	<string name="download_downloaded_item_menu_open">Open</string>
+	<string name="download_downloaded_item_menu_share_link">分享链接</string>
 	<string name="download_downloading">Download</string>
 	<string name="download_downloading_item_menu_pause">Paused</string>
 	<string name="download_downloading_item_menu_restart">Restart</string>
@@ -566,12 +615,15 @@
 	<string name="download_setting_schedule">Scheduled downloads</string>
 	<string name="download_settting_change_path">Change download path</string>
 	<string name="download_settting_path">Router disk\\downloads</string>
+	<string name="download_share_link_body">[%1$s] %2$s</string>
+	<string name="download_share_link_title">分享一个资源</string>
 	<string name="download_status_failed">Download failed</string>
 	<string name="download_status_failed_for_no_space">Download failed, insufficient free storage space</string>
 	<string name="download_status_pause">Paused</string>
 	<string name="download_status_waiting">Waiting</string>
 	<string name="download_tools_resourcesearch_title">Search for more resources</string>
 	<string name="download_total_download_speed">Download speed: %s</string>
+	<string name="download_url_copied">已经复制下载地址</string>
 	<string name="download_xunlei_accelearate_title">Xunlei download accelerator</string>
 	<string name="download_xunlei_bind_error">Error occurred adding Xunlei with Mi router</string>
 	<string name="download_xunlei_bind_fail">Failed to add Xunlei</string>
@@ -639,6 +691,7 @@
 	<string name="file_delete_success">Deleted successfully</string>
 	<string name="file_delete_transfer_confirm_message">Are sure you want to delete the selected task and all download data?</string>
 	<string name="file_deletting_message">Deleting file, please wait...</string>
+	<string name="file_deletting_message_with_progress">正在删除，请稍候… 进度 ：%d%%</string>
 	<string name="file_dropdown_menu_sort_by_format">Type</string>
 	<string name="file_dropdown_menu_sort_by_name">Name</string>
 	<string name="file_dropdown_menu_sort_by_size">Size</string>
@@ -681,7 +734,7 @@
 	<string name="file_menu_detail">Details</string>
 	<string name="file_menu_detail_msg">"File name: %1$s
 	Location: %2$s
-	Time: %3$s
+	Last updated: %3$s
 	Size: %4$s"</string>
 	<string name="file_menu_edit">Edit</string>
 	<string name="file_menu_rename">Rename</string>
@@ -745,6 +798,10 @@
 	<string name="file_transfer_clear_record">Clear history</string>
 	<string name="file_transfer_copy">Copy</string>
 	<string name="file_transfer_copy_label">Copy file to %s</string>
+	<string name="file_transfer_delete_uploaded_file_with_progress">正在删除路由器上的文件，请稍候… 进度 ：%d%%</string>
+	<string name="file_transfer_delete_with_downloaded_files">同时删除已下载到手机上的文件</string>
+	<string name="file_transfer_delete_with_files_both">同时删除已下载到手机和已上传到路由器上的文件</string>
+	<string name="file_transfer_delete_with_uploaded_files">同时删除已上传到路由器上的文件</string>
 	<string name="file_transfer_download">Download</string>
 	<string name="file_transfer_floder_label">[Folder] %s</string>
 	<string name="file_transfer_folder_download_size">Total of %d files</string>
@@ -1139,6 +1196,7 @@
 	<string name="tool_router_reboot_timer">Reboot timer</string>
 	<string name="tool_router_reboot_timer_desc">Automatically power on Mi router when required</string>
 	<string name="tool_router_reboot_timer_switch_hint">Reboot timer</string>
+	<string name="tool_router_setting">路由器设置</string>
 	<string name="tool_router_shutdown_timer">Shutdown timer</string>
 	<string name="tool_router_shutdown_timer_desc">Automatically power off Mi router when not in use. Also helps to reduce power consumption</string>
 	<string name="tool_router_shutdown_timer_switch_hint">Shutdown timer</string>
@@ -1270,6 +1328,8 @@
 	<string name="user_experience_improve_quit">Leave</string>
 	<string name="user_experience_improve_short_desc">Join the User Experience Program to help improve our products. [View details]</string>
 	<string name="videos_group_name_x_num_x">%1$s | %2$d months</string>
+	<string name="weixin_confirm_link">Confirm</string>
+	<string name="weixin_qr_activity_title">微信接入</string>
 	<string name="xunlei_kankan_authorize_error">Authorization failed, check the network and try again</string>
 	<string name="xunlei_kankan_authorize_loading">Authorizing, please wait...</string>
 	<string name="xunlei_kankan_authorize_title">Xunlei authorisation</string>

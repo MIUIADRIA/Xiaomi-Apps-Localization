@@ -33,7 +33,7 @@ Note: English translations on this repo are fully up to date and may be in some 
 - MiTransfer_1.0.131029 - http://app.mi.com/detail/64390
 - MiWifiPortable_1.1.755 - http://app.mi.com/detail/65299
 - SuperMarket_R.1.4.2 - http://app.mi.com/detail/34346
-- Mi WiFi 2.0 2.0.26 - http://xiaomi.eu/MiWiFi_2.0.26.apk
+- Mi WiFi 2.0 2.0.27 - http://xiaomi.eu/MiWiFi_2.0.27.apk
 
 # Multilanguage app translation status
 

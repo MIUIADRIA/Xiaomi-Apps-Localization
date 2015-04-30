@@ -25,7 +25,7 @@ Note: English translations on this repo are fully up to date and may be in some 
 - MiRouter_1.0.60 - http://app.mi.com/detail/53711
 - MiScreenCast_1.1.9 - http://app.mi.com/detail/82348
 - MiSmallAnts_1.4.1 - http://app.mi.com/detail/75646
-- MiSmartHome_2.5.8 - http://app.mi.com/detail/75542
+- MiSmartHome_2.5.10 - http://app.mi.com/detail/75542
 - MiSportCamera_1.4.1 - http://app.mi.com/detail/87320
 - MiSoundBar_1.1.1 - http://app.mi.com/detail/64097
 - MiTag_2.0.4 - http://app.mi.com/detail/56946

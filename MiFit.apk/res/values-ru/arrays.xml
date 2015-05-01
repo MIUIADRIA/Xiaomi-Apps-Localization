@@ -123,4 +123,23 @@
         <item>Вы еще не достигли своей цели</item>
         <item>Вы достигли цель (%1$s%2$s)!</item>
     </string-array>
+	<string-array name="phone_notify_tips">
+        <item>Вибрировать браслетом при поступлении вызовов на подключенном устройстве</item>
+        <item>Вибрировать браслетом при воспроизведении будильника на подключенном устройстве</item>
+        <item>Вибрировать браслетом при получении сообщений на подключенном устройстве</item>
+     </string-array>
+     <string-array name="running_months">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+     </string-array>
 </resources>

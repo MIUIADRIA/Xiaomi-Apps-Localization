@@ -17,4 +17,8 @@
         <item quantity="other">%s дюймов</item>
         <item quantity="one">%s дюйм</item>
     </plurals>
+	<plurals name="weight_match_user">
+        <item quantity="other">Совпадений: %1$d</item>
+        <item quantity="one">Совпадений: %1$d</item>
+     </plurals>
 </resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="picker_number_of_items_selected">
+        <item quantity="other">%1$d ausgewählt</item>
+        <item quantity="zero">%1$d ausgewählt</item>
+        <item quantity="one">%1$d ausgewählt</item>
+    </plurals>
+    <plurals name="numberOfPullUpdateReport">
+    <item quantity="other">%d Elemente aktualisiert.</item>
+    <item quantity="one">%d Element aktualisiert.</item>
+    </plurals>
+    <plurals name="numberFoot">
+        <item quantity="other">%s Fuß</item>
+        <item quantity="one">%s Fuß</item>
+    </plurals>
+    <plurals name="numberInch">
+        <item quantity="other">%s Inch</item>
+        <item quantity="one">%s Inch</item>
+    </plurals>
+</resources>

@@ -86,6 +86,8 @@
      <string name="find_new_bluetooth_device">Поиск нового устройства</string>
      <string name="find_new_sw">Доступна новая версия прошивки</string>
      <string name="firmware_download_failed">Ошибка загрузки</string>
+     <string name="firmware_downloading_message">Загрузка прошивки. Загрузить повторно?</string>
+     <string name="firmware_downloading_title">Загрузка прошивки</string>
      <string name="firmware_in_downloading">Загрузка обновления…</string>
      <string name="firmware_update_info">Версия прошивки</string>
      <string name="firmware_upgrade_download_firmware">Загрузка обновления…</string>
@@ -94,6 +96,9 @@
      <string name="firmware_upgrade_tip">Не отключайте камеру от устройсва во время обновления</string>
      <string name="firmware_upgrade_title">Найдено обновление прошивки</string>
      <string name="firmware_version_synchronize_complete">Обновление завершено. Текущая версия:</string>
+     <string name="firware_upgrade_begin">Обновить</string>
+     <string name="firware_upgrade_succeeded">Поздравляем</string>
+     <string name="firware_upgrade_succeeded_tips">Обновление прошивки завершено</string>
      <string name="flickr">Flickr</string>
      <string name="format_sdcard_msg">Отформатировать SD-карту?</string>
      <string name="format_sdcard_title">Форматирование</string>
@@ -143,7 +148,6 @@
      <string name="instapaper_logining">Вход, подождите…</string>
      <string name="instapaper_pwd">Пароль</string>
      <string name="item_select_title">Выбрано: XX</string>
-     <string name="iv_indicator_contentdescription">iv_indicator_contentdescription</string>
      <string name="iv_list_item_download_file_thumbnail_contentdescription">Миниатюра файла</string>
      <string name="iv_list_item_video_thumnail_contentdescription">Миниатюра видео</string>
      <string name="iv_list_sub_item_photo_thumbnail_contentdescription">Миниатюра фото</string>
@@ -165,7 +169,7 @@
      <string name="list_item_download_file_textview_downloadedspeed">0 КБ/С</string>
      <string name="list_item_download_file_textview_filename">Клип 1</string>
      <string name="list_item_downloaded_file_textview_downloadedsize">0 МБ</string>
-     <string name="list_item_photo_tvDate">1 января</string>
+     <string name="list_item_photo_tvDate">1 Января</string>
      <string name="list_item_video_tvDay">00</string>
      <string name="list_item_video_tvDuration">00:00</string>
      <string name="list_item_video_tvMonth">00</string>
@@ -320,7 +324,7 @@
      <string name="setting_buzzer_ring">Поиск камеры</string>
      <string name="setting_buzzer_volume">Качество звука</string>
      <string name="setting_camera">Камера</string>
-     <string name="setting_camera_clock">Часы камеры</string>
+     <string name="setting_camera_clock">Время камеры</string>
      <string name="setting_capture_default_mode">По умолчанию режим фото</string>
      <string name="setting_check_firmware">Обновление прошивки</string>
      <string name="setting_cloud_album">Сменить облачный альбом</string>
@@ -329,6 +333,7 @@
      <string name="setting_emergency_file_backup">Резервное копирование</string>
      <string name="setting_failed">Не удалось обновить настройки</string>
      <string name="setting_feedback">Обратная связь</string>
+     <string name="setting_firmware_update">Загрузка прошивки</string>
      <string name="setting_hw_version">Модель</string>
      <string name="setting_led_mode">Режим LED</string>
      <string name="setting_loop_record">Циклическая запись</string>
@@ -345,6 +350,7 @@
      <string name="setting_sw_version">Версия прошивки</string>
      <string name="setting_system_default_mode">По умолчанию режим камеры</string>
      <string name="setting_timeout">Установить время ожидания</string>
+     <string name="setting_unbind_bluetooth_dev">Отвязать все Bluetooth контроллеры</string>
      <string name="setting_unsupported_resolution">Текущее разрешение не отвечает требованиям для автоматического низкой освещенности</string>
      <string name="setting_user_guide">Руководство пользователя</string>
      <string name="setting_video">Видео</string>
@@ -473,6 +479,9 @@
      <string name="tv_timing_off">off</string>
      <string name="twitter">Twitter</string>
      <string name="unable_to_delete_photo">Загружаемое изображение нельзя удалить</string>
+     <string name="unbind_bluetooth_failed">Не удалось отвязать!</string>
+     <string name="unbind_bluetooth_succeeded">Успешно отвязано!</string>
+     <string name="unbind_bluetooth_unbinded">Уже отвязано</string>
      <string name="unsurported_sw_version">Текущая версия не поддерживает синхронизацию камеры для съемки. Пожалуйста, обновите до последней версии.</string>
      <string name="unsurrport_online_play">Формат файла не поддерживат онлайн воспроизведение</string>
      <string name="update_now">Хотите обновить сейчас?</string>
@@ -494,7 +503,7 @@
      <string name="video_edit_next_description">Далее</string>
      <string name="video_edit_share_description">Поделиться</string>
      <string name="video_edit_shared">Поделаиться</string>
-     <string name="video_edit_template">Template</string>
+     <string name="video_edit_template">Шаблон</string>
      <string name="video_edit_transition">Переход</string>
      <string name="video_filter">Фильтр</string>
      <string name="video_format">MP4</string>

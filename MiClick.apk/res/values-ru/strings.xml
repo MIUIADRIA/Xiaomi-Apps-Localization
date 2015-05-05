@@ -107,7 +107,7 @@
      <string name="combo_speed_fast">быстрая (низкое срабатывание)</string>
      <string name="combo_speed_medium">обычная</string>
      <string name="combo_speed_prefix">"Скорость: "</string>
-     <string name="combo_speed_slow">низкая (высокое срабатывание)</string>
+     <string name="combo_speed_slow">низкая (высокая точность)</string>
      <string name="combo_standard_text">Режим кнопки по умолчанию - хороший выбор для новичка :)</string>
      <string name="combo_standard_title">Режим по умолчанию</string>
      <string name="company">Компания:</string>
@@ -270,7 +270,7 @@
      <string name="settings">Настройки</string>
      <string name="showSlip">Показывать скольжения</string>
      <string name="silent_mode_tip_main">Кнопка отключена</string>
-     <string name="silent_mode_tip_sub">Включите в настройках :)</string>
+     <string name="silent_mode_tip_sub">Включите ее в настройках</string>
      <string name="sms_sent_done">Сообщение отправлено</string>
      <string name="sms_template">Текст сообщения</string>
      <string name="sms_to">Отправить сообщение</string>
@@ -309,7 +309,7 @@
      <string name="wallpaper_change_both">Рабочий стол и локскрин</string>
      <string name="wallpaper_change_desktop">Рабочий стол</string>
      <string name="wallpaper_change_failed">Не удалось</string>
-     <string name="wallpaper_change_home">Экран блокировки</string>
+     <string name="wallpaper_change_home">Локскрин</string>
      <string name="wallpaper_change_home_failed">Не удалось применить</string>
      <string name="wallpaper_change_ok">Обои сменены</string>
      <string name="wallpaper_changing">Применение обоев…</string>

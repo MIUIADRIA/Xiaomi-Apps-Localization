@@ -32,7 +32,7 @@
      <string name="action_stand">stand</string>
      <string name="action_type_error">Тип ошибки</string>
      <string name="action_walk">Ходьба</string>
-     <string name="add_family_member">Добавить члена семье</string>
+     <string name="add_family_member">Добавление пользователя…</string>
      <string name="add_than_last_time">Добавлено с момента последнего взвешивания: %1$s</string>
      <string name="add_weight_fail_with_value"> Вы должны получить %1$s для достижения цели</string>
      <string name="add_weight_succ">Вы достигли цель!</string>
@@ -126,10 +126,10 @@
      <string name="birthday">Дата рождения</string>
      <string name="blue">Синий</string>
      <string name="bluetooth">"Bluetooth "</string>
-     <string name="bmi_item_tips">ИМТ %1$s, Фигура %2$s</string>
+     <string name="bmi_item_tips">ИМТ: %1$s (%2$s)</string>
      <string name="body">Шея</string>
      <string name="body_figure">Фигура</string>
-     <string name="body_standard_ref">Стандартный вес</string>
+     <string name="body_standard_ref">Информация о нормальном весе</string>
      <string name="bracelet_info_battery">%s%%</string>
      <string name="bracelet_info_deviceid">%s</string>
      <string name="bracelet_info_fw_version">"Прошивка: %1$s 
@@ -206,7 +206,7 @@
      <string name="crash_report_email_subject" formatted="false">%s Отчет об ошибке %s</string>
      <string name="crash_report_email_text">"Дополнительные комментарии:
 "</string>
-     <string name="current_weight">Текущий вес</string>
+     <string name="current_weight">"Текущий вес "</string>
      <string name="daily_consume">Сожжено сегодня (ккал)</string>
      <string name="daily_sport_report">Ежедневный отчет активности</string>
      <string name="daily_sport_report_contintue_info">"Дней отдыха: %1$s
@@ -216,7 +216,7 @@
      <string name="daily_sport_report_notify_hurry">Необходимо пройти %1$s ш., чтобы достичь сегодняшнюю цель!</string>
      <string name="daily_sport_report_week_info">"Пройдено шагов %1$s 
 Сэкономлено %2$s гал. газа"</string>
-     <string name="daily_sporty">Шагов в день</string>
+     <string name="daily_sporty">Ср. шаги</string>
      <string name="data_loading">Загрузка…</string>
      <string name="data_not_supported">--</string>
      <string name="date_from_to">%1$s по %2$s</string>
@@ -315,7 +315,7 @@
      <string name="exit_login_1">Выйти из Mi аккаунта?</string>
      <string name="failed_enable_bt">Включите Bluetooth</string>
      <string name="family_member">Семья</string>
-     <string name="family_member_info">Информация о семье</string>
+     <string name="family_member_info">Информация о пользователе</string>
      <string name="feedback">Обратная связь</string>
      <string name="female">Женский</string>
      <string name="figure_lessthan_standard">Пониженный вес</string>
@@ -585,7 +585,7 @@
      <string name="label_step_with_unit">%s шагов</string>
      <string name="label_uid">Mi аккаунт: %1$s</string>
      <string name="label_update_time">Обновлено: %s</string>
-     <string name="label_weight">Текущий вес</string>
+     <string name="label_weight">"Текущий вес "</string>
      <string name="lable_qrcode_is_myself">Нельзя добавить самого себя</string>
      <string name="larger_than_normal_with_value">%1$s выше среднего</string>
      <string name="left_hand">Левая рука</string>
@@ -711,7 +711,7 @@
      <string name="notify_status_motor_shut_down">выключение…</string>
      <string name="notify_status_motor_smart_alarm">умный будильник…</string>
      <string name="notify_status_motor_test">тестирование…</string>
-     <string name="odo">Общая дистанция</string>
+     <string name="odo">Всего км</string>
      <string name="odo_british">Всего миль</string>
      <string name="ok">OK</string>
      <string name="on">ВКЛ</string>
@@ -1093,13 +1093,13 @@
      <string name="statistic_day_average">Ср. в день</string>
      <string name="statistic_detail">Подробнее</string>
      <string name="statistic_total">Всего</string>
-     <string name="step">шаг.</string>
+     <string name="step">" шаг."</string>
      <string name="step1">Шаг 1) </string>
      <string name="step2">Шаг 2) </string>
      <string name="step_per_day">" шагов/день"</string>
      <string name="stop">конец</string>
      <string name="stop_on_bed_time">Время пробуждения</string>
-     <string name="sure_to_delete_weight">Удалить записи веса?</string>
+     <string name="sure_to_delete_weight">Удалить историю взвешивания?</string>
      <string name="sync_failed_info">Данные Вашей активности сейчас не синхронизируются с Mi аккаунтом. Включите Wi-Fi для синхронизации.</string>
      <string name="sync_to_server">Синхронизация…</string>
      <string name="system_low_info">Обновите устройство до Android 4.4 или выше</string>
@@ -1164,7 +1164,7 @@
      <string name="unit_british_detail">Английская (дюйм, миль)</string>
      <string name="unit_calorie">" ккал."</string>
      <string name="unit_foot">фут</string>
-     <string name="unit_hour">ч.</string>
+     <string name="unit_hour">" ч."</string>
      <string name="unit_inch">дюймов</string>
      <string name="unit_kilometer">" км"</string>
      <string name="unit_meter">" м"</string>
@@ -1172,8 +1172,8 @@
      <string name="unit_metric_detail">Метрическая (м, км)</string>
      <string name="unit_mile">миль</string>
      <string name="unit_min">" мин."</string>
-     <string name="unit_min_short">м.</string>
-     <string name="unit_sec_short">с.</string>
+     <string name="unit_min_short">" м."</string>
+     <string name="unit_sec_short">" с."</string>
      <string name="unit_step">шагов</string>
      <string name="unit_weight">кг</string>
      <string name="unlock_for_smartlock_pair_fail_tip">Ошибка сопряжения</string>
@@ -1264,7 +1264,7 @@
      <string name="weight_edit_move">Переместить запись</string>
      <string name="weight_fw_upgrade_tips">Будьте рядом с весами во время обновления</string>
      <string name="weight_fw_upgrade_title">Обновление прошивки</string>
-     <string name="weight_goal_height_100">合理的控制体重, 不要让自己太瘦哦</string>
+     <string name="weight_goal_height_100">Установить цель веса</string>
      <string name="weight_guest">Гости</string>
      <string name="weight_help_info_0">Убедитесь, что весы находятся возле устройства в течение сопряжения</string>
      <string name="weight_help_info_1">Убедитесь, что весы заряжены и включены</string>

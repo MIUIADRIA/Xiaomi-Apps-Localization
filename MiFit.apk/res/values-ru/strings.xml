@@ -57,7 +57,7 @@
      <string name="alarm_repeat_title_format">Выбрано %s</string>
      <string name="alarm_ring">Будильник</string>
      <string name="alarm_setting">Настройка будильника</string>
-     <string name="alarm_tips">"Браслет автоматически перестанет вибрировать, когда Вы встанете с постели. Слегка постучите по браслету в любое время, чтобы остановить сигнал вручную."</string>
+     <string name="alarm_tips">"Браслет автоматически перестанет вибрировать, когда Вы встанете с постели. Слегка постучите по нему в любое время, чтобы остановить сигнал вручную."</string>
      <string name="am">AM</string>
      <string name="ampm_format">hh:mma</string>
      <string name="ampm_format_hhmmss">hh:mm:ssa</string>
@@ -77,7 +77,7 @@
      <string name="baby_weight_tips">Младенцы и дети не нуждаются в чрезмерном контроли веса, так как это не влияет на их нормальный рост и развитие</string>
      <string name="back">Назад</string>
      <string name="band">Mi Band</string>
-     <string name="battery">battery</string>
+     <string name="battery">заряда</string>
      <string name="battery_charge_full">Батарея заряжена</string>
      <string name="battery_charging">Зарядка…</string>
      <string name="battery_low_info">Низкий уровень батареи</string>
@@ -120,8 +120,8 @@
      <string name="bind_weixin_qrcode_name">QR-код браслета</string>
      <string name="bind_weixin_save">Сохранено в галереи,</string>
      <string name="bind_weixin_succ">Успешно связано</string>
-     <string name="bind_weixin_tips_1">Нажмите создать QR-код, создайте и сохраните его в галереи</string>
-     <string name="bind_weixin_tips_2">Нажмите открыть Wechat, войдите в сканирование QR-кода и нажмите на альбом, чтобы выбрать сохраненный в галереи QR-код</string>
+     <string name="bind_weixin_tips_1">Создайте QR-код и сохраните его в галереи</string>
+     <string name="bind_weixin_tips_2">Откройте Wechat и отсканируйте сохраненный QR-код</string>
      <string name="bind_weixin_title">Аккаунт WeChat</string>
      <string name="birthday">Дата рождения</string>
      <string name="blue">Синий</string>
@@ -130,6 +130,8 @@
      <string name="body">Шея</string>
      <string name="body_figure">Фигура</string>
      <string name="body_standard_ref">Информация о нормальном весе</string>
+	 <string name="bohee_subtitle">Профессиональная программа похудения. Присоединяйтесь к нам :)</string>
+     <string name="bohee_title">Похудение</string>
      <string name="bracelet_info_battery">%s%%</string>
      <string name="bracelet_info_deviceid">%s</string>
      <string name="bracelet_info_fw_version">"Прошивка: %1$s 
@@ -154,7 +156,7 @@
      <string name="button_search_friend">Поиск</string>
      <string name="button_send_care">Отправить</string>
      <string name="buy_bracelet_desc">Здесь можно купить браслет</string>
-     <string name="cal">" ккал"</string>
+     <string name="cal">" ккал."</string>
      <string name="can_not_del_last_weight_info">Последние данные не могут быть удалены</string>
      <string name="cancel">Отмена</string>
      <string name="change_current_weight_report">"Не %1$s?
@@ -249,6 +251,7 @@
      <string name="device_not_found_not_knocked">Повторите поиск когда индикаторы замигают</string>
      <string name="device_not_response">Почему браслет не мигает?</string>
      <string name="disable_debug_log">Режим разработчика выключен</string>
+	 <string name="disable_hidden_feature">Скрытие выключено</string>
      <string name="discard">Да</string>
      <string name="discard_alarm_change">Отменить изменения?</string>
      <string name="distance">Дистанция</string>
@@ -283,7 +286,7 @@
      <string name="dynamic_sleep_active_end">Готов к проб.</string>
      <string name="dynamic_sleep_active_start">Готов ко сну</string>
      <string name="dynamic_sleep_deep">Глубокий сон</string>
-     <string name="dynamic_sleep_deep_title">Глубокий сон %s</string>
+     <string name="dynamic_sleep_deep_title">Глубокий сон: %s</string>
      <string name="dynamic_sleep_shallow">Легкий сон</string>
      <string name="dynamic_sleep_tip">Всего</string>
      <string name="dynamic_step_tip">Текущие шаги</string>
@@ -301,6 +304,7 @@
      <string name="dynamic_title_weight_not_nearby">Весы не рядом</string>
      <string name="dynamic_title_weight_unbind">Весы не подключены</string>
      <string name="enable_debug_log">Включен режим разработчика</string>
+	 <string name="enable_hidden_feature">Скрытие включено</string>
      <string name="equal_last_time">То же, что в прошлом взвешивание</string>
      <string name="equals_fat">"Эквивалентно
 %1$s гр. жира"</string>
@@ -334,6 +338,8 @@
      <string name="friend_new_user_guide">После добавления этого человека в друзья, браслет друга провибрирует, чтобы уведомить его.</string>
      <string name="friend_new_user_guide_ok">OK</string>
      <string name="friend_new_user_guide_ok_toast">Друг добавлен</string>
+	 <string name="friend_running_btn_confirm">OK</string>
+     <string name="friend_running_btn_continue">Отмена</string>
      <string name="friend_set_nick_name_failed">Не удалось выбрать ник</string>
      <string name="friend_unfollow_confirm_body">Вы не сможете просмотреть данные о активности и сне этого человека</string>
      <string name="friend_unfollow_confirm_no">Отмена</string>
@@ -390,7 +396,7 @@
      <string name="help_title_3">Браслет сопряжен с другим устройством?</string>
      <string name="help_title_4">Попробуйте сбросить устройство</string>
      <string name="hint_input_remark_name">Введите заголовок сообщения</string>
-     <string name="hint_input_xiaomi_uid">Введите XIAOMI ID</string>
+     <string name="hint_input_xiaomi_uid">Введите ID Mi аккаунта</string>
      <string name="host_can_not_be_empty">Адрес сервера не может быть пустым</string>
      <string name="host_change_error">Не удалось сменить адрес хоста</string>
      <string name="host_change_success">Хост изменен</string>
@@ -398,12 +404,11 @@
      <string name="hour_1">" "</string>
      <string name="in">"С "</string>
      <string name="incoming_call_notify">Входящие вызовы</string>
-     <string name="incoming_call_notify_closed">По завершении вызова</string>
+     <string name="incoming_call_notify_closed">Выключено</string>
      <string name="incoming_call_notify_tips">Вибрировать через %s сек.</string>
-     <string name="incomingcall_info_1">Требуется уведомление для работы в фоновом режиме</string>
-     <string name="incomingcall_info_2">"Заблокируйте приложение Mi Fit и 
-добавьте его в белый список сторонних менеджеров (если имеются)"</string>
-     <string name="incomingcall_info_3">Добавьте Mi Fit в белый список сторонних менеджеров (если имеются)</string>
+     <string name="incomingcall_info_1">Для нормальной работы этой функции, Mi Fit должен работать в фоновом режиме</string>
+     <string name="incomingcall_info_2">Убедитесь, что Mi Fit работает в фоне (добавлен в автозапуск)</string>
+     <string name="incomingcall_info_3">Убедитесь, что Mi Fit имеет разрешение показывать уведомления</string>
      <string name="input_family_member_name">Введите имя гостя</string>
      <string name="input_person_name">Введите имя</string>
      <string name="input_precise_person_info">Создайте профиль</string>
@@ -555,7 +560,8 @@
      <string name="label_mileage_dynamic">Расстояние (%s)</string>
      <string name="label_more">Еще</string>
      <string name="label_my_qrcode">Мой QR-код</string>
-     <string name="label_no_care_time_by_me">Не подталкивать этого человека</string>
+     <string name="label_no_care_time_by_me">Пусто</string>
+	 <string name="label_no_update">Не обновлено</string>
      <string name="label_preparing_share_image">Подготовка к отправке…</string>
      <string name="label_pull_to_load">Потяните, чтобы загрузить больше</string>
      <string name="label_pull_to_refresh">Потяните, чтобы обновить</string>
@@ -700,14 +706,14 @@
      <string name="notify_no_permission">Недостаточно прав</string>
      <string name="notify_set_failed">Не удалось применить настройки</string>
      <string name="notify_sleep_content">Нажмите для просмотра информации</string>
-     <string name="notify_status_motor">"Вибрация браслета "</string>
+     <string name="notify_status_motor">"Вибрация браслета: "</string>
      <string name="notify_status_motor_alarm">будильник…</string>
      <string name="notify_status_motor_auth">проверка связи…</string>
      <string name="notify_status_motor_auth_success">успешно проверен</string>
      <string name="notify_status_motor_call">входящий вызов…</string>
      <string name="notify_status_motor_disconnect">отключение…</string>
      <string name="notify_status_motor_goal">вы достигли цель!</string>
-     <string name="notify_status_motor_notify">поиск…</string>
+     <string name="notify_status_motor_notify">уведомление…</string>
      <string name="notify_status_motor_shut_down">выключение…</string>
      <string name="notify_status_motor_smart_alarm">умный будильник…</string>
      <string name="notify_status_motor_test">тестирование…</string>
@@ -735,6 +741,7 @@
      <string name="please_connect_internet">Нет подключения к сети</string>
      <string name="please_input_age">Ваш возраст</string>
      <string name="please_input_birthday">Дата рождения</string>
+	 <string name="please_input_correct_weight">Введите текущий вес</string>
      <string name="please_input_gender">Выберите пол</string>
      <string name="please_input_name">Введите имя</string>
      <string name="please_knock_bracelet">Слегка постучите по браслету для сопряжения</string>
@@ -788,6 +795,7 @@
      <string name="running_date_last_week">Прошлая неделя</string>
      <string name="running_date_this_month">Этот месяц</string>
      <string name="running_date_this_week">Эта неделя</string>
+	 <string name="running_date_today">Сегодня</string>
      <string name="running_date_yesterday">Вчера</string>
      <string name="running_delete_track_item_confirm">Записи не могут быть восстановлены</string>
      <string name="running_distance">Дистанция</string>
@@ -802,6 +810,7 @@
      <string name="running_gps_locating">GPS поиск…</string>
      <string name="running_gps_poor_signal">Плохой сигнал GPS. Выйдите на открытую местность.</string>
      <string name="running_gps_turnon">Включить</string>
+	 <string name="running_hare_to_sport_trace">Моя траектория</string>
      <string name="running_helper">Бег</string>
      <string name="running_history">История</string>
      <string name="running_history_date" formatted="false">%d/%d/%d</string>
@@ -813,6 +822,7 @@
      <string name="running_history_total_calorie">Сожжено (ккал)</string>
      <string name="running_history_total_distance">Дистанция (км)</string>
      <string name="running_history_total_times">Всего (раз)</string>
+	 <string name="running_hort_track_desc">Ваша активность %d. Хотите отменить?</string>
      <string name="running_hour">%d ч.</string>
      <string name="running_hour_1">" "</string>
      <string name="running_hour_min" formatted="false">%d ч. %d м.</string>
@@ -845,8 +855,8 @@
      <string name="running_per_kilometers">/км</string>
      <string name="running_percent_mark">%</string>
      <string name="running_prepare_map">Подготовка данных…</string>
-     <string name="running_prompt_come_on">Вперед!!</string>
-     <string name="running_prompt_great">Отлично!!</string>
+     <string name="running_prompt_come_on">Вперед!</string>
+     <string name="running_prompt_great">Отлично!</string>
      <string name="running_prompt_per_kilometer" formatted="false">Вы пробежали: %s км. Сожжено %s. Темп %s.%s.</string>
      <string name="running_real_time_pace">темп (км)</string>
      <string name="running_resume">Возобновить</string>
@@ -859,6 +869,7 @@
      <string name="running_settings">Настройки</string>
      <string name="running_settings_speed">(%1$s мин/км)</string>
      <string name="running_share">Поделиться</string>
+	 <string name="running_share_img_failed_to_create">Не удалось. Проверьте память.</string>
      <string name="running_share_to_mypace">Мой темп</string>
      <string name="running_share_to_sport_trace">Мой спортивный след</string>
      <string name="running_share_to_title">Mi Band</string>
@@ -884,7 +895,8 @@
      <string name="running_synchronous">Синхронный</string>
      <string name="running_time_desc">Время</string>
      <string name="running_today_null" />
-     <string name="running_unit_calorie">ккал</string>
+	 <string name="running_track_desc">Отменить действие?</string>
+     <string name="running_unit_calorie">ккал.</string>
      <string name="running_unit_hour">ч.</string>
      <string name="running_unit_kilometer">км</string>
      <string name="running_unit_meter">м</string>
@@ -945,8 +957,8 @@
      <string name="setting_about_app">Версия приложения </string>
      <string name="setting_about_fw">Версия прошивки </string>
      <string name="setting_daily_sleep_notify">Данные о сне</string>
-     <string name="setting_daily_sleep_notify_info">Показывать данные о сне после пробуждения</string>
-     <string name="setting_daily_sport_notify">Результат активности</string>
+     <string name="setting_daily_sleep_notify_info">Показывать после пробуждения</string>
+     <string name="setting_daily_sport_notify">Результаты активности</string>
      <string name="setting_daily_sport_notify_info">Напоминать мне в 21:30</string>
      <string name="setting_feedback_address">Адрес электронной почты</string>
      <string name="setting_feedback_hint">Спасибо за отзыв. Ваше мнение очень важно для нас.</string>
@@ -1030,8 +1042,8 @@
      <string name="smart_alarm_notify">Будильник</string>
      <string name="smart_wake_up">Раннее пробуждение</string>
      <string name="smart_wake_up_info">За 30 минут до установленного времени</string>
-     <string name="sms_notify">Уведомления о сообщениях</string>
-     <string name="sms_notify_tips2">Браслет должен быть подключен к устройству через Bluetooth</string>
+     <string name="sms_notify">Уведомления сообщений</string>
+     <string name="sms_notify_tips2">Браслет должен быть подключен к устройству через Bluetooth, когда приходит сообщение</string>
      <string name="sport_coming_soon">Ожидайте скоро</string>
      <string name="sport_new_record_ropeskipping">Новый рекорд</string>
      <string name="sport_ranking_desc_great">Вы непобедимы :)</string>
@@ -1082,10 +1094,17 @@
      <string name="stat_step_walk_distance_average">Ср. дист. ходьбы</string>
      <string name="stat_step_walk_duration">Время ходьбы</string>
      <string name="stat_step_walk_duration_average">Ср. время ходьбы</string>
+	 <string name="state_authorization_doing">Авторизация……</string>
+     <string name="state_authorization_error">Ошибка входа</string>
+     <string name="state_authorization_success">Вход выполнен успешно</string>
      <string name="state_bind_failed">Не удалось добавить аккаунт</string>
      <string name="state_binded">Войти</string>
-     <string name="state_binded_nickname">Добавлен аккаунт QQ %s</string>
+     <string name="state_binded_nickname">Добавлен аккаунт QQ: %s</string>
+	 <string name="state_binded_nickname_weibo">Добавлен аккаунт Weibo: %s</string>
      <string name="state_close">Выкл.</string>
+	 <string name="state_deauthorization_doing">Выход из аккаунта……</string>
+     <string name="state_deauthorization_error">Ошибка. Повторите.</string>
+     <string name="state_deauthorization_success">Выход выполнен успешно</string>
      <string name="state_open">Вкл.</string>
      <string name="state_unbind_success">Аккаунт удален</string>
      <string name="state_unbinded">Выйти</string>
@@ -1221,7 +1240,7 @@
      <string name="user_agreement_ux">Принять участие в программе улучшения</string>
      <string name="user_set_succ_info">Откройте %1$s для завершения первого взвешивания</string>
      <string name="user_staron_me">Подписчики</string>
-     <string name="vibrate_notify">Вибрация для уведомлений</string>
+     <string name="vibrate_notify">Вибрация</string>
      <string name="vibrate_notify_tips">Вибрировать при уведомлениях браслета</string>
      <string name="visit_micom">Посетить сайт</string>
      <string name="visitor">Гостей</string>
@@ -1240,6 +1259,7 @@
      <string name="weather_description_rain_snow">Мокрый снег</string>
      <string name="weather_description_sand">Пыльно</string>
      <string name="weather_description_snow">Снег</string>
+	 <string name="wee_hour">Раннее утро</string>
      <string name="week">" "</string>
      <string name="week_total_distance">Дистанция за неделю (км)</string>
      <string name="week_total_distance_miles">"За неделю 
@@ -1247,6 +1267,7 @@
      <string name="weibosdk_toast_auth_canceled">Отмена, подождите</string>
      <string name="weibosdk_toast_auth_canceled_f">Отмена не удалась</string>
      <string name="weibosdk_toast_auth_failed">Сопряжение не удалось</string>
+	 <string name="weibosdk_toast_auth_success">Сопряжение завершено</string>
      <string name="weibosdk_toast_binded">Текущий аккаунт уже привязан</string>
      <string name="weibosdk_toast_unbind_failed">Не удалось отвязать</string>
      <string name="weight_bmi_tips">ИМТ %1$s %2$s</string>
@@ -1264,6 +1285,7 @@
      <string name="weight_edit_move">Переместить запись</string>
      <string name="weight_fw_upgrade_tips">Будьте рядом с весами во время обновления</string>
      <string name="weight_fw_upgrade_title">Обновление прошивки</string>
+	 <string name="weight_goal">Цель веса</string>
      <string name="weight_goal_height_100">Установить цель веса</string>
      <string name="weight_guest">Гости</string>
      <string name="weight_help_info_0">Убедитесь, что весы находятся возле устройства в течение сопряжения</string>
@@ -1285,6 +1307,7 @@
      <string name="weight_measure">Вес</string>
      <string name="weight_not_found_info">Пожалуйста, закройте и повторите поиск</string>
      <string name="weight_not_found_title">Весы не найдены</string>
+	 <string name="weight_not_in_range">Излишний вес</string>
      <string name="weight_not_response">Весы не отвечают</string>
      <string name="weight_overload_confirm">OK</string>
      <string name="weight_overload_content">Весы не поддерживают вес поблее 150 кг :)</string>

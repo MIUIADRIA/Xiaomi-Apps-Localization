@@ -105,9 +105,9 @@
      <string name="combo_saveas_name_empty">Без имени</string>
      <string name="combo_saveas_title">Заполните информацию</string>
      <string name="combo_speed_fast">быстрая (низкое срабатывание)</string>
-     <string name="combo_speed_medium">обычная</string>
+     <string name="combo_speed_medium">средняя</string>
      <string name="combo_speed_prefix">"Скорость: "</string>
-     <string name="combo_speed_slow">низкая (высокая точность)</string>
+     <string name="combo_speed_slow">медленная (высокое срабатывание)</string>
      <string name="combo_standard_text">Режим кнопки по умолчанию - хороший выбор для новичка :)</string>
      <string name="combo_standard_title">Режим по умолчанию</string>
      <string name="company">Компания:</string>
@@ -130,13 +130,13 @@
      <string name="fail_generate_barcode">Ошибка генерации QR-кода</string>
      <string name="faq_comp_text">В настоящее время поддерживается только на системе MIUI v5. А также для использования необходимо скачать само приложение.</string>
      <string name="faq_comp_title">На каких устройствах работает эта кнопка?</string>
-     <string name="faq_focus_text">Фокусировка перед снятием включена по умолчанию. Фокусировка и замер делает процесс съемки медленным, но при этом получаете более четкое изображение. Фокусировку можно отключить в настройках, но при этом возможны нечеткие фотографии.</string>
+     <string name="faq_focus_text">Фокусировка перед съемкой включена по умолчанию. Это делает процесс съемки медленным, но при этом получаете более четкое изображение. Фокусировку можно отключить в настройках, но возможны нечеткие фотографии.</string>
      <string name="faq_focus_title">Почему получаются размытые фото и медленная съемка?</string>
      <string name="faq_misreq_text">Выключите музыку, очистите RAM память и панель уведомлений. Вставьте кнопку и выберите ее в приложении. Инженеры работают над устранением этой проблемы.</string>
      <string name="faq_misreq_title">Некорректная работа кнопки. Что делать?</string>
      <string name="faq_plug_text">Чтобы не было проблемы распознавания кнопки, правильно вставляйте ее. Возьмите кнопку за края и вставляйте, чтобы избежать ее нажатия.</string>
      <string name="faq_plug_title">Не получается подключить. Как быть?</string>
-     <string name="faq_quni_text">Кнопка способна выдержать до 30000 нажатий, взависимоти от типа нажатий и силы</string>
+     <string name="faq_quni_text">Кнопка способна выдержать до 30000 нажатий, взависимости от типа нажатий и силы</string>
      <string name="faq_quni_title">Каков срок службы кнопки?</string>
      <string name="faq_slow_text">Проверьте в настройках скорость работы, возможно она выставлена на 0. Задайте подходящую для себя.</string>
      <string name="faq_slow_title">Почему медленно срабатывает?</string>
@@ -224,13 +224,13 @@
      <string name="setting_inner_camera_desc">"Нажатие: одиночная съемка
 Долгое нажатие: серийная съемка"</string>
      <string name="setting_inner_camera_title">Камера</string>
-     <string name="setting_inner_im_desc">"В настоящее время поддерживается: QQ, Mi Talk
+     <string name="setting_inner_im_desc">"В настоящее время поддерживаются: QQ, Mi Talk
 На странице голосового чата
 Долгое нажатие: передавать голос"</string>
      <string name="setting_inner_im_title">Чаты</string>
-     <string name="setting_inner_reader_desc">"В настоящее время поддерживает: кресс-чтение, Kindle, просо фантастика, увидеть больше
+     <string name="setting_inner_reader_desc">"В настоящее время поддерживаются: Kindle, Doukan и еще пару
 Нажатие: следующая страница
-Двойное нажатие: предыдущая старница"</string>
+Двойное нажатие: предыдущая страница"</string>
      <string name="setting_inner_reader_title">Читалки</string>
      <string name="setting_inner_sprite">Курсор</string>
      <string name="setting_inner_sprite_desc">Кнопка в режиме курсора не может использоваться одновременно с режимом имитации физических кнопок</string>
@@ -270,7 +270,7 @@
      <string name="settings">Настройки</string>
      <string name="showSlip">Показывать скольжения</string>
      <string name="silent_mode_tip_main">Кнопка отключена</string>
-     <string name="silent_mode_tip_sub">Включите ее в настройках</string>
+     <string name="silent_mode_tip_sub">Включите в настройках :)</string>
      <string name="sms_sent_done">Сообщение отправлено</string>
      <string name="sms_template">Текст сообщения</string>
      <string name="sms_to">Отправить сообщение</string>
@@ -300,7 +300,7 @@
      <string name="toggle_shake">Вибрация</string>
      <string name="toggle_sleep">Спящий режим</string>
      <string name="toggle_wifi">Wi-Fi</string>
-     <string name="toolbox_outer_desc">Нажмите на кнопку добавить или существующую функцию</string>
+     <string name="toolbox_outer_desc">Нажмите на кнопку добавить или на существующую функцию</string>
      <string name="unsupport_content">Скачайте последнюю версию MIUI для разработчиков, чтобы воспользоваться этой функцией</string>
      <string name="unsupport_title">Не поддерживается</string>
      <string name="update_message">Обновление!</string>
@@ -309,7 +309,7 @@
      <string name="wallpaper_change_both">Рабочий стол и локскрин</string>
      <string name="wallpaper_change_desktop">Рабочий стол</string>
      <string name="wallpaper_change_failed">Не удалось</string>
-     <string name="wallpaper_change_home">Локскрин</string>
+     <string name="wallpaper_change_home">Экран блокировки</string>
      <string name="wallpaper_change_home_failed">Не удалось применить</string>
      <string name="wallpaper_change_ok">Обои сменены</string>
      <string name="wallpaper_changing">Применение обоев…</string>

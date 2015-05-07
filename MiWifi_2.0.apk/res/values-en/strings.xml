@@ -324,7 +324,7 @@
 	<string name="client_camera_available_space">Available space</string>
 	<string name="client_camera_button_import">Import</string>
 	<string name="client_camera_button_view">View</string>
-	<string name="client_camera_found" formatted="false">Found %d photos and %d videos/string>
+	<string name="client_camera_found" formatted="false">Found %d photos and %d videos</string>
 	<string name="client_camera_get_info_failed">Failed to get camera information</string>
 	<string name="client_camera_imported">Already imported</string>
 	<string name="client_camera_importing_1">Importing</string>

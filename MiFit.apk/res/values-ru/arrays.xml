@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="running_months">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
     <string-array name="health_link_title">
         <item>1. Круглосуточный сервис</item>
         <item>2. Полезные советы</item>
@@ -60,7 +74,7 @@
         <item>Это легко достичь цель в течение одного дня, но трудно каждый день.</item>
         <item>Это не легкое дело, достичь цель каждый день.</item>
         <item>Вы делаете новый рекорд каждый день!</item>
-        <item>Наслаждайтесь улучшеним себя!</item>
+        <item>Наслаждайтесь улучшением себя!</item>
         <item>Вы не неудачник, пока не перестанете пытаться.</item>
         <item>Мы то, что мы постоянно делаем. Совершенство, не является актом, но есть привычка.</item>
         <item>Достичь одной цели в день.</item>
@@ -123,23 +137,9 @@
         <item>Вы еще не достигли своей цели</item>
         <item>Вы достигли цель (%1$s%2$s)!</item>
     </string-array>
-	<string-array name="phone_notify_tips">
+    <string-array name="phone_notify_tips">
         <item>Вибрировать браслетом при поступлении вызовов на подключенном устройстве</item>
         <item>Вибрировать браслетом при воспроизведении будильника на подключенном устройстве</item>
         <item>Вибрировать браслетом при получении сообщений на подключенном устройстве</item>
-     </string-array>
-     <string-array name="running_months">
-        <item>Январь</item>
-        <item>Февраль</item>
-        <item>Март</item>
-        <item>Апрель</item>
-        <item>Май</item>
-        <item>Июнь</item>
-        <item>Июль</item>
-        <item>Август</item>
-        <item>Сентябрь</item>
-        <item>Октябрь</item>
-        <item>Ноябрь</item>
-        <item>Декабрь</item>
-     </string-array>
+    </string-array>
 </resources>

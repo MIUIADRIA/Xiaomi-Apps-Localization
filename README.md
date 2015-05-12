@@ -25,7 +25,7 @@ Note: English translations on this repo are fully up to date and may be in some 
 - MiRouter_1.0.60 - http://app.mi.com/detail/53711
 - MiScreenCast_1.1.9 - http://app.mi.com/detail/82348
 - MiSmallAnts_1.4.1 - http://app.mi.com/detail/75646
-- MiSmartHome_2.5.10 - http://app.mi.com/detail/75542
+- MiSmartHome 2.5.13_60140 - http://app.mi.com/detail/75542 (English: http://xiaomi.eu/MiHome_2.5.13_60140.apk)
 - MiSportCamera_1.4.1 - http://app.mi.com/detail/87320
 - MiSoundBar_1.1.1 - http://app.mi.com/detail/64097
 - MiTag_2.0.4 - http://app.mi.com/detail/56946
@@ -33,7 +33,7 @@ Note: English translations on this repo are fully up to date and may be in some 
 - MiTransfer_1.0.131029 - http://app.mi.com/detail/64390
 - MiWifiPortable_1.1.755 - http://app.mi.com/detail/65299
 - SuperMarket_R.1.4.2 - http://app.mi.com/detail/34346
-- Mi WiFi 2.0 2.0.27 - http://xiaomi.eu/MiWiFi_2.0.27.apk
+- Mi WiFi 2.0 2.0.30 - http://xiaomi.eu/MiWiFi_2.0.30.apk
 
 # Multilanguage app translation status
 

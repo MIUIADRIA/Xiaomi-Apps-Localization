@@ -1236,6 +1236,7 @@ Model: Button battery CR2032"</string>
   <string name="gateway_title">Multifunction gateway</string>
   <string name="gateway_toggle_light">Lights</string>
   <string name="gateway_unknown_subdevice">Unknown child device</string>
+  <string name="gateway_add_subdevice_gelight">Please turn on GE light power</string>
   <string name="gateway_user_cant_not_access">Device is not shared, unable to access device</string>
   <string name="gateway_voice">Music</string>
   <string name="gateway_voice_broadcast">Voice broadcast</string>

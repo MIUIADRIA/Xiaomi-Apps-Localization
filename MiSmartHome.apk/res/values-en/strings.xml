@@ -1050,7 +1050,6 @@
   <string name="gateway_add_subdevice_ok">Device added successfully</string>
   <string name="gateway_add_subdevice_subtitle">Add body, door sensor, smart key sensor</string>
   <string name="gateway_add_subdevice_otherdevice">Please add operation according to your device</string>
-  <string name="gateway_add_subdevice_subtitle">Add body motion sensor, door magnetic sensor, smart key</string>
   <string name="gateway_alarm_1">Police siren 1</string>
   <string name="gateway_alarm_2">Police siren 2</string>
   <string name="gateway_alarm_3">Ambulance siren</string>
@@ -1931,7 +1930,7 @@ Model: Button battery CR2032"</string>
   <string name="router_downloading">Downloading</string>
   <string name="router_downloading_info">Downloading %1$d</string>
   <string name="router_guide_tip1_desc">Open WiFi blocklist function, dangerous device cant hide</string>
-  <string name="router_guide_tip1_title">Don't want network hijacked?</string>
+  <string name="router_guide_tip1_title">"Don't want network hijacked?"</string>
   <string name="router_guide_tip2_desc">Download movies for offline viewing, enjoy the fun of a great movie</string>
   <string name="router_guide_tip2_title">Network slow when watching movies?</string>
   <string name="router_guide_tip3_desc">One-key network optimization, speed up your WiFi network.</string>

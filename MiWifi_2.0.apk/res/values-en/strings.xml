@@ -174,9 +174,9 @@
 	<string name="block_device_router_management_password_security_level_description">"Don't set password the same as WiFi password"</string>
 	<string name="block_device_security_level">Blocklist security level</string>
 	<string name="block_device_security_level_description">Active defense from devices which may cause harm to your network</string>
-	<string name="block_device_security_level_high_description">拉黑黑名单设备，主动拦截风险设备，新设备上线提醒</string>
-	<string name="block_device_security_level_low_description">拦截黑名单设备，风险设备上线提示</string>
-	<string name="block_device_security_level_medium_description">拦截黑名单设备，主动拦截风险设备</string>
+	<string name="block_device_security_level_high_description">Block dangerous devices in blocklist, intercept devices actively when online</string>
+	<string name="block_device_security_level_low_description">Prevent blocklist devices, dangerous devices online reminder</string>
+	<string name="block_device_security_level_medium_description">Prevent blocked devices, intercept dangerous devices actively</string>
 	<string name="block_device_succeeded">Device added to blocklist</string>
 	<string name="block_device_times">Blocked count</string>
 	<string name="block_device_times_unit">times</string>
@@ -799,9 +799,9 @@
 	<string name="file_transfer_copy">Copy</string>
 	<string name="file_transfer_copy_label">Copy file to %s</string>
 	<string name="file_transfer_delete_uploaded_file_with_progress">Deleting files, current progress: %d%%</string>
-	<string name="file_transfer_delete_with_downloaded_files">同时删除已下载到手机上的文件</string>
-	<string name="file_transfer_delete_with_files_both">同时删除已下载到手机和已上传到路由器上的文件</string>
-	<string name="file_transfer_delete_with_uploaded_files">同时删除已上传到路由器上的文件</string>
+	<string name="file_transfer_delete_with_downloaded_files">At the same time remove files which been downloaded to phone</string>
+	<string name="file_transfer_delete_with_files_both">At the same time remove files which have been downloaded to phone and uploaded to Mi router</string>
+	<string name="file_transfer_delete_with_uploaded_files">At the same time remove files uploaded to Mi router</string>
 	<string name="file_transfer_download">Download</string>
 	<string name="file_transfer_floder_label">[Folder] %s</string>
 	<string name="file_transfer_folder_download_size">Total of %d files</string>

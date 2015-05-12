@@ -27,9 +27,10 @@
         <item>Spouse</item>
         <item>Other family</item>
     </string-array>
-    <string-array name="device_shop_detail_webview_title">
-        <item>Features</item>
-        <item>Technical specifications</item>
-        <item>Package list</item>
-    </string-array>
+    <integer-array name="corridor_time">
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </integer-array>
 </resources>

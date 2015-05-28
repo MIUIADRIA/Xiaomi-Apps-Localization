@@ -302,14 +302,14 @@ localization_ru_rRU_table = {
     weather_tips_info = "Упражнения для пресса, прыжки на скакалке и отжимания - отличный способ держать себя в форме не выходя из дома!",
 	
 	--------------- Весы -------------------
-    welcome_use_weight_scale = "Привет!",
+    welcome_use_weight_scale = "Весы сопряжены",
 	welcome_use_weight_scale_info = "Узнайте больше о весах",
     welcome_use_weight_scale_not_bind = "Нажмите для добавления весов",
-    welcome_use_mi_health="Привет!",
+    welcome_use_mi_health="Добро пожаловать в Mi Fit!",
 	
 	select_devices="Выберите устройство для сопряжения",
 	daily_steps_not_comlete = "Осталось шагов: %s",
 	
-	am_format="%sAM",
-    pm_format="%sPM",
+	am_format="%s AM",
+    pm_format="%s PM",
 }

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="picker_number_of_items_selected">
+        <item quantity="other">Вибрані: %1$d</item>
+        <item quantity="zero">Вибрані: %1$d</item>
+        <item quantity="one">Вибрані: %1$d</item>
+    </plurals>
+    <plurals name="numberOfPullUpdateReport">
+        <item quantity="other">Оновлено елементів: %d</item>
+        <item quantity="one">Оновлено елементів: %d</item>
+    </plurals>
+    <plurals name="numberFoot">
+        <item quantity="other">%s футів</item>
+        <item quantity="one">%s фут</item>
+    </plurals>
+    <plurals name="numberInch">
+        <item quantity="other">%s дюймів</item>
+        <item quantity="one">%s дюйм</item>
+    </plurals>
+	<plurals name="weight_match_user">
+        <item quantity="other">Збігів: %1$d</item>
+        <item quantity="one">Збігів: %1$d</item>
+     </plurals>
+</resources>

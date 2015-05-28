@@ -1,7 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
      <string name="about">О приложении</string>
+	 <string name="baby_boy_weight_model">Средний вес мальчика (кг)</string>
+     <string name="baby_girl_weight_model">Средний вес девочки (кг)</string>
+     <string name="baby_weight_adult_weight_content">После стабилизации весов, взвешайтесь сами с младенцем</string>
+     <string name="baby_weight_adult_weight_title">Сначала взвешивайтесь сами</string>
+     <string name="baby_weight_baby_weight_content">Весы рассчитают вес младенца автоматически</string>
+     <string name="baby_weight_baby_weight_title">Взвешивайтесь с младенцем</string>
+     <string name="baby_weight_detail_tips">"Есть несколько факторов определяющие, здоровый ли вес ребенка. Mi весы сравнивают весовые данные из огромной базы данных для здоровых детей того же возраста и пола, чтобы определить средний вес.
+
+
+
+Стандартное отклонение относится к среднему расстоянию от среднего веса этой группы. Массы в пределах 1-2 стандартных отклонений от среднего веса группы считаются нормальными. Массы выше или ниже этого диапазона определяют недостаточный или избыточный вес, соответственно.
+
+
+
+Метод выше, может быть использован только для определения, нормальный ли вес ребенка по отношению к группе. Пожалуйста, обратитесь к врачу для подтверждения недостаточного или избыточного веса."</string>
+     <string name="baby_weight_help">Помощь</string>
+     <string name="baby_weight_help_title">Судя по высоте младенца - Стандартные отклонения</string>
+     <string name="baby_weight_notify_content">Нажмите для просмотра подробностей</string>
+     <string name="baby_weight_notify_title">Взвесьте младенца, используя весы</string>
+     <string name="baby_weight_ref">"People's Republic of China Children Under 7 Growth Standards"</string>
+     <string name="baby_weight_report_monthyear_templates0">%2$s мес. - %1$s</string>
+     <string name="baby_weight_report_monthyear_templates1">%1$s мес.</string>
+     <string name="baby_weight_scale_not_nearby_content">Весы слишко далеко</string>
+     <string name="baby_weight_see_all"><u>Посмотреть больше</u></string>
+     <string name="baby_weight_too_small_weight">Никаких существенных изменений в весе не было обнаружено. Вы держите младенца?</string>
+     <string name="baby_weight_warning_content">Перед взвешиванием, убедитесь, что весы находятся на устойчивой, сухой и плоской поверхности</string>
+     <string name="baby_weight_warning_title">Безопасность прежде всего</string>
+     <string name="bind_fail">Ошибка синхронизации с Google Fit</string>
+     <string name="bind_google_fit">Синхронизация с Google Fit</string>
+     <string name="bind_google_fit_tip">Синхронизировать данные о фитнесе из Mi Band с Google Fit</string>
+     <string name="bind_succ">Данные будут синхронизированы с Google Fit</string>
+     <string name="cannot_figure_bmi_causedby_age">Невозможно расчитать ИМТ для возрасте менее 7</string>
+     <string name="cannot_figure_bmi_causedby_height">Невозможно расчитать ИМТ для роста менее 1 метра</string>
+     <string name="china_adult_overweight_ref">"People's Republic of China Adult Obesity Prevention Guidelines"</string>
+     <string name="china_child_overweight_ref">"People's Republic of China Child Obesity Standards"</string>
+     <string name="date">Дата</string>
+     <string name="feedback_empty">Введите свой отзыв</string>
+     <string name="feedback_failed">Не удалось отправить отзыв</string>
+     <string name="feedback_invalid">Введеная информация неверная</string>
+     <string name="feedback_ok">Отзыв отправлен</string>
+     <string name="give_up">Отмена</string>
+     <string name="incoming_delay_sencond">Задержка вибрации</string>
+     <string name="incoming_notify_tips2">Для нормальной работы этой функции, браслет должен быть подключен к телефону</string>
+     <string name="median">Медиана</string>
+     <string name="never_reminder">Больше не показывать</string>
+     <string name="notify_setting">НАСТРОЙКИ УВЕДОМЛЕНИЙ</string>
+     <string name="offline_notification_content">В Ваш Mi аккаунт выполнен вход с другого устройства в %3$s:%4$s на %2$s/%1$s. Если это были не Вы, пожалуйста, перейдите на account.mi.com и смените пароль.</string>
+     <string name="offline_notification_title">Вы вышли из аккаунта</string>
+     <string name="personal_info_myself">Я</string>
+     <string name="please_choose_user">Выберите пользователя</string>
+     <string name="re_login">Войти</string>
+     <string name="title_activity_baby_tips_detail">Взвесьте младенца</string>
+     <string name="title_activity_baby_weight">Взвесьте младенца</string>
+     <string name="title_activity_baby_weight_info">Взвесьте младенца</string>
+     <string name="title_activity_open">Синхронизация с акаунтом</string>
+     <string name="toast_disable_bluethooth_brocast">Bluetooth Smart выключен</string>
+     <string name="toast_enable_bluethooth_brocast">Bluetooth Smart включен</string>
+     <string name="unbind_google_fit">Отменить синхронизацию с Google Fit</string>
+     <string name="weibo_token_expired_tips">Войдите повторно</string>
+     <string name="weight_ref">Рекомендации</string>
+     <string name="weight_reference">Вспомогательная таблица веса</string>
      <string name="about_mi_band">Используйте Mi Band для установки, отслеживания и слежения данных о здоровье днем и ночью</string>
      <string name="accept">OK</string>
      <string name="action_badminton">Бадминтон</string>
@@ -51,7 +111,7 @@
      <string name="alarm_cycle">Повтор будильника</string>
      <string name="alarm_device_not_connect">Подключите браслет перед установкой</string>
      <string name="alarm_notify">Уведомления будильника</string>
-     <string name="alarm_notify_tips2">Браслет должен быть подключен к устройству через Bluetooth, когда срабатывает будильник</string>
+     <string name="alarm_notify_tips2">Браслет должен быть подключен к телефону по Bluetooth, при сигнале будильника</string>
      <string name="alarm_once">Один раз</string>
      <string name="alarm_repeat">Повтор сигнала</string>
      <string name="alarm_repeat_title_format">Выбрано %s</string>
@@ -128,7 +188,7 @@
      <string name="bluetooth">"Bluetooth "</string>
      <string name="bmi_item_tips">ИМТ: %1$s (%2$s)</string>
      <string name="body">Шея</string>
-     <string name="body_figure">Фигура</string>
+     <string name="body_figure">Телосложение</string>
      <string name="body_standard_ref">Информация о нормальном весе</string>
 	 <string name="bohee_subtitle">Профессиональная программа похудения. Присоединяйтесь к нам :)</string>
      <string name="bohee_title">Похудение</string>
@@ -725,7 +785,7 @@
      <string name="one_week">"Эта неделя "</string>
      <string name="open_gallery">Галерея</string>
      <string name="orange">Оранжевый</string>
-     <string name="other">Другое</string>
+     <string name="other">ДРУГИЕ НАСТРОЙКИ</string>
      <string name="over_the_max_user_count">Максимальное количество пользователей: 16</string>
      <string name="pairing">Подготовка…</string>
      <string name="parse_data_failed">Не удалось проанализировать данные</string>
@@ -924,7 +984,7 @@
      <string name="search_result_is_empty">Пользователь не найден</string>
      <string name="search_weight_scale">Поиск весов</string>
      <string name="search_weight_scale_info">Стойте рядом с весами</string>
-     <string name="second">сек.</string>
+     <string name="second">" сек."</string>
      <string name="select_devices">Выберите устройство</string>
      <string name="select_devices_info">Выберите Mi устройство для сопряжения</string>
      <string name="select_from_camera">Камера</string>
@@ -1043,7 +1103,7 @@
      <string name="smart_wake_up">Раннее пробуждение</string>
      <string name="smart_wake_up_info">За 30 минут до установленного времени</string>
      <string name="sms_notify">Уведомления сообщений</string>
-     <string name="sms_notify_tips2">Браслет должен быть подключен к устройству через Bluetooth, когда приходит сообщение</string>
+     <string name="sms_notify_tips2">Браслет должен быть подключен к телефону по Bluetooth, когда приходит сообщение</string>
      <string name="sport_coming_soon">Ожидайте скоро</string>
      <string name="sport_new_record_ropeskipping">Новый рекорд</string>
      <string name="sport_ranking_desc_great">Вы непобедимы :)</string>

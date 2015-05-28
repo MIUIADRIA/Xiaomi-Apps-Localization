@@ -96,9 +96,9 @@
         <item>" lb"</item>
     </string-array>
     <string-array name="weight_body_figures">
-        <item>Низкий</item>
-        <item>Нормальный</item>
-        <item>Лишний</item>
+        <item>Худощавое</item>
+        <item>Нормальное</item>
+        <item>Полное</item>
         <item>Ожирение</item>
         <item>Ожирение</item>
     </string-array>
@@ -138,8 +138,19 @@
         <item>Вы достигли цель (%1$s%2$s)!</item>
     </string-array>
     <string-array name="phone_notify_tips">
-        <item>Вибрировать браслетом при поступлении вызовов на подключенном устройстве</item>
-        <item>Вибрировать браслетом при воспроизведении будильника на подключенном устройстве</item>
-        <item>Вибрировать браслетом при получении сообщений на подключенном устройстве</item>
+        <item>Вибрировать при поступлении вызовов на подключенном устройстве</item>
+        <item>Вибрировать при воспроизведении будильника на подключенном устройстве</item>
+        <item>Вибрировать при получении сообщений на подключенном устройстве</item>
     </string-array>
+	<string-array name="contacts_notify_title">
+        <item>Только для звонков от контактов</item>
+        <item>Только для сообщений от контактов</item>
+     </string-array>
+     <string-array name="weight_body_figures_for_child">
+        <item>Худощавое</item>
+        <item>Нормальное</item>
+        <item>Полное</item>
+        <item>Ожирение</item>
+        <item>Ожирение</item>
+     </string-array>
 </resources>

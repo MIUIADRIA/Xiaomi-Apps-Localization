@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="health_link_title">
+        <item>1. Цілодобовий сервіс</item>
+        <item>2. Корисні поради</item>
+        <item>3. Екстрений виклик транспорту</item>
+        <item>4. Допомога при аваріях</item>
+        <item>5. Допомога в сімейних відносинах</item>
+        <item>6. Виклик швидкої допомоги</item>
+        <item>7. Керівництво госпіталізації</item>
+    </string-array>
+    <string-array name="health_link_content">
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+    </string-array>
+    <string-array name="weeks">
+        <item>Пн.</item>
+        <item>Вт.</item>
+        <item>Ср.</item>
+        <item>Чт.</item>
+        <item>Пт.</item>
+        <item>Сб.</item>
+        <item>Нд.</item>
+    </string-array>
+    <string-array name="weeks_short">
+        <item>Пн.</item>
+        <item>Вт.</item>
+        <item>Ср.</item>
+        <item>Чт.</item>
+        <item>Пт.</item>
+        <item>Сб.</item>
+        <item>Нд.</item>
+    </string-array>
+    <string-array name="months">
+        <item>Січень</item>
+        <item>Лютий</item>
+        <item>Березень</item>
+        <item>Квітень</item>
+        <item>Травень</item>
+        <item>Червень</item>
+        <item>Липень</item>
+        <item>Серпень</item>
+        <item>Вересень</item>
+        <item>Жовтень</item>
+        <item>Листопад</item>
+        <item>Грудень</item>
+    </string-array>
+    <string-array name="select_days_simple">
+        <item>Один раз</item>
+        <item>Щодня</item>
+        <item>Робочі дні</item>
+        <item>Свої</item>
+    </string-array>
+    <string-array name="fortune">
+        <item>Це легко досягти мети протягом одного дня, але важко щодня.</item>
+        <item>Це не легка справа, досягати мети щодня.</item>
+        <item>Ви робите новий рекорд щодня!</item>
+        <item>Насолоджуйтеся поліпшенням себе!</item>
+        <item>Ви не невдаха, поки не перестанете намагатися.</item>
+        <item>Ми те, що ми постійно робимо. Досконалість, не є актом, але є звичка.</item>
+        <item>Досягти однієї мети за день.</item>
+        <item>Кидайте виклик самі собі, щоб бути сьогодні ще краще.</item>
+        <item>Просто зробіть це.</item>
+        <item>Продовжуйте практикувати, для кращого результату.</item>
+    </string-array>
+    <string-array name="weather_aqi_descriptions">
+        <item>Відмінне</item>
+        <item>Гарне</item>
+        <item>Помірне</item>
+        <item>Помірне</item>
+        <item>Погане</item>
+        <item>Дуже погане</item>
+    </string-array>
+    <string-array name="weight_unit">
+        <item>" кг"</item>
+        <item>" jin"</item>
+        <item>" lb"</item>
+    </string-array>
+    <string-array name="weight_body_figures">
+        <item>Низький</item>
+        <item>Нормальний</item>
+        <item>Зайвий</item>
+        <item>Ожиріння</item>
+        <item>Ожиріння</item>
+    </string-array>
+    <string-array name="weight_dynamic_list_bmi_tips">
+        <item>Категорія ІМТ: низька вага</item>
+        <item>Категорія ІМТ: нормальна вага</item>
+        <item>Категорія ІМТ: зайва вага</item>
+        <item>Категорія ІМТ: надмірна вага</item>
+    </string-array>
+    <string-array name="weight_report_suggestions_boy">
+        <item>Встановіть мету, щоб стежити за вагою</item>
+        <item>Вітаємо! Ви у заданій вазі.</item>
+        <item>Ви нижче заданої ваги</item>
+        <item>Ви більше заданої ваги</item>
+    </string-array>
+    <string-array name="weight_report_suggestions_girl">
+        <item>Встановіть мету, щоб стежити за вагою</item>
+        <item>Вітаємо! Ви у заданій вазі.</item>
+        <item>Ви нижче заданої ваги</item>
+        <item>Ви більше заданої ваги</item>
+    </string-array>
+    <string-array name="weight_report_result_without_goal">
+        <item>Ви перевершили мету</item>
+        <item>Ви не досягли мети</item>
+        <item>Ви досягли мети!</item>
+    </string-array>
+    <string-array name="weight_report_result_with_goal_gainweight">
+        <item>Ви ще не досягли своєї мети</item>
+        <item>Ви ще не досягли своєї мети</item>
+        <item>Ви ще не досягли своєї мети</item>
+        <item>Ви досягли мети (%1$s%2$s)!</item>
+    </string-array>
+    <string-array name="weight_report_result_with_goal_loseweight">
+        <item>Ви ще не досягли своєї мети</item>
+        <item>Ви ще не досягли своєї мети</item>
+        <item>Ви ще не досягли своєї мети</item>
+        <item>Ви досягли мети (%1$s%2$s)!</item>
+    </string-array>
+	<string-array name="phone_notify_tips">
+        <item>Вібрувати браслетом при надходженні викликів на підключеному пристрої</item>
+        <item>Вібрувати браслетом при спрацьовуванні будильника на підключеному пристрої</item>
+        <item>Вібрувати браслетом при отриманні повідомлень на підключеному пристрої</item>
+     </string-array>
+     <string-array name="running_months">
+        <item>Січень</item>
+        <item>Лютий</item>
+        <item>Березень</item>
+        <item>Квітень</item>
+        <item>Травень</item>
+        <item>Червень</item>
+        <item>Липень</item>
+        <item>Серпень</item>
+        <item>Вересень</item>
+        <item>Жовтень</item>
+        <item>Листопад</item>
+        <item>Грудень</item>
+     </string-array>
+</resources>

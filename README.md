@@ -8,8 +8,6 @@ Xiaomi, based in Beijing, China has a wide range of products to its name, includ
 - This is an open project where anyone is free to contribute and improve to make better translations for Xiaomi apps
 - Each contributor will be credited for their work here and on other web sites promoting this project
 - Contributors who excel in supporting the community wil be added to the MGS Team (MIUI Geeks Squad) which has various benefits in the MIUI community
-- To contribute to this multi language i18n project please email mgs.devs@gmail.com or markhedley1980@gmail.com
-
 
 # Apps list (Original sources) 
 

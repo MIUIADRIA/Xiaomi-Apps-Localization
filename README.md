@@ -40,7 +40,7 @@ Note: English translations on this repo are fully up to date and may be in some 
 
 # Contributors per Language
 
-- English (MarkH-UK, miui.com, xiaomi.eu, FD-ghost, hpro, hong.weichyi, kin-cheng)
+- English (xiaomi.eu, miui.com, xiaomi.eu, FD-ghost, hpro, hong.weichyi, kin-cheng)
 - Chinese (Xiaomi, miui.com)
 - Polish (Acid, miuipolska.pl)
 - Slovak (ingbrzy, miuios.cz)
